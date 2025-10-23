@@ -1,0 +1,489 @@
+H1: Chapter 4 - Status and Nonimmigrant Visa Violations (INA 245(c)(2) and INA 245(c)(8))
+
+- Guidance
+
+- Resources (10)
+
+- Appendices (0)
+
+- Updates (6)
+
+Any adjustment applicant is ineligible to adjust status underINA 245(a)if, other than through no fault of his or her own or for technical reasons,[1]he or she has ever:
+
+- Failed to continuously maintain a lawful status since entry into the United States;[2]or
+
+- Violated the terms of his or her nonimmigrant status.[3]
+
+TheINA 245(c)(2)andINA 245(c)(8)bars to adjustment do not apply to:
+
+- Immediate relatives;[4]
+
+- Violence Against Women Act (VAWA)-based applicants;
+
+- Certain physicians and their accompanying spouse and children;[5]
+
+- Certain G-4 international organization employees, NATO-6 employees, and their family members;[6]
+
+- Special immigrant juveniles;[7]or
+
+- Certain members of the U.S. armed forces and their spouse and children.[8]
+
+Employment-based applicants also may be eligible for exemption from this bar underINA 245(k).[9]
+
+H2: A. Failure to Continuously Maintain Lawful Immigration Status
+
+The bar to adjustment for failing to continuously maintain a lawful status since entry into the United States applies to an applicant for adjustment who has:
+
+- Failed to maintain continuously a lawful status since their most recent entry; and
+
+- An applicant who has ever been out of lawful status at any time since any entry.[10]
+
+TABLE:
+Date | Event
+September 1, 2010 | An alien is admitted to the United States as a nonimmigrant student at a university.
+January 15, 2011 | The nonimmigrant student takes a leave of absence from the university for a semester without the permission of the designated school official. The nonimmigrant student status is terminated as a result.
+September 1, 2011 | The alien departs the United States.
+January 1, 2014 | The alien is admitted to the United States as a nonimmigrant intracompany transferee for a company.
+January 1, 2015 | The company files an employment-based immigrant visa petition to classify the nonimmigrant as an employment-based first preference multinational manager. The nonimmigrant simultaneously files an adjustment of status application.
+
+In this example, the nonimmigrant intracompany transferee is subject to theINA 245(c)(2)bar to adjustment due to the prior failure to continuously maintain nonimmigrant student status in 2011. The nonimmigrant transferee, however, may be exempt from that bar underINA 245(k).[11]
+
+H2: B. Violation of Terms of Nonimmigrant Visa
+
+The bar for otherwise violating the terms of a nonimmigrant visa refers to a violation of the terms and conditions of an alien's specific nonimmigrant status as set forth in relevant regulations.[12]This bar applies not only to applicants who violated the terms of their most recent nonimmigrant status but also to those who have ever violated the terms of a nonimmigrant status at any time during any prior periods of stay in the United States as a nonimmigrant.[13]
+
+Terms of nonimmigrant status include, but are not limited to:
+
+- Time limitations on the period of admission and any subsequent extensions or changes of status;[14]
+
+- Compliance with applicable requirements;[15]​
+
+- Limitations on employment;[16]
+
+- Compliance with any registration, photographing, and fingerprinting requirements, including National Security Entry Exit Registration System (NSEERS) registration,[17]that relate to the maintenance of nonimmigrant status;[18]
+
+- Full and truthful disclosure of all information requested by USCIS; and[19]
+
+- Obedience to all laws of U.S. jurisdictions which prohibit the commission of crimes of violence and for which a sentence of more than one-year imprisonment may be imposed.[20]
+
+For example, an L-1B worker who works for an employer other than the employer authorized by the approved L-1B petition violates the terms of his or her nonimmigrant status and may be barred not only byINA 245(c)(8)but alsoINA 245(c)(2).
+
+H2: C. Effect of Departure
+
+The departure and subsequent reentry of an applicant who has at any time failed to maintain a lawful immigration status or violated the terms of the nonimmigrant status on any previous entry into the United States does not erase the bar. Otherwise, an applicant who has failed to maintain lawful status or violated status could simply depart the United States, reenter immediately, and become eligible to file for adjustment of status.[21]
+
+H2: D. Periods of Time to Consider
+
+Unless an exemption applies, an applicant is barred from adjusting status if the applicant commits either of these two violations at any time, no matter how long ago, and even if such violations occur only for one day.
+
+Neither the INA nor USCIS places time restrictions on when the violation (or violations) must have occurred. Therefore, the violation is not required to have occurred during any particular period of time. For these reasons, USCIS counts any violation that occurs after any entry into the United States.[22]It does not matter how much time has passed since that entry or whether the person subsequently left the United States and returned lawfully.
+
+An officer, therefore, must consider all of the applicant’s entries and time spent inside the United States when considering these adjustment bars. The officer should disregard how much time has passed since each entry and whether the applicant subsequently left the United States and returned lawfully.
+
+H2: E. Exceptions
+
+For purposes ofINA 245(c)(2)andINA 245(c)(8), an applicant’s failure to maintain lawful immigration status or violation of nonimmigrant status may be excused only for the particular period of time under consideration if:
+
+- The applicant was reinstated to F, M, or J status;
+
+- The applicant’s failure to maintain status was through no fault of his or her own or for technical reasons; or
+
+- The applicant was granted an extension of nonimmigrant stay or a change of nonimmigrant status.[23]
+
+H3: 1. Reinstatement to F, M, or J Status
+
+If USCIS reinstates a nonimmigrant to F or M student status or if the U.S. Department of State reinstates a nonimmigrant to J exchange visitor status, the reinstatement only excuses the particular period of time the nonimmigrant failed to maintain status. The reinstatement does not excuse any prior or future failure to maintain status.[24]
+
+In order to qualify for reinstatement, a student or exchange visitor must establish that the violation resulted from circumstances beyond his or her control, such as a natural disaster, illness or closure of a school, oversight or neglect by the designated school officer (DSO) or responsible officer (RO), or the reduction in the student’s course load authorized by the DSO. The reinstatement is in effect the functional equivalent of waiving the violation. In this instance, the violation subject to the reinstatement would not bar the alien from adjusting status.
+
+H3: 2. No Fault of the Applicant or For Technical Reasons
+
+No Fault Provision
+
+An applicant’s failure to continuously maintain lawful immigration status or violation of nonimmigrant status may be excused only for the particular period of time under consideration if the applicant’s failure or violation was through no fault of the applicant or for technical reasons.[25]
+
+The meaning of “other than through no fault of his or her own or for technical reasons” is limited to the following circumstances:[26]
+
+- Inaction of another person or organization designated by regulation to act on behalf of an applicant or over whose actions the applicant has no control, if the inaction is acknowledged by that person or organization;[27]​
+
+- Technical violation resulting from inaction of USCIS; ​
+
+- Technical violation caused by the physical inability of the applicant to request an extension of nonimmigrant stay from USCIS in person or by mail; or ​
+
+- Technical violation resulting from legacy Immigration and Naturalization Service (INS)’s application of the 5-year or 6-year period of stay for certain H-1 nurses, if the nurse was re-instated to H-1 status as a result of the Immigration Amendments of 1988.[28]
+
+If an officer determines that the applicant was out of status based solely on any of the above circumstances, the officer should annotate that determination on the adjustment application and adjudicate the application.[29]
+
+Inaction of Designated Official or Organization
+
+Instances of qualifying inaction include the failure of a designated school official or exchange visitor program sponsor to provide required notification to USCIS of an applicant’s continuation of status or to forward a request for continuation of an applicant’s status to USCIS. The official or organization designated to act on behalf of the applicant must notify USCIS and acknowledge responsibility for the inaction.[30]
+
+This exception does not include instances in which a petitioner delays completing required documents to give to the applicant for submission to USCIS.[31]
+
+This exception generally does not apply to most claims that an applicant’s attorney or representative provided ineffective counsel or failed to file an application or other documents to USCIS on the applicant’s behalf.[32]The applicant and the attorney or representative are both responsible for complying with all applicable USCIS filing requirements and official correspondence or requests for information, and the applicant has control over the actions of the representative.
+
+TABLE:
+Date | Event
+August 1, 2008 | An alien is admitted as a nonimmigrant student authorized to attend a university full-time.
+August 15, 2009 | After a year of study, the nonimmigrant transfers to another university through appropriate procedures, including updating the Certificate of Eligibility for Nonimmigrant (F-1) Student Status (Form I-20 A-B). The Designated School Official (DSO) at the first university fails to properly update the Student and Exchange Visitor Information System (SEVIS), which now shows a large gap in the student’s attendance between the first and second universities.
+October 1, 2010 | During a benefit request review, a USCIS officer notices the potential violation of status and issues a Request for Evidence to the nonimmigrant student. In response, the nonimmigrant student submits a letter from the DSO at the first university explaining the school had failed to timely record the transfer in SEVIS. The student provides copies of her transcripts, showing full-time attendance as explained in the DSO’s letter.
+
+In this example, the exception applies because the DSO failed to update SEVIS with the transfer information, and the failure was beyond the alien’s control. Conversely, the exception would not apply if the nonimmigrant student had withdrawn from school without DSO permission. Instead, such action would have resulted in a failure to maintain nonimmigrant student status.
+
+Technical Violation Resulting from Inaction of USCIS[33]
+
+One example of the phrase “a technical violation resulting from the inaction of USCIS” is where an applicant ceases to have a lawful status because USCIS failed to adjudicate a properly and timely filed request to extend or change nonimmigrant status.
+
+Often an officer can verify a technical violation resulting from USCIS inaction or oversight through review of USCIS systems and the Record of Proceeding. In other instances, an adjustment applicant who claims a technical violation of status based on USCIS’ failure to adjudicate a pending application must prove that:
+
+- The applicant properly filed an application to extend or change nonimmigrant status prior to the expiration date of his or her nonimmigrant status;​
+
+- The applicant was a bona fide nonimmigrant at the time of filing his or her application to extend or change nonimmigrant status, which includes establishing intent consistent with the terms and conditions of the nonimmigrant status sought;​
+
+- The applicant filed an application to extend or change nonimmigrant status that was meritorious in fact, not frivolous or fraudulent, or otherwise designed to delay removal or departure from the United States;​
+
+- The applicant has not otherwise violated his or her nonimmigrant status;​
+
+- The applicant remained a bona fide nonimmigrant until the time he or she properly filed an adjustment application; and ​
+
+- The applicant is not in removal proceedings.
+
+Failure to maintain status because of a pending labor certification application with the U.S. Department of Labor or a pending immigrant visa petition with USCIS does not qualify under this exception.[34]
+
+Technical Violation Caused by the Physical Inability of the Applicant
+
+There may be instances when a nonimmigrant is physically unable to file an application to extend or change nonimmigrant status, such as when an applicant is hospitalized with an illness or medical condition at the time the nonimmigrant status expires.[35]
+
+An adjustment applicant who claims that he or she technically violated his or her status because of a physical inability to file an extension or change of status application must establish that:
+
+- He or she was subject to a physical impairment such that the nature, scope, and duration of the physical impairment reasonably prevented the applicant from filing the extension or change of status application;​
+
+- He or she has not otherwise violated his or her nonimmigrant status;​
+
+- He or she remained a bona fide nonimmigrant until the time he or she properly filed an adjustment application; and ​
+
+- He or she is not in removal proceedings.
+
+The adjustment applicant must include a corroborating letter from the hospital, attending, or treating physician that explains the circumstances, nature, scope, and duration of the physical impairment.
+
+Technical Violation Involving Certain H-1 Nurses
+
+An adjustment applicant may claim that he or she was only out of status because of legacy INS’s application of the maximum period of stay for certain H-1 nurses. In this instance, the applicant must show that he or she was subsequently reinstated to H-1 status.[36]This special provision allowed for extension of H-1 status of certain registered nurses who held such status for at least five years and whose status expired in 1988 or 1989, or expired in 1987, but was under request for administrative extension.[37]While this exception still applies, it only covers a time period through December 31, 1989. Therefore, it is unlikely that an officer will encounter this exemption due to passage of time.
+
+H3: 3. Effect of Extension of Stay and Change of Status[38]
+
+At the time of adjustment, an officer must consider all of the applicant’s current and previous entries into and stays in the United States, including current and previous applications for extension of stay (EOS) or change of status (COS).[39]The following examples provide more detail on the effect of EOS and COS applications on a pending adjustment application.
+
+Timely Filed Application to Extend Stay Granted by USCIS
+
+When USCIS approves a nonimmigrant’s timely filed application to extend status, the start date of the extended status is retroactive to the expiration date of the initial or previously extended period of status. USCIS’ practice of making the approval effective as of the prior expiration date recognizes that the nonimmigrant has been maintaining the same nonimmigrant status throughout the processing and adjudication of the extension application.
+
+TABLE:
+Date | Event
+January 1, 2009 | An alien is admitted to the United States as a B-2 nonimmigrant visitor.
+June 30, 2009 | The B-2 nonimmigrant’s authorized stay expires, as indicated on the Arrival/Departure Record (Form I-94).
+June 1, 2009 | The B-2 nonimmigrant timely files an application to extend visitor status.
+August 1, 2009 | The B-2 nonimmigrant files an adjustment application.
+September 1, 2009 | USCIS extends the B-2 nonimmigrant’s visitor status valid from June 30, 2009 to December 31, 2009.
+
+In this scenario, USCIS considers the applicant to have continuously maintained lawful status for purposes of adjusting status. In contrast, if USCIS denied the extension application, the applicant would have fallen out of status as of June 30 and would be barred from adjusting status, unless an exemption applies.
+
+Timely Filed Application to Change Status Granted by USCIS
+
+When USCIS approves a nonimmigrant’s timely filed application to change status, the start date for the new nonimmigrant status is effective on the date of approval. The start date acknowledges the fact that USCIS only authorizes the nonimmigrant’s change of status as of the date of the approval.
+
+If a gap of time exists between the expiration date of the previous nonimmigrant status and the start date of the new status, USCIS considers the nonimmigrant to have continued to maintain a lawful status only if:
+
+- The nonimmigrant timely filed the COS application; ​
+
+- USCIS granted the request to change status; and ​
+
+- The nonimmigrant did not violate any terms and conditions of the initial status.
+
+TABLE:
+Date | Event
+February 1, 2009 | An alien is admitted as a B-1 nonimmigrant visitor.
+July 1, 2009 | An employer timely files a Petition for a Nonimmigrant Worker (Form I-129) on behalf of the B-1 nonimmigrant to change status to an L-1 nonimmigrant intracompany transferee.
+August 1, 2009 | The B-1 nonimmigrant’s authorized stay expires, as indicated on the Arrival/Departure Record (Form I-94).
+September 15, 2009 | USCIS approves Form I-129 to change status and grants L-1 status as of September 15, 2009.
+
+Even though there is a gap of nearly two months between the expiration date of the B-1 status and the date USCIS approved Form I-129, USCIS does not count the gap against the applicant when determining if they maintained status. In this case, USCIS considers the applicant to have maintained lawful status from February 1, 2009 through September 15, 2009 for purposes of adjusting status.
+
+In contrast, if USCIS denied the application to change nonimmigrant status, the applicant would have fallen out of valid status as of August 1 and would be barred from adjusting status, unless an exemption applies.
+
+Untimely Filed EOS or COS Application Excused and Granted by USCIS
+
+USCIS generally denies EOS and COS applications when the applicant failed to maintain nonimmigrant status or when the applicant’s status expired prior to filing the application.[40]
+
+If an applicant’s nonimmigrant status expires before he or she files an application to extend or change status, the application is not timely filed. USCIS has discretion to excuse the untimely filing and approve an EOS or COS application if the applicant can demonstrate that:
+
+- The delay was due to extraordinary circumstances beyond the applicant’s control;​
+
+- The officer finds the delay commensurate with the circumstances;​
+
+- The applicant has not otherwise violated his or her nonimmigrant status;​
+
+- The applicant remains a bona fide nonimmigrant; and​
+
+- The applicant is not in removal proceedings.
+
+As with a timely EOS or COS application, if USCIS approves an untimely filed application to extend or change status, the approval is effective as of the date of the expiration of the prior nonimmigrant admission period. For this reason, USCIS considers the applicant to have maintained lawful status despite the gap in time between the expiration of the prior nonimmigrant admission and the date of the approval.
+
+TABLE:
+Date | Event
+January 1, 2009 | An alien is admitted to the United States as a B-2 nonimmigrant.
+June 30, 2009 | The B-2 nonimmigrant’s authorized stay expires, as indicated on the Arrival/Departure Record (Form I-94).
+August 5, 2009 | The B-2 nonimmigrant untimely files a EOS application. The B-2 nonimmigrant explains that he was unable to file his extension request timely, because he was hospitalized with a debilitating medical condition when his B-2 status expired. He also provides corroborating evidence from the attending medical staff at the hospital.
+September 1, 2009 | USCIS excuses the untimely filing and approves the EOS application.
+
+In this scenario, USCIS considers the applicant to have continuously maintained lawful status for purposes of adjusting status. In contrast, if USCIS denied the EOS application, the applicant would have fallen out of valid status as of June 30 and would be barred from adjusting status, unless an exemption applies.
+
+H2: F. Temporary Protected Status and Maintenance of Status – INA 245(c)(2)
+
+For purposes of adjustment of status, an applicant in temporary protected status (TPS) is in and maintaining a lawful immigration status as a nonimmigrant during the period TPS is authorized.[41]In addition, if an applicant was eligible to apply for TPS but was prevented by regulation from filing a late application for TPS registration, the applicant is considered as maintaining a lawful nonimmigrant status until the TPS benefit is granted.[42]
+
+Unless the applicant is otherwise exempt, the granting of TPS does not excuse or cure any other lapses or violations of lawful immigration status or forgive any unauthorized employment.
+
+H2: G. Properly Filed Adjustment Application – INA 245(c)(2) and INA 245(c)(8)
+
+For purposes of the bars to adjustment, a nonimmigrant only needs to maintain his or her nonimmigrant status until the time he or she properly files an adjustment application with USCIS so long as the nonimmigrant does not engage in any unauthorized employment after filing the adjustment application.[43]An applicant does not violate the terms of his or her nonimmigrant status merely by filing an application to adjust status as long as the application was properly filed when the applicant was in lawful nonimmigrant status.[44]
+
+H2: H. National Security Entry Exit Registration System and Violation of Visa – INA 245(c)(8)
+
+Although the National Security Entry Exit Registration System (NSEERS) special registration requirements for nonimmigrants from designated countries effectively ended on April 28, 2011, USCIS continues to review whether nonimmigrants subject to the special registration requirements complied with the terms of the special registration when it was in effect.[45]USCIS considers whether there was a willful failure to register and whether any failure to register was reasonably excusable. USCIS may consult with ICE to resolve any compliance or non-compliance issues. A willful failure to comply with the former NSEERS special registration provisions constitutes a failure to maintain nonimmigrant status.[46]
+
+H2: I. Evidence to Consider
+
+An officer may request and review any and all of the applicant’s Arrival/Departure Records (Forms I-94), approval notices (Forms I-797), USCIS records, current and expired passports, and other evidence or testimony that pertains to maintenance of lawful status and compliance with the terms and conditions of nonimmigrant status.
+
+H2: Footnotes
+
+[^ 1]The language “…other than through no fault of his own or for technical reasons…” listed inINA 245(c)(2)also applies toINA 245(c)(8)and is defined in8 CFR 245.1(d)(2).
+
+[^ 2]SeeINA 245(c)(2). See8 CFR 245.1(b)(6). This chapter only addresses one of the three immigration violations described in theINA 245(c)(2)bar. For more information on the other two immigration violations, see Chapter 3, Unlawful Immigration Status at Time of Filing – INA 245(c)(2) [7 USCIS-PM B.3] and Chapter 6, Unauthorized Employment – INA 245(c)(2) and INA 245(c)(8) [7 USCIS-PM B.6].
+
+[^ 3]SeeINA 245(c)(8). An example of violating the terms of a nonimmigrant status would be if a B-2 visitor were to enroll in college and attend classes. This chapter only addresses one of the two immigration violations described in the INA 245(c)(8) bar. For more information on the other immigration violation, see Chapter 6, Unauthorized Employment – INA 245(c)(2) and INA 245(c)(8) [7 USCIS-PM B.6].
+
+[^ 4]SeeINA 201(b). Immediate relatives of a U.S. citizen include the U.S. citizen’s spouse, children (unmarried and under 21 years of age), and parents (if the U.S. citizen is 21 years of age or older). Widow(er)s of U.S. citizens and aliens admitted to the United States as a fiancé(e) or child of a fiancé(e) of a U.S. citizen may also be considered immediate relatives if they meet certain conditions.
+
+[^ 5]SeeINA 101(a)(27)(H).
+
+[^ 6]SeeINA 101(a)(27)(I).
+
+[^ 7]SeeINA 101(a)(27)(J).
+
+[^ 8]SeeINA 101(a)(27)(K).
+
+[^ 9]See Chapter 8, Inapplicability of Bars to Adjustment, Section E, Employment-Based Exemption under INA 245(k) [7 USCIS-PM B.8(E)].
+
+[^ 10]SeeINA 245(c)(2). See Section I, Evidence to Consider [7 USCIS-PM B.4(I)].
+
+[^ 11]SeeINA 245(k)(2)(A).
+
+[^ 12]SeeINA 245(c)(8). TheINA 245(c)(8)bar applies to an applicant “who has otherwise violated the terms of a nonimmigrant visa.” The related provision inINA 245(k)(2)(C)exempts an eligible applicant who has “otherwise violated the terms and conditions of the alien’s admission.” Based on the direct connection to theINA 245(c)(8)bar, it is clear that the use of the word “admission” inINA 245(k)(2)(C)is referring to admission under a nonimmigrant visa. Therefore, this adjustment bar is referred to as either “violated the terms of the applicant’s admission under a nonimmigrant visa” or as “violated the terms of the applicant’s nonimmigrant status.”
+
+[^ 13]See Section D, Periods of Time to Consider [7 USCIS-PM B.4(D)].
+
+[^ 14]See8 CFR 214.
+
+[^ 15]See8 CFR 214.1(a)(3)and8 CFR 215.8.
+
+[^ 16]See8 CFR 214.1(e).
+
+[^ 17]See8 CFR 264.1(f). See76 FR 23830  (PDF)(Apr. 28, 2011). See Section H, National Security Entry Exit Registration System and Violation of Visa – INA 245(c)(8) [7 USCIS-PM B.4(H)].
+
+[^ 18]See8 CFR 214.1(f).
+
+[^ 19]See8 CFR 214.1(f).
+
+[^ 20]See8 CFR 214.1(g).
+
+[^ 21]See8 CFR 245.1(b)(6)and8 CFR 245.1(d)(3). See 52 FR 6320, 6320-21 (Mar. 3, 1987).
+
+[^ 22]This may include violations that occur after the applicant files the adjustment application. For more information, see Section G, Properly Filed Adjustment Application – INA 245(c)(2) and INA 245(c)(8) [7 USCIS-PM B.4(G)].
+
+[^ 23]See62 FR 39417, 39421  (PDF)(Jul. 23, 1997).
+
+[^ 24]See8 CFR 214.2(f)(16).
+
+[^ 25]SeeINA 245(c)(2). SeeINA 245(c)(8). See Volume 1, General Policies and Procedures, Part H, Emergencies or Unforeseen Circumstances, Chapter 2, Emergencies or Unforeseen Circumstances-Related Flexibilities, Section A, Immigration Policy Flexibilities, Subsection 1, Nonimmigrants Present in the United States [1 USCIS-PM H.2(A)(1)].
+
+[^ 26]See8 CFR 245.1(d)(2). See8 CFR 214.1(c)(4).
+
+[^ 27]A parent who does not act on behalf of a child is not an instance of a qualifying inaction.
+
+[^ 28]SeePub. L. 100-658  (PDF)(November 15, 1988).
+
+[^ 29]If the adjustment of status application is approved, any pending EOS or COS applications should be administratively closed, indicating that status was acquired through other means. If the officer determines that the applicant did not meet one of the four conditions, any properly and timely filed pending EOS or COS should be adjudicated without prejudice to the filing of the adjustment application and the officer may then proceed with the adjudication of the adjustment application.
+
+[^ 30]See8 CFR 214.2(f) and (j). See245.1(d)(2)(i).
+
+[^ 31]See 52 FR 6320 (Mar. 3, 1987).
+
+[^ 32]There may be certain exceptions that apply. The longstanding case on ineffective counsel has beenMatter of Lozada  (PDF), 19 I&N Dec. 637 (BIA 1988). In this case, the Board of Immigration Appeals (BIA) ruled that the alien must establish that he or she was prejudiced by the action or inaction of counsel. The BIA also described the requirements for filing a motion to reopen deportation (now removal) proceedings based on a claim of ineffective counsel. The alien's motion should be supported by an affidavit attesting to the relevant facts. The alien’s affidavit should include a statement describing the agreement with counsel regarding specific actions to be taken and what counsel did or did not represent in that regard. The BIA also determined that former counsel must be informed of the allegations of ineffective assistance and be provided an opportunity to response. Lastly, per prior counsel’s handling of the case involved a violation of ethical or legal responsibilities, the alien’s motion should reflect whether a complaint has been filed with the appropriate disciplinary authorities. If not, the alien should explain the reason why.
+
+[^ 33]See8 CFR 245.1(d)(2)(ii).
+
+[^ 34]See52 FR 6320  (PDF)(Mar. 3, 1987).
+
+[^ 35]See8 CFR 245.1(d)(2)(iii).
+
+[^ 36]For the terms of reinstatement, see Immigration Amendments of 1988,Pub. L. 101-658  (PDF)(November 15, 1988).
+
+[^ 37]See Immigration Amendments of 1988,Pub. L. 100-658  (PDF)(November 15, 1988).
+
+[^ 38]See Application to Extend/Change Nonimmigrant Status (Form I-539) or Petition for a Nonimmigrant Worker (Form I-129). If, for example, an alien would like to change his or her status from a visitor (B-1) to an L-1, a company or an organization would file Form I-129 on behalf of the alien.
+
+[^ 39]See8 CFR 214.1(c)(4)and8 CFR 248.1(b).
+
+[^ 40]Except in the case of an alien applying to obtain V nonimmigrant status. SeeINA 101(a)(15)(V). See8 CFR 214.15(f).
+
+[^ 41]See8 CFR 244.10(f)(2)(iv).
+
+[^ 42]See8 CFR 244.10(f)(2)(v).
+
+[^ 43]Even so, a properly filed adjustment of status application does not, in and of itself, accord lawful status or cure any violation of a nonimmigrant visa. For example, if an alien applied for adjustment of status three days prior to the expiration of his or her nonimmigrant status and USCIS eventually denies the adjustment application, the alien is considered to be in unlawful status after the expiration of the nonimmigrant status. Consequently, if the same alien later files a second adjustment application, the period of time after the nonimmigrant status expired and during which the first adjustment application was pending counts against the 180-day period when considering eligibility for relief underINA 245(k)in adjudication of the second adjustment application. See Dhuka v. Holder, 716 F. 3d 149 (5th Cir. 2013).
+
+[^ 44]See62 FR 39417, 39421  (PDF)(Jul. 23, 1997).
+
+[^ 45]See76 FR 23830  (PDF)(Apr. 28, 2011).
+
+[^ 46]SeeINA 237(a)(1)(C)(i),INA 245(c)(8), and8 CFR 214.1(f).
+
+H2: Resources
+
+8 CFR 208.24- Termination of Asylum
+
+INA 245(a)- Adjustment of status
+
+INA 245(c)- Bars to adjustment of status
+
+INA 245(k)- Inapplicability of certain provisions for certain employment-based immigrants
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-129, Petition for Nonimmigrant Worker
+
+I-539, Application To Extend/Change Nonimmigrant Status Application To Extend/Change Nonimmigrant Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to remove references to Biographic Information (Form G-325A).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM L-Part L - Refugee Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+7 USCIS-PM O-Part O - Registration
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance addressing the general policies and procedures of adjustment of status as well as adjustment under section 245(a) of the Immigration and Nationality Act (INA).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment

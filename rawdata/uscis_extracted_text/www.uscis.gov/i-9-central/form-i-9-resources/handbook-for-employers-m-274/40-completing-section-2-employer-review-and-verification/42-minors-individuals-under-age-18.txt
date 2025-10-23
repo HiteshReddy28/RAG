@@ -1,0 +1,21 @@
+H1: 4.2 Minors (Individuals under Age 18)
+
+Minors can complete Form I-9 as described inSection 4.0, Completing Section 2 of Form I-9, by presenting a List A document or a combination of List B and C documents. If a minor is unable to present an identity document from List B, a parent or legal guardian may establish identity for the minor by completing Form I-9 as shown in Figures 3a and 3b.
+
+If you participate in E-Verify, parents or legal guardians cannot establish identity for a minor as described above. The minor must present either a List A document, or a combination of a List B document that contains a photograph and a List C document.
+
+Figure 3a: Completing Section 1 of Form I-9 for Minors without List B Documents
+
+The minor’s parent or legal guardian completes Section 1 and enters “Individual under age 18” in the signature block. The parent or legal guardian completes a Preparer and/or Translator Certification block on Supplement A: Preparer and/or Translator Certification for Section 1.
+
+Figure 3b: Completing Supplement A: Preparer and/or Translator Certification for Minors without List B Documents
+
+Figure 4: Completing Section 2 of Form I-9 for Minors without List B documents
+
+- Enter “Individual under age 18” under List B and under List C, enter the document title, issuing authority, document number, and expiration date (if any) using information from the List C document the minor presented.
+
+- Enter the date employment began.
+
+- You or your authorized representative signs and dates Section 2 in the spaces provided to attest to examining the documents the employee presented. Also enter your title, last name and first name, as well as the employer’s business or organization name.
+
+- Enter the business’s street address, city or town, state and ZIP code.

@@ -1,0 +1,399 @@
+H1: Chapter 9 - Death of Petitioner or Principal Beneficiary
+
+- Guidance
+
+- Resources (14)
+
+- Appendices (0)
+
+- Updates (8)
+
+H2: A. General
+
+In the past, a petition could not be approved if the petitioner died while the petition remained pending.[1]In 2009, Congress addressed this scenario with a new statutory provision,INA 204(l).[2]This provision gave aliens the ability to seek an immigration benefit through a deceased qualifying relative in certain circumstances.
+
+An officer may approve an adjustment application, certain petitions, and related applications adjudicated on or after October 28, 2009,[3]if:
+
+- The applicant resided in the United States when the qualifying relative died;
+
+- ​The applicant continues to reside in the United States on the date of the decision on the pending application; and
+
+- ​The applicant is at least one of the following:A beneficiary of a pending or approved immediate relative immigrant visa petition;A beneficiary of a pending or approved family-based immigrant visa petition, including both the principal beneficiary and any derivative beneficiaries;Any derivative beneficiary of a pending or approved employment-based immigrant visa petition;​The beneficiary of a pending or approved Refugee/Asylee Relative Petition (Form I-730);​An alien admitted as a derivative T or U nonimmigrant; or​A derivative asylee.[4]
+
+- A beneficiary of a pending or approved immediate relative immigrant visa petition;
+
+- A beneficiary of a pending or approved family-based immigrant visa petition, including both the principal beneficiary and any derivative beneficiaries;
+
+- Any derivative beneficiary of a pending or approved employment-based immigrant visa petition;
+
+- ​The beneficiary of a pending or approved Refugee/Asylee Relative Petition (Form I-730);
+
+- ​An alien admitted as a derivative T or U nonimmigrant; or
+
+- ​A derivative asylee.[4]
+
+- A beneficiary of a pending or approved immediate relative immigrant visa petition;
+
+- A beneficiary of a pending or approved family-based immigrant visa petition, including both the principal beneficiary and any derivative beneficiaries;
+
+- Any derivative beneficiary of a pending or approved employment-based immigrant visa petition;
+
+- ​The beneficiary of a pending or approved Refugee/Asylee Relative Petition (Form I-730);
+
+- ​An alien admitted as a derivative T or U nonimmigrant; or
+
+- ​A derivative asylee.[4]
+
+This applies to an adjustment of status application adjudicated on or after October 28, 2009, even if the qualifying relative died before October 28, 2009. If a petition or application was denied on or after October 28, 2009, without considering the effect ofINA 204(l), and INA 204(l) could have permitted approval, USCIS must, on its own motion, reopen the case for a new decision in light of this new law.
+
+H3: 1. Qualifying Relatives
+
+An alien’s deceased relative must meet the definition of qualifying relative in order for the alien to be eligible to continue to seek an immigration benefit through that person.
+
+Although Congress did not expressly define “qualifying relative” in this situation, it did provide a list of those who may continue to seek an immigration benefit through the qualifying relative.[5]Therefore, for purposes of seeking adjustment of status, USCIS infers that qualifying relative means a person who immediately before death was:
+
+- The petitioner of an immediate relative immigrant visa petition;[6]
+
+- The petitioner or principal beneficiary of a family-sponsored immigrant visa petition;
+
+- The principal beneficiary of a widow(er)’s self-petition;
+
+- The principal beneficiary of an employment-based immigrant visa petition;
+
+- The petitioner of a Refugee/Asylee Relative Petition (Form I-730);[7]
+
+- The principal person admitted as a T nonimmigrant;
+
+- A VAWA self-petitioner;[8]or
+
+- The principal asylee granted asylum.
+
+H3: 2. Residency Requirement
+
+An applicant must have resided in the United States when the qualifying relative died, and continues to reside in the United States to adjust status based on the deceased qualifying relative.[9]
+
+INA 204(l)defines an applicant’s residence as his or her “principal, actual dwelling place in fact, without regard to intent.”[10]If the applicant’s residence was in the United States at the required times, the applicant meets the residency requirement.
+
+An applicant who was temporarily abroad when the qualifying relative died does not need to prove that he or she still resides in the United States. Further, the statutory definition of residence does not require the applicant to show that his or her presence in the United States is lawful. Execution of a removal order, however, terminates an alien’s residence in the United States.
+
+H3: 3. Derivatives
+
+For purposes of derivative beneficiaries,[11]as long as any one surviving beneficiary of a covered petition meets the residence requirement, then the petition may be approved despite the death of the qualifying relative. All the beneficiaries may immigrate to the same extent that would have been permitted if the qualifying relative had not died.[12]It is not necessary for each beneficiary to meet the residence requirements in order to remain eligible to adjust.
+
+H2: B. Effect on Adjustment Application
+
+The officer may approve an adjustment application that was pending when the qualifying relative died if:
+
+- The applicant meets the residency requirement;[13]
+
+- ​The underlying petition is approved before the death of the qualifying relative, the underlying petition is approved underINA 204(l), the pre-death approval of the underlying petition is reinstated,[14]or the alien was admitted as a derivative T nonimmigrant or as a derivative asylee under INA 208(b)(3); and
+
+- ​The applicant meets all other adjustment requirements.
+
+If a beneficiary was eligible to adjust at the time of filing, that eligibility remains despite the subsequent death of a qualifying relative.
+
+Applicants who seek adjustment based on a derivative asylum grant or as a derivative T nonimmigrant may also still be eligible to apply for adjustment in light ofINA 204(l), despite the death of the qualifying relative. However, the applicant must establish eligibility for adjustment apart from the qualifying relative’s death.
+
+INA 204(l)does not limit or waive any other eligibility requirements or adjustment bars that apply, other than the requirement for a petitioner or principal beneficiary. Therefore, the applicant must have been eligible to apply for adjustment at the time of filing and at final adjudication, including admissibility and visa availability, if applicable.[15]In addition, the applicant must not be barred from adjusting status.[16]
+
+For example, the death of the qualifying relative does not relieve an applicant seeking adjustment underINA 245(a)of the need to establish a lawful inspection and admission or inspection and parole, among other requirements for 245(a) adjustment.[17]
+
+The applicant may request the approval or reinstatement of a petition, or adjustment of status notwithstanding the death of a qualifying relative under the following circumstances:
+
+- If the applicant had not yet filed for adjustment at the time the qualifying relative died, the beneficiary may either apply for adjustment once USCIS approves or reinstates approval of the underlying petition,[18]if applicable, or the applicant may include a request for INA 204(l) relief with the adjustment application;[19]or
+
+- If there was a properly filed adjustment application pending at the time the qualifying relative died, the applicant should notify USCIS of the death before USCIS adjudicates the adjustment application.
+
+H3: 1. Admissibility and Waivers
+
+INA 204(l)does not automatically waive any ground of inadmissibility that may apply to an adjustment applicant.[20]The applicant must be admissible, or must obtain a waiver of inadmissibility or other form of relief available, before adjustment may be granted.
+
+Affidavit of Support and Public Charge Considerations[21]
+
+The death of the qualifying relative does not relieve the applicant of the need to have a valid and enforceable Affidavit of Support (Form I-864), if required.[22]The Affidavit of Support establishes that the sponsored applicant is not likely to become a public charge and therefore is not inadmissible on such ground.[23]
+
+If the petitioner dies, the applicant typically must obtain a substitute sponsor to continue to be eligible for adjustment of status. A substitute sponsor is needed even if the deceased petitioner has completed the Affidavit of Support.
+
+However, the death of the principal beneficiary has no bearing, by itself, on the sufficiency of the Affidavit of Support. In these cases, if the Affidavit of Support has not been filed but is required, then the original petitioner must still file an Affidavit of Support for the derivative applicants to be able to adjust.
+
+Effect of Death of Qualifying Relative on Waiver Adjudication
+
+Even thoughINA 204(l)does not impact adjustment requirements related to admissibility and waivers, the provision does “remove ineligibility based solely on the lack of a qualifying family relationship.” Since INA 204(l) affects not only the visa petition and adjustment application but also any related application, USCIS has determined that INA 204(l) provides the discretion to grant a waiver or other form of relief from inadmissibility to a qualifying applicant, even if the qualifying relationship that would have supported the waiver has ended through death. It is not necessary for the waiver or other relief application to have been pending when the qualifying relative died.
+
+A waiver or other relief application may be approved despite the death of the qualifying relative if:
+
+- A petition or adjustment application was pending or approved when the qualifying relative died; and
+
+- ​The applicant meets the residency requirement.[24]
+
+If a pending petition or application to whichINA 204(l)applies is denied despite INA 204(l), the applicant may not obtain approval of a waiver or other relief under INA 204(l).
+
+Some waivers require a showing of extreme hardship to a qualifying relative, who must be either a U.S. citizen or lawful permanent resident (LPR). Since the legislation intends to haveINA 204(l)extend not only to the approval of the pending petition, but also to any related applications, the fact that the qualifying relative has died should be noted in the waiver decision. If the qualifying relative who died is the same qualifying relative to whom extreme hardship must be established in order to grant a waiver, USCIS treats the qualifying relative’s death as the functional equivalent of a finding of extreme hardship. However, for this to apply, the deceased relative must have been a U.S. citizen or LPR at the time of death.[25]
+
+A finding of extreme hardship permits, but does not compel, a favorable exercise of discretion.[26]As with any other discretionary waiver application, the officer should weigh the favorable factors against any adverse factors. Extreme hardship is just one positive factor to be weighed in the discretionary determination.[27]The conduct that made the applicant inadmissible is itself an adverse factor.[28]For example, if the applicant is inadmissible based on criminal grounds, the officer considers the nature, seriousness, and underlying circumstances of the crime to determine the weight given to this adverse factor.
+
+H3: 2. Conditional Residency
+
+If an adjustment applicant would have received permanent residence on a conditional basis due to the recent nature of the marriage to the petitioning spouse, but the petitioning spouse dies before adjustment is granted, then the adjustment applicant should receive permanent residence without condition.
+
+Even if the adjustment applicant obtained conditional permanent residence, the fact that the marriage was terminated due to death would make the applicant eligible to apply for a waiver of certain requirements associated with conditional permanent resident (CPR) status.[29]The officer may grant an eligible applicant permanent residence without conditions if the officer determines the marriage was bona fide and entered into in good faith while the qualifying relative was alive.[30]
+
+H3: 3. Discretionary Denials
+
+INA 204(l)gives USCIS discretion to deny a petition or application that may be approved despite the qualifying relative’s death if USCIS finds, as a matter of discretion, that approval would not be in the public interest.[31]This exercise of discretion is unreviewable.[32]
+
+Before denying a visa petition or adjustment application as a matter of discretion on the ground that approval would not be in the public interest, an officer must consult with the appropriate USCIS headquarters office or directorate through appropriate channels.
+
+Consultation is not required if the officer will deny the case solely on the traditional discretionary factors that would have applied to the particular case, even if the qualifying relative were still alive. For example, fraud or criminal grounds of inadmissibility that have not or cannot be waived, or security grounds, may warrant denial as a matter of discretion under ordinary circumstances. Consultation is not required in such a case.
+
+H2: C. Motions to Reopen
+
+INA 204(l)does not require USCIS to reopen or reconsider any decision denying a petition or application, if the denial had already become final before October 28, 2009. For a case denied before that date, an applicant may file (with proper fee) an untimely motion to reopen the petition, adjustment application, or waiver application that was denied if INA 204(l) allows approval of a still-pending petition or application.
+
+The applicant should present new evidence, including:
+
+- Proof of the relative’s death;
+
+- ​Proof that the applicant was residing in the United States when the relative died; and
+
+- ​Proof that the applicant continues to reside in the United States.
+
+If the applicant establishes the proof required, an officer may favorably exercise discretion to reopen the petition or application, and make a new decision in light of the law.
+
+An alien present in the United States unlawfully does not accrue unlawful presence while a properly filed adjustment application is pending. If USCIS grants a motion to reopen a denied adjustment application under this section, the application will be pending again and is deemed to be pending from the original date of filing. Therefore, reopening an adjustment application underINA 204(l)will cure any unlawful presence that may have accrued between the original denial and the new decision. The result is that the applicant will not have accrued any unlawful presence from the original filing of the adjustment application until there is a final decision.
+
+If the applicant is otherwise inadmissible because of unlawful presence accrued before applying for adjustment, the applicant must seek a waiver or other form of relief to address the inadmissibility.[33]
+
+H2: Footnotes
+
+[^ 1]SeeMatter of Sano  (PDF), 19 I&N Dec. 299 (BIA 1985). SeeMatter of Varela  (PDF), 13 I&N Dec. 453 (BIA 1970).
+
+[^ 2]See Section 568(d) ofPub. L. 111-83  (PDF), 123 Stat. 2142, 2187 (October 28, 2009). SeeINA 204(l). The law does not expressly define the “qualifying relative.” From the list of aliens to whom the newINA 204(l)applies, however, USCIS infers that “qualifying relative” means a person who, immediately before death was: (1) the petitioner in an immediate relative or family-based immigrant visa petition underINA 201(b)(2)(A)(i)orINA 203(a); or (2) the principal beneficiary in a widow(er)’s immediate relative or family-based visa petition case underINA 201(b)(2)(A)(i)orINA 203(a).
+
+[^ 3]INA 204(l)applies to cases filed before October 28, 2009, and cases in which the qualifying relative died before October 28, 2009, as long as the case is adjudicated on or after October 28, 2009.
+
+[^ 4]SeeINA 208(b)(3).
+
+[^ 5]SeeINA 204(l). See Approval of Petitions and Applications after the Death of the Qualifying Relative under New Section 204(l) of the Immigration and Nationality Act,PM-602-0017, issued December 16, 2010.
+
+[^ 6]Immediate relatives includes widow(er)s, who may also seek relief as self-petitioners. SeeINA 201(b)(2)(A)(i).
+
+[^ 7]For Form I-730 petitions, the qualifying relationship ceases to exist upon the death of the petitioner if the follow-to-join beneficiary has not been approved and traveled to the United States. See8 CFR 207.7(c)and8 CFR 208.21(c). An approved beneficiary present in the United States acquires refugee or asylee status and may be eligible to adjust status, notwithstanding the death of the petitioner. See8 CFR 207.7(a)and8 CFR 208.21(a). A beneficiary of a pending Form I-730 petition who resides in the United States when the petitioner dies may remain eligible for follow-to-join status under INA 204(l).
+
+[^ 8]SeeINA 101(a)(51).
+
+[^ 9]SeeINA 204(l).
+
+[^ 10]SeeINA 101(a)(33).
+
+[^ 11]SeeINA 203(d). SeeINA 207(c)(2)(A). SeeINA 208(b)(3)(A).
+
+[^ 12]The surviving derivative beneficiaries may retain the classification and priority date from the underlying petition and adjust status despite the principal beneficiary’s death.
+
+[^ 13]SeeINA 204(l). See Section A, General, Subsection 2, Residency Requirement [7 USCIS-PM A.9(A)(2)].
+
+[^ 14]If the qualifying relative is the principal beneficiary, the officer should also ensure the underlying petition has not been withdrawn by the petitioner. AlthoughINA 204(l)allows a derivative beneficiary the ability to continue to seek adjustment despite the death of the principal beneficiary,INA 204(l)does not require the petitioner to continue to sponsor the applicant. An immigrant visa petitioner may withdraw a pending petition at any time before the admission or adjustment of the beneficiary. See8 CFR 103.2(b)(6).
+
+[^ 15]SeeINA 245(a). See8 CFR 103.2(b)(1).
+
+[^ 16]SeeINA 245(c).
+
+[^ 17]Unless the applicant qualifies underINA 245(i)adjustment.
+
+[^ 18]For information on how to request humanitarian reinstatement, see theHumanitarian Reinstatementwebpage.
+
+[^ 19]For information on how to requestINA 204(l)relief, see theBasic Eligibility for Section 204(l) Relief for Surviving Relativeswebpage.
+
+[^ 20]See Section 568(d)(2) ofPub. L. 111-83  (PDF), 123 Stat. 2142, 2187 (October 28, 2009).
+
+[^ 21]For more information, see theUSCIS website.
+
+[^ 22]SeeINA 212(a)(4)(C). SeeINA 213A. See8 CFR 213a.2.
+
+[^ 23]SeeINA 212(a)(4).
+
+[^ 24]SeeINA 204(l). See Section A, General, Subsection 2, Residency Requirement [7 USCIS-PM A.9(A)(2)].
+
+[^ 25]If an applicant was not eligible to receive a waiver because the applicant did not have the requisite U.S. citizen or LPR qualifying relative,INA 204(l)would not make the applicant eligible.
+
+[^ 26]SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296 (BIA 1996).
+
+[^ 27]SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296 (BIA 1996).
+
+[^ 28]SeeINS v. Yang  (PDF), 519 U.S. 26 (1996).
+
+[^ 29]See8 CFR 216.4(a)(1). See8 CFR 216.5.
+
+[^ 30]The analysis of the marriage should be the same as the analysis conducted when determining whether to remove conditions to permanent residence underINA 216.
+
+[^ 31]SeeINA 204(l)(1).
+
+[^ 32]SeeINA 204(l)(1).
+
+[^ 33]See Section B, Effect on Adjustment Application, Subsection 1, Admissibility and Waivers [7 USCIS-PM A.9(B)(1)].
+
+H2: Resources
+
+8 CFR 208.24- Termination of Asylum
+
+INA 204(l)- Surviving relative consideration for certain petitions and applications
+
+INA 209,8 CFR 209- Adjustment of status of refugees and asylees
+
+INA 245(a)- Adjustment of status
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-730, Refugee/Asylee Relative Petition
+
+I-864, Affidavit of Support Under Section 213A of the INA
+
+I-864A, Contract Between Sponsor and Household Member
+
+I-864EZ, Affidavit of Support Under Section 213A of the INA
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update clarifies how applicants and petitioners may request relief under INA 204(l).
+
+7 USCIS-PM A.9-Chapter 9 - Death of Petitioner or Principal Beneficiary
+
+U.S. Citizenship and Immigration Services (USCIS) is revising its policy guidance in the USCIS Policy Manual to align with the Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements Final Rule, published in the Federal Register on August 3, 2020. This guidance becomes effective October 2, 2020. For information regarding implementation, seeAppendix: 2020 Fee Rule Litigation Summary.
+
+1 USCIS-PM A-Part A - Public Services
+
+1 USCIS-PM B-Part B - Submission of Benefit Requests
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+11 USCIS-PM A-Part A - Secure Identity Documents Policies and Procedures
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to remove references to Biographic Information (Form G-325A).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM L-Part L - Refugee Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+7 USCIS-PM O-Part O - Registration
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance addressing the general policies and procedures of adjustment of status as well as adjustment under section 245(a) of the Immigration and Nationality Act (INA).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment

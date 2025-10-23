@@ -1,0 +1,337 @@
+H1: Chapter 2 - Adoption Processes
+
+- Guidance
+
+- Resources (31)
+
+- Appendices (0)
+
+- Updates (3)
+
+The primary elements that determine which adoption process (Hague Adoption Convention, orphan, or family-based) an adoptive parent (petitioner) may follow include:
+
+- The child’s country of habitual residence;
+
+- The petitioner’s citizenship and country of habitual residence;
+
+- The date of any adoption or legal custody order; and
+
+- The length of time the child has been in the legal custody of and jointly resided with the petitioner.
+
+The following table describes which process a petitioner generally must follow to petition for a child to immigrate based on adoption.
+
+TABLE:
+Process | General Principles
+Hague Adoption Convention | Generally for U.S. citizens adopting children habitually resident in a Hague Adoption Convention country.[1]
+Orphan | Generally for U.S. citizens adopting children who are not habitually resident in a Hague Adoption Convention country.
+Family-Based Petition | Open to both U.S. citizens and lawful permanent residents (LPRs) of the United States.A U.S. citizen cannot, however, use the family-based petition process for a child that is from a Hague Adoption Convention country unless they can establish that the Convention does not apply.
+
+Open to both U.S. citizens and lawful permanent residents (LPRs) of the United States.
+
+A U.S. citizen cannot, however, use the family-based petition process for a child that is from a Hague Adoption Convention country unless they can establish that the Convention does not apply.
+
+H2: A. Hague Adoption Convention[2]
+
+H3: 1. Applicability
+
+The petitioner must follow the Hague Adoption Convention process if:[3]
+
+- The petitioner is a U.S. citizen who is habitually resident in the United States; and
+
+- The petitioner seeks to adopt a child who is habitually resident in a Hague Adoption Convention country (other than the United States) based on an adoption occurring on or after April 1, 2008, and on or after the Hague Adoption Convention entered into force in the other country.[4]
+
+If the child is from a Hague Adoption Convention country, a U.S. citizen petitioner cannot pursue the orphan or family-based petition process unless the petitioner establishes that the Hague Adoption Convention does not apply. The U.S. Hague Adoption Convention process does not apply if:
+
+- USCIS determines that the U.S. citizen petitioner was not habitually resident in the United States at the time of the adoption;
+
+- The child was not deemed to be habitually resident in a Hague Adoption Convention country at the time of the adoption;
+
+- The petitioner was not a U.S. citizen at the time of the adoption;
+
+- The U.S. citizen petitioner completed the adoption before the Hague Adoption Convention went into effect for the United States (April 1, 2008) or the other country;[5]or
+
+- The U.S. citizen petitioner filed an orphan-based adoption petition or application[6]whose period of approval or extension had not expired before the date the Hague Adoption Convention went into effect for the United States or the other country, provided that the laws of the child’s country of origin permits continuation under the orphan process.[7]
+
+Habitual Residence Determinations - Prospective Adoptive Parent(s)
+
+In general, for the purposes of petitioning for a Hague Convention adoptee, USCIS considers a U.S. citizen petitioner to be habitually resident in the United States at the time of the adoption unless:
+
+- The petitioner adopted the child outside the United States and completed the 2-year legal custody and 2-year joint residence requirements for a family-based petition by living with the child outside the United States;[8]or
+
+- The petitioner establishes that the petitioner was not domiciled in the United States and did not intend to bring the child to the United States as an immediate consequence of the adoption.
+
+Habitual Residence Determinations - Child
+
+In general, USCIS considers a child’s country of citizenship to be the child’s country of habitual residence. USCIS may consider the child to be habitually resident in a country other than that of the child’s citizenship if:
+
+- The child actually resides in that country; and
+
+- The Central Authority[9]of the country the child is residing in, or another competent authority in either a Hague Adoption Convention or non-Hague country, determines that the child’s status in that country is sufficiently stable to make it appropriate for that country to exercise jurisdiction over the adoption of the child.[10]
+
+Children who are Physically Present in the United States
+
+USCIS deems a child who is present in the United States, but whose habitual residence was in another Hague Adoption Convention country before the child came to the United States, to be habitually resident in the other Hague Adoption Convention country.[11]Therefore, a petitioner in this situation must generally follow the Hague Adoption Convention process,[12]even if the child is already in the United States.[13]
+
+The petitioner may file a Hague Adoption Convention petition if the other Hague Adoption Convention country is willing to complete the Hague Adoption Convention process.[14]If, however, the petitioner can establish[15]that the Hague Adoption Convention and the implementing regulations no longer apply,[16]then the petitioner may follow the family-based process.
+
+H3: 2. Process
+
+For the Hague Adoption Convention process, the petitioner must file both a suitability application[17]and a petition[18]for the child. The following table provides a summary of requirements to obtain lawful immigration status in the United States for the child through the Hague process.
+
+TABLE:
+Requirement | Related Form | For More Information
+USCIS must find that the prospective adoptive parent(s) (PAP(s)) is suitable and eligible to adopt. | Application for Determination of Suitability to Adopt a Child from a Convention Country (Form I-800A) | See Part B, Adoptive Parent Suitability Determinations [5 USCIS-PM B].
+USCIS and the U.S. Department of State (DOS) must find that the child meets Hague Convention adoptee eligibility requirements. | Petition to Classify Convention Adoptee as an Immediate Relative (Form I-800) | See Part D, Child Eligibility Determinations (Hague) [5 USCIS-PM D]
+
+H2: B. Orphan
+
+H3: 1. Applicability
+
+The petitioner may follow the orphan process if:
+
+- At least one of the PAPs is a U.S. citizen; and
+
+- The child is not from a Hague Adoption Convention country.[19]
+
+If the child is from a Hague Adoption Convention country, a U.S. citizen cannot pursue the orphan petition process unless the petitioner establishes that the Hague Adoption Convention does not apply.[20]
+
+H3: 2. Process
+
+For the orphan process, the petitioner must file a suitability application[21]and a petition[22]for the child. The following table provides a summary of requirements to obtain lawful immigration status in the United States for the child through the orphan process.
+
+TABLE:
+Requirement | Form | For More Information
+USCIS must find that the PAP(s) is suitable and eligible to adopt. | Application for Advance Processing of an Orphan Petition (Form I-600A) | See Part B, Adoptive Parent Suitability Determinations [5 USCIS-PM B].
+USCIS (and DOS, as applicable) must find that the child meets orphan eligibility requirements. | Petition to Classify Orphan as an Immediate Relative (Form I-600) | See Part C, Child Eligibility Determinations (Orphan) [5 USCIS-PM C].
+
+H2: C. Family-Based
+
+H3: 1. Applicability
+
+Generally, the petitioner may follow the family-based[23]petition process if:
+
+- The adoptive parent petitioner is a U.S. citizen or LPR;
+
+- The petitioner establishes the Hague Adoption Convention does not apply;[24]
+
+- A final adoption was completed before the child turned 16 (or 18 if the sibling exception applies);[25]and
+
+- The child has been in the legal custody of and jointly resided with a U.S. citizen or LPR adoptive parent for at least 2 years at the time of filing the petition.
+
+USCIS does not have the authority to waive the 2-year legal custody and 2-year joint residence requirement for a family-based petition, except for certain battered children.[26]
+
+If a U.S. citizen petitioner who was not habitually resident in the United States at the time of adoption decides to move to the United States, USCIS cannot approve a family-based petition for the child before the petitioner has satisfied the 2 year legal custody and 2 year joint residence requirements.[27]
+
+If the child is from a Hague Adoption Convention country, a U.S. citizen petitioner cannot follow the family-based petition process unless the petitioner establishes that the Hague Adoption Convention does not apply.[28]
+
+H3: 2. Process
+
+The family-based petition process involves a USCIS determination that the child is eligible to immigrate as the adopted child, son, or daughter[29]of the petitioner. In contrast to the other two processes, the family-based petition process does not involve a USCIS determination of the adoptive parent’s suitability.
+
+To pursue the family-based petition process, the petitioner may file a Petition for Alien Relative (Form I-130).[30]
+
+The adoptive parent-child relationship[31]is recognized in all applicable immigration requests under U.S. immigration law, including, but not limited to:
+
+- Refugee/Asylee Relative Petition (Form I-730);
+
+- Application for Certificate of Citizenship (Form N-600);
+
+- Application for Citizenship and Issuance of Certificate Under Section 322 (Form N-600K); or
+
+- A claim to eligibility for an immigrant visa as a derivative.[32]
+
+Adoption Between Hague Adoption Convention Countries Other Than the United States
+
+An officer may encounter a petition or application related to an adoption in a Hague Adoption Convention country (other than the United States) for a child who is habitually resident in another Hague Adoption Convention country (other than the United States). The immigration laws of the United States determine whether an adoption properly certified according to the Hague Adoption Convention (by the Central Authorities of the other countries involved in the adoption) may form the basis for a U.S. immigration benefit.[33]
+
+H2: Footnotes
+
+[^ 1]For a list of countries that are party to the Hague Adoption Convention, see the U.S. Department of State (DOS)’sConvention Countrieswebpage.
+
+[^ 2]See Part D, Child Eligibility Determinations (Hague) [5 USCIS-PM D].
+
+[^ 3]See8 CFR 204.303.
+
+[^ 4]For a list of countries that are party to the Hague Adoption Convention, see the U.S. Department of State (DOS)’sConvention Countrieswebpage. For information on the entry into force date for each country, see the Hague Conference on Private International Law’s webpage,Status Table.
+
+[^ 5]If the petitioner acquired custody of the child for purposes of emigration and adoption before April 1, 2008, but did not actually complete the adoption before April 1, 2008, the adoption of the child on or after April 1, 2008, is governed by the Hague Adoption Convention.
+
+[^ 6]See Application for Advance Processing of an Orphan Petition (Form I-600A) or a Petition to Classify Orphan as an Immediate Relative (Form I-600).
+
+[^ 7]If the child’s country of habitual residence agrees, such cases may proceed under the orphan process (known as transition cases). See Part C, Child Eligibility Determinations (Orphan) [5 USCIS-PM C].
+
+[^ 8]See8 CFR 204.2(d)(2)(vii)(D)and(E).
+
+[^ 9]Central authority means the entity designated as such under Article 6(1) of the Hague Adoption Convention by any Convention country, or, in the case of the United States, DOS. See22 CFR 96.2.
+
+[^ 10]See8 CFR 204.303(b).
+
+[^ 11]See8 CFR 204.2(d)(2)(vii)(F).
+
+[^ 12]See Part D, Child Eligibility Determinations (Hague)[5 USCIS-PM D].
+
+[^ 13]However, a child from a Hague Adoption Convention country who is admitted to the United States as a refugee or granted asylum is no longer considered habitually resident in the child’s prior country of citizenship or residence because the purpose of the child’s travel to the United States was not in connection with an adoption, and would therefore not circumvent the Hague Adoption Convention. Restrictions on the approval of aForm I-130for a child from a Hague Adoption Convention country do not apply to children admitted as refugees or granted asylum as they are no longer considered habitually resident in their country of citizenship or residence.
+
+[^ 14]See8 CFR 204.309(b)(4).
+
+[^ 15]For information on related evidence the petitioner must file, including when the other country is not willing to complete the Hague Adoption Convention process, see Part E, Family-Based Adoption Petitions [5 USCIS-PM E].
+
+[^ 16]USCIS can conclude that8 CFR 204.2(d)(2)(vii)(F)no longer applies if there is a sufficient basis to establish that the Hague Adoption Convention and the implementing regulations no longer apply to a child who came to the United States from another Hague Adoption Convention country. USCIS interprets8 CFR 204.303(b)to permit a finding that a child is habitually resident in the United States, even if, under8 CFR 204.2(d)(2)(vii)(F),the child is initially presumed to be habitually resident in another Hague Adoption Convention country. For more information on requirements for making a determination that a child is not habitually resident in the Convention country, seeCriteria for Determining Habitual Residence in the United States for Children from Hague Convention Countries, PM 602-0095, issued November 20, 2017.
+
+[^ 17]See the Application for Determination of Suitability to Adopt a Child from a Convention Country (Form I-800A).
+
+[^ 18]See the Petition to Classify Convention Adoptee as an Immediate Relative (Form I-800).
+
+[^ 19]For a list of countries that are party to the Hague Adoption Convention, see DOS’sConvention Countrieswebpage. For information on the entry into force date for each country, see the Hague Conference on Private International Law’sStatus Tablewebpage.
+
+[^ 20]See Section A, Hague Adoption Convention, Subsection 1, Applicability [5 USCIS-PM A.2(A)(1)].
+
+[^ 21]See the Application for Advance Processing of an Orphan Petition (Form I-600A). PAPs typically file the suitability application before the petition to determine the child’s eligibility to immigrate based on the adoption. If the PAP has already identified a child for adoption, the PAP may apply for the suitability determination at the same time as the petition to determine the child’s eligibility (known as a combination or concurrent filing), by filing evidence in support of the suitability determination with the Petition to Classify Orphan as an Immediate Relative (Form I-600).
+
+[^ 22]See the Petition to Classify Orphan as an Immediate Relative (Form I-600).
+
+[^ 23]SeeINA 101(b)(1)(E).
+
+[^ 24]See Section A, Hague Adoption Convention, Subsection 1, Applicability [5 USCIS-PM A.2(A)(1)].
+
+[^ 25]See Part E, Family-Based Adoption Petitions, Chapter 2, Eligibility, Section B, Qualifying Relationship [5 USCIS-PM E.2(B)].
+
+[^ 26]SeeINA 101(b)(1)(E)(i).
+
+[^ 27]If it becomes necessary to return to the United States before the 2-year legal custody and 2-year joint residence requirements are met, the petitioner may try to pursue the orphan process (if the child is not from a Hague Adoption Convention country) or the Hague Adoption Convention process instead of the family-based adoption process. The petitioner may encounter issues, however, if the child was adopted before the completion of the Hague Adoption Convention process. See Part D, Child Eligibility Determinations (Hague), Chapter 7, Required Order of Immigration and Adoption Steps [5 USCIS-PM D.7].
+
+[^ 28]See Section A, Hague Adoption Convention, Subsection 1, Applicability[5 USCIS-PM A.2(A)(1)].
+
+[^ 29]See Part E, Family-Based Adoption Petitions, Chapter 2, Eligibility, Section A, Age, Marital Status, and Immigration Status Requirements [5 USCIS-PM E.2(A)].
+
+[^ 30]See Part E, Family-Based Adoption Petitions [5 USCIS-PM E].
+
+[^ 31]As described inINA 101(b)(1)(E).
+
+[^ 32]SeeINA 203(d).
+
+[^ 33]SeeINA (101)(b)(1).
+
+H2: Resources
+
+22 CFR 96- Intercountry adoption accreditation of agencies and approval of persons
+
+8 CFR 103.2- Submission and adjudication of benefit requests
+
+8 CFR 204 Subpart C- Intercountry adoption of a Convention adoptee
+
+8 CFR 204.1- General information about immediate relative and family-sponsored petitions
+
+8 CFR 204.2(d)- Petition for a child or son or daughter
+
+8 CFR 204.3- Orphan cases under section 101(b)(1)(F) of the Act (non-Convention cases)
+
+Convention of 29 May 1993 on Protection of Children and Co-operation in Respect of Intercountry Adoption
+
+INA 101(b)(1)- Definition of child
+
+INA 101(b)(1)(E)- Definition of a child adoptee for family-based process
+
+INA 101(b)(1)(F)- Definition of a child adoptee for orphan process
+
+INA 101(b)(1)(G)- Definition of a child adoptee for Hague Adoption Convention process
+
+INA 101(c)- Definition of child for citizenship and naturalization
+
+INA 201(b)(2)(A)(i)- Immediate relatives
+
+INA 203(a)- Preference allocation for family-sponsored immigrants
+
+INA 204,8 CFR 204- Procedure for granting immigrant status
+
+Pub. L. 106-139                          (PDF)- Immigration and Nationality Act of 1999
+
+Pub. L. 106-279         (PDF)- Hague Adoption Convention and the Intercountry Adoption Act
+
+Pub. L. 111-287                          (PDF)- Intercountry Adoption Act
+
+Pub. L. 112-276                          (PDF)- Intercountry Adoption Universal Accreditation Act of 2012
+
+Pub. L. 80-774 (PDF)- Displaced Persons Act of 1948
+
+Pub. L. 87-301                          (PDF)- The Act of September 26, 1961
+
+Pub. L. 89-236                          (PDF)- Immigration and Nationality Act of 1965
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-130, Petition for Alien Relative
+
+I-600, Petition to Classify Orphan as an Immediate Relative
+
+I-600A, Application for Advance Processing of an Orphan Petition
+
+I-800, Petition to Classify Convention Adoptee as an Immediate Relative
+
+I-800A, Application for Determination of Suitability to Adopt a Child from a Convention Country
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is publishing a volume in the USCIS Policy Manual regarding adoptions. This guidance incorporates basic requirements for the submission of adoption-based applications and petitions to USCIS.
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

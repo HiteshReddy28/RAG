@@ -1,0 +1,231 @@
+"Form I-129 Petition for a Nonimmigrant Worker Athlete, Athletic/Entertainment Group, Artist, or Entertainer and Essential Support Personnel (P)",,,,,,,,,,
+
+"By Fiscal Year, Month, and Case Status",,,,,,,,,,
+
+"October 1, 2016 - June 30, 2023",,,,,,,,,,
+
+                     Period,,,,,,                    Petitions by Case Status,,,,
+
+Fiscal Year,Month,Petitions Received 1,Initially Approved 2,Initially Denied3,Total Completions 4,Approved (%)5,Completions with RFE6,Completions with RFE (%)7,Approved with RFE8,Approved with RFE (%)9
+
+TOTAL,,"74,340","67,972","5,993","73,965",91.90%,"16,438",22.20%,"10,745",65.40%
+
+2017,October,878,861,54,915,94.10%,162,17.70%,112,69.10%
+
+,November,906,881,66,947,93.00%,191,20.20%,131,68.60%
+
+,December,"1,282","1,049",71,"1,120",93.70%,181,16.20%,111,61.30%
+
+,January,878,985,90,"1,075",91.60%,238,22.10%,151,63.40%
+
+,February,890,972,91,"1,063",91.40%,230,21.60%,142,61.70%
+
+,March,"1,096","1,097",114,"1,211",90.60%,279,23.00%,170,60.90%
+
+,April,807,823,64,887,92.80%,228,25.70%,168,73.70%
+
+,May,"1,019",853,94,947,90.10%,233,24.60%,144,61.80%
+
+,June,971,954,107,"1,061",89.90%,271,25.50%,165,60.90%
+
+,July,"1,147",960,91,"1,051",91.30%,212,20.20%,131,61.80%
+
+,August,"1,022","1,099",86,"1,185",92.70%,258,21.80%,175,67.80%
+
+,September,809,799,61,860,92.90%,199,23.10%,140,70.40%
+
+2017 Total,,"11,705","11,333",989,"12,322",92.00%,"2,682",21.80%,"1,740",64.90%
+
+2018,October,932,707,101,808,87.50%,225,27.80%,126,56.00%
+
+,November,936,856,71,927,92.30%,196,21.10%,126,64.30%
+
+,December,"1,014",894,51,945,94.60%,207,21.90%,158,76.30%
+
+,January,"1,006","1,007",64,"1,071",94.00%,224,20.90%,162,72.30%
+
+,February,"1,035",973,57,"1,030",94.50%,195,18.90%,139,71.30%
+
+,March,"1,100","1,032",76,"1,108",93.10%,200,18.10%,129,64.50%
+
+,April,921,853,66,919,92.80%,219,23.80%,159,72.60%
+
+,May,"1,046",891,74,965,92.30%,243,25.20%,170,70.00%
+
+,June,983,923,66,989,93.30%,209,21.10%,147,70.30%
+
+,July,"1,284","1,053",80,"1,133",92.90%,242,21.40%,167,69.00%
+
+,August,"1,179","1,100",77,"1,177",93.50%,258,21.90%,185,71.70%
+
+,September,827,"1,016",62,"1,078",94.20%,201,18.60%,142,70.60%
+
+2018 Total,,"12,263","11,305",845,"12,150",93.00%,"2,619",21.60%,"1,810",69.10%
+
+2019,October,956,826,87,913,90.50%,211,23.10%,126,59.70%
+
+,November,"1,076",907,61,968,93.70%,178,18.40%,119,66.90%
+
+,December,"1,208",993,68,"1,061",93.60%,215,20.30%,150,69.80%
+
+,January,"1,098","1,103",130,"1,233",89.50%,320,26.00%,197,61.60%
+
+,February,"1,064",937,86,"1,023",91.60%,254,24.80%,174,68.50%
+
+,March,"1,103",930,106,"1,036",89.80%,284,27.40%,184,64.80%
+
+,April,"1,049",928,91,"1,019",91.10%,276,27.10%,190,68.80%
+
+,May,"1,132",899,88,987,91.10%,257,26.00%,172,66.90%
+
+,June,"1,046",848,95,943,89.90%,232,24.60%,138,59.50%
+
+,July,"1,321","1,216",85,"1,301",93.50%,230,17.70%,149,64.80%
+
+,August,"1,135","1,134",110,"1,244",91.20%,287,23.10%,182,63.40%
+
+,September,927,781,88,869,89.90%,242,27.80%,156,64.50%
+
+2019 Total,,"13,115","11,502","1,095","12,597",91.30%,"2,986",23.70%,"1,937",64.90%
+
+2020,October,"1,023",791,103,894,88.50%,232,26.00%,134,57.80%
+
+,November,999,792,96,888,89.20%,233,26.20%,139,59.70%
+
+,December,"1,138",933,60,993,94.00%,200,20.10%,144,72.00%
+
+,January,"1,216","1,063",97,"1,160",91.60%,270,23.30%,183,67.80%
+
+,February,"1,022",912,88,"1,000",91.20%,225,22.50%,139,61.80%
+
+,March,786,964,144,"1,108",87.00%,338,30.50%,197,58.30%
+
+,April,335,360,73,433,83.10%,130,30.00%,64,49.20%
+
+,May,351,335,69,404,82.90%,141,34.90%,73,51.80%
+
+,June,387,395,51,446,88.60%,140,31.40%,92,65.70%
+
+,July,440,446,47,493,90.50%,140,28.40%,94,67.10%
+
+,August,366,366,62,428,85.50%,149,34.80%,87,58.40%
+
+,September,439,401,85,486,82.50%,168,34.60%,85,50.60%
+
+2020 Total,,"8,502","7,758",975,"8,733",88.80%,"2,366",27.10%,"1,431",60.50%
+
+2021,October,452,491,103,594,82.70%,174,29.30%,76,43.70%
+
+,November,475,420,77,497,84.50%,140,28.20%,66,47.10%
+
+,December,694,595,76,671,88.70%,163,24.30%,95,58.30%
+
+,January,498,560,41,601,93.20%,133,22.10%,95,71.40%
+
+,February,422,433,35,468,92.50%,99,21.20%,65,65.70%
+
+,March,560,488,55,543,89.90%,139,25.60%,84,60.40%
+
+,April,554,468,38,506,92.50%,91,18.00%,56,61.50%
+
+,May,639,456,56,512,89.10%,130,25.40%,79,60.80%
+
+,June,783,643,31,674,95.40%,124,18.40%,95,76.60%
+
+,July,877,771,23,794,97.10%,113,14.20%,90,79.60%
+
+,August,973,"1,000",35,"1,035",96.60%,153,14.80%,120,78.40%
+
+,September,778,731,61,792,92.30%,147,18.60%,86,58.50%
+
+2021 Total,,"7,705","7,056",631,"7,687",91.80%,"1,606",20.90%,"1,007",62.70%
+
+2022,October,759,628,57,685,91.70%,140,20.40%,86,61.40%
+
+,November,867,719,44,763,94.20%,141,18.50%,100,70.90%
+
+,December,955,758,51,809,93.70%,163,20.10%,118,72.40%
+
+,January,859,756,55,811,93.20%,169,20.80%,118,69.80%
+
+,February,922,848,47,895,94.70%,130,14.50%,85,65.40%
+
+,March,"1,072","1,078",69,"1,147",94.00%,194,16.90%,128,66.00%
+
+,April,920,813,97,910,89.30%,200,22.00%,106,53.00%
+
+,May,966,856,62,918,93.20%,189,20.60%,132,69.80%
+
+,June,"1,119",972,65,"1,037",93.70%,208,20.10%,145,69.70%
+
+,July,"1,194",908,59,967,93.90%,184,19.00%,130,70.70%
+
+,August,"1,064","1,242",83,"1,325",93.70%,272,20.50%,194,71.30%
+
+,September,887,990,84,"1,074",92.20%,233,21.70%,155,66.50%
+
+2022 Total,,"11,584","10,568",773,"11,341",93.20%,"2,223",19.60%,"1,497",67.30%
+
+2023,October,887,723,67,790,91.50%,188,23.80%,128,68.10%
+
+,November,"1,001",905,66,971,93.20%,193,19.90%,129,66.80%
+
+,December,"1,096",915,53,968,94.50%,184,19.00%,132,71.70%
+
+,January,946,907,85,992,91.40%,225,22.70%,143,63.60%
+
+,February,"1,044",992,69,"1,061",93.50%,196,18.50%,129,65.80%
+
+,March,"1,250",980,83,"1,063",92.20%,264,24.80%,186,70.50%
+
+,April,900,"1,021",66,"1,087",93.90%,208,19.10%,147,70.70%
+
+,May,"1,139","1,022",87,"1,109",92.20%,235,21.20%,154,65.50%
+
+,June,"1,203",985,109,"1,094",90.00%,263,24.00%,175,66.50%
+
+2023 Total,,"9,466","8,450",685,"9,135",92.50%,"1,956",21.40%,"1,323",67.60%
+
+References:,,,,,,,,,,
+
+1 The number of new petitions received and entered into a case-tracking system during the reporting period.,,,,,,,,,,
+
+"2 The number of petitions approved during the reporting period. Only initial decisions are considered. Subsequent decisions are excluded (Revocation, Remands, etc.) ",,,,,,,,,,
+
+"3 The number of petitions denied during the reporting period. Only initial decisions are considered. Subsequent decisions are excluded (Revocation, Remands, etc.) ",,,,,,,,,,
+
+4 The number of petitions approved and denied during the reporting period.,,,,,,,,,,
+
+5 The percentage of petitions approved out of total completions.,,,,,,,,,,
+
+6 The number of completions that had a Request for Evidence (RFE). ,,,,,,,,,,
+
+7 The percentage of completions with an RFE out of total completions. ,,,,,,,,,,
+
+8 The number of petitions with an RFE that were approved.,,,,,,,,,,
+
+9 The percentage of petitions with an RFE that were approved out of all completions with an RFE.,,,,,,,,,,
+
+Notes:,,,,,,,,,,
+
+"1) Some applications approved, denied, or pending a decision may have been received in previous reporting periods. ",,,,,,,,,,
+
+2) Petitions may have been received in a different time period from the one in which a RFE was ordered.,,,,,,,,,,
+
+3) Petitions with multiple RFEs are only counted once.,,,,,,,,,,
+
+4) The report reflects the most up-to-date data available at the time the database is queried.,,,,,,,,,,
+
+5) Counts may differ from previous periods due to system updates and post-adjudicative outcomes.,,,,,,,,,,
+
+6) The L1 Report includes all petitions not able to be assigned as an L1A or L1B class. ,,,,,,,,,,
+
+7) All reports include all I-129 receipts including both initial and extension filings. ,,,,,,,,,,
+
+8) The L1A and L1B report do not include counts for blanket L filings or unassigned L1 filings. ,,,,,,,,,,
+
+Sources:,,,,,,,,,,
+
+"Department of Homeland Security, U.S. Citizenship and Immigration Services, Office of Performance and Quality",,,,,,,,,,
+
+"CLAIMS3 and ELIS, queried 07/2023, TRK 12289",,,,,,,,,,

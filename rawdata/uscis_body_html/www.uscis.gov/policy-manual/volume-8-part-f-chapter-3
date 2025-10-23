@@ -1,0 +1,1758 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+        
+  
+      <div class="book-utility-menu hide-print" role="navigation" aria-label="Book utility menu">
+  <div class="content-container">
+    <div class="container-1">
+      <a href="/policy-manual" hreflang="en">Policy Manual</a>
+      <div class="mobile-chevron">
+        <button id="util-menu" class="menu-toggle__link highlight-strong" aria-label="Toggle Menu">
+          <i id="util-chevron" class="fas fa-chevron-down"></i>
+        </button>
+      </div>
+    </div>
+    <div class="container-2" id="util-links">
+      <div class="menu-items">
+                  <div class="menu__elem"><a href="/policy-manual/table-of-contents">Contents</a></div>
+                  <div class="menu__elem"><a href="/policy-manual/updates" hreflang="en">Updates</a></div>
+                  <div class="menu__elem"><a href="/legal-resources/immigration-and-nationality-act">INA</a></div>
+                  <div class="menu__elem"><a href="https://www.ecfr.gov/current/title-8">8 CFR</a></div>
+                  <div class="menu__elem"><a href="/tools/glossary" hreflang="en">Glossary</a></div>
+                  <div class="menu__elem"><a href="https://www.uscis.gov/outreach/feedback-opportunities/policy-manual-feedback/policy-manual-feedback">Feedback</a></div>
+              </div>
+    </div>
+      <div class="book-search" id="pm-search">
+        <div class="line-sep"> </div>
+                    <form accept-charset="UTF-8" action="/policy-manual/search" name="custom-search" method="get" id="custom-search">
+          <div class="input-group">
+            <input name="pm_query" id="pm-query" type="text" class="book-search-box book-utility-menu__search" title="Search USCIS Policy Manual" autocomplete="off" size="25" maxlength="200" value="" placeholder="Search USCIS Policy Manual">
+            <div class="input-group__btn--icon">
+              <button id="pm-btn-search-submit" aria-label="Search USCIS Policy Manual" class="btn-icon btn--search-submit" type="submit">
+                <svg class="usa-icon fa-search" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/uswds/img/sprite.svg#search"></use>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </form>
+              <div class="line-sep after-search"> </div>
+      </div>
+  </div>
+</div>
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+      <div id="block-booknavigation">
+    
+        
+            <nav id="book-block-menu-68600" class="book-block-menu" aria-labelledby="book-menu-label">
+    <div class="visually-hidden" id="book-menu-label">Book outline for Policy Manual</div>
+    
+
+                  <ul class="leftnav-menu book-title" data-level="0">
+    
+              
+              <li class="leftnav-menu__item leftnav-menu__item--0 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual" class="leftnav-menu__link leftnav-menu__title" hreflang="en">Policy Manual</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Policy Manual" aria-controls="leftnav-menu" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="leftnav-menu"><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/search" class="leftnav-menu__link" hreflang="en">Search</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/updates" class="leftnav-menu__link" hreflang="en">Updates</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/table-of-contents" class="leftnav-menu__link" hreflang="en">Table of Contents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-1" class="leftnav-menu__link" hreflang="en">Volume 1 - General Policies and Procedures</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-2" class="leftnav-menu__link" hreflang="en">Volume 2 - Nonimmigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-3" class="leftnav-menu__link" hreflang="en">Volume 3 - Humanitarian Protection and Parole</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-4" class="leftnav-menu__link" hreflang="en">Volume 4 - Refugees and Asylees</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5" class="leftnav-menu__link" hreflang="en">Volume 5 - Adoptions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-6" class="leftnav-menu__link" hreflang="en">Volume 6 - Immigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-7" class="leftnav-menu__link" hreflang="en">Volume 7 - Adjustment of Status</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8" class="leftnav-menu__link" hreflang="en">Volume 8 - Admissibility</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2" data-level="2"><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part A - Admissibility Policies and Procedures
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-b" class="leftnav-menu__link" hreflang="en">Part B - Health-Related Grounds of Inadmissibility</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-c" class="leftnav-menu__link" hreflang="en">Part C - Civil Surgeon Designation and Revocation</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part D - Criminal and Related Grounds of Inadmissibility
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part E - Terrorism
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-f" class="leftnav-menu__link" hreflang="en">Part F - National Security and Related Grounds of Inadmissibility</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3" data-level="3"><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Chapter 1 - Purpose and Background [Reserved]
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Chapter 2 - [Reserved]
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3 leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-f-chapter-3" class="is-active leftnav-menu__link">Chapter 3 - Immigrant Membership in Totalitarian Party</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-g" class="leftnav-menu__link" hreflang="en">Part G - Public Charge Ground of Inadmissibility</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part H - Labor Certification and Select Immigrant Qualifications
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-i" class="leftnav-menu__link" hreflang="en">Part I - Illegal Entrants and Other Immigration Violators</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-j" class="leftnav-menu__link" hreflang="en">Part J - Fraud and Willful Misrepresentation</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-k" class="leftnav-menu__link" hreflang="en">Part K - False Claim to U.S. Citizenship</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part L - Documentation Requirements
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part M - Citizenship Ineligibility
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part N - Aliens Previously Removed
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-o" class="leftnav-menu__link" hreflang="en">Part O - Aliens Unlawfully Present</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8-part-p" class="leftnav-menu__link" hreflang="en">Part P - Aliens Present After Previous Immigration Violation</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part Q - Practicing Polygamists, International Child Abductors, Unlawful Voters, and Tax Evaders
+        </div></div></div></li></ul></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9" class="leftnav-menu__link" hreflang="en">Volume 9 - Waivers and Other Forms of Relief</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10" class="leftnav-menu__link" hreflang="en">Volume 10 - Employment Authorization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-11" class="leftnav-menu__link" hreflang="en">Volume 11 - Travel and Identity Documents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12" class="leftnav-menu__link" hreflang="en">Volume 12 - Citizenship and Naturalization</a></div></div></li></ul></li>
+      
+         </ul>
+  
+
+
+  </nav>
+
+      </div>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                                <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual">Policy Manual</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-8">Volume 8 - Admissibility</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-8-part-f">Part F - National Security and Related Grounds of Inadmissibility</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Chapter 3 - Immigrant Membership in Totalitarian Party</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+
+
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-book">
+      <div class="container container--main">
+            
+                        
+            <h1 class="page-title js-page-title">
+              <span>Chapter 3 - Immigrant Membership in Totalitarian Party</span>
+            </h1>
+          
+              
+                    
+              <div>
+                        
+<nav id="pm-tabs" aria-labelledby="pm-tabs-label">
+  <div class="visually-hidden" id="pm-tabs-label">Content navigation tabs</div>
+  <ul>
+    <li><a href="#" aria-controls="guidance" class="pm-tab__guidance tablinks active tab1">Guidance</a></li>
+    <li><a href="#" id="resource_tab" aria-controls="resources" class="pm-tab__resource tablinks tab2">Resources (<span id="resources_count">5</span>)</a></li>
+    <li><a href="#" id="appendices_tab" aria-controls="appendices" class="pm-tab__appendices tablinks tab3">Appendices (<span id="appendices_count">0</span>)</a></li>
+    <li><a href="#" id="updates_tab" aria-controls="updates" class="pm-tab__updates tablinks tab4">Updates (<span id="updates_count">5</span>)</a></li>
+  </ul>
+</nav>
+<section id="book-content">
+  <div id="guidance" class="tabcontent tabcontent--guidance">
+                <div class="clearfix text-formatted field field--name-body field__item"><h2><a class="ck-anchor" id="S-A"></a>A. Purpose and Background</h2><h3><a class="ck-anchor" id="S-A-1"></a>1. Purpose</h3><p>The inadmissibility ground for immigrant membership in or affiliation with the Communist or any other totalitarian party is part of a broader set of laws passed by Congress to address threats to the safety and security of the United States. Its original purpose was to protect the United States against un-American and subversive activities that were considered threats to national security.</p><p>In general, any immigrant who is or has been a member of or affiliated with the Communist or any other totalitarian party (or subdivision or affiliate), domestic or foreign, is inadmissible.<a class="ck-anchor" id="footnotelink-1"></a><a class="ck-anchor" href="#footnote-1" title><strong><sup>[1]</sup></strong></a> There are two exceptions to this ground of inadmissibility and a limited waiver available to certain aliens depending on the immigration benefit they are seeking.<a class="ck-anchor" id="footnotelink-2"></a><a class="ck-anchor" href="#footnote-2" title><strong><sup>[2]</sup></strong></a></p><h3><a class="ck-anchor" id="S-A-2"></a>2. Background</h3><p>During and after World War I, the U.S. government was concerned with the external threats of anarchism and communism. In response, Congress passed the Immigration Act of 1918 that authorized the detention and deportation of alien anarchists under an extremely broad definition of anarchism irrespective of his or her date of entry into the United States.<a class="ck-anchor" id="footnotelink-3"></a><a class="ck-anchor" href="#footnote-3" title><strong><sup>[3]</sup></strong></a> Furthermore, Congress also criminalized the reentry of any alien who was previously deported under provisions of this Act.<a class="ck-anchor" id="footnotelink-4"></a><a class="ck-anchor" href="#footnote-4" title><strong><sup>[4]</sup></strong></a></p><p>In 1938, Congress sought to protect the internal security, national defense, and foreign relations of the United States by requiring that foreigners disseminating propaganda and foreign ideologies be registered and identified.<a class="ck-anchor" id="footnotelink-5"></a><a class="ck-anchor" href="#footnote-5" title><strong><sup>[5]</sup></strong></a></p><p>Near the onset of World War II, concern about the possibility of hostile foreign enemies living in the United States was on the rise. In response, Congress passed the Alien Registration Act of 1940.<a class="ck-anchor" id="footnotelink-6"></a><a class="ck-anchor" href="#footnote-6" title><strong><sup>[6]</sup></strong></a> With this Act, Congress made it a crime for any person to advocate for the overthrow or destruction of the U.S. government by force or violence, print or distribute materials advocating such activities, or organize any groups that advocate such activities. Congress also made it a crime for any person to attempt or conspire to commit such acts. The Act also established a removal ground for aliens convicted of these new offenses within 5 years of entry or convicted more than once at any time after entry.<a class="ck-anchor" id="footnotelink-7"></a><a class="ck-anchor" href="#footnote-7" title><strong><sup>[7]</sup></strong></a></p><p>In the aftermath of World War II and in response to the rise of communism in the global arena, Congress passed a succession of laws, including the Internal Security Act of 1950.<a class="ck-anchor" id="footnotelink-8"></a><a class="ck-anchor" href="#footnote-8" title><strong><sup>[8]</sup></strong></a> Through the Internal Security Act of 1950, Congress aimed to combat the world communism movement and prosecute those who knowingly and willfully participated.<a class="ck-anchor" id="footnotelink-9"></a><a class="ck-anchor" href="#footnote-9" title><strong><sup>[9]</sup></strong></a></p><p>The Internal Security Act of 1950 created criminal penalties for conspiring to create a totalitarian dictatorship in the United States and to unlawfully communicate or receive classified information. It did not create criminal penalties for membership or the holding of office in a communist organization, but required communist organizations to register, submit annual reports, and prohibited the members of communist organizations from applying for, renewing, or using a U.S. passport.<a class="ck-anchor" id="footnotelink-10"></a><a class="ck-anchor" href="#footnote-10" title><strong><sup>[10]</sup></strong></a></p><p>The Internal Security Act of 1950 also amended the Immigration Act of 1918 by adding new grounds of exclusion specific to members of communist or totalitarian parties, affiliates of such groups, or to aliens who advocate the doctrines of world communism or any other form of totalitarianism.<a class="ck-anchor" id="footnotelink-11"></a><a class="ck-anchor" href="#footnote-11" title><strong><sup>[11]</sup></strong></a> It likewise expanded the deportation provisions to cover such aliens.</p><p>The Act also created new restrictions on naturalization by making aliens who were members or affiliates of a communist organization or who advocated certain communist or totalitarian positions (or were members or affiliates of organizations that advocated such positions) ineligible for naturalization.<a class="ck-anchor" id="footnotelink-12"></a><a class="ck-anchor" href="#footnote-12" title><strong><sup>[12]</sup></strong></a> Naturalized citizens who engaged in such activities within 5 years following their naturalization would be subject to revocation of their naturalization orders.</p><p>A year later, Congress amended the Internal Security Act of 1950 to include some of the exceptions to the grounds of exclusion specific to the members and affiliates of communist organizations to better align the actual language of the statute with the intent of Congress. The amendment stated that only membership or affiliation which was voluntary would be considered for exclusion and would not include membership or affiliation which is or was solely when the alien was under 16 years of age, by operation of law, or for purposes of obtaining employment, food rations, or other essentials of living and where necessary for such purposes.<a class="ck-anchor" id="footnotelink-13"></a><a class="ck-anchor" href="#footnote-13" title><strong><sup>[13]</sup></strong></a></p><p>Subsequently, Congress passed the Immigration and Nationality Act (INA) of 1952 which, for the first time, authorized the exclusion of all aliens, immigrants or nonimmigrants, on the basis of membership in or affiliation with the Communist or any other totalitarian party.<a class="ck-anchor" id="footnotelink-14"></a><a class="ck-anchor" href="#footnote-14" title><strong><sup>[14]</sup></strong></a> As with previous acts, the INA of 1952 also declared that aliens were excludable based on a wide variety of other activities linked to the Communist Party or other totalitarian parties even if the aliens were not members or affiliates.</p><p>The INA of 1952 included exceptions and waivers similar to those available today. There were two classes of exceptions available to immigrants and nonimmigrants alike. The first, which was based solely on the alien's personal history (and tracked the Internal Security Act amendments of 1951), excepted aliens if their membership or affiliation “is or was involuntary, or is or was solely when under sixteen years of age, by operation of law, or for purposes of obtaining employment, food rations, or other essentials of living and where necessary for such purposes.”<a class="ck-anchor" id="footnotelink-15"></a><a class="ck-anchor" href="#footnote-15" title><strong><sup>[15]</sup></strong></a></p><p>The second exception was available to aliens whose admission “would be in the public interest” if their membership or affiliation had terminated at least 5 years before the date of the application and the alien had been “actively opposed to the doctrine, program, principles, and ideology” of the Communist or totalitarian organization during those 5 years.<a class="ck-anchor" id="footnotelink-16"></a><a class="ck-anchor" href="#footnote-16" title><strong><sup>[16]</sup></strong></a></p><p>The INA of 1952 also contained an exception for nonimmigrant diplomats (A) and nonimmigrant representatives of international organizations (G) as well as a general waiver for temporary admission as a nonimmigrant.<a class="ck-anchor" id="footnotelink-17"></a><a class="ck-anchor" href="#footnote-17" title><strong><sup>[17]</sup></strong></a> The general waiver for aliens seeking nonimmigrant visas was only to be granted in the discretion of the Attorney General based on the recommendation of the Secretary of State or a consular officer.</p><p>Subsequent amendments provided for additional exceptions. In 1977, Congress passed the Foreign Relations Authorization Act of Fiscal Year 1978, which contained a provision popularly referred to as the “McGovern Amendment.”<a class="ck-anchor" id="footnotelink-18"></a><a class="ck-anchor" href="#footnote-18" title><strong><sup>[18]</sup></strong></a> This provision slightly modified the operation of the nonimmigrant waiver established in INA 212(d)(3). While the INA stated that an excludable alien applying for a nonimmigrant visa would only receive the visa and be admitted in the discretion of the Attorney General based on a recommendation by the Secretary of State or a consular officer, the McGovern Amendment required the Secretary of State to make a favorable recommendation to the Attorney General within 30 days of receiving the nonimmigrant visa application unless “the admission of such alien would be contrary to the security interests of the United States.”<a class="ck-anchor" id="footnotelink-19"></a><a class="ck-anchor" href="#footnote-19" title><strong><sup>[19]</sup></strong></a></p><p>Congress limited the scope of the McGovern Amendment in 1979 with a provision in the Department of State Authorization Act, Fiscal Years 1980 and 1981, by eliminating eligibility for the McGovern Amendment for three groups: representatives of “purported labor organizations” that were actually instruments of totalitarian states; members, officers, officials, representatives, and spokesmen of the Palestine Liberation Organization; and aliens from countries that signed the Helsinki Final Act but which were not in substantial compliance with its provisions.<a class="ck-anchor" id="footnotelink-20"></a><a class="ck-anchor" href="#footnote-20" title><strong><sup>[20]</sup></strong></a></p><p>The Immigration Act of 1990 (IMMACT 90) com<a class="ck-anchor" id="footnotelink-21"></a>pletely reorganized the exclusion grounds, amending some and deleting others.<a class="ck-anchor" id="footnotelink-21"></a><a class="ck-anchor" href="#footnote-21" title><strong><sup>[21]</sup></strong></a> While Congress retained the exclusion ground in the INA relating to membership or affiliation, with IMMACT 90, Congress eliminated the various other related exclusion grounds such as those that penalized the advocacy or publication of communist or other subversive views or materials.</p><p>The IMMACT 90 exclusion provision related to membership in the Communist or other totalitarian party is nearly identical to the current inadmissibility ground at INA 212(a)(3)(D), with two minor differences.<a class="ck-anchor" id="footnotelink-22"></a><a class="ck-anchor" href="#footnote-22" title><strong><sup>[22]</sup></strong></a> Through IMMACT 90, Congress limited the exclusion ground to “immigrants” rather than applying this provision on its own terms to “aliens” more generally.<a class="ck-anchor" id="footnotelink-23"></a><a class="ck-anchor" href="#footnote-23" title><strong><sup>[23]</sup></strong></a> While nonimmigrant members of communist or totalitarian parties cannot be found inadmissible based on INA 212(a)(3)(D), they may be found inadmissible based on other grounds, if applicable.</p><p>The naturalization provisions contain a separate but related ineligibility ground for an alien who has been a member of (or affiliated with) the Communist or any other totalitarian party within 10 years of filing and until the applicant takes the Oath of Allegiance.<a class="ck-anchor" id="footnotelink-24"></a><a class="ck-anchor" href="#footnote-24" title><strong><sup>[24]</sup></strong></a> As in the inadmissibility context, there are statutory exceptions to the naturalization bar based on past membership and past involuntary membership.<a class="ck-anchor" id="footnotelink-25"></a><a class="ck-anchor" href="#footnote-25" title><strong><sup>[25]</sup></strong></a> The regulations related to naturalization contain definitions and concepts concerning the Communist Party or other totalitarian parties that USCIS also applies to its interpretation of the inadmissibility ground found at INA 212(a)(3)(D).<a class="ck-anchor" id="footnotelink-26"></a><a class="ck-anchor" href="#footnote-26" title><strong><sup>[26]</sup></strong></a></p><h3><a class="ck-anchor" id="S-A-3"></a>3. Legal Authorities</h3><ul><li><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)</a> - Immigrant membership in totalitarian party</li></ul><h2><a class="ck-anchor" id="S-B"></a>B. Overview of Inadmissibility Ground</h2><p>In general, any immigrant who is or has been a member of or affiliated with the Communist or any other totalitarian party (or subdivision or affiliate thereof), domestic or foreign, is inadmissible.<a class="ck-anchor" id="footnotelink-27"></a><a class="ck-anchor" href="#footnote-27" title><strong><sup>[27]</sup></strong></a></p><h3><a class="ck-anchor" id="S-B-1"></a>1. Applicability</h3><p>This ground of inadmissibility applies to an alien seeking immigrant status, such as an applicant inside the United States applying for adjustment of status to that of a lawful permanent resident (LPR), an applicant for an immigrant visa with the U.S. Department of State (DOS) at a U.S. embassy or consulate outside of the United States, or an applicant for admission as an immigrant at a U.S. port of entry.<a class="ck-anchor" id="footnotelink-28"></a><a class="ck-anchor" href="#footnote-28" title><strong><sup>[28]</sup></strong></a></p><p>The inadmissibility ground applies to membership (past or present) and those with an affiliation with such parties. There are certain exceptions to this ground of inadmissibility as well as a waiver.<a class="ck-anchor" id="footnotelink-29"></a><a class="ck-anchor" href="#footnote-29" title><strong><sup>[29]</sup></strong></a> </p><h3><a class="ck-anchor" id="S-B-2"></a>2. Overview of Inadmissibility Determination</h3><p>The following table provides officers with an overview of how to determine whether an applicant is inadmissible under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)</a>.</p><table class="dataTable"><caption>Overview of Inadmissibility Determination</caption><thead><tr><th scope="col">Step</th><th scope="col">If yes, then…</th><th scope="col">If no, then…</th></tr></thead><tbody><tr><td>Step 1: Determine whether the organization is the Communist or any other totalitarian party</td><td>Go to Step 2</td><td>Applicant is not inadmissible under INA 212(a)(3)(D)</td></tr><tr><td>Step 2: Determine whether applicant’s connection to the organization rises to the level of membership in or affiliation with such organization</td><td>Go to Step 3</td><td>Applicant is not inadmissible under INA 212(a)(3)(D)</td></tr><tr><td>Step 3: Determine whether membership or affiliation was “meaningful”</td><td>Go to Step 4</td><td>Applicant is not inadmissible under INA 212(a)(3)(D)</td></tr><tr><td>Step 4: Determine whether one of the exceptions applies</td><td>Applicant is not inadmissible under INA 212(a)(3)(D)</td><td>Applicant is inadmissible under INA 212(a)(3)(D)</td></tr></tbody></table><h3><a class="ck-anchor" id="S-B-3"></a>3. Communist or Any Other Totalitarian Party</h3><p>An immigrant who is or has been a member of or affiliated with the Communist or any other totalitarian party is inadmissible under INA 212(a)(3)(D), unless an exception applies.</p><p>Under INA 212(a)(3)(D), an officer must first determine whether the organization in question meets the definition of Communist or any other totalitarian party.</p><p>The regulations define the Communist Party as:</p><ul><li>The Communist Party of the United States;</li><li>The Communist Political Association;</li><li>The Communist Party of any state of the United States, of any foreign state, or of any political or geographical subdivision of any foreign state;</li><li>Any section, subsidiary, branch, affiliate, or subdivision of any such association or party;</li><li>The direct predecessors or successors of any such association or party, regardless of what name such group or organization may have used, may now bear, or may hereafter adopt; and</li><li>Any communist-action or communist-front organization that was required to register under former Section 786 of Title 50 of the U.S. Code, provided that the applicant knew or had reason to believe, while he or she was a member, that such organization was a communist-front organization.<a class="ck-anchor" id="footnotelink-30"></a><a class="ck-anchor" href="#footnote-30" title><strong><sup>[30]</sup></strong></a></li></ul><p>“Any other totalitarian party” is defined as “an organization which advocates the establishment in the United States of a totalitarian dictatorship or totalitarianism.”<a class="ck-anchor" id="footnotelink-31"></a><a class="ck-anchor" href="#footnote-31" title><strong><sup>[31]</sup></strong></a></p><p>“Totalitarian dictatorship” or “totalitarianism” refer to systems of government not representative in fact, characterized by:</p><ul><li>The existence of a single political party, organized on a dictatorial basis, with so close an identity between such party and its policies and the governmental policies of the country in which it exists, that the party and the government constitute an indistinguishable unit; and</li><li>The forcible suppression of opposition to such party.<a class="ck-anchor" id="footnotelink-32"></a><a class="ck-anchor" href="#footnote-32" title><strong><sup>[32]</sup></strong></a></li></ul><p>After determining that the group in question meets the definition of the Communist or any other totalitarian party, the officer must determine if the person is or has been a member of or affiliated with that group. If the group does not meet the definition, then the person is not inadmissible under this ground.</p><h3><a class="ck-anchor" id="S-B-4"></a>4. Extent of Immigrant’s Involvement</h3><p><em>Membership</em></p><p>Membership may be established by the applicant’s testimony alone, where that testimony shows a sufficiently viable and purposeful relationship.<a class="ck-anchor" id="footnotelink-33"></a><a class="ck-anchor" href="#footnote-33" title><strong><sup>[33]</sup></strong></a> Membership is not defined in the INA or in the regulations, and is dependent on a person satisfying the requirements for membership as specified by the membership organization in question.</p><p>Membership may be established by evidence that the applicant was issued a membership card, paid dues to the organization,<a class="ck-anchor" id="footnotelink-34"></a><a class="ck-anchor" href="#footnote-34" title><strong><sup>[34]</sup></strong></a> or even based on witness testimony regarding the applicant’s membership in the organization (including seeing the applicant’s name on membership records, dues records, and testimony regarding meeting attendance).<a class="ck-anchor" id="footnotelink-35"></a><a class="ck-anchor" href="#footnote-35" title><strong><sup>[35]</sup></strong></a></p><p><em>Affiliation</em></p><p>Even if an immigrant is not a member of the Communist or any other totalitarian party, he or she may still be inadmissible if found to be an affiliate of such an organization. The INA states that while “the giving, loaning, or promising of support or of money or any other thing of value for any other purpose to any organization shall be presumed to constitute affiliation . . . nothing in this paragraph shall be construed as an exclusive definition of affiliation.”<a class="ck-anchor" id="footnotelink-36"></a><a class="ck-anchor" href="#footnote-36" title><strong><sup>[36]</sup></strong></a></p><p>Affiliation implies less than membership but more than sympathy.<a class="ck-anchor" id="footnotelink-37"></a><a class="ck-anchor" href="#footnote-37" title><strong><sup>[37]</sup></strong></a> Affiliation includes more than mere interest or sympathy for an organization but may also be accompanied by some positive and voluntary action that provides support, money, or another thing of value.<a class="ck-anchor" id="footnotelink-38"></a><a class="ck-anchor" href="#footnote-38" title><strong><sup>[38]</sup></strong></a> The regulations state that “[a]ffiliation with an organization includes, but is not limited to, the giving, lending, or promising of support or of money or anything of value, to that organization to be used for any purpose.”<a class="ck-anchor" id="footnotelink-39"></a><a class="ck-anchor" href="#footnote-39" title><strong><sup>[39]</sup></strong></a></p><p>“Affiliate” is also used in the context of this inadmissibility ground to describe links between organizations, in addition to ties between a person and an organization. An affiliate organization of a totalitarian party is one that is related to, or identified with, a proscribed association or party<a class="ck-anchor" id="footnotelink-40"></a><a class="ck-anchor" href="#footnote-40" title><strong><sup>[40]</sup></strong></a> in such close association as to evidence an adherence to or a furtherance of the purposes and objectives of such association or party, or as to indicate a working alliance to bring to fruition the purposes and objectives of the proscribed association or party.<a class="ck-anchor" id="footnotelink-41"></a><a class="ck-anchor" href="#footnote-41" title><strong><sup>[41]</sup></strong></a></p><p><em>Special Considerations for Military and Government Service</em></p><p>Service in the armed forces of a communist or totalitarian-controlled country, whether voluntary or not, does not in itself constitute or establish applicant’s membership in or affiliation with a communist or totalitarian party.<a class="ck-anchor" id="footnotelink-42"></a><a class="ck-anchor" href="#footnote-42" title><strong><sup>[42]</sup></strong></a> Notwithstanding, if the applicant’s service in the armed forces is inherently political, the applicant is inadmissible as a member or affiliate of a communist or totalitarian party. In such cases, the officer should determine if the evidence supports a finding that the applicant was aware of the political nature of his or her military service. For example, an applicant may occupy a sufficiently high rank in the armed forces of his or her country that is inherently political or perform a specific mission that is inherently political.</p><p>If the applicant was or is a government worker in a communist or communist-controlled country, then the officer should give special attention and scrutinize such employment since voluntary service in a political capacity constitutes affiliation with a political party or the organization in power at the time of service.<a class="ck-anchor" id="footnotelink-43"></a><a class="ck-anchor" href="#footnote-43" title><strong><sup>[43]</sup></strong></a></p><h3><a class="ck-anchor" id="S-B-5"></a>5. Whether Involvement was Meaningful</h3><p>Even if the officer has determined that the applicant is or has been a member of or affiliate of a proscribed group, the evidence must show that the applicant’s membership or affiliation was meaningful when finding the applicant inadmissible.</p><p>“Meaningful” membership or affiliation versus “non-meaningful” membership or affiliation has never been codified in the INA but is rather a judicially created concept. In general, membership in a communist or totalitarian party must be intentional in order to be meaningful. Most notably, the Supreme Court of the United States has held that “[t]here must be a substantial basis for finding that an alien committed himself to the Communist Party in consciousness that he was ‘joining an organization known as the Communist Party which operates as a distinct and active political organization[.]’”<a class="ck-anchor" id="footnotelink-44"></a><a class="ck-anchor" href="#footnote-44" title><strong><sup>[44]</sup></strong></a></p><p>An alien’s membership or affiliation is meaningful if the evidence shows that the alien is aware of the political aspects of the proscribed organization during the time of their membership or if the evidence shows that the alien engaged in party activities to a degree that substantially supports an inference of his or her awareness of the party’s political aspect.<a class="ck-anchor" id="footnotelink-45"></a><a class="ck-anchor" href="#footnote-45" title><strong><sup>[45]</sup></strong></a> Accordingly, an alien's knowledge or awareness of a communist or totalitarian party’s political nature is sufficient to establish that an alien’s membership is meaningful.<a class="ck-anchor" id="footnotelink-46"></a><a class="ck-anchor" href="#footnote-46" title><strong><sup>[46]</sup></strong></a></p><h2><a class="ck-anchor" id="S-C"></a>C. Adjudication</h2><h3><a class="ck-anchor" id="S-C-1"></a>1. Evidence</h3><p>A finding of inadmissibility under INA 212(a)(3)(D) must be based on evidence, such as oral testimony, written testimony, or any other documentation containing information about the applicant’s current or prior membership in or affiliation with the Communist or any other totalitarian party. Some USCIS forms, including the Application to Register Permanent Residence or Adjust Status (<a href="/i-485" data-entity-type="node" data-entity-uuid="6d9a13a3-f3c9-4773-b112-0015c55ae4dd" data-entity-substitution="canonical">Form I-485</a>), require applicants to list their memberships in organizations and parties.</p><p>Membership or affiliation is a question of fact for the officer to determine. If the facts and evidence available would allow a reasonable person to conclude that the applicant is a member or an affiliate of the Communist or any other totalitarian party, then the applicant must establish that he or she qualifies for one of the exceptions or the waiver.</p><p>If an applicant misrepresents information regarding membership or affiliation in answering questions on Form I-485, the applicant could also be found inadmissible under INA 212(a)(6)(C)(i).<a class="ck-anchor" id="footnotelink-47"></a><a class="ck-anchor" href="#footnote-47" title><strong><sup>[47]</sup></strong></a></p><h3><a class="ck-anchor" id="S-C-2"></a>2. Burden of Proof</h3><p>The burden of proof to establish admissibility when seeking an immigration benefit is always on the applicant.<a class="ck-anchor" id="footnotelink-48"></a><a class="ck-anchor" href="#footnote-48" title><strong><sup>[48]</sup></strong></a> The burden never shifts to the Government at any time during adjudication.<a class="ck-anchor" id="footnotelink-49"></a><a class="ck-anchor" href="#footnote-49" title><strong><sup>[49]</sup></strong></a></p><p>To determine whether an applicant is inadmissible based on his or her membership in or affiliation with the Communist or any other totalitarian party, there must be sufficient evidence that would lead a reasonable person to find that he or she is or was a member of or affiliated with a proscribed group.<a class="ck-anchor" id="footnotelink-50"></a><a class="ck-anchor" href="#footnote-50" title><strong><sup>[50]</sup></strong></a> If there is evidence that would permit a reasonable person to conclude that the applicant is inadmissible under this ground, then the officer should find that the applicant has not successfully met the burden of proof. If there is any adverse, third-party information in the record, then the officer conducting an interview is generally expected to confront the applicant with the information and resolve the issue at the time of the interview.</p><p>If an officer is basing a decision in whole or in part on information of which the applicant is unaware or could not reasonably be expected to be aware, and the applicant was not confronted with that information and given an opportunity to respond during an interview, the officer must issue a Notice of Intent to Deny (NOID).<a class="ck-anchor" id="footnotelink-51"></a><a class="ck-anchor" href="#footnote-51" title><strong><sup>[51]</sup></strong></a> The NOID provides the applicant an opportunity to review and respond to the information, unless the information is classified.<a class="ck-anchor" id="footnotelink-52"></a><a class="ck-anchor" href="#footnote-52" title><strong><sup>[52]</sup></strong></a> An applicant who fails to meet the burden of proof is inadmissible for being a member or affiliate of the Communist or any other totalitarian party, unless the applicant is able to successfully rebut the officer’s inadmissibility finding.<a class="ck-anchor" id="footnotelink-53"></a><a class="ck-anchor" href="#footnote-53" title><strong><sup>[53]</sup></strong></a></p><p>If the applicant is successful in rebutting the inadmissibility finding, the officer should find that the applicant is not inadmissible for being a member or affiliate of the Communist or any other totalitarian party.</p><h2><a class="ck-anchor" id="S-D"></a>D. Exceptions and Waivers</h2><h3><a class="ck-anchor" id="S-D-1"></a>1. Exceptions</h3><p>Congress provided two statutory exceptions for immigrants who might otherwise be found inadmissible for their membership in or affiliation with the Communist or any other totalitarian party. There are two categories of exceptions: involuntary membership and past membership.</p><p><em>Involuntary Membership</em></p><p>The first category of exceptions applies to immigrants whose membership or affiliation is or was:</p><ul><li>Involuntary;</li><li>Solely when under 16 years of age;</li><li>By operation of law; or</li><li>For purposes of obtaining employment, food rations, or other essentials of living and where necessary for such purposes.<a class="ck-anchor" id="footnotelink-54"></a><a class="ck-anchor" href="#footnote-54" title><strong><sup>[54]</sup></strong></a></li></ul><p>Membership or affiliation is considered involuntary when it is the result of factors such as coercion, fraud, duress, incapacity, or some other error which may impair or negate the capacity for affirmative and intentional actions.<a class="ck-anchor" id="footnotelink-55"></a><a class="ck-anchor" href="#footnote-55" title><strong><sup>[55]</sup></strong></a> The burden remains on the applicant to establish that the association is involuntary.<a class="ck-anchor" id="footnotelink-56"></a><a class="ck-anchor" href="#footnote-56" title><strong><sup>[56]</sup></strong></a></p><p>An exception also applies when such membership or affiliation occurred solely when the applicant was under the age of 16.<a class="ck-anchor" id="footnotelink-57"></a><a class="ck-anchor" href="#footnote-57" title><strong><sup>[57]</sup></strong></a> However, political activities and continuing commitments after the age of 16 are not protected under this exception.<a class="ck-anchor" id="footnotelink-58"></a><a class="ck-anchor" href="#footnote-58" title><strong><sup>[58]</sup></strong></a></p><p>The statute also excepts membership or affiliation occurring solely by operation of law. This includes any case where “the alien automatically, and without personal acquiescence, became a member of or affiliated with a proscribed party or organization by official act, proclamation, order, edict, or decree.”<a class="ck-anchor" id="footnotelink-59"></a><a class="ck-anchor" href="#footnote-59" title><strong><sup>[59]</sup></strong></a></p><p>Joining a proscribed organization in order to obtain the essentials of living is also excepted, absent an ideological commitment to the cause.<a class="ck-anchor" id="footnotelink-60"></a><a class="ck-anchor" href="#footnote-60" title><strong><sup>[60]</sup></strong></a> Examples of the essentials of living refer to “food, shelter, clothing, employment and an education which were routinely available to the rest of the population.”<a class="ck-anchor" id="footnotelink-61"></a><a class="ck-anchor" href="#footnote-61" title><strong><sup>[61]</sup></strong></a></p><p>Under the INA, an immigrant is not inadmissible when his membership in or affiliation with a communist or totalitarian party is necessary in order to obtain food or employment. Inadmissibility “shall not apply to an alien because of membership or affiliation if the alien establishes . . . that the membership or affiliation is or was . . . for purposes of obtaining employment, food rations, or other essentials of living and whether necessary for such purposes.”<a class="ck-anchor" id="footnotelink-62"></a><a class="ck-anchor" href="#footnote-62" title><strong><sup>[62]</sup></strong></a> If the immigrant’s membership or affiliation with a communist or totalitarian party was not actually necessary for purposes of such essentials of living, then the immigrant is inadmissible unless another exception applies.</p><p><em>Past Membership</em></p><p>If an officer has determined that the applicant has been a member of or affiliated with a proscribed organization and one of the involuntary membership exceptions does not apply, the officer should evaluate whether the past membership exception applies to the applicant.</p><p>An immigrant may be excepted from inadmissibility under INA 212(a)(3)(D) if the immigrant can establish that:</p><ul><li>His or her membership in or affiliation with a proscribed organization terminated at least 2<a class="ck-anchor" id="footnotelink-63"></a><a class="ck-anchor" href="#footnote-63" title><strong><sup>[63]</sup></strong></a> or 5 years before the date of receipt of the application (if the immigrant's membership or affiliation was with the party controlling the government of a foreign state that is a totalitarian dictatorship as of such date, the immigrant must establish that his or her membership or affiliation terminated at least 5 years before the date of receipt); and</li><li>He or she is not a threat to the security of the United States.<a class="ck-anchor" id="footnotelink-64"></a><a class="ck-anchor" href="#footnote-64" title><strong><sup>[64]</sup></strong></a></li></ul><p>In cases that involve past membership, mere termination for the requisite time period is sufficient; active opposition is not required.<a class="ck-anchor" id="footnotelink-65"></a><a class="ck-anchor" href="#footnote-65" title><strong><sup>[65]</sup></strong></a> It is also the applicant’s burden to prove that he or she is not a threat to the security of United States.</p><p>Furthermore, where the evidence shows that the immigrant is a threat to the security of the United States, the immigrant may also be inadmissible under security and related grounds<a class="ck-anchor" id="footnotelink-66"></a><a class="ck-anchor" href="#footnote-66" title><strong><sup>[66]</sup></strong></a> or terrorist activities.<a class="ck-anchor" id="footnotelink-67"></a><a class="ck-anchor" href="#footnote-67" title><strong><sup>[67]</sup></strong></a> An immigrant may be found to be a threat to the security of the United States and ineligible for the exception even if not inadmissible under a separate security or terrorist inadmissibility ground.<a class="ck-anchor" id="footnotelink-68"></a><a class="ck-anchor" href="#footnote-68" title><strong><sup>[68]</sup></strong></a></p>
+<p>If the officer finds that a meaningful membership or affiliation in a proscribed organization exists, and the immigrant does not qualify for either of the two exceptions, then the officer should find the immigrant inadmissible under INA 212(a)(3)(D) for being or having been a member of the Communist or any other totalitarian party.</p><h3><a class="ck-anchor" id="S-D-2"></a>2. Waiver</h3><p>A discretionary waiver is available for certain family members of U.S. citizens or LPRs.</p><p>The INA provides that the Secretary of Homeland Security may waive this ground of inadmissibility for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest if: </p><ul><li>The alien is a parent, spouse, son, daughter, brother, or sister of a U.S. citizen, or is a spouse, son, or daughter of an LPR;</li><li>The alien is not a threat to the security of the United States; and</li><li>The alien warrants a favorable exercise of discretion.<a class="ck-anchor" id="footnotelink-69"></a><a class="ck-anchor" href="#footnote-69" title><strong><sup>[69]</sup></strong></a></li></ul><p>When considering whether or not an alien is a threat to the security of the United States, USCIS considers the following non-exhaustive list of factors:</p><ul><li>Espionage;</li><li>Terrorism;</li><li>Subversion;</li><li>Public safety, including criminal history and gang activity;</li><li>Risks to intellectual property;</li><li>Risks to information security, including disinformation campaigns;</li><li>Risks to election security; and</li><li>Risks to public health.</li></ul><p>To apply for the waiver, the person must file an Application for Waiver of Grounds of Inadmissibility (<a href="/i-601" data-entity-type="node" data-entity-uuid="1ca1f10a-6726-4022-8096-4cc55d27c257" data-entity-substitution="canonical">Form I-601</a>).<a class="ck-anchor" id="footnotelink-70"></a><a class="ck-anchor" href="#footnote-70" title><strong><sup>[70]</sup></strong></a></p><h2>Footnotes</h2><hr><p><a class="ck-anchor" id="footnote-1"></a><a class="ck-anchor" href="#footnotelink-1" title>[^ 1]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)(i)</a>.</p><p><a class="ck-anchor" id="footnote-2"></a><a class="ck-anchor" href="#footnotelink-2" title>[^ 2]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)(ii)-(iv)</a>. For more information, see Section D, Exceptions and Waivers [<a href="/policy-manual/volume-8-part-f-chapter-3#S-D" data-entity-type="node" data-entity-uuid="49102ef4-07dd-4dc1-b0b9-ac9d4981c5b7" data-entity-substitution="canonical">8 USCIS-PM F.3(D)</a>].</p><p><a class="ck-anchor" id="footnote-3"></a><a class="ck-anchor" href="#footnotelink-3" title>[^ 3]</a> See Sections 1 and 2 of the Immigration Act of 1918, <a href="https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c65/llsl-c65.pdf">Pub. L. 65-221  (PDF)</a>, 40 Stat. 1012, 1012 (October 16, 1918). This Act expanded upon the brief definition of anarchy found in prior law to cover all forms of activities related to its advocacy, including membership in and affiliation with any organization or group that advocated opposition to all forms of organized government.</p><p><a class="ck-anchor" id="footnote-4"></a><a class="ck-anchor" href="#footnotelink-4" title>[^ 4]</a> See Section 3 of the Immigration Act of 1918, <a href="https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c65/llsl-c65.pdf">Pub. L. 65-221  (PDF)</a>, 40 Stat. 1012, 1012-13 (October 16, 1918).</p><p><a class="ck-anchor" id="footnote-5"></a><a class="ck-anchor" href="#footnotelink-5" title>[^ 5]</a> See Section 2 of the Foreign Agents Registration Act of 1938, Pub. L. 75-583, 52 Stat. 631, 632 (June 8, 1938) (codified at <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title22/chapter11&amp;edition=prelim">22 U.S.C. 611-621</a>).</p><p><a class="ck-anchor" id="footnote-6"></a><a class="ck-anchor" href="#footnotelink-6" title>[^ 6]</a> Also known as the Smith Act, see Pub. L. 76-670 (June 28, 1940).</p><p><a class="ck-anchor" id="footnote-7"></a><a class="ck-anchor" href="#footnotelink-7" title>[^ 7]</a> In the Alien Registration Act of 1940, Congress also expanded the exclusion grounds from the Immigration Act of 1918 relating to “aliens who are members of the anarchistic and similar classes.” Previously, only aliens who were members of such classes at the time of entry were excludable. In 1940, Congress expanded the ground to include aliens who “at any time” were members of these classes.</p><p><a class="ck-anchor" id="footnote-8"></a><a class="ck-anchor" href="#footnotelink-8" title>[^ 8]</a> See Pub. L. 81-831 (September 23, 1950).</p><p><a class="ck-anchor" id="footnote-9"></a><a class="ck-anchor" href="#footnotelink-9" title>[^ 9]</a> See Sections 2 and 4 of the Internal Security Act of 1950, Pub. L. 81-831, 64 Stat. 987, 987-89, 991-92 (September 23, 1950).</p><p><a class="ck-anchor" id="footnote-10"></a><a class="ck-anchor" href="#footnotelink-10" title>[^ 10]</a> See Sections 6 and 7 of the Internal Security Act of 1950, Pub. L. 81-831, 64 Stat. 987, 993, 993-95 (September 23, 1950).</p><p><a class="ck-anchor" id="footnote-11"></a><a class="ck-anchor" href="#footnotelink-11" title>[^ 11]</a> This exclusion ground did not apply to certain nonimmigrants. See Section 22 of the Internal Security Act of 1950, Pub. L. 81-831, 64 Stat. 987, 1006-10 (September 23, 1950).</p><p><a class="ck-anchor" id="footnote-12"></a><a class="ck-anchor" href="#footnotelink-12" title>[^ 12]</a> See Section 25 of the Internal Security Act of 1950, Pub. L. 81-831, 64 Stat. 987, 1013-15 (September 23, 1950).</p><p><a class="ck-anchor" id="footnote-13"></a><a class="ck-anchor" href="#footnotelink-13" title>[^ 13]</a> See Pub. L. 82-14 (March 28, 1951).</p><p><a class="ck-anchor" id="footnote-14"></a><a class="ck-anchor" href="#footnotelink-14" title>[^ 14]</a> See former Section 212(a)(28) of the INA of 1952, also referred to as the McCarran-Walter Act, <a href="https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg163.pdf">Pub. L. 82-414  (PDF)</a>, 66 Stat. 163, 184 (June 27, 1952).</p><p><a class="ck-anchor" id="footnote-15"></a><a class="ck-anchor" href="#footnotelink-15" title>[^ 15]</a> See former INA 212(a)(28)(I)(i).</p><p><a class="ck-anchor" id="footnote-16"></a><a class="ck-anchor" href="#footnotelink-16" title>[^ 16]</a> See former INA 212(a)(28)(I)(ii).</p><p><a class="ck-anchor" id="footnote-17"></a><a class="ck-anchor" href="#footnotelink-17" title>[^ 17]</a> See Section 212(d)(2) and (3) of the INA of 1952, <a href="https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg163.pdf">Pub. L. 82-414  (PDF)</a>, 66 Stat. 163, 187 (June 27, 1952).</p><p><a class="ck-anchor" id="footnote-18"></a><a class="ck-anchor" href="#footnotelink-18" title>[^ 18]</a> See Section 112 of the Foreign Relations Authorization Act of Fiscal Year 1978, <a href="https://www.govinfo.gov/content/pkg/STATUTE-91/pdf/STATUTE-91-Pg844.pdf">Pub. L. 95-105  (PDF)</a>, 91 Stat. 844, 848 (August 17, 1977).</p><p><a class="ck-anchor" id="footnote-19"></a><a class="ck-anchor" href="#footnotelink-19" title>[^ 19]</a> See Section 112 of the Foreign Relations Authorization Act of Fiscal Year 1978, <a href="https://www.govinfo.gov/content/pkg/STATUTE-91/pdf/STATUTE-91-Pg844.pdf">Pub. L. 95-105  (PDF)</a>, 91 Stat. 844, 848 (August 17, 1977).</p><p><a class="ck-anchor" id="footnote-20"></a><a class="ck-anchor" href="#footnotelink-20" title>[^ 20]</a> See Section 109 of the Department of State Authorization Act, Fiscal Years 1980 and 1981, <a href="https://www.govinfo.gov/content/pkg/STATUTE-93/pdf/STATUTE-93-Pg395.pdf">Pub. L. 96-60  (PDF)</a>, 93 Stat. 395, 397 (August 15, 1979).</p><p><a class="ck-anchor" id="footnote-21"></a><a class="ck-anchor" href="#footnotelink-21" title>[^ 21]</a> See <a href="https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg4978.pdf">Pub. L. 101-649  (PDF)</a> (November 29, 1990).</p><p><a class="ck-anchor" id="footnote-22"></a><a class="ck-anchor" href="#footnotelink-22" title>[^ 22]</a> In 1991, Congress amended the term “alien” to “immigrant” in INA 212(a)(3)(D)(iv). See Section 307(a)(4) of the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, <a href="https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1733.pdf">Pub. L. 102-232  (PDF)</a>, 105 Stat. 1733, 1753 (December 12, 1991). A few years later, Congress made further amendments to the INA by replacing the term “excludable” with “inadmissible.” See Section 301 of the Illegal Immigration Reform and Immigrant Responsibility Act, <a href="https://www.govinfo.gov/content/pkg/PLAW-104publ208/pdf/PLAW-104publ208.pdf">Pub. L 104-208  (PDF)</a>, 110 Stat. 3009, 3009-575-79 (September 30, 1996).</p><p><a class="ck-anchor" id="footnote-23"></a><a class="ck-anchor" href="#footnotelink-23" title>[^ 23]</a> See Section 601 of IMMACT 90, <a href="https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg4978.pdf">Pub. L. 101-649  (PDF)</a>, 104 Stat. 4978, 5067-77 (November 29, 1990).</p><p><a class="ck-anchor" id="footnote-24"></a><a class="ck-anchor" href="#footnotelink-24" title>[^ 24]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1424&amp;num=0&amp;edition=prelim">INA 313</a> and <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=pt8.1.313">8 CFR 313</a>.</p><p><a class="ck-anchor" id="footnote-25"></a><a class="ck-anchor" href="#footnotelink-25" title>[^ 25]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1424&amp;num=0&amp;edition=prelim">INA 313</a> and <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=pt8.1.313">8 CFR 313</a>.</p><p><a class="ck-anchor" id="footnote-26"></a><a class="ck-anchor" href="#footnotelink-26" title>[^ 26]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.313_11">8 CFR 313.1</a>. For more information on the corresponding naturalization provision, see Volume 12, Citizenship and Naturalization, Part D, General Naturalization Requirements, Chapter 7, Attachment to the Constitution <a href="/policy-manual/volume-12-part-d-chapter-7" data-entity-type="node" data-entity-uuid="7ee2673f-d813-44d7-bc90-067c29953db8" data-entity-substitution="canonical">[12 USCIS-PM D.7]</a>.</p><p><a class="ck-anchor" id="footnote-27"></a><a class="ck-anchor" href="#footnotelink-27" title>[^ 27]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)(i)</a>.</p><p><a class="ck-anchor" id="footnote-28"></a><a class="ck-anchor" href="#footnotelink-28" title>[^ 28]</a> For more information on adjustment of status, see Volume 7, Adjustment of Status [<a href="/policy-manual/volume-7" data-entity-type="node" data-entity-uuid="54da0c93-3b76-46d0-8c44-c9b0afd88d9b" data-entity-substitution="canonical">7 USCIS-PM</a>].</p><p><a class="ck-anchor" id="footnote-29"></a><a class="ck-anchor" href="#footnotelink-29" title>[^ 29]</a> For more information, see Section D, Exceptions and Waivers [<a href="/policy-manual/volume-8-part-f-chapter-3#S-D" data-entity-type="node" data-entity-uuid="49102ef4-07dd-4dc1-b0b9-ac9d4981c5b7" data-entity-substitution="canonical">8 USCIS-PM F.3(D)</a>].</p><p><a class="ck-anchor" id="footnote-30"></a><a class="ck-anchor" href="#footnotelink-30" title>[^ 30]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.313_11">8 CFR 313.1</a> (definitions).</p><p><a class="ck-anchor" id="footnote-31"></a><a class="ck-anchor" href="#footnotelink-31" title>[^ 31]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(a)(37)</a>. See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se22.1.40_134">22 CFR 40.34(f)</a>.</p><p><a class="ck-anchor" id="footnote-32"></a><a class="ck-anchor" href="#footnotelink-32" title>[^ 32]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(a)(37).</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se22.1.40_134">22 CFR 40.34(f)</a>, which indicates that any former or present voluntary member of, or an alien who was, or is, voluntarily affiliated with a noncommunist party, organization, or group, or any section, subsidiary, branch, affiliate or subdivision thereof, which during the time of its existence in which the totalitarian party did not or does not advocate for the establishment of a totalitarian dictatorship in the United States, is not considered ineligible under INA 212(a)(3)(D) to receive a visa.</p><p><a class="ck-anchor" id="footnote-33"></a><a class="ck-anchor" href="#footnotelink-33" title>[^ 33]</a> See <em>Langhammer v. Hamilton</em>, 295 F.2d 642, 645 (1st Cir. 1961) (holding that the respondent was deportable for being a member of the Communist Party, an excludable class of aliens, based exclusively on the alien's own testimony). </p><p><a class="ck-anchor" id="footnote-34"></a><a class="ck-anchor" href="#footnotelink-34" title>[^ 34]</a> See <em>Langhammer v. Hamilton</em>, 295 F.2d 642, 647 (1st Cir. 1961) (where the alien was found to be a member of three Communist-controlled organizations in addition to the Party itself. In that case, the evidence showed that he not only carried a membership card and paid dues, but also served as an officer of two different Party units, organized meetings, arranged for speakers, collected dues from others, and maintained Party records).</p><p><a class="ck-anchor" id="footnote-35"></a><a class="ck-anchor" href="#footnotelink-35" title>[^ 35]</a> See <em>Matter of A---</em>, 6 I&amp;N Dec. 524 (BIA 1955) (where the respondent was found to be a member of the Communist Party based on a witness testifying that he had seen the respondent's name on official Communist Party records, received a Communist Party membership book issued to the respondent, and another witness testifying to seeing the respondent at a Communist Party meeting). See <em>Wellman v. Butterfield</em>, 235 F.2d 932 (7th Cir. 1958) (finding that a witness testifying to attending over a hundred closed Communist Party meetings with the respondent and that the witness had issued the respondent a membership card and collect dues from the respondent was sufficient to prove membership in the Communist Party).</p><p><a class="ck-anchor" id="footnote-36"></a><a class="ck-anchor" href="#footnotelink-36" title>[^ 36]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(e)(2)</a>. See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.313_11">8 CFR 313.1</a>.</p><p><a class="ck-anchor" id="footnote-37"></a><a class="ck-anchor" href="#footnotelink-37" title>[^ 37]</a> See <em>Bridges v. Wixon</em>, 326 U.S. 135 (1945).</p><p><a class="ck-anchor" id="footnote-38"></a><a class="ck-anchor" href="#footnotelink-38" title>[^ 38]</a> See <em>Matter of G---</em>, 5 I&amp;N Dec. 112 (BIA 1953) (holding that an alien, who was not a member of the Communist Party, but was a sympathizer with its principles, who subscribed to and sold a Communist newspaper, distributed Communist literature, and made speeches on behalf of the Party was deemed to have been affiliated with the Communist Party). See <em>Bridges v. Wixon</em>, 326 U.S. 135 (1945) (where the Supreme Court states that affiliation implies something less than membership but more than sympathy).</p><p><a class="ck-anchor" id="footnote-39"></a><a class="ck-anchor" href="#footnotelink-39" title>[^ 39]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.313_11">8 CFR 313.1</a>.</p><p><a class="ck-anchor" id="footnote-40"></a><a class="ck-anchor" href="#footnotelink-40" title>[^ 40]</a> Including any section, subsidiary, branch, or subdivision of the association or party.</p><p><a class="ck-anchor" id="footnote-41"></a><a class="ck-anchor" href="#footnotelink-41" title>[^ 41]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se22.1.40_134">22 CFR 40.34(a)</a>.</p><p><a class="ck-anchor" id="footnote-42"></a><a class="ck-anchor" href="#footnotelink-42" title>[^ 42]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se22.1.40_134">22 CFR 40.34(b)</a>.</p><p><a class="ck-anchor" id="footnote-43"></a><a class="ck-anchor" href="#footnotelink-43" title>[^ 43]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se22.1.40_134">22 CFR 40.34(c)</a>.</p><p><a class="ck-anchor" id="footnote-44"></a><a class="ck-anchor" href="#footnotelink-44" title>[^ 44]</a> See <em>Rowoldt v. Perfetto</em>, 355 U.S. 115, 120 (1957) (quoting <em>Galvan v. Press</em>, 347 U.S. 522, 528 (1954)).</p><p><a class="ck-anchor" id="footnote-45"></a><a class="ck-anchor" href="#footnotelink-45" title>[^ 45]</a> See <em>Gastelum-Quinones v. Kennedy</em>, 374 U.S. 469, 476-77 (1963) (holding that the evidence was insubstantial to demonstrate that the person was “sensible to the Party’s nature as a political organization” or that he engaged in “Party activities to a degree substantially supporting an inference of his awareness of the Party’s political aspect”).</p><p><a class="ck-anchor" id="footnote-46"></a><a class="ck-anchor" href="#footnotelink-46" title>[^ 46]</a> See <em>Wellman v. Butterfield</em>, 253 F.2d 932, 933 (6th Cir. 1958) (“[T]he foregoing evidence was sufficient to . . . establish that the appellant joined the party, aware that she was ‘joining an organization known as the Communist Party which operates as a distinct and active political organization[.]’” (quoting <em>Galvan</em>)). See <a href="https://www.justice.gov/eoir/vll/intdec/vol20/3123.pdf"><em>Matter of Rusin  (PDF)</em></a>, 20 I&amp;N Dec. 128 (BIA 1989) (holding that the applicant did not have a meaningful association with the Communist Party since she did not commit herself to a Communist organization).</p><p><a class="ck-anchor" id="footnote-47"></a><a class="ck-anchor" href="#footnotelink-47" title>[^ 47]</a> For more information, see Part J, Fraud and Willful Misrepresentation [<a href="/policy-manual/volume-8-part-j" data-entity-type="node" data-entity-uuid="c7f4ac69-2522-447b-acb2-5dc0e6416f2f" data-entity-substitution="canonical">8 USCIS-PM J</a>].</p><p><a class="ck-anchor" id="footnote-48"></a><a class="ck-anchor" href="#footnotelink-48" title>[^ 48]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1361&amp;num=0&amp;edition=prelim">INA 291</a>. See <a href="https://www.justice.gov/eoir/vll/intdec/vol26/3818.pdf"><em>Matter of Bett  (PDF)</em></a>, 26 I&amp;N Dec. 437 (BIA 2014). For more information, see Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 4, Burden and Standards of Proof [<a href="/policy-manual/volume-1-part-e-chapter-4" data-entity-type="node" data-entity-uuid="84866a47-6844-4992-ae41-edf23e5c2ba0" data-entity-substitution="canonical">1 USCIS-PM E.4</a>].</p><p><a class="ck-anchor" id="footnote-49"></a><a class="ck-anchor" href="#footnotelink-49" title>[^ 49]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1361&amp;num=0&amp;edition=prelim">INA 291</a>.</p><p><a class="ck-anchor" id="footnote-50"></a><a class="ck-anchor" href="#footnotelink-50" title>[^ 50]</a> The reasonable person standard derives from <em>INS v. Elias-Zacarias</em>, 502 U.S. 478 (1992) (agency factfinding must be accepted unless a reasonable fact finder would necessarily conclude otherwise).</p><p><a class="ck-anchor" id="footnote-51"></a><a class="ck-anchor" href="#footnotelink-51" title>[^ 51]</a> For example, investigative reports, reports from informants, school record, or employment records not provided by the applicant.</p><p><a class="ck-anchor" id="footnote-52"></a><a class="ck-anchor" href="#footnotelink-52" title>[^ 52]</a> See<a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.103_12"> 8 CFR 103.2(b)(16)(iv)</a>.</p><p><a class="ck-anchor" id="footnote-53"></a><a class="ck-anchor" href="#footnotelink-53" title>[^ 53]</a> If USCIS has made a decision on the application, the applicant may provide new facts for consideration by seeking a motion to reopen. To do so, the applicant must file a Notice of Appeal or Motion (Form I-290B).</p><p><a class="ck-anchor" id="footnote-54"></a><a class="ck-anchor" href="#footnotelink-54" title>[^ 54]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)(ii)</a>.</p><p><a class="ck-anchor" id="footnote-55"></a><a class="ck-anchor" href="#footnotelink-55" title>[^ 55]</a> See <em>Matter of B---</em>, 5 I&amp;N Dec. 72 (BIA 1953).</p><p><a class="ck-anchor" id="footnote-56"></a><a class="ck-anchor" href="#footnotelink-56" title>[^ 56]</a> See <em>Matter of B---</em>, 5 I&amp;N Dec. 72 (BIA 1953). For more information on burden of proof, see Section C, Adjudication, Subsection 2, Burden of Proof [<a href="/policy-manual/volume-8-part-f-chapter-3#S-C-2" data-entity-type="node" data-entity-uuid="49102ef4-07dd-4dc1-b0b9-ac9d4981c5b7" data-entity-substitution="canonical">8 USCIS-PM F.3(C)(2)</a>].</p><p><a class="ck-anchor" id="footnote-57"></a><a class="ck-anchor" href="#footnotelink-57" title>[^ 57]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)(ii)</a>.</p><p><a class="ck-anchor" id="footnote-58"></a><a class="ck-anchor" href="#footnotelink-58" title>[^ 58]</a> See <a href="https://www.justice.gov/eoir/vll/intdec/vol11/1482.pdf"><em>Matter of Pust  (PDF)</em></a>, 11 I&amp;N Dec. 228 (BIA 1965) (where the BIA acknowledged that the respondent’s participation of youth organizations commenced when he was under 16 years of age and continued throughout high school but his membership was found to be of a passive nature for the purposes of obtaining a grade school and high school education).</p><p><a class="ck-anchor" id="footnote-59"></a><a class="ck-anchor" href="#footnotelink-59" title>[^ 59]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se22.1.40_134">22 CFR 40.34(e)</a>. See <em>Grzymala-Siedlecki v. U.S.</em>, 285 F.2d 836 (5th Cir. 1961) (where the person automatically became a member of the Communist Party even though “[h]e signed no application for membership, received no membership card and was never sworn in.”).</p><p><a class="ck-anchor" id="footnote-60"></a><a class="ck-anchor" href="#footnotelink-60" title>[^ 60]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)(ii)</a>.</p><p><a class="ck-anchor" id="footnote-61"></a><a class="ck-anchor" href="#footnotelink-61" title>[^ 61]</a> See, for example, <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.313_13">8 CFR 313.3(d)(1)(i)</a>.</p><p><a class="ck-anchor" id="footnote-62"></a><a class="ck-anchor" href="#footnotelink-62" title>[^ 62]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)(ii)</a>.</p><p><a class="ck-anchor" id="footnote-63"></a><a class="ck-anchor" href="#footnotelink-63" title>[^ 63]</a> Immigrants who were members of or affiliated with a communist or other totalitarian party that was not controlling the government of a foreign state that was a totalitarian dictatorship only need to show that their membership or affiliation terminated 2 years before the date of receipt of the application.</p><p><a class="ck-anchor" id="footnote-64"></a><a class="ck-anchor" href="#footnotelink-64" title>[^ 64]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)(iii)</a>.</p><p><a class="ck-anchor" id="footnote-65"></a><a class="ck-anchor" href="#footnotelink-65" title>[^ 65]</a> See Section 601 of IMMACT 90, <a href="https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg4978.pdf">Pub. L. 101-649  (PDF)</a>, 104 Stat. 4978, 5067-5077 (November 29, 1990) which eliminated the requirement of active opposition to the doctrine, program, principles, and ideology of the Communist or totalitarian organization.</p><p><a class="ck-anchor" id="footnote-66"></a><a class="ck-anchor" href="#footnotelink-66" title>[^ 66]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(A)</a>.</p><p><a class="ck-anchor" id="footnote-67"></a><a class="ck-anchor" href="#footnotelink-67" title>[^ 67]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(B)</a>.</p><p><a class="ck-anchor" id="footnote-68"></a><a class="ck-anchor" href="#footnotelink-68" title>[^ 68]</a> See Volume 7, Adjustment of Status, Part A, Adjustment of Status Policies and Procedures, Chapter 6, Adjudicative Review, Section E, Security Checks and National Security Concerns [<a href="/policy-manual/volume-7-part-a-chapter-6#S-E" data-entity-type="node" data-entity-uuid="bffad3d3-8eba-4adb-a501-6bb3437fd030" data-entity-substitution="canonical">7 USCIS-PM A.6(E)</a>] for more information regarding national security concerns.</p><p><a class="ck-anchor" id="footnote-69"></a><a class="ck-anchor" href="#footnotelink-69" title>[^ 69]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)(iv)</a>. For more information on discretion, see Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis [<a href="/policy-manual/volume-1-part-e-chapter-8" data-entity-type="node" data-entity-uuid="7c2f16d0-3373-4a2c-83e8-f8173fb170cf" data-entity-substitution="canonical">1 USCIS-PM E.8</a>] and Volume 9, Waivers, Part A, Waiver Policies and Procedures, Chapter 5, Discretion [<a href="/policy-manual/volume-9-part-a-chapter-5" data-entity-type="node" data-entity-uuid="1cc0a10f-2917-41c3-abe4-9c8af3df0803" data-entity-substitution="canonical">9 USCIS-PM A.5</a>].</p><p><a class="ck-anchor" id="footnote-70"></a><a class="ck-anchor" href="#footnotelink-70" title>[^ 70]</a> For more general information on waivers, see Volume 9, Waivers, Part A, Waiver Policies and Procedures [<a href="/policy-manual/volume-9-part-a" data-entity-type="node" data-entity-uuid="510763c8-47fc-44c9-b593-b64165996467" data-entity-substitution="canonical">9 USCIS-PM A</a>].</p></div>
+      
+  </div>
+
+  <div id="resources" class="tabcontent tabcontent--resources hidden">
+    <h2>Resources</h2>
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Legal Authorities</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-a04e692105b577f87f5c9ada770fc3a59985e51bdaeadc9eff730c830cbba33d hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(a)(37)</a> - Definition of totalitarian party</p>
+</div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(3)(D)</a> - Immigrant membership in totalitarian party</p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Forms</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-76636a58c83efcf8245d7bb7243c880893d20f81a2f692dc0d38548795a6f065 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/g-1055" data-entity-type="node" data-entity-uuid="944bb8d1-cae6-467c-96b4-979e03f8ca66" data-entity-substitution="canonical">G-1055, Fee Schedule</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/node/41152">G-28, Notice of Entry of Appearance as Attorney or Accredited Representative</a></p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Other Materials</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-85b1de13e8fee28a6191dcbbab26eef635b5da450ee6ede1790a23fe08d2e578 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="837656db-38a5-4ce9-a548-27a2b09d6b57" data-lang="en" href="/sites/default/files/document/policy-manual-resources/HowToUseTheUSCISPolicyManualWebsite.pdf" type="application/pdf; length=3130835">How to Use the USCIS Policy Manual Website</a></p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+  </div>
+
+  <div id="appendices" class="tabcontent tabcontent--appendices hidden">
+    <div class="pm-resource__container">
+      <h2>Appendices</h2>
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-2 pm-resources-block_2 js-view-dom-id-870aa587752867a64f67b342aabd401e279f860be1eff5dca40a1e7b84543f94 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="pm-resources empty"><p>No <em class="placeholder">appendices</em> available at this time.</p></div>
+  
+  
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="updates" class="tabcontent tabcontent--updates hidden">
+    <h2>Updates</h2>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-3 pm-resources-block_3 js-view-dom-id-fc7ca0fb1755bca6026b63f7d7397584ea521595dc4021e93ce8e66285983f1f hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term "Noncitizen"</div>
+    <div><br><time datetime="2025-02-26T12:00:00Z" class="datetime">February 26, 2025</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-430a6516ab0e5552abec5549d54e2a27e79df1edebdaa4619e772392016c12b1 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Alien”</div>
+    <div><br><time datetime="2021-05-11T12:00:00Z" class="datetime">May 11, 2021</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-db49918b66d7b2d364c9fb1f33ce0219f64a48b036cb4e4f0eb8ef57a6b37588 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Inadmissibility Based on Membership in a Totalitarian Party</div>
+    <div><br><time datetime="2020-10-02T12:00:00Z" class="datetime">October 02, 2020</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address inadmissibility based on membership in or affiliation with the Communist or any other totalitarian party.</p>
+</div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20201002-PartyMembership.pdf" title="Select to read more about Inadmissibility Based on Membership in a Totalitarian Party" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-68798ee59a66754d1ff3983f6344eb944cf42ee6e9b2732dce9b481a47c23dd5 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-8-part-f-chapter-3"><span class="citation">8 USCIS-PM F.3</span> - <span>Chapter 3 - Immigrant Membership in Totalitarian Party</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Moving the Adjudicator’s Field Manual Content into the USCIS Policy Manual</div>
+    <div><br><time datetime="2020-05-21T12:00:00Z" class="datetime">May 21, 2020</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see the <a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="349de2b5-990b-4b61-b780-2eb4c0ed58cf" href="/sites/default/files/document/policy-manual-afm/afm-pmcrosswalk.pdf">crosswalk</a> between the AFM and the Policy Manual.</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-774aac0f7b8cd20464106cde310d1937ec355fb61da3800b4e93eb064ade7944 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Foreign National”</div>
+    <div><br><time datetime="2019-10-08T12:00:00Z" class="datetime">October 08, 2019</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-d243a851afd10eacc5b03376421fdd20c9f9dd600cf2b08a2999904f8decd221 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</section>
+
+  <span id="hidden-resources" class="hidden"></span>
+  <span id="hidden-appendices" class="hidden"></span>
+  <span id="hidden-updates" class="hidden"></span>
+  <span id="hidden-versions" class="hidden">0</span>
+
+
+  <nav class="nav-sub-tree" aria-labelledby="nav-sub-tree-label">
+    <div class="visually-hidden" id="nav-sub-tree-label">Page sub tree links</div>
+        
+  </nav>
+
+          <div class="current-date"><span class="current-date__label">Current as of</span><span class="current-date__value"> October 20, 2025</span></div>
+  
+        <div class="prev-next">
+          <div class="previous-container">
+        <a href="/policy-manual/volume-8-part-f" id="previous-button" class="usa-button" rel="prev" title="Go to previous page">Previous</a>
+      </div>
+              <div class="next-container">
+        <a href="/policy-manual/volume-8-part-g" id="next-button" class="usa-button" rel="next" title="Go to next page">Next</a>
+      </div>
+        </div>
+  
+      
+  
+        </div>
+      
+                </div>
+  
+  
+    
+  </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/policy-manual/volume-8-part-f-chapter-3" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="90138" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="90138" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="90138" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-ggnxye6umzp080e4jpxspkjurb-btkoopahd3zlgcks" type="hidden" name="form_build_id" value="form-GgnxYe6UmZP080E4JPXsPkjurb-BtKooPAHd3zlgcKs"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="90138" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_f7zHONM931Ca8gnbX5D2rr4I9JXY3squQ33IJRVWJ9I.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_z29Okdt7hgaFcU0AxeQoxu6Pn68RoUSKbTmlZ77r4_o.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+
+  </body>

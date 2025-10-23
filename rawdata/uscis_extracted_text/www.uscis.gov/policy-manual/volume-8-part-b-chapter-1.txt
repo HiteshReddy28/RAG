@@ -1,0 +1,241 @@
+H1: Chapter 1 - Purpose and Background
+
+- Guidance
+
+- Resources (10)
+
+- Appendices (0)
+
+- Updates (8)
+
+H2: A. Purpose
+
+The medical grounds of inadmissibility, the medical examination of aliens, and the vaccinations administered to aliens are designed to protect the health of the United States population. The immigration medical examination, the resulting medical examination report, and the vaccination record provide the information USCIS uses to determine if an applicant meets the health-related standards for admissibility.
+
+Four basic medical conditions may make an applicant inadmissible on health-related grounds:
+
+- Communicable disease of public health significance,
+
+- Failure to show proof of required vaccinations,
+
+- Physical or mental disorder with associated harmful behavior, and
+
+- Drug abuse or addiction.
+
+H2: B. Background
+
+Public health concerns have been reflected in U.S. immigration law since the Immigration Act of 1882.[1]Among others, “persons suffering from a loathsome or a dangerous contagious disease” were not allowed to enter the United States.[2]In 1990, Congress revised and consolidated all of the grounds of inadmissibility. It narrowed health-related grounds of inadmissibility to include only aliens with communicable diseases, physical or mental disorders with associated harmful behavior, or those with drug abuse or addiction problems.[3]
+
+As of 1996, Congress requires all immigrant visa and adjustment of status applicants to establish that they have been vaccinated against certain vaccine-preventable diseases.[4]
+
+H2: C. Role of the Department of Health and Human Services (HHS)
+
+Because medical knowledge and public health concerns can and do change over time, Congress gave the Department of Health and Human Services (HHS) the authority to designate by regulations which conditions make an alien inadmissible on health-related grounds.
+
+The HHS component charged with defining these medical conditions is the Centers for Disease Control and Prevention (CDC). CDC’s responsibilities include:
+
+- Publishing regulations addressing health-related conditions that render an applicant inadmissible;
+
+- Establishing the medical examination requirements in its Technical Instructions for Medical Examination of Aliens (Technical Instructions) that are binding on civil surgeons in the United States, panel physicians overseas, USCIS officers, and State Department consular officers;[5]
+
+- Responding to medical questions that officers, civil surgeons, and panel physicians may have based on the Technical Instructions;[6]and
+
+- Advising USCIS on the adjudication of medical waivers.
+
+H2: D. Role of the Department of Homeland Security (DHS)
+
+Congress authorizes the Department of Homeland Security (DHS) to determine an alien’s admissibility to the United States, which includes determinations based on health reasons.[7]DHS must follow HHS regulations and instructions when determining whether an applicant is inadmissible on health-related grounds.[8]
+
+Congress also empowers DHS to designate qualified physicians as civil surgeons who conduct medical examinations of aliens physically present in the United States.[9]
+
+H2: E. Making a Health-Related Inadmissibility Determination
+
+To make a health-related inadmissibility determination, the officer should follow the steps outlined below:
+
+TABLE:
+Step of Adjudication | Where can I find​information​on this step?
+Step 1: Is the applicant subject to the health-related grounds of inadmissibility or is there another reason that requires the applicant to undergo an immigration medical examination? | Chapter 3, Applicability of Medical Examination and Vaccination Requirement [8 USCIS-PM B.3]
+Step 2: If required, has the applicant been medically examined by the appropriate physician and is the appropriate medical documentation in the file? | Chapter 3, Applicability of Medical Examination and Vaccination Requirement [8 USCIS-PM B.3]
+Step 3: Was the medical documentation[10]properly completed and is it still valid? | Chapter 4, Review of Medical Examination Documentation [8 USCIS-PM B.4] through Chapter 10, Other Medical Conditions [8 USCIS-PM B.10]
+Step 4: Is the applicant inadmissible based on the health-related grounds? | Chapter 11, Inadmissibility Determination [8 USCIS-PM B.11]
+Step 5: Is the applicant inadmissible based on grounds other than the health-related grounds, as evidenced by the medical documentation? | Chapter 11, Inadmissibility Determination, Section D, Other Grounds of Inadmissibility [8 USCIS-PM B.11(D)]
+
+H2: F. Legal Authorities
+
+- INA 212(a)(1)– Health-related grounds
+
+- INA 221(d)– Physical examination
+
+- INA 232;8 CFR 232– Detention of aliens for physical and mental examination
+
+- 42 U.S.C. 252– Medical examination of aliens
+
+- 42 CFR 34– Medical examination of aliens
+
+- Technical Instructions for Civil Surgeons (Technical Instructions), and updates[11]
+
+H2: Footnotes
+
+[^ 1]See the Immigration Act of 1882, 22 Stat. 214 (August 3, 1882).
+
+[^ 2]See the Immigration Act of 1891, 26 Stat. 1084 (March 3, 1891).
+
+[^ 3]See the Immigration Act of 1990 (IMMACT 90),Pub. L. 101-649  (PDF)(November 29, 1990).
+
+[^ 4]See the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRIRA), Division C ofPub. L. 104-208  (PDF)(September 30, 1996). SeeINA 212(a)(1)(A)(ii).
+
+[^ 5]Officers and designated physicians must obtain the Technical Instructions from CDC’s website atcdc.gov/immigrant-refugee-health/index.html. Updates to the Technical Instructions must also be followed.
+
+[^ 6]CDC can be reached atcdcqap@cdc.gov. Officers should identify themselves as an immigration officer in the e-mail. This e-mail address is not for inquiries from the public. It is only for inquiries from immigration officers and civil surgeons. Inquiries from the public should be submitted to CDC INFO atcdc.gov/dcs/ContactUs/Form.
+
+[^ 7]SeeINA 212(a).
+
+[^ 8]SeeINA 212(a)(1)(A).
+
+[^ 9]SeeINA 232.
+
+[^ 10]Medical documentation refers to the following: Report of Immigration Medical Examination and Vaccination Record (Form I-693), Report of Medical Examination by Panel Physician (Form DS-2054), and any other related worksheets.
+
+[^ 11]Available online atcdc.gov/immigrant-refugee-health/hcp/civil-surgeons/index.html.
+
+H2: Resources
+
+42 CFR 34- Medical examination of aliens
+
+42 U.S.C. 252- Medical examination of aliens
+
+INA 212(a)(1)- Health-related grounds
+
+INA 221(d)- Physical examination
+
+INA 232,8 CFR 232- Detention of aliens for physical and mental examination
+
+Technical Instructions for Civil Surgeons
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-693, Report of Medical Examination and Vaccination Record
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating existing guidance based on revised Centers for Disease Control and Prevention Technical Instructions regarding tuberculosis, gonorrhea, and syphilis and the change in nomenclature from leprosy to Hansen’s Disease. USCIS is also updating how USCIS submits a request to CDC for advisory opinion and removing the outdated vaccination chart.
+
+8 USCIS-PM B.1-Chapter 1 - Purpose and Background
+
+8 USCIS-PM B.6-Chapter 6 - Communicable Diseases of Public Health Significance
+
+8 USCIS-PM B.8-Chapter 8 - Drug Abuse or Drug Addiction
+
+8 USCIS-PM B.9-Chapter 9 - Vaccination Requirement
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in Volume 8, Part B of the USCIS Policy Manual regarding the period of time during which a Form I-693 submitted in support of a related immigration benefits application is considered valid.
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is updating guidance regarding health-related grounds of inadmissibility in accordance with the U.S. Department of Health and Human Services (HHS) rulemaking updating Title 42 of the Code of Federal Regulations, part 34 (42 CFR 34).
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual on the health-related grounds of inadmissibility under INA 212(a)(1) and corresponding waivers under INA 212(g).
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+9 USCIS-PM D-Part D - Health-Related Grounds of Inadmissibility

@@ -1,0 +1,529 @@
+H1: Chapter 12 - Public Charge Bonds: Maintaining, Substituting, and Canceling Bonds
+
+- Guidance
+
+- Resources (68)
+
+- Appendices (5)
+
+- Updates (12)
+
+H2: A. Maintaining Bonds
+
+Once an alien has adjusted their status to that of a lawful permanent resident (LPR), USCIS must ensure that the bond continues to be enforceable during the bond’s validity. Additionally, an obligor, agent or co-obligor, or the alien may experience a change of address, or the obligor or the alien may wish to substitute the bond.
+
+USCIS will send a copy of any communication with the obligor, the obligor’s representative, if any, the agent or co-obligor, and the agent or co-obligor’s representative, if any, to the alien, and the alien’s representative, if any.[1]For that reason, any communication relating to the review of the bond should ordinarily be in writing.
+
+If the officer has to communicate with any of the parties involved in the bond orally, USCIS generally transcribes the communication, and sends a copy of the transcribed communication to all parties involved. USCIS also retains a copy of the communication in the alien’s file.
+
+H2: B. Substituting a Bond
+
+An alien or an obligor may have an interest in having the bond substituted at any time. For example, an alien may have found a different obligor who provides the alien better financial terms and conditions for purposes of a public charge bond submission. Another example would be if the obligor would like to be released from the public charge bond obligation and therefore, asks the alien to seek a new obligor.
+
+Acceptance of the Substitute Bond
+
+A public charge bond on file with USCIS may be substituted. A substitute bond may either be submitted by the original obligor or a new obligor on behalf of the alien. A substitute bond is submitted on Public Charge Bond (Form I-945) and completed in accordance with the form’s instructions.[2]
+
+When USCIS is reviewing the sufficiency of the substitute bond, USCIS ensures that the following requirements are met before presenting the public charge bond to the designated USCIS authority for signature and acceptance of the bond:
+
+- The bond must meet all of the requirements applicable to the initial bond; and
+
+- The bond must cover all liabilities that the initial obligor incurred, including any breach of the bond conditions, before USCIS accepts the substitute bond. The reason for this requirement is that USCIS may not learn of a breach until after the expiration or cancellation of the bond previously submitted to USCIS.Form I-945includes this requirement as a term of the condition. When USCIS is verifying the sufficiency of the substitute public charge bond, USCIS must ensure that no text on the Form I-945 has been altered before USCIS accepts the form by having it signed by the designated USCIS authority.
+
+In addition, USCIS follows the steps outlined in this part,[3]addressing the acceptance of a public charge bond when reviewing the substitute public charge bond for sufficiency.
+
+If USCIS determines that the substitute bond is sufficient, the officer should forward the public charge bond for acceptance by the designated USCIS authority for signature. The substitute bond is effective on the day it is signed by the designated USCIS authority. The officer should proceed with issuing the receipt as outlined in this part.[4]
+
+As part of the acceptance of the new public charge bond, USCIS cancels the bond being substituted, releases any prior obligors from liability, and accepts the substitute bond. A copy of the communication must be sent to all parties involved. If the bond that is returned to the obligor was a cash bond, USCIS must return the original bond amount and any interest accrued to the obligor of the bond being substituted.
+
+If the substitute bond submitted is insufficient, USCIS generally notifies the obligor of the substitute bond so that the obligor may correct the deficiency or deficiencies within the timeframe stipulated in USCIS’ notice. This notice should not only be sent to the new obligor, but all parties involved, including the obligor and agent or co-obligor, if any, on file (the bond to be substituted), the agent or co-obligor of the substitute bond, the alien, and any representative of any of the parties involved. If the deficiency is not corrected within the timeframe specified, the bond currently on file remains in effect.
+
+H2: C. Breach of Bond
+
+A condition of the bond is that the alien not receive public benefits[5]in the form of either public cash assistance for income maintenance or long-term institutionalization at government expense after the alien has adjusted their status to that of a LPR and until USCIS cancels the bond.[6]A bond may be breached for non-compliance of any condition imposed on the public charge bond.[7]
+
+H3: 1. Investigation
+
+USCIS may learn of a potential bond breach from various sources. For example, USCIS may learn of a potential bond breach from the alien requesting that the public charge bond be canceled, when indicating as part of the cancellation request, that they have received public benefits. Regardless of the source of the information, USCIS investigates the allegation of the public charge bond breach.
+
+Handling Information Prohibited from Disclosure to the Obligor
+
+When investigating the information received about public benefits receipt, USCIS is required to send all communications relating to the bond to all parties involved, including the obligor, the agent or co-obligor, and all parties’ representatives, if any. Before sending any communication regarding the bond breach, USCIS consults the Office of the Chief Counsel (OCC) to determine whether any information USCIS has would be protected by law from the disclosure to the obligor.
+
+If the information may not be disclosed by law, USCIS may not address it in the communication and use it for purposes of the public charge breach determination. Information that is not prohibited from disclosure should be included in the communication to all parties.
+
+H3: 2. Adjudication
+
+A bond breach exists because the alien did not comply with the conditions of the bond; however, USCIS must declare the bond breached by notifying the obligor. Before the bond can be declared breached, USCIS must determine whether the information supports a finding that any conditions imposed by the bond were breached.
+
+If USCIS finds that there is insufficient information to determine whether a breach occurred, USCIS should request additional information from the alien or the obligor. However, if the evidence USCIS possesses supports a finding of a breach, then USCIS should inform the obligor and an agent or co-obligor of USCIS’ intention to declare the bond breached by issuing a Notice of Intent to Declare the Public Charge Bond Breached. The notice must, at a minimum, comply with the following guidelines:
+
+- Be sufficiently specific to give the obligor or the agent or co-obligor the opportunity to respond and submit rebuttal evidence;
+
+- Include all documentation received that supports the breach determination and is by law permitted to be disclosed to the obligor or agent or co-obligor. Any information that is prohibited, by law, from being disclosed should be redacted and may not be used to support the bond breach. USCIS should consult OCC before sending the notice to avoid inadvertent disclosure; and
+
+- Include a date by when the obligor must respond and submit rebuttal evidence.
+
+USCIS must also send a copy of any notification to the obligor or co-obligor regarding the breach to the alien and the alien's representative, if any.
+
+H3: 3. Determination
+
+After receiving the obligor's response to the Notice of Intent to Declare the Public Charge Bond Breached, USCIS determines whether the obligor’s response and any evidence submitted to rebut the initial breach determination is sufficient to overcome USCIS’ initial determination that the bond was breached.
+
+If the obligor or agent or co-obligor has not provided sufficient evidence to rebut USCIS’ determination that the public charge bond was breached or if the obligor did not respond by the date required in the Notice of Intent to Declare the Public Charge Bond Breached, USCIS declares the bond breached, and informs the obligor and agent or co-obligor, if any, of the right to appeal the bond breach determination. USCIS must provide a copy of the determination to all parties involved in the bond.
+
+If the information reveals that the alien has not breached the public charge bond conditions, the public charge bond remains in place. USCIS must provide a copy of the determination to all parties involved of in the bond.
+
+H3: 4. Appeal of Breach Determination
+
+An obligor[8]may appeal a breach determination to USCIS’ Administrative Appeals Office (AAO) by filing a Notice of Appeal or Motion (Form I-290B) together with the appropriate fee and required evidence.[9]If the obligor fails to appeal the bond breach determination within the requisite appeal period, or if the appeal is filed untimely, the bond breach determination becomes administratively final unless a motion is granted to reopen or reconsider the proceedings, if permitted under the regulations.
+
+If the obligor appeals the bond breach determination in a timely fashion, USCIS reviews the decision before the appeal is forwarded to the AAO.[10]If an appeal is warranted, USCIS may treat the appeal as a motion and then take favorable action, which would resolve the appeal. USCIS may reopen a proceeding or reconsider a decision on their own motion.[11]
+
+If the officer is not inclined to take a favorable action, the appeal should be forwarded to the AAO for a decision on the obligor’s appeal.
+
+H3: 5. Collecting Bond Amount
+
+An administratively final determination that a bond has been breached creates a claim in favor of the United States. The claim may not be released or discharged by an immigration officer.
+
+Cash Bonds
+
+In a cash bond, the actual face value of the bond is deposited with USCIS to be held in case of a bond breach. Upon an administratively final decision that the bond has been breached, the money that was deposited for purposes of the bond becomes the means to satisfy the claim that the bond breach created in favor of the U.S. government. At that time, the entire bond amount is forfeited by the obligor. However, USCIS must return the interest accrued on the deposited amount. After all business is concluded, the obligor is released from the public charge bond.
+
+Surety Bonds
+
+In a surety bond, no cash is exchanged as part of the bond contract when the bond is posted.[12]Only if the bond is breached will the surety company be required to pay the promised amount of money to the U.S. government. A surety company (or the obligor) must carry out its contracts and comply with statutory requirements, including prompt payment of demands arising from an administratively final determination that the bond had been breached.[13]
+
+H2: D. Canceling a Bond
+
+In general, a public charge bond has to remain in place until the bond can be canceled and USCIS determines that the bond has not been breached.
+
+H3: 1. Request to Cancel
+
+In general, until either the obligor or the alien has filed a request to cancel the bond and USCIS has favorably adjudicated it, the bond remains in effect. USCIS may, however, at its own discretion, cancel the public charge bond if USCIS determines that the alien otherwise meets the requirement for cancellation.[14]
+
+The request to cancel the public charge bond must be submitted on a Request for Cancellation of Public Charge Bond (Form I-356). The request must be completed and submitted in accordance with the form’s instructions and accompanied by the appropriate fee, if applicable.[15]
+
+Because the form may be submitted either by the obligor or the alien, Form I-356 has several parts that must be completed either by the obligor (the person who has posted the bond) or by the obligor’s authorized agent (co-obligor, for surety companies only) who posted the bond on behalf of the alien, or by the alien. If the alien is deceased, the executor of the alien’s estate may complete the alien’s part on behalf of the alien.
+
+Therefore, it is possible that a cancellation request is submitted without the obligor or any agent or co-obligor, or the alien (or the alien’s executor) knowing about it. In the form instructions, USCIS encourages completion of the entire form by all parties before it is submitted. However, it is possible for a request to be submitted when only partially completed, particularly when one party has requested cancellation of the bond without informing or including the other parties in the cancellation request.
+
+Missing Information from the Alien
+
+If the obligor (or the agent or co-obligor) submits the cancellation request but the request does not contain the information from the alien required to cancel the bond, the officer should do the following:
+
+- Copy the request for cancellation of the public charge bond form for all parties involved;
+
+- Send the original request received from the obligor to the alien for completion of their parts of the bond cancellation request form, including signature parts;
+
+- Specify the date when the alien’s response is due (for purposes of calculating the response due date, the officer should follow USCIS guidance on the issuance of a Request for Evidence); and
+
+- Send a copy of the communication to the obligor and the agent or co-obligor and any representative, even though the request originated from the obligor or agent or co-obligor.
+
+If the alien fails to respond to the communication within the timeframe stipulated, the officer should deny the request to cancel the public charge bond. This denial is without prejudice to the filing of another cancellation request.
+
+Missing Information from Obligor
+
+If the request to cancel the bond is submitted by the alien without involvement of the obligor, USCIS officers should evaluate the information contained in the request to cancel the bond and proceed with the cancellation adjudication. If the alien’s information reveals that the bond may have been breached, the officer is required to notify the obligor through a Notice of Intent to Declare the Public Charge Bond Breached and share the information provided by the alien, to the extent permissible by law. This provides sufficient notice to the obligor of the alien’s request to cancel the bond, and the opportunity to rebut any derogatory information regarding a possible bond breach.
+
+H3: 2. Adjudicating the Request
+
+An alien or obligor may request that USCIS cancel the public charge bond if the alien:
+
+- Died (as evidenced by a certified copy of a death certificate, provided the immigrant did not become a public charge before death);
+
+- Permanently departed the United States (provided the immigrant did not become a public charge before departure);
+
+- Naturalized or otherwise obtained United States citizenship (provided the immigrant did not become a public charge before naturalization); or
+
+- Reached their 5-year anniversary since admission or becoming an LPR. For purposes of this determination, the alien or the obligor must establish that the public charge bond has not been breached during the 5-year period preceding the alien’s fifth anniversary of becoming an LPR.[16]
+
+In addition to having to demonstrate that the above requirements are met, the obligor and the alien must demonstrate that the bond has not been breached before the cancellation of the public charge bond by USCIS.[17]
+
+Form I-356lists the pertinent information that the alien has to provide to establish that the bond be canceled.
+
+If there is insufficient information to determine whether a breach occurred, or whether the cancellation requirements are met, USCIS may request additional information from the alien or the obligor.
+
+H3: 3. Special Considerations Related to Permanent Departure
+
+USCIS must approve the request to cancel the public charge bond if the alien has not breached the public charge bond and permanently departed the United States.[18]
+
+An alien is considered to have permanently departed if the alien has:
+
+- Lost or abandoned LPR status, whether involuntarily by operation of law or voluntarily; and
+
+- Is physically outside the United States.
+
+An alien must establish that both elements have been met before USCIS cancels the bond.
+
+For these purposes, an alien is deemed to have involuntarily lost LPR status by operation of law only if the alien lost their status:
+
+- In removal proceedings with the entry of a final order of removal; or
+
+- Through rescission of adjustment of status.
+
+If an alien loses their LPR status through operation of law, the alien would be required to provide evidence of the loss of status by submitting evidence of the official determination of loss of LPR status before USCIS can cancel the bond.
+
+Generally, determining whether an alien has abandoned their LPR status voluntarily is fact specific and courts consider factors such as the length of an alien’s absence from the United States, family and employment ties, property holdings, residence, and the alien’s intent or actions.[19]Any alien may intentionally relinquish LPR status through their voluntary actions, such as by submitting a declaration of intent to abandon LPR status. Neither the Immigration and Nationality Act nor DHS regulations direct how aliens may formally inform the U.S. government of their abandoning their LPR status.
+
+To simplify the process, USCIS created the Record of Abandonment of Lawful Permanent Resident Status (Form I-407) as a means by which an alien may formally record that they have abandoned LPR status. The purpose of the form is to create a record and to ensure that the alien acts voluntarily and willingly, and is informed of the right to a hearing before an immigration judge and has knowingly, willingly, and affirmatively waived that right.
+
+An alien may demonstrate voluntary relinquishment of the LPR status for purposes of bond cancellation by showing proof that they submitted Form I-407 to the U.S. government from outside the United States.
+
+H3: 4. Decision
+
+If USCIS determines that the obligor or the alien met the burden of proof to establish that the bond has not been breached since the alien became an LPR and that the conditions for the cancellation of the bond are met, USCIS may cancel the public charge bond. The decision to cancel the bond must be sent to all parties involved. When the public charge bond is canceled, the obligor is released from liability.
+
+USCIS must notify the obligor and all parties involved of the cancellation of the bond and retain a copy of the communication in the file. If the public charge bond has been secured by a cash deposit or a cash equivalent, USCIS must refund the cash deposit and any interest earned to the obligor along with the communication.[20]
+
+If USCIS determines that the alien does not meet the requirements for cancellation, other than a bond breach, then USCIS issues a Notice of Intent to Deny (NOID) to the obligor and any agent or co-obligor and any representative, in order to extend the opportunity to rebut any information. The notice must include the information provided by the alien inForm I-356, unless protected by law, and any other documentation.
+
+The officer will send a notice of the communication to the alien and the alien’s representative. If the obligor’s timely response to the NOID reveals that the alien does not meet the cancellation requirements then the officer should not cancel the public charge bond.
+
+If the obligor’s response cannot overcome the adverse information, then USCIS issues the decision, informing the obligor and the agent or co-obligor and any representative and the alien and the alien’s executor, if any, and the alien’s representative, if any, that the bond cannot be canceled and that it remains in effect. The obligor may file an appeal to challenge this determination.[21]
+
+An obligor may only file a motion[22]after an unfavorable decision on an appeal.
+
+If USCIS determines that the alien has breached the public charge bond, USCIS initiates bond breach proceedings.[23]As part of the notification to the obligor of USCIS’ intent to declare the bond breached, the officer should explain why the bond cannot be canceled.
+
+H2: Footnotes
+
+[^ 1]See Public Charge Bond (Form I-945).
+
+[^ 2]See8 CFR 103.2(a)(1).
+
+[^ 3]See Chapter 11, Public Charge Bonds: Posting and Accepting Bonds [8 USCIS-PM G.11].
+
+[^ 4]See Chapter 11, Public Charge Bonds: Posting and Accepting Bonds, Section D, Assessing the Sufficiency of a Submitted Public Charge Bond, Subsection 2, Issuing a Receipt for Accepted Bonds [8 USCIS-PM G.11(D)(2)].
+
+[^ 5]See8 CFR 212.21(b)-(d).
+
+[^ 6]See8 CFR 103.6(c)(1).
+
+[^ 7]SeeINA 213.
+
+[^ 8]The obligor includes the term agent or co-obligor.
+
+[^ 9]See8 CFR 103.3.
+
+[^ 10]See8 CFR 103.3(a)(2).
+
+[^ 11]See8 CFR 103.5(a)(5)(i).
+
+[^ 12]See Chapter 10, Public Charge Bonds, Section B, Type of Bonds [8 USCIS-PM G.10(B)].
+
+[^ 13]See31 U.S.C. 9305(b)(3).
+
+[^ 14]See8 CFR 103.6(c)(1).
+
+[^ 15]See8 CFR 103.5.
+
+[^ 16]See Public Charge Bond (Form I-945).
+
+[^ 17]See Instructions for Request for Cancellation of Public Charge Bond (Form I-356).
+
+[^ 18]SeeINA 213.
+
+[^ 19]SeeMatter of Huang  (PDF), 19 I&N Dec. 749, 755-57 (BIA 1988) (considering the alien’s absence from the United States because of her husband’s work and study abroad, as well as her own employment abroad, to find that her absence was not temporary in nature and that she had abandoned her LPR status). SeeMatter of Kane  (PDF), 15 I&N Dec. 258, 265 (BIA 1975) (alien who spent 11 months per year living in her native country operating a lodging house abandoned her LPR status; her desire to retain her status, without more, was not sufficient). SeeMatter of Quijencio  (PDF), 15 I&N Dec. 95, 97-98 (BIA 1974) (alien’s LPR status considered abandoned after 12-year absence). SeeMatter of Castro  (PDF), 14 I&N Dec. 492, 494 (BIA 1973) (alien who severed his ties to the United States for 6 years, moved abroad, acquired land, built a house and obtained steady employment, but made brief business trips to the United States was not a returning resident and had abandoned his status). SeeMatter of Montero  (PDF), 14 I&N Dec. 399, 400-01 (BIA 1973) (alien who returned to her native country to join her husband, children, home, employment, and financial resources without fixed intent to return within a fixed period had abandoned her LPR status). SeeKhoshfahm v. Holder, 655 F.3d 1147, 1154 (9th Cir. 2011) (alien child who was out of the country for 6 years and prevented from returning due to the father’s heart condition and the events of September 11 did not abandon his LPR status).
+
+[^ 20]SeeINA 293. See8 CFR 293.1.
+
+[^ 21]See generally8 CFR 103.
+
+[^ 22]See8 CFR 103.5.
+
+[^ 23]See Section C, Breach of Bond [8 USCIS-PM G.12(C)].
+
+H2: Resources
+
+10 U.S.C. 504(b)- Citizenship or residency
+
+15 U.S.C. 1681- Congressional findings and statement of purpose
+
+21 U.S.C. 802- Definitions
+
+21 U.S.C. 841- Prohibited acts A
+
+22 CFR 40.51- Labor certification
+
+29 CFR 570- Child labor regulations, orders and statements of interpretation
+
+29 U.S.C. 213(c)- Child labor requirements
+
+31 U.S.C. 9304-9308- Surety corporations
+
+42 CFR 34.4- Medical notifications
+
+42 U.S.C. 1382c                                           (PDF)- Definitions
+
+42 U.S.C. 413- Quarter and quarter of coverage
+
+42 U.S.C. 416(l)- Retirement age
+
+7 CFR 273- Certification of eligible households
+
+8 CFR 1.2- Definitions
+
+8 CFR 1.3- Lawfully present aliens for purposes of applying for Social Security benefits
+
+8 CFR 1003.14- Jurisdiction and commencement of proceedings
+
+8 CFR 1003.1- Organization, jurisdiction, and powers of the Board of Immigration Appeals
+
+8 CFR 103.6- Immigration bonds
+
+8 CFR 204.5- Petitions for employment-based immigrants
+
+8 CFR 212.4- Applications for the exercise of discretion under section 212(d)(1) and 212(d)(3)
+
+8 CFR 213a- Affidavits of support on behalf of immigrants
+
+8 CFR 235- Inspection of persons applying for admission
+
+8 CFR 245.11- Adjustment of aliens in S nonimmigrant classification
+
+8 CFR 292- Representation and appearances
+
+8 U.S.C. 1601-1646- Restricting welfare and public benefits for aliens
+
+8 U.S.C. 1611                                           (PDF)- Aliens who are not qualified aliens ineligible for Federal public benefits
+
+8 U.S.C. 1612                                           (PDF)- Limited eligibility of qualified aliens for certain Federal programs
+
+8 U.S.C. 1613                                           (PDF)- Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
+
+8 U.S.C. 1641                                           (PDF)- Definitions
+
+Final Specification of Community Programs Necessary For Protection Of Life Or Safety Under Welfare Reform Legislation,66 FR 3613 (Jan. 16, 2001) (Final rule)
+
+INA 101- Definitions
+
+INA 101(a)(15)- Nonimmigrant classifications
+
+INA 201- Worldwide level of immigration
+
+INA 203- Allocation of immigrant visas
+
+INA 208- Asylum
+
+INA 212(a)(4), 8 CFR 212.20-212.23 - Public charge inadmissibility
+
+INA 212(d)- Temporary admission of nonimmigrants
+
+INA 213,8 CFR 213.1- Admission of aliens on giving bond or undertaking; return upon permanent departure; adjustment of status of aliens on submission of a public charge bond
+
+INA 213A,8 CFR 213a- Requirements for sponsor's declaration of financial support
+
+INA 235- Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing
+
+INA 237(a)(5)- Public charge (deportable aliens)
+
+INA 239,8 CFR 239- Initiation of removal proceedings
+
+INA 245(j)- Adjustment to permanent resident status
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+INA 248,8 CFR 248- Change of nonimmigrant classification
+
+INA 289- Application to American Indians born in Canada
+
+Pub. L. 104-193                                           (PDF)- Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996
+
+Pub. L. 104-208                                        (PDF)- Illegal Immigration Reform and Immigrant Responsibility Act of 1996
+
+Pub. L. 106-395                                           (PDF)- Child Citizenship Act of 2000
+
+Pub. L. 111-293                                           (PDF)- Help Haitian Adoptees Immediately to Integrate Act of 2010
+
+Pub. L. 111-8                                            (PDF)- Section 602(b), Title VI of the Afghan Allies Protection Act of 2009
+
+Pub. L. 113-4                                           (PDF)- 127 Stat 54 of the Violence Against Women Reauthorization Act of 2013
+
+Pub. L. 89-732                                        (PDF)- Cuban Refugees Adjustment of Status
+
+Section 11,26 Stat 1084                        (PDF)of the Immigration Act of 1891
+
+Section 212(a)(15),66 Stat 163                                           (PDF), 183 of the Immigration and Nationality Act of 1952
+
+Sections 1-2,22 Stat 214                        (PDF)of the Immigration Act of 1882
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-130, Petition for Alien Relative
+
+I-134, Declaration of Financial Support
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-601, Application for Waiver of Grounds of Inadmissibility
+
+I-693, Report of Medical Examination and Vaccination Record
+
+I-864, Affidavit of Support Under Section 213A of the INA
+
+I-864A, Contract Between Sponsor and Household Member
+
+I-864EZ, Affidavit of Support Under Section 213A of the INA
+
+How to Use the USCIS Policy Manual Website
+
+Public Charge Inadmissibility, USCIS National Engagement (Sept. 29, 2022) Power Point Presentation                   (PDF, 1.24 MB)
+
+H2: Appendices
+
+Appendix: Applicability of INA 212(a)(4) to Employment-Based Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Family-Based Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Other Applicants
+
+Appendix: Applicability of INA 212(a)(4) to Refugee, Asylee, and Parolee Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Special Immigrant Adjustment of Status Applications
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update incorporates into Volume 8 the policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced December 19, 2022, addressing the public charge ground of inadmissibility under section 212(a)(4) of the Immigration and Nationality Act (INA), as implemented by the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF)(Sep. 9, 2022).
+
+This guidance became effective December 23, 2022, and applies to adjustment of status applications postmarked (or filed electronically, if applicable) on or after that date. For applications postmarked (or submitted electronically, if applicable) before December 23, 2022, USCIS will continue to apply the public charge ground of inadmissibility consistent with the statute and the1999 Interim Field Guidance.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address the public charge ground of inadmissibility under section 212(a)(4) of the Immigration and Nationality Act (INA), as implemented by the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF)(Sep. 9, 2022).
+
+The new final rule and policy guidance become effective December 23, 2022, and apply to adjustment of status applications postmarked (or filed electronically, if applicable) on or after that date. For applications postmarked (or submitted electronically, if applicable) before December 23, 2022, USCIS will continue to apply the public charge ground of inadmissibility consistent with the statute and the1999 Interim Field Guidance.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+This technical update to Volume 8 alerts readers to the September 9, 2022 publication of the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF), and clarifies that USCIS will continue to apply the 1999 Interim Field Guidance until the final rule goes into effect on December 23, 2022. For more information about how USCIS is applying the public charge ground of inadmissibility, see thePublic Charge Resourceswebpage.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+USCIS is administering the public charge inadmissibility statute (section 212(a)(4) of the Immigration and Nationality Act) consistent with the 1999 Interim Field Guidance to determine whether a noncitizen is inadmissible as likely at any time to become a public charge. The 1999 Interim Field Guidance is the policy that was in place before the 2019 Public Charge Final Rule was implemented. The 2019 Public Charge Final Rule is no longer in effect. For more information about how USCIS is applying the public charge ground of inadmissibility, see thePublic Charge Resourceswebpage.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update removes the guidance in Volume 2, Part A, Chapter 4, Volume 8, Part G, and Volume 12, Part D, Chapter 2 relating to the administration of the public charge ground of inadmissibility under theInadmissibility on Public Charge Groundsfinal rule, 84 FR 41292 (Aug. 14, 2019); as amended byInadmissibility on Public Charge Grounds; Correction, 84 FR 52357 (Oct. 2, 2019) ( “Public Charge Final Rule”), which was implemented on Feb. 24, 2020. On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. On Nov. 3, 2020, the U.S. Court of Appeals for the Seventh Circuit issued an administrative stay and, on Nov. 19, 2020, a stay pending appeal of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted its stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update removes the WA Food Assistance Program for Legal Immigrants from the list of examples of state, local, and tribal cash assistance programs that are considered income maintenance for purposes of the public charge inadmissibility determination.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+This update incorporates into Volumes 2, 8, and 12 policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced February 5, 2020, implementing the Inadmissibility of Public Charge Grounds Final Rule. This guidance is in effect as of February 24, 2020 and applies nationwide to all applications and petitions postmarked on or after that date. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Final Rule. For more information about the classes of [noncitizens] who are exempt from the Final Rule, see theappendicesrelated to applicability. For information on related litigation affecting implementation, see theUSCIS webpageon the injunction.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual to address the final rule on the public charge ground of inadmissibility. This policy guidance is effective on February 24, 2020, and will apply to all applicants and petitioners filing applications and petitions for adjustment of status, extension of stay, and change of status, except for applicants and petitioners in the State of Illinois, whose cases will be adjudicated under prior policy, including the1999 Interim Field Guidance                   (PDF)andAFM Ch. 61.1                  (PDF). For additional information, seePublic Charge Inadmissibility Determinations in Illinois. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Inadmissibility on Public Charge Grounds final rule. For more information about the classes of [noncitizens] who are exempt from the final rule, see theappendicesrelated to applicability.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

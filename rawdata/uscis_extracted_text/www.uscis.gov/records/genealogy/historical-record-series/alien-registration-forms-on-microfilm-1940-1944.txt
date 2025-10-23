@@ -1,0 +1,91 @@
+H1: Alien Registration Forms on Microfilm, 1940 - 1944
+
+H2: What are AR-2s?
+
+Alien Registration Forms ("AR-2s") document the presence of aliens in the United States during the Second World War. The Immigration and Naturalization Service ("INS") used the Form AR-2 to make a record of all aliens residing in or entering the country between August 1940 and March 31, 1944. Although stamped with an Alien Registration Number ("A-Number"), AR-2s are a distinct records series and are notAlien Files("A-Files").
+
+The Alien Registration Program was a World War II-era national security measure ordered by the original Alien Registration Act of 1940. That 1940 Act directed INS to fingerprint and register every alien age 14 and older living or arriving in the United States. (This ambitious project was separate from “enemy alien registration;” the Alien Registration Program sought to make a registry of all aliens in the country, not just the citizens of enemy nations). For this purpose, INS introduced the Alien Registration Form AR-2, a form individually stamped with a unique personal identifier, the Alien Registration Number ("A-Number").
+
+The Alien Registration Program registered over 5.6 million aliens between August 1, 1940 and March 31, 1944, when the AR-2 records series closed. Alien Registration continued after April 1, 1944, but on different forms filed in a new series of individual records,Alien Files("A-Files").
+
+INS microfilmed the 5,665,983 AR-2s completed between August 1940 and March 1944. Most of the original AR-2s were subsequently destroyed. However, some original AR-2s ended up in A-Files opened under the same A-Number when the subject immigrants had subsequent interactions with INS.The microfilmed AR-2s are arranged in numerical order (by A-Number) on the microfilm and indexed by name, date of birth, and place of birth. Today USCIS maintains the AR-2 microfilm reels and the AR-2 Forms available from this series are as follows:
+
+TABLE:
+A-File Number | Description
+A1000000 to A5980116 | Resident aliens and Delayed registration, Aug 1940-Mar 1944
+A6100000 to A6132126 | Railroad workers, 1942-1943
+A7000000 to A7043999 | Children under 14 years of age, resident in US (not all children were registered), Aug 1940-Mar 1944
+A7500000 to A7759142 | Newly arriving immigrants (Consular registrations), Aug 1940-Mar 1944
+
+AR-2 Forms can document an individual’s presence in the United States during the early 1940s. The Alien Registration Program registered many resident aliens between 1940-1941 who had been living in the country for decades. Although AR-2s are not official arrival records, the AR-2 Form may be the agency’s only record of immigrants who arrived as early as the 1880's. For many others, the AR-2 Form may be their only other immigration record after their initial immigration arrival record.Form AR-2 asked for the information listed below. Researchers must remember that not all registrants provided all information.
+
+TABLE:
+NameName at time of entry to the USOther names usedAddressDate of BirthCitizenship/NationalityGenderMarital StatusRaceHeight & WeightHair & Eye ColorPort, date, ship and class of admission at last arrival in USDate of first arrival in USYears lived in USIntended stay in USUsual occupation | Present occupationPresent employer, including addressClub, organization, or society membershipsMilitary service (Country, branch, dates)Date and number of Declaration of Intention (if filed), and city and State where filed.Date of Petition for Naturalization (if filed), and city and State where filed.Arrest historyFingerprintSignatureDate and place of registration
+
+- Name
+
+- Name at time of entry to the US
+
+- Other names used
+
+- Address
+
+- Date of Birth
+
+- Citizenship/Nationality
+
+- Gender
+
+- Marital Status
+
+- Race
+
+- Height & Weight
+
+- Hair & Eye Color
+
+- Port, date, ship and class of admission at last arrival in US
+
+- Date of first arrival in US
+
+- Years lived in US
+
+- Intended stay in US
+
+- Usual occupation
+
+- Present occupation
+
+- Present employer, including address
+
+- Club, organization, or society memberships
+
+- Military service (Country, branch, dates)
+
+- Date and number of Declaration of Intention (if filed), and city and State where filed.
+
+- Date of Petition for Naturalization (if filed), and city and State where filed.
+
+- Arrest history
+
+- Fingerprint
+
+- Signature
+
+- Date and place of registration
+
+Who Registered? - The 1940 Alien Registration Act required all aliens within and entering the United States to register. Furthermore, persons who were unsure of their citizenship status were required to register even it if was later determined they were a U.S. citizen. Data generated from the 1940 registration indicates the majority of registrants were born between 1875 and 1910.
+
+Avoiding Common Index and Records Request Issues With AR-2 Index Search Issues With AR-2s - Identifying the correct individual's AR-2 can be difficult. To differentiate between individuals with the same or similar names and dates of birth in AR-2 records, the most useful information is often an immigrant’s residence ca. 1940 (State, county, town) and/or their occupation.Former names, exact birth dates, and places of birth can also be of value. INS indexed Alien Registration forms to include up to three names for each individual (aliases, alternate spellings, maiden names), but only if the immigrant provided more than one name on the form. AR-2 index entries also include an exact date of birth (if given on the form) and place of birth (if provided). Family member names do not appear on the forms. Record Request Issues - Be aware of the following potential Records Request Issues:
+
+- Possible Existence of Corresponding A-Files. One challenge surrounding Alien Registration Numbers (A-Numbers) is determining whether the number corresponds only to an AR-2 form, or whether there is an additionalA-Filejacket identified by the same A-Number. INS sometimes opened A-Files for immigrants registered through the Alien Registration Program using the same A-Number after April 1, 1944. Thus, A-Numbers in the AR-2 Form range (the majority numbered from 1 million to approximately 5.6 million) may also relate to an physical A-File identified by the same number. However, the existence of an A-Number from the early 1940’s does not guarantee the existence of an A-File.
+
+- Image Quality. A second challenge is producing the best possible image of the record from aging microfilm. A number of factors determine the quality of any given copy, including quality of the microfilm, reader/printer machine function, and the skill or determination of the machine operator. The USCIS Genealogy Program is committed to producing the best possible image of Alien Registration Forms AR-2. In addition, the Genealogy Program is investigating methods for the future reproduction and delivery of enhanced digital images taken from the microfilmed AR-2s.
+
+- Wrong Numbers. A third challenge for researchers is distinguishing the A-Number from other USCIS file numbers. One series of derivativeC-Filenumbers are also prefixed with an “A” (Learn more aboutC-Files). Other numbers appear on other records, such as ship passenger manifests, and it is dangerously tempting to add an “A” to the number and assume it is an A-Number. A-Numbers in the AR-2 range have seven digits, preceded by an "A" (AX XXX XXX).
+
+Unless you are certain of your immigrant's A-Number, you are strongly encouraged to submit anIndex Search Requestbefore yourRecord Requestto avoid complications. Besides avoiding a wrong number, the Index Search may also identify additional immigration records that you may want to include in your Records Request. A-Numbers above 8 million match to A-Files that are out of scope for the Genealogy Program and must be requested through theUSCIS Freedom of Information Act (FOIA) Program.
+
+If the immigrant later naturalized between ca. 1942 and 1956, you may find the A-Number at the bottom of the naturalization index card maintained by the naturalization court. If that A-Number is below approximately 5.6 million, there should be a corresponding Form AR-2 (seeC-Files). If the immigrant did not later naturalize, you may find the number on or among the immigrant’s personal papers.
+
+The images shown in theAR2 Form Galleryreflect typical information found in AR2 Forms and are for representative purposes only. Some data have been omitted due to privacy reasons. Documents availability vary by case.

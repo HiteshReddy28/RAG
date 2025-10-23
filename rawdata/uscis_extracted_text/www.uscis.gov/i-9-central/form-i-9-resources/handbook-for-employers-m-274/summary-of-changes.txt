@@ -1,0 +1,41 @@
+H1: Summary of Changes
+
+The purpose of this document is to outline significant changes made to the M-274, Handbook for Employers: Guidance for Completing Form I-9.
+
+H2: Updates Based on Form I-9 Revision 07/31/2023
+
+- Removed all references to previous enhancements and completing the form using a computer.
+
+- Changed all instances of “alien authorized to work” to “noncitizen authorized to work” throughout the Handbook.
+
+- Revised Section 3.0 to reflect the new Supplement A, Preparer and/or Translator Certification and added guidance regarding its use.
+
+- Added a new Section 4.5 as well as guidance throughout the handbook on implementing the alternative procedure for examining Form I-9 documentation remotely, including use of the checkbox on Form I-9 and new document retention requirements.
+
+- Revised Section 6 to remove references to the former Section 3 and incorporate the new title, placement and usage guidance for Supplement B, Reverification and Rehire, that replaces Section 3.
+
+- Added list of acceptable receipts in Section 13 to mirror the addition of acceptable receipts on the new Lists of Acceptable Documents for Form I-9.
+
+- Added appendix with the lists of common abbreviations for Section 2 document entry that was removed from the previous Form I-9 instructions.
+
+H2: New Guidance
+
+- Section 4.4: Added acceptable receipts for certain Afghan and Ukrainian parolees.
+
+- Section 5: In 2022, USCIS revised the Automatic Extensions of Employment Authorization and/or Employment Authorization Documents (EADs) in Certain Circumstances section to reflectthe 540-day automatic extension temporary final rule. In this revision, USCIS made further changes to reflect parts of the temporary final rule that have expired or will expire soon.
+
+- Section 5.3: Provided new guidance in the Automatic EAD Extensions for Temporary Protected Status (TPS) Beneficiaries section to reflect USCIS’s use of individual notices to extend certain EADs.
+
+- Section 10: Added link to new Form I-9 retention calculator.
+
+- Updated Section 13 to include descriptions and images of newly designed Form I-551, Permanent Resident Cards and Form I-766, Employment Authorization Documents.
+
+H2: Clarifications
+
+- Section 2.0: Clarified that authorized representatives who are also notaries do not act as notaries when completing Forms I-9 for an employer.
+
+- Section 4: Added a table to help employers more quickly find information on special situations they may encounter when verifying documentation for certain employees.
+
+- Section 7.3: Added two tables to clarify documents that refugees and asylees may present for Form I-9 and whether those documents require reverification.
+
+- Section 7.4.2: Clarified Form I-9 documentation that F-I students are required to present for on-campus employment.

@@ -1,0 +1,103 @@
+H1: Privacy and Legal Disclaimers
+
+The information on this page is out of date. However, some of the content may still be useful, so we have archived the page.
+
+Thank you for visiting U.S. Citizenship and Immigration Services (USCIS) online and reviewing our website privacy policy. USCIS is a component of the Department of Homeland Security (DHS). Our privacy policy explains how we handle the personally identifiable information (PII) that you provide to us when you visit us online to browse, obtain information, or conduct a transaction. PII includes information that is personal in nature and which may be used to identify you. You may provide PII to us when you email us or send a request for information, when you fill out a questionnaire or satisfaction survey, when you participate in a research study, etc. We do not require you to register or provide PII to visit our website. We do collect some technical information that does not include PII when you visit to make your visit seamless. The section below explains how we handle and collect information when you visitwww.uscis.gov.
+
+The PII you provide on a DHS website will be used only for the purpose for which you provided it. We will protect your information consistent with the principles of thePrivacy Act of 1974, theE-Government Act of 2002, and theFederal Records Act.
+
+As a general rule, DHS does not collect PII about you when you visit our website, unless you choose to provide such information to us. Submitting PII through our website is voluntary. By doing so, you are giving DHS your permission to use the information for a specific, stated purpose. However, not providing certain information may prevent us from providing you with the service you desire.
+
+If you choose to provide us with PII on a DHS website, through such methods as completing a web form, we will use that information to help us provide you the information or service you have requested. The information we may receive from you varies based on what you do when visiting our site.
+
+We only share the PII you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give your PII to any private organizations. We never collect information for commercial marketing.
+
+If we store your PII in a record system designed to retrieve information about you by personal identifier (name, personal email address, home mailing address, personal or mobile phone number, etc.), so that we may contact you, we will safeguard the information you provide to us in accordance with the Privacy Act of 1974, as amended (5 U.S.C. § 552a). The Privacy Act requires all public-facing sites or forms that request PII to prominently and conspicuously display a privacy notice.
+
+The notice must address the following criteria:
+
+- Legal authorization to collect information about you;
+
+- Purpose for which the information will be used;
+
+- Routine uses for disclosure of information outside of the Department of Homeland Security;
+
+- Whether your providing the information is voluntary or mandatory under law; and
+
+- Results if you choose to not provide the requested information.
+
+For the general contact information that may be submitted throughwww.uscis.gov, we have completed a Privacy Impact Assessment (PIA) and System of Records Notice (SORN) providing details about the privacy protections and redress options available for the contact information we collect from the public. We may use this information to provide you with information and to perform various administrative tasks. For further information, please reference the privacy compliance documentation below:
+
+- DHS/ALL/PIA-006Department of Homeland Security General Contact Lists  (PDF)Privacy Impact Assessment (April 25, 2019)
+
+- DHS/ALL-002Department of Homeland Security (DHS) Mailing and Other ListsSystem of Records Notice (November 25, 2008, 73 FR 71659)
+
+Many of our programs and websites allow you to send us email messages. We will use the information you provide to respond to your inquiry. We will only send you general information via email. You should be reminded that email may not necessarily be secure against interception. Therefore, we suggest that you do not send sensitive PII (such as your Social Security number) to us via email. If your intended email communication is sensitive, e.g., it includes information such as your bank account, charge card, or Social Security number, you should instead send it by U.S. mail. You may also submit data through a secure program website, if available.
+
+Electronic mail messages that meet the definition of records in theFederal Records Act(44 U.S.C. § 3101) are covered under the same disposition schedule as all other federal records. This means that emails you send us will be preserved and maintained for varying periods of time if those emails meet the definition of federal records. Electronic messages that are not records are deleted when no longer needed.
+
+When you browse through any website, certain information about your visit can be collected. We automatically collect the following types of information about your visit:
+
+- Domain from which you access the Internet;
+
+- IP address (an IP address is a number that is automatically assigned to a computer when navigating the internet);
+
+- Operating system and information about the device or browser used when visiting the site;
+
+- Date and time of your visit;
+
+- Content you visited or downloaded; and,
+
+- Website (such as google.com or bing.com) or referral source (email notice or social media site) that connected you to the website.
+
+Paperwork Reduction Act Statement
+
+An agency may not conduct or sponsor an information collection and a person is not required to respond to a collection of information unless it displays a currently valid OMB control number. The public reporting burden for this collection of information is estimated at 5 minute per response. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to: External Affairs Directorate, U.S. Citizenship and Immigration Services, 5900 Capital Gateway Drive – Mail Stop 2040, Camp Springs, MD 20588-0009. OMB No. 1615-0121. Do not return a completed form to this address.
+
+DHS Privacy Notice
+
+AUTHORITIES: The information requested on this survey, and the associated evidence, is collected under the Immigration and Nationality Act sections [101, 103, 221,245.; Public Law 103-62 “Government Performance and Results Act of 1993 (GPRA);” Public Law 111-352 “Government Performance and Results Modernization Act of 2010”; Public Law 107-347 “E-Government Act of 2002”; 31 U.S. Code § 1115, “Federal Government and agency performance plans”.
+
+PURPOSE: The primary purpose for providing the requested information on this survey is to provide USCIS with the feedback to make improvements to the services provided to the public.
+
+DISCLOSURE: The information you provide is voluntary.
+
+The Office of Management and Budget MemoM-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF)allows federal agencies to use session and persistent cookies.
+
+When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. Placing cookie text allows websites to “remember” visitors’ preferences, surfing patterns and behavior while they are connected.
+
+The cookie makes it easier for you to use the dynamic features of web pages. Cookies from our web pages only collect information about your browser’s visit to the site; they do not collect any personal information about you.
+
+There are two types of cookies, single session (temporary), and multi-session (persistent). Session cookies last only as long as your web browser is open. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods.
+
+Session Cookies: We use session cookies for technical purposes such as to enable better navigation through our site. These cookies let our server know that you are continuing a visit to our site. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1-Single Session.” The policy says, "This tier encompasses any use of single session web measurement and customization technologies."
+
+Persistent Cookies: We use persistent cookies to enable Google Analytics to differentiate between new and returning visitors to our site. Persistent cookies remain on your computer between visits to our sites for six months. We also use persistent cookies to block repeated invitations to take the ACSI survey. The persistent cookies that block repeated survey invitations expire in 90 days. The OMB Memo 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2-Multi-session without Personally Identifiable Information (PII).” The policy says, "This tier encompasses any use of multi-session web measurement and customization technologies when no PII is collected."
+
+If you do not wish to have session or persistent cookies stored on your machine, you canopt out or disable cookiesin your browser. You will still have access to all information and resources at DHS websites. However, turning off cookies may affect the functioning of some DHS websites. Be aware that disabling cookies in your browser will affect cookie usage at all other websites you visit as well.
+
+For additional information about the DHS’s use of Google Analytics, please see our privacy impact assessment, DHS/ALL/PIA-033Google Analytics  (PDF)(June 9, 2011).
+
+DHS uses social media websites and other kinds of third-party websites. We use social media websites to engage in dialogue, share information and media, and collaborate with the public. We may also use these websites to make information and services widely available, while promoting transparency and accountability, as a service for those seeking information about or services from DHS. The privacy policies for approved social media platforms are linked to the right of this privacy policy. We have have also published two Privacy Impact Assessments detailing our use of social media:
+
+- DHS/ALL/PIA-031Use of Social Networking Interactions and Applications Communications/Outreach/Public Dialogue  (PDF)(September 16, 2010)
+
+- DHS/ALL/PIA-036Use of Unidirectional Social Media Applications  (PDF)(March 8, 2011)
+
+DHS does not use third-party websites to solicit and collect PII from individuals. DHS will not transmit or store any PII collected by the third-party website; no PII will be disclosed, sold or transferred to any other entity outside DHs, unless required for law enforcement purposes or by statute consistent with the Privacy Act.
+
+DHS takes the security of all PII very seriously. We take precautions to maintain the security, confidentiality, and integrity of the information we collect at this site. Such measures include access controls designed to limit access to the information to the extent necessary to accomplish our mission. We also employ various security technologies to protect the information stored on our systems. We routinely test our security measures to ensure that they remain operational and effective.
+
+- For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+- Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
+
+- Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+
+DHS is committed to the protection of children’s online privacy. The Children’s Online Privacy Protection Act (COPPA) governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. If a DHS website intends to collect information from children under 13 years old, COPPA-required information and instructions will be provided by the specific web page that collects information about the child. The web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
+
+Our website contains links to international agencies, private organizations, and some commercial entities. These websites are not within our control and may not follow the same privacy, security, or accessibility polices. Once you link to another site, you are subject to the policies of that site. All federal websites, however, are subject to the same federal policy, security, and accessibility mandates.
+
+We welcome feedback if you have any questions regarding our privacy policy or the use of your information. Any additional privacy questions should be directed to theDHS Privacy Office. DHS’s privacy compliance materials are available atPrivacy Impact Assessments (PIA)andSystems of Records Notices (SORN). For additional information about our privacy policy, or for general privacy inquiries, please contact DHS atprivacy@dhs.gov, 703-235-0780 or mail us at:
+
+Department of Homeland SecurityWashington, D.C. 20528Attn: Privacy Office

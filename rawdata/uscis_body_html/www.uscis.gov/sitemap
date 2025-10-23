@@ -1,0 +1,3212 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/mapa-del-sitio" class="language-link" hreflang="es" data-drupal-link-system-path="sitemap">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+      
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                
+              </aside>
+                      
+          <div id="content" class="two-col">
+                            <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Sitemap</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content" class="container">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-page-title">
+    
+        
+          
+  <h1 class="uswds-page-title page-title">Sitemap</h1>
+
+
+      </div>
+  <div id="block-uscis-design-content">
+    
+        
+          <div class="sitemap">
+              <div class="sitemap-item sitemap-plugin--menu sitemap-item--menu-main">
+      <h2>Main navigation</h2>
+    <div>
+    
+        <ul>
+            <li>
+        <a href="/about-us" data-drupal-link-system-path="node/41972">About Us</a>
+                            <ul>
+              <li>
+        <a href="/about-us/organization/organization" data-drupal-link-system-path="node/88552">Organization</a>
+                            <ul>
+              <li>
+        <a href="/about-us/mission-and-core-values/what-we-do" data-drupal-link-system-path="node/42254">What We Do</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/leadership" data-drupal-link-system-path="node/41601">Leadership</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices" data-drupal-link-system-path="node/42081">Directorates and Program Offices</a>
+                            <ul>
+              <li>
+        <a href="/about-us/organization/directorates-and-program-offices/the-administrative-appeals-office-aao" data-drupal-link-system-path="node/41836">Administrative Appeals Office (AAO)</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/office-of-performance-and-quality" data-drupal-link-system-path="node/94932">Office of Performance and Quality</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/external-affairs-directorate" data-drupal-link-system-path="node/64644">External Affairs Directorate</a>
+                            <ul>
+              <li>
+        <a href="/about-us/organization/directorates-and-program-offices/external-affairs-directorate/office-of-citizenship" data-drupal-link-system-path="node/41567">Office of Citizenship</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/field-operations-directorate" data-drupal-link-system-path="node/41990">Field Operations Directorate</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/fraud-detection-and-national-security-directorate" data-drupal-link-system-path="node/41392">Fraud Detection and National Security Directorate</a>
+                            <ul>
+              <li>
+        <a href="/about-us/organization/directorates-and-program-offices/fraud-detection-and-national-security-directorate/administrative-site-visit-and-verification-program" data-drupal-link-system-path="node/44603">Administrative Site Visit and Verification Program</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/immigration-records-and-identity-services-directorate" data-drupal-link-system-path="node/42060">Immigration Records and Identity Services Directorate</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/management-directorate" data-drupal-link-system-path="node/71380">Management Directorate</a>
+                            <ul>
+              <li>
+        <a href="/about-us/organization/directorates-and-program-offices/management-directorate/office-of-intake-and-document-production" data-drupal-link-system-path="node/41774">Office of Intake and Document Production</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/office-of-investigations" data-drupal-link-system-path="node/71529">Office of Investigations</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/office-of-privacy" data-drupal-link-system-path="node/46543">Office of Privacy</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/office-of-the-chief-counsel" data-drupal-link-system-path="node/77911">Office of the Chief Counsel</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/office-of-the-executive-secretariat" data-drupal-link-system-path="node/77905">Office of the Executive Secretariat</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/refugee-asylum-and-international-operations-directorate-raio" data-drupal-link-system-path="node/98309">Refugee, Asylum and International Operations Directorate (RAIO)</a>
+              </li>
+          <li>
+        <a href="/about-us/organization/directorates-and-program-offices/service-center-operations-directorate" data-drupal-link-system-path="node/48237">Service Center Operations Directorate</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/our-history" data-drupal-link-system-path="node/96327">Our History</a>
+                            <ul>
+              <li>
+        <a href="/about-us/our-history/about-the-history-office-and-library" data-drupal-link-system-path="node/41635">About the History Office and Library</a>
+                            <ul>
+              <li>
+        <a href="/about-us/our-history/about-the-history-office-and-library/uscis-history-office-and-library-internship-program" data-drupal-link-system-path="node/98585">USCIS History Office and Library Internship Program</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/our-history/explore-agency-history" data-drupal-link-system-path="node/96325">Explore Agency History</a>
+                            <ul>
+              <li>
+        <a href="/about-us/our-history/explore-agency-history/history-of-women-in-federal-immigration-and-naturalization-service" data-drupal-link-system-path="node/93728">History of Women in Federal Immigration and Naturalization Service</a>
+              </li>
+          <li>
+        <a href="/about-us/our-history/explore-agency-history/organizational-timeline" data-drupal-link-system-path="node/43451">Organizational Timeline</a>
+              </li>
+          <li>
+        <a href="/about-us/our-history/explore-agency-history/overview-of-agency-history" data-drupal-link-system-path="node/42286">Overview of Agency History</a>
+              </li>
+          <li>
+        <a href="/about-us/our-history/explore-agency-history/commissioners-and-directors" data-drupal-link-system-path="node/45701">Commissioners and Directors</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/our-history/stories-from-the-archives" data-drupal-link-system-path="node/67540">Stories from the Archives</a>
+              </li>
+          <li>
+        <a href="/about-us/our-history/research-guides" data-drupal-link-system-path="node/42288">Research Guides</a>
+                            <ul>
+              <li>
+        <a href="/about-us/our-history/research-guides/researching-topics-and-events" data-drupal-link-system-path="node/41756">Topics and Events</a>
+              </li>
+          <li>
+        <a href="/about-us/our-history/research-guides/researching-individuals" data-drupal-link-system-path="node/42249">Individuals</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office" data-drupal-link-system-path="node/41931">Find a USCIS Office</a>
+                            <ul>
+              <li>
+        <a href="/about-us/find-a-uscis-office/application-support-centers" data-drupal-link-system-path="node/99408">Application Support Centers</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/if-you-feel-sick-do-not-come-to-your-uscis-appointment-please-cancel-and-reschedule-it" data-drupal-link-system-path="node/47754">If You Feel Sick, Do Not Come to Your USCIS Appointment; Please Cancel and Reschedule It</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/field-offices" data-drupal-link-system-path="node/60830">Field Offices</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-immigration-offices" data-drupal-link-system-path="node/41934">International Offices</a>
+                            <ul>
+              <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/turkey-uscis-ankara-field-office" data-drupal-link-system-path="node/97682">Ankara</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/china-uscis-beijing-field-office" data-drupal-link-system-path="node/43780">Beijing</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/bangladesh-uscis-dhaka-field-office" data-drupal-link-system-path="node/98772">Dhaka</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/china-uscis-guangzhou-field-office" data-drupal-link-system-path="node/43908">Guangzhou</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/guatemala-uscis-guatemala-city-field-office" data-drupal-link-system-path="node/44812">Guatemala City</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/havana-uscis-havana-field-office" data-drupal-link-system-path="node/96328">Havana</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/mexico-uscis-mexico-city-field-office" data-drupal-link-system-path="node/45610">Mexico City</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/kenya-uscis-nairobi-field-office" data-drupal-link-system-path="node/45569">Nairobi</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/india-uscis-new-delhi-field-office" data-drupal-link-system-path="node/43404">New Delhi</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/ecuador-uscis-quito-field-office" data-drupal-link-system-path="node/98367">Quito</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/el-salvador-uscis-san-salvador-field-office" data-drupal-link-system-path="node/44668">San Salvador</a>
+              </li>
+          <li>
+        <a href="/about-us/find-a-uscis-office/international-offices/honduras-uscis-tegucigalpa-field-office" data-drupal-link-system-path="node/97441">Tegucigalpa</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/budget-planning-and-performance" data-drupal-link-system-path="node/42021">Budget, Planning and Performance</a>
+              </li>
+          <li>
+        <a href="/about-us/contact-us" data-drupal-link-system-path="node/41573">Contact Us</a>
+                            <ul>
+              <li>
+        <a href="/contactcenter" data-drupal-link-system-path="node/44792">USCIS Contact Center</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/disability-accommodations-for-the-public" data-drupal-link-system-path="node/42223">Disability Accommodations for the Public</a>
+              </li>
+          <li>
+        <a href="/about-us/careers-at-uscis" data-drupal-link-system-path="node/41381">Careers</a>
+                            <ul>
+              <li>
+        <a href="/join" data-drupal-link-system-path="node/99916">Join USCIS</a>
+              </li>
+          <li>
+        <a href="/about-us/careers/career-opportunities" data-drupal-link-system-path="node/82400">Career Opportunities</a>
+              </li>
+          <li>
+        <a href="/about-us/careers/how-to-apply" data-drupal-link-system-path="node/45527">How to Apply</a>
+              </li>
+          <li>
+        <a href="/about-us/careers/special-hiring-programs" data-drupal-link-system-path="node/42233">Special Hiring Programs</a>
+              </li>
+          <li>
+        <a href="/about-us/careers/benefits" data-drupal-link-system-path="node/41721">Benefits</a>
+              </li>
+          <li>
+        <a href="/about-us/careers/training" data-drupal-link-system-path="node/41684">Training</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/new-employee-information-and-forms/new-employee-information-and-forms" data-drupal-link-system-path="node/41896">New Employee Information and Forms</a>
+              </li>
+          <li>
+        <a href="/about-us/affirmative-action-plan-for-the-recruitment-hiring-advancement-and-retention-of-persons-with" data-drupal-link-system-path="node/67431">Equal Employment Opportunity</a>
+                            <ul>
+              <li>
+        <a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" data-drupal-link-system-path="node/42220">No FEAR Act</a>
+              </li>
+          <li>
+        <a href="/about-us/equal-employment-opportunity/uscis-notification-of-violation" data-drupal-link-system-path="node/92982">USCIS Notification of Violation</a>
+              </li>
+          <li>
+        <a href="/about-us/equal-employment-opportunity/uscis-how-do-i-file-an-equal-employment-opportunity-complaint" data-drupal-link-system-path="node/43525">How Do I File An Equal Employment Opportunity Complaint?</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/about-us/uscis-contracting" data-drupal-link-system-path="node/66441">USCIS Contracting</a>
+                            <ul>
+              <li>
+        <a href="/about-us/uscis-contracting/uscis-contracting-opportunities" data-drupal-link-system-path="node/66884">USCIS Contracting Opportunities</a>
+              </li>
+          <li>
+        <a href="/about-us/uscis-contracting/uscis-vendor-engagement" data-drupal-link-system-path="node/66887">Vendor Engagement</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/afghan-support-center" data-drupal-link-system-path="node/97952">Afghan Support Center Resources By Location</a>
+                            <ul>
+              <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-anaheim-ca" data-drupal-link-system-path="node/97960">Anaheim, CA</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-atlanta-ga" data-drupal-link-system-path="node/97998">Atlanta, GA</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-buffalo-ny" data-drupal-link-system-path="node/97987">Buffalo, NY</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-chicago-il" data-drupal-link-system-path="node/97984">Chicago, IL</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-dallas-fort-worth-tx" data-drupal-link-system-path="node/97983">Dallas – Fort Worth, TX</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-denver-co" data-drupal-link-system-path="node/97980">Denver, CO</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-detroit-mi" data-drupal-link-system-path="node/97975">Detroit, MI</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-houston-tx" data-drupal-link-system-path="node/97962">Houston, TX</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-northern-virginia" data-drupal-link-system-path="node/98005">Northern Virginia</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-oklahoma-city-ok" data-drupal-link-system-path="node/98013">Oklahoma City, OK</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-phoenix-az" data-drupal-link-system-path="node/97956">Phoenix, AZ</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-pittsburgh-pa" data-drupal-link-system-path="node/98025">Pittsburgh, PA</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-raleigh-durham-nc" data-drupal-link-system-path="node/98023">Raleigh-Durham, NC</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-sacramento-ca" data-drupal-link-system-path="node/98036">Sacramento, CA</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-san-antonio-tx" data-drupal-link-system-path="node/98037">San Antonio, TX</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-seattle-wa" data-drupal-link-system-path="node/98040">Seattle, WA</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-st-louis-mo" data-drupal-link-system-path="node/97963">St. Louis, MO</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-syracuse-ny" data-drupal-link-system-path="node/97992">Syracuse, NY</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-tucson-az" data-drupal-link-system-path="node/98003">Tucson, AZ</a>
+              </li>
+          <li>
+        <a href="/afghan-support-center-resources-by-location/resources-in-tulsa-ok" data-drupal-link-system-path="node/98004">Tulsa, OK</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/ded-covered-country-venezuela" data-drupal-link-system-path="node/92284">DED Covered Country – Venezuela</a>
+              </li>
+          <li>
+        <a href="/citizenship/learners/free-information-sessions" data-drupal-link-system-path="node/88465">Free Naturalization Information Sessions</a>
+              </li>
+          <li>
+        <a href="/topics" data-drupal-link-system-path="node/93148">Topics</a>
+                            <ul>
+              <li>
+        <a href="/adoption" data-drupal-link-system-path="node/41393">Adoption</a>
+              </li>
+          <li>
+        <a href="/family" data-drupal-link-system-path="node/42197">Family</a>
+              </li>
+          <li>
+        <a href="/humanitarian" data-drupal-link-system-path="node/46298">Humanitarian</a>
+              </li>
+          <li>
+        <a href="/military/military" data-drupal-link-system-path="node/88456">Military</a>
+              </li>
+          <li>
+        <a href="/avoid-scams" data-drupal-link-system-path="node/41082">Scams, Fraud, and Misconduct</a>
+              </li>
+          <li>
+        <a href="/visit-the-us" data-drupal-link-system-path="node/42075">Visit the U.S.</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states" data-drupal-link-system-path="node/41823">Working in the United States</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/adoption/country-information/adoption-information-taiwan" data-drupal-link-system-path="node/45760">Taiwan</a>
+              </li>
+          <li>
+        <a href="/save" data-drupal-link-system-path="node/41742">SAVE</a>
+                            <ul>
+              <li>
+        <a href="/save/about-save/about-save" data-drupal-link-system-path="node/41846">About SAVE</a>
+                            <ul>
+              <li>
+        <a href="/save/about-save/save-governing-laws" data-drupal-link-system-path="node/41780">History</a>
+              </li>
+          <li>
+        <a href="/save/about-save/save-verification-process" data-drupal-link-system-path="node/42141">Verification Process</a>
+              </li>
+          <li>
+        <a href="https://www.uscis.gov/save/about-save/save-verification-response-time">SAVE Verification Response Time</a>
+              </li>
+          <li>
+        <a href="/save/about-save/transaction-charges" data-drupal-link-system-path="node/96213">Transaction Charges</a>
+              </li>
+          <li>
+        <a href="/save/about-save/save-agency-search-tool" data-drupal-link-system-path="node/47762">SAVE Agency Search Tool</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/save/current-user-agencies" data-drupal-link-system-path="node/98473">Current User Agencies</a>
+                            <ul>
+              <li>
+        <a href="/save/current-user-agencies/news-alerts" data-drupal-link-system-path="node/41340">News &amp; Alerts</a>
+              </li>
+          <li>
+        <a href="/save/current-user-agencies/save-tutorial-for-registered-users" data-drupal-link-system-path="node/96897">SAVE Tutorial for Registered Users</a>
+              </li>
+          <li>
+        <a href="/save/current-user-agencies/commonly-used-immigration-documents" data-drupal-link-system-path="node/95503">Commonly Used Immigration Documents</a>
+              </li>
+          <li>
+        <a href="/save/current-user-agencies/guidance" data-drupal-link-system-path="node/89503">Guidance</a>
+              </li>
+          <li>
+        <a href="https://save.uscis.gov/save/app/client/ui/home">Login to SAVE</a>
+              </li>
+          <li>
+        <a href="/save/current-user-agencies/save-webinars" data-drupal-link-system-path="node/81941">SAVE Webinars</a>
+              </li>
+          <li>
+        <a href="/save/current-user-agencies/save-engagement-event-summaries" data-drupal-link-system-path="node/97096">SAVE Engagement Event Summaries</a>
+              </li>
+          <li>
+        <a href="/save/current-user-agencies/save-logo-use-and-guidelines" data-drupal-link-system-path="node/41501">SAVE Logo Use and Guidelines</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/save/benefit-and-license-applicants" data-drupal-link-system-path="node/41480">Benefit and License Applicants</a>
+                            <ul>
+              <li>
+        <a href="/save/benefit-and-license-applicants/on-demand-webinar" data-drupal-link-system-path="node/98474">On-Demand Webinar</a>
+              </li>
+          <li>
+        <a href="/save/benefit-and-license-applicants/save-casecheck" data-drupal-link-system-path="node/41628">SAVE CaseCheck</a>
+              </li>
+          <li>
+        <a href="/save/benefit-and-license-applicants/resources-for-benefit-and-license-applicants" data-drupal-link-system-path="node/98637">Resources for Benefit and License Applicants</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/save/prospective-user-agencies" data-drupal-link-system-path="node/98472">Prospective User Agencies</a>
+                            <ul>
+              <li>
+        <a href="/save/prospective-user-agencies/register-an-agency-for-save" data-drupal-link-system-path="node/41383">Register an Agency for SAVE</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/save/save-contact-us" data-drupal-link-system-path="node/99138">SAVE Contact Us</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/administrative-appeals/administrative-appeals" data-drupal-link-system-path="node/88405">Administrative Appeals</a>
+                            <ul>
+              <li>
+        <a href="/administrative-appeals/aao-decisions" data-drupal-link-system-path="node/41605">AAO Decisions</a>
+                            <ul>
+              <li>
+        <a href="/administrative-appeals/aao-decisions/aao-non-precedent-decisions" data-drupal-link-system-path="node/90847">AAO Non-Precedent Decisions</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/administrative-appeals/aao-practice-manual" data-drupal-link-system-path="node/77620">AAO Practice Manual</a>
+              </li>
+          <li>
+        <a href="/administrative-appeals/aao-processing-times" data-drupal-link-system-path="node/44748">AAO Processing Times</a>
+              </li>
+          <li>
+        <a href="/administrative-appeals/aao-decision-data" data-drupal-link-system-path="node/47460">AAO Decision Data</a>
+              </li>
+          <li>
+        <a href="/administrative-appeals/appeals-of-denied-petitions-under-the-jurisdiction-of-the-administrative-appeals-office-aao-by-form" data-drupal-link-system-path="node/47013">AAO Jurisdiction</a>
+              </li>
+          <li>
+        <a href="/administrative-appeals/appeals-resources" data-drupal-link-system-path="node/46875">Appeals Resources</a>
+                            <ul>
+              <li>
+        <a href="/administrative-appeals/appeals-resources/contacting-the-aao" data-drupal-link-system-path="node/46873">Contacting the AAO</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/adoption" data-drupal-link-system-path="node/41393">Adoption</a>
+                            <ul>
+              <li>
+        <a href="/adoption/before-you-start" data-drupal-link-system-path="node/42008">Before You Start</a>
+              </li>
+          <li>
+        <a href="/adoption/immigration-through-adoption" data-drupal-link-system-path="node/42266">Immigration Through Adoption</a>
+                            <ul>
+              <li>
+        <a href="/adoption/immigration-through-adoption/hague-process" data-drupal-link-system-path="node/41817">Hague Process</a>
+              </li>
+          <li>
+        <a href="/adoption/immigration-through-adoption/orphan-process" data-drupal-link-system-path="node/41636">Orphan Process</a>
+              </li>
+          <li>
+        <a href="/adoption/immigration-through-adoption/family-based-petition-process" data-drupal-link-system-path="node/42133">Family-Based Petition Process</a>
+              </li>
+          <li>
+        <a href="/adoption/immigration-through-adoption/if-your-adoption-service-provider-is-no-longer-accredited-or-approved" data-drupal-link-system-path="node/57939">Primary Provider No Longer Accredited</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/adoption/suitability-and-home-study-information" data-drupal-link-system-path="node/41657">Suitability and Home Study Information</a>
+                            <ul>
+              <li>
+        <a href="/adoption/suitability-and-home-study-information/child-abuse-registries-in-foreign-countries-and-geographic-entities" data-drupal-link-system-path="node/46867">Child Abuse Registries in Foreign Countries and Geographic Entities</a>
+              </li>
+          <li>
+        <a href="/adoption/suitability-and-home-study-information/background-checks-security-and-child-abuse-registry" data-drupal-link-system-path="node/41403">Background Checks - Security and Child Abuse Registry</a>
+              </li>
+          <li>
+        <a href="/adoption/suitability-and-home-study-information/duty-of-disclosure" data-drupal-link-system-path="node/92774">Duty of Disclosure</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/adoption/country-information/uscis-country-specific-processing" data-drupal-link-system-path="node/41446">Country Information</a>
+              </li>
+          <li>
+        <a href="/adoption/suitability-related-changes" data-drupal-link-system-path="node/41665">Suitability-Related Changes</a>
+                            <ul>
+              <li>
+        <a href="/adoption/suitability-related-changes/change-of-country" data-drupal-link-system-path="node/42184">Change of Country</a>
+              </li>
+          <li>
+        <a href="/adoption/suitability-related-changes/extension-and-validity-periods" data-drupal-link-system-path="node/41532">Extension and Validity Periods</a>
+              </li>
+          <li>
+        <a href="/adoption/suitability-related-changes/updated-home-studies-and-significant-changes" data-drupal-link-system-path="node/42127">Updated Home Studies and Significant Changes</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/adoption/bringing-your-internationally-adopted-child-to-the-united-states" data-drupal-link-system-path="node/41619">Bringing Your Internationally Adopted Child to the United States</a>
+                            <ul>
+              <li>
+        <a href="/adoption/bringing-your-internationally-adopted-child-to-the-united-states/before-your-child-immigrates-to-the-united-states" data-drupal-link-system-path="node/42110">Before Your Child Immigrates to the United States</a>
+              </li>
+          <li>
+        <a href="/adoption/bringing-your-internationally-adopted-child-to-the-united-states/your-new-childs-immigrant-visa/your-new-childs-immigrant-visa" data-drupal-link-system-path="node/45766">Your New Child's Immigrant Visa</a>
+              </li>
+          <li>
+        <a href="/adoption/bringing-your-internationally-adopted-child-to-the-united-states/with-your-child-at-the-united-states-port-of-entry" data-drupal-link-system-path="node/46018">With Your Child at the United States Port of Entry</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/adoption/after-your-child-enters-the-united-states/us-citizenship-for-an-adopted-child" data-drupal-link-system-path="node/52409">U.S. Citizenship for an Adopted Child</a>
+                            <ul>
+              <li>
+        <a href="/adoption/after-your-child-enters-the-united-states" data-drupal-link-system-path="node/45340">After Your Child Enters the United States</a>
+              </li>
+          <li>
+        <a href="/adoption/after-your-child-enters-the-united-states/certificate-of-citizenship-for-your-internationally-adopted-child" data-drupal-link-system-path="node/44591">Certificate of Citizenship for Your Internationally Adopted Child</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/adoption/adult-adoptees-and-us-citizenship" data-drupal-link-system-path="node/91589">Adult Adoptees and U.S. Citizenship</a>
+              </li>
+          <li>
+        <a href="/adoption/uscis-adoption-contact-information" data-drupal-link-system-path="node/45338">Adoption Contact Information</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/archive" data-drupal-link-system-path="node/46757">Archive</a>
+                            <ul>
+              <li>
+        <a href="/archive/dhs-support-of-the-enforcement-of-labor-and-employment-laws" data-drupal-link-system-path="node/95235">DHS Support of the Enforcement of Labor and Employment Laws</a>
+              </li>
+          <li>
+        <a href="/archive/notice-to-appear-policy-memorandum" data-drupal-link-system-path="node/68860">Notice to Appear Policy Memorandum</a>
+              </li>
+          <li>
+        <a href="/archive/how-do-i-guides-for-nonimmigrants" data-drupal-link-system-path="node/45669">Nonimmigrants</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/citizenship" data-drupal-link-system-path="node/88387">Citizenship Resource Center</a>
+                            <ul>
+              <li>
+        <a href="/citizenship/apply-for-naturalization" data-drupal-link-system-path="node/99008">Apply for Naturalization</a>
+                            <ul>
+              <li>
+        <a href="/citizenship/exceptions-and-accommodations" data-drupal-link-system-path="node/42240">Exceptions and Accommodations</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/citizenship-resource-center/new-us-citizens" data-drupal-link-system-path="node/93216">New U.S. Citizens</a>
+              </li>
+          <li>
+        <a href="/citizenship/learn-about-citizenship" data-drupal-link-system-path="node/41089">Learn About Citizenship</a>
+                            <ul>
+              <li>
+        <a href="/citizenship/learn-about-citizenship/should-i-consider-us-citizenship" data-drupal-link-system-path="node/41100">Should I Consider U.S. Citizenship?</a>
+              </li>
+          <li>
+        <a href="/naturalization-eligibility" data-drupal-link-system-path="node/93192">Naturalization Eligibility Tool</a>
+              </li>
+          <li>
+        <a href="/citizenship/learn-about-citizenship/citizenship-and-naturalization" data-drupal-link-system-path="node/42130">Citizenship and Naturalization</a>
+                            <ul>
+              <li>
+        <a href="/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-a-lawful-permanent-resident-of-5-years" data-drupal-link-system-path="node/42219">I am a Lawful Permanent Resident of 5 Years</a>
+              </li>
+          <li>
+        <a href="/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-married-to-a-us-citizen" data-drupal-link-system-path="node/41551">I am Married to a U.S. Citizen</a>
+              </li>
+          <li>
+        <a href="/citizenship/learn-about-citizenship/i-am-the-child-of-a-us-citizen" data-drupal-link-system-path="node/42030">I am the Child of a U.S. Citizen</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/citizenship/learn-about-citizenship/10-steps-to-naturalization" data-drupal-link-system-path="node/41113">10 Steps to Naturalization</a>
+              </li>
+          <li>
+        <a href="/citizenship/learn-about-citizenship/the-naturalization-interview-and-test" data-drupal-link-system-path="node/42175">The Naturalization Interview and Test</a>
+              </li>
+          <li>
+        <a href="/citizenship/learn-about-citizenship/naturalization-ceremonies" data-drupal-link-system-path="node/42016">Naturalization Ceremonies</a>
+              </li>
+          <li>
+        <a href="/citizenship/learn-about-citizenship/commonly-asked-questions-about-the-naturalization-process" data-drupal-link-system-path="node/56751">Commonly Asked Questions</a>
+              </li>
+          <li>
+        <a href="/citizenship/civic-integration/settling-in-the-us" data-drupal-link-system-path="node/41339">Settling in the U.S.</a>
+              </li>
+          <li>
+        <a href="/citizenship-resource-center/civic-assimilation/support-your-community" data-drupal-link-system-path="node/56891">Support Your Community</a>
+              </li>
+          <li>
+        <a href="/citizenship/civic-integration/outstanding-americans-by-choice" data-drupal-link-system-path="node/95303">Outstanding Americans by Choice</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/citizenship/find-study-materials-and-resources/study-for-the-test" data-drupal-link-system-path="node/41127">Study for the Test</a>
+                            <ul>
+              <li>
+        <a href="/citizenship-resource-center/naturalization-test-and-study-resources/2025-civics-test" data-drupal-link-system-path="node/99889">2025 Civics Test</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/citizenship/resources-for-educational-programs" data-drupal-link-system-path="node/41114">Resources for Educational Programs</a>
+                            <ul>
+              <li>
+        <a href="/citizenship-resource-center/resources-for-educational-programs/prepare-for-the-naturalization-interview-and-test" data-drupal-link-system-path="node/60118">Prepare for the Naturalization Interview and Test</a>
+              </li>
+          <li>
+        <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" data-drupal-link-system-path="node/41141">Educational Products for Educators and Program Administrators</a>
+              </li>
+          <li>
+        <a href="/citizenship/resources-for-educational-programs/register-for-training" data-drupal-link-system-path="node/88468">Upcoming Teacher Trainings</a>
+                            <ul>
+              <li>
+        <a href="/citizenship-resource-center/resources-for-educational-programs/citizenship-teacher-training-registration" data-drupal-link-system-path="node/93271">Citizenship Teacher Training Registration</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/citizenship/outreach-tools" data-drupal-link-system-path="node/41123">Outreach Tools</a>
+                            <ul>
+              <li>
+        <a href="/citizenship/outreach-tools/set-up-a-citizenship-corner" data-drupal-link-system-path="node/47408">Set Up a Citizenship Corner</a>
+              </li>
+          <li>
+        <a href="/citizenship/outreach-tools/libraries" data-drupal-link-system-path="node/46688">Libraries</a>
+              </li>
+          <li>
+        <a href="/citizenship/outreach-tools/museums" data-drupal-link-system-path="node/56899">Museums</a>
+              </li>
+          <li>
+        <a href="/citizenship/outreach-tools/community-based-organizations" data-drupal-link-system-path="node/61199">Community-Based Organizations</a>
+              </li>
+          <li>
+        <a href="/citizenship/outreach-tools/local-governments" data-drupal-link-system-path="node/47479">Local Governments</a>
+              </li>
+          <li>
+        <a href="/citizenship/outreach-tools/employers" data-drupal-link-system-path="node/57369">Employers</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" data-drupal-link-system-path="node/95431">Naturalization-Related Data and Statistics</a>
+                            <ul>
+              <li>
+        <a href="/citizenship-resource-center/naturalization-statistics" data-drupal-link-system-path="node/93201">Naturalization Statistics</a>
+              </li>
+          <li>
+        <a href="/citizenship-resource-center/naturalization-related-data-and-statistics/naturalization-test-performance" data-drupal-link-system-path="node/94562">Naturalization Test Performance</a>
+              </li>
+          <li>
+        <a href="/eligible-to-naturalize-data" data-drupal-link-system-path="node/95498">Eligible to Naturalize Data</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/congress" data-drupal-link-system-path="node/48066">Congress</a>
+                            <ul>
+              <li>
+        <a href="/congress/about-us" data-drupal-link-system-path="node/48070">About Us</a>
+              </li>
+          <li>
+        <a href="/congress/congressional-casework" data-drupal-link-system-path="node/47367">Congressional Casework</a>
+                            <ul>
+              <li>
+        <a href="/congress/congressional-casework/procedures-for-responding-to-congressional-inquiries" data-drupal-link-system-path="node/64908">Procedures for Responding to Congressional Inquiries</a>
+              </li>
+          <li>
+        <a href="/congress/congressional-casework/frequently-asked-questions" data-drupal-link-system-path="node/48077">Frequently Asked Questions</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/congress/congressional-web-portal/congressional-web-portal" data-drupal-link-system-path="node/80442">Congressional Web Portal</a>
+              </li>
+          <li>
+        <a href="/congress/legislative-resources" data-drupal-link-system-path="node/47366">Legislative Resources</a>
+              </li>
+          <li>
+        <a href="/congress/congressional-activities-and-collaboration/congressional-activities-and-collaboration" data-drupal-link-system-path="node/47368">Congressional Activities and Collaboration</a>
+              </li>
+          <li>
+        <a href="/congress/congressional-updates" data-drupal-link-system-path="node/56744">Congressional Updates</a>
+              </li>
+          <li>
+        <a href="/congress/contact-information/contact-information" data-drupal-link-system-path="node/47365">Contact Information</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/family" data-drupal-link-system-path="node/42197">Family</a>
+                            <ul>
+              <li>
+        <a href="/keepingfamiliestogether" data-drupal-link-system-path="node/97876">Keeping Families Together</a>
+                            <ul>
+              <li>
+        <a href="/keepingfamiliestogether/faq" data-drupal-link-system-path="node/98222">Frequently Asked Questions About Keeping Families Together</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/family/family-of-us-citizens" data-drupal-link-system-path="node/41434">Family of U.S. Citizens</a>
+                            <ul>
+              <li>
+        <a href="/family/family-of-us-citizens/provisional-unlawful-presence-waivers" data-drupal-link-system-path="node/41349">Provisional Waiver</a>
+              </li>
+          <li>
+        <a href="/family/bring-spouse-to-live-in-US" data-drupal-link-system-path="node/41810">Spouse</a>
+              </li>
+          <li>
+        <a href="/family/family-of-us-citizens/bringing-siblings-to-live-in-the-united-states-as-permanent-residents" data-drupal-link-system-path="node/42047">Siblings</a>
+              </li>
+          <li>
+        <a href="/family/family-of-us-citizens/bringing-parents-to-live-in-the-united-states-as-permanent-residents" data-drupal-link-system-path="node/42134">Parents</a>
+              </li>
+          <li>
+        <a href="/family/family-of-us-citizens/visas-for-fiancees-of-us-citizens" data-drupal-link-system-path="node/41805">Fiancé(e) Visa</a>
+              </li>
+          <li>
+        <a href="/family/bring-children-to-live-in-the-US" data-drupal-link-system-path="node/42136">Children</a>
+              </li>
+          <li>
+        <a href="/family/family-of-us-citizens/k-3k-4-nonimmigrant-visas" data-drupal-link-system-path="node/41555">K3-K4 Visa</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/family/family-of-refugees-and-asylees" data-drupal-link-system-path="node/41707">Family of Refugees &amp; Asylees</a>
+                            <ul>
+              <li>
+        <a href="/family/getting-derivative-refugee-asylum-status-for-your-spouse" data-drupal-link-system-path="node/42106">Refugee and Asylee Spouses</a>
+              </li>
+          <li>
+        <a href="/family/getting-derivative-refugee-asylum-status-for-your-child" data-drupal-link-system-path="node/41783">Refugee and Asylee Children</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/family/family-of-green-card-holders-permanent-residents" data-drupal-link-system-path="node/41904">Family of Green Card Holders (Permanent Residents)</a>
+                            <ul>
+              <li>
+        <a href="/family/family-of-green-card-holders-permanent-residents/v-nonimmigrant-visas" data-drupal-link-system-path="node/41682">V Visa</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/file-online" data-drupal-link-system-path="node/81777">File Online</a>
+                            <ul>
+              <li>
+        <a href="/file-online/uscis-online-account-videos" data-drupal-link-system-path="node/98641">USCIS Online Account Videos</a>
+              </li>
+          <li>
+        <a href="/file-online/forms-available-to-file-online" data-drupal-link-system-path="node/82552">Forms Available to File Online</a>
+              </li>
+          <li>
+        <a href="/file-online/benefits-of-a-uscis-online-account" data-drupal-link-system-path="node/81776">Benefits of a USCIS Online Account</a>
+              </li>
+          <li>
+        <a href="/file-online/how-to-create-a-uscis-online-account" data-drupal-link-system-path="node/47990">How to Create a USCIS Online Account</a>
+              </li>
+          <li>
+        <a href="/file-online/online-filing-for-attorneys-and-accredited-representatives" data-drupal-link-system-path="node/48115">Attorneys and Accredited Representatives</a>
+              </li>
+          <li>
+        <a href="/file-online/tips-for-filing-forms-online" data-drupal-link-system-path="node/48028">Tips for Filing Forms Online</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/forms/forms" data-drupal-link-system-path="node/88393">Forms</a>
+                            <ul>
+              <li>
+        <a href="/forms/all-forms" data-drupal-link-system-path="node/22983">All Forms</a>
+              </li>
+          <li>
+        <a href="/forms/explore-my-options" data-drupal-link-system-path="node/95961">Explore my Options</a>
+              </li>
+          <li>
+        <a href="/forms/filing-guidance" data-drupal-link-system-path="node/43396">Filing Guidance</a>
+                            <ul>
+              <li>
+        <a href="/5stepstofile" data-drupal-link-system-path="node/96919">Five Steps to File at the USCIS Lockbox</a>
+              </li>
+          <li>
+        <a href="/forms/filing-guidance/tips-for-filing-forms-by-mail" data-drupal-link-system-path="node/44654">Tips for Filing Forms by Mail</a>
+              </li>
+          <li>
+        <a href="/forms/filing-guidance/expedite-requests" data-drupal-link-system-path="node/43424">Expedite Requests</a>
+              </li>
+          <li>
+        <a href="/forms/filing-guidance/preparing-for-your-biometric-services-appointment" data-drupal-link-system-path="node/45471">Preparing for Your Biometric Services Appointment</a>
+              </li>
+          <li>
+        <a href="/addresschange" data-drupal-link-system-path="node/43677">How to Change Your Address</a>
+              </li>
+          <li>
+        <a href="/forms/filing-guidance/how-to-track-delivery-of-your-notice-or-secure-identity-document-or-card" data-drupal-link-system-path="node/65797">How to Track Delivery of Your Notice or Secure Identity Document (or Card)</a>
+              </li>
+          <li>
+        <a href="/forms/filing-guidance/paperwork-reduction-act" data-drupal-link-system-path="node/44858">Paperwork Reduction Act</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/forms/filing-fees" data-drupal-link-system-path="node/41953">Filing Fees</a>
+                            <ul>
+              <li>
+        <a href="/feecalculator" data-drupal-link-system-path="node/98449">Fee Calculator</a>
+              </li>
+          <li>
+        <a href="/g-1055" data-drupal-link-system-path="node/52500">Fee Schedule</a>
+              </li>
+          <li>
+        <a href="/archive/frequently-asked-questions-on-the-uscis-fee-rule" data-drupal-link-system-path="node/96938">Frequently Asked Questions on the USCIS Fee Rule</a>
+              </li>
+          <li>
+        <a href="/forms/filing-fees/uscis-immigrant-fee" data-drupal-link-system-path="node/43798">USCIS Immigrant Fee</a>
+                            <ul>
+              <li>
+        <a href="/forms/filing-fees/uscis-immigrant-fee/uscis-immigrant-fee-payment-guide" data-drupal-link-system-path="node/48597">USCIS Immigrant Fee Payment Guide</a>
+              </li>
+          <li>
+        <a href="/forms/filing-fees/uscis-immigrant-fee/how-to-pay-the-uscis-immigrant-fee" data-drupal-link-system-path="node/47770">How to Pay the USCIS Immigrant Fee</a>
+              </li>
+          <li>
+        <a href="/forms/filing-fees/uscis-immigrant-fee/identity-verification-and-the-uscis-immigrant-fee" data-drupal-link-system-path="node/56750">Identity Verification and the USCIS Immigrant Fee</a>
+              </li>
+          <li>
+        <a href="/forms/filing-fees/uscis-immigrant-fee/immigrant-fee-payment-tips-on-finding-your-a-number-and-dos-case-id" data-drupal-link-system-path="node/47276">Tips on Finding Your A-Number and DOS Case ID</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/forms/filing-fees/forms-processed-at-a-uscis-lockbox" data-drupal-link-system-path="node/65609">Forms Processed at a USCIS Lockbox</a>
+              </li>
+          <li>
+        <a href="/forms/filing-fees/poverty-guidelines" data-drupal-link-system-path="node/73474">Poverty Guidelines</a>
+              </li>
+          <li>
+        <a href="/forms/filing-fees/additional-information-on-filing-a-fee-waiver" data-drupal-link-system-path="node/50963">Fee Waiver Guidance</a>
+              </li>
+          <li>
+        <a href="/forms/filing-fees/additional-information-on-filing-a-reduced-fee-request" data-drupal-link-system-path="node/53942">Additional Information on Filing a Reduced Fee Request</a>
+              </li>
+          <li>
+        <a href="/pay-with-a-credit-card" data-drupal-link-system-path="node/49829">Pay With a Credit Card by Mail</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/forms/forms-updates" data-drupal-link-system-path="node/50444">Forms Updates</a>
+                            <ul>
+              <li>
+        <a href="/forms/lockbox-and-service-center-filing-location-updates" data-drupal-link-system-path="node/95889">Lockbox and Service Center Filing Location Updates</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/forms/department-of-state-ds-and-other-non-uscis-forms" data-drupal-link-system-path="node/46342">Department of State (DS) Forms and Other Non-USCIS Forms</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/green-card" data-drupal-link-system-path="node/42293">Green Card</a>
+                            <ul>
+              <li>
+        <a href="/green-card/green-card-eligibility-categories" data-drupal-link-system-path="node/59153">Green Card Eligibility</a>
+                            <ul>
+              <li>
+        <a href="/green-card/green-card-eligibility/green-card-for-employment-based-immigrants" data-drupal-link-system-path="node/41734">Green Card for Employment-Based Immigrants</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-eligibility/green-card-for-family-preference-immigrants" data-drupal-link-system-path="node/41691">Green Card for Family Preference Immigrants</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-eligibility/green-card-for-immediate-relatives-of-us-citizen" data-drupal-link-system-path="node/41884">Green Card for an Immediate Relative of a U.S. Citizen</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/green-card/how-to-apply-for-a-green-card" data-drupal-link-system-path="node/88558">How to Apply for a Green Card</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures" data-drupal-link-system-path="node/42302">Green Card Processes and Procedures</a>
+                            <ul>
+              <li>
+        <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" data-drupal-link-system-path="node/41974">Adjustment of Status</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures/fiscal-year-2023-employment-based-adjustment-of-status-faqs" data-drupal-link-system-path="node/94734">Employment-Based Adjustment of Status FAQs</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures/consular-processing" data-drupal-link-system-path="node/41644">Consular Processing</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures/concurrent-filing-of-form-i-485" data-drupal-link-system-path="node/41368">Concurrent Filing of Form I-485</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" data-drupal-link-system-path="node/41918">Visa Availability &amp; Priority Dates</a>
+                            <ul>
+              <li>
+        <a href="/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin" data-drupal-link-system-path="node/56298">Adjustment of Status Filing Charts from the Visa Bulletin</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures/travel-documents" data-drupal-link-system-path="node/42167">Travel Documents</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" data-drupal-link-system-path="node/41826">Employment Authorization Document</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures/finding-a-medical-doctor" data-drupal-link-system-path="node/41669">Finding a Medical Doctor</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures/affidavit-of-support" data-drupal-link-system-path="node/41566">Affidavit of Support</a>
+              </li>
+          <li>
+        <a href="/green-card/green-card-processes-and-procedures/child-status-protection-act-cspa" data-drupal-link-system-path="node/41527">Child Status Protection Act</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" data-drupal-link-system-path="node/59194">While Your Green Card Application Is Pending with USCIS</a>
+              </li>
+          <li>
+        <a href="/green-card/after-receiving-a-decision" data-drupal-link-system-path="node/42226">After Receiving a Decision</a>
+              </li>
+          <li>
+        <a href="/green-card/after-we-grant-your-green-card" data-drupal-link-system-path="node/41893">After We Grant Your Green Card</a>
+                            <ul>
+              <li>
+        <a href="/green-card/after-we-grant-your-green-card/conditional-permanent-residence" data-drupal-link-system-path="node/42215">Conditional Permanent Residence</a>
+              </li>
+          <li>
+        <a href="/green-card/after-we-grant-your-green-card/international-travel-as-a-permanent-resident" data-drupal-link-system-path="node/41950">International Travel as a Permanent Resident</a>
+              </li>
+          <li>
+        <a href="/green-card/after-we-grant-your-green-card/maintaining-permanent-residence" data-drupal-link-system-path="node/42109">Maintaining Permanent Residence</a>
+              </li>
+          <li>
+        <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" data-drupal-link-system-path="node/41763">Replace a Green Card</a>
+              </li>
+          <li>
+        <a href="/green-card/after-we-grant-your-green-card/rights-and-responsibilities-of-a-green-card-holder-permanent-resident" data-drupal-link-system-path="node/42189">Rights and Responsibilities of a Permanent Resident</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/i-9-central" data-drupal-link-system-path="node/41488">I-9 Central</a>
+                            <ul>
+              <li>
+        <a href="/i-9-central/form-i-9-related-news" data-drupal-link-system-path="node/42097">Form I-9 Related News</a>
+              </li>
+          <li>
+        <a href="/i-9-central/completing-form-i-9" data-drupal-link-system-path="node/41447">Completing Form I-9</a>
+                            <ul>
+              <li>
+        <a href="/i-9-central/completing-form-i-9/completing-supplement-b-reverification-and-rehires-formerly-section-3" data-drupal-link-system-path="node/41412">Completing Supplement B, Reverification and Rehires (formerly Section 3)</a>
+              </li>
+          <li>
+        <a href="/i-9-central/completing-form-i-9/completing-section-1-employee-information-and-attestation" data-drupal-link-system-path="node/41765">Completing Section 1, Employee Information and Attestation</a>
+              </li>
+          <li>
+        <a href="/i-9-central/completing-form-i-9/completing-section-2-employer-review-and-attestation" data-drupal-link-system-path="node/41670">Completing Section 2, Employer Review and Attestation</a>
+              </li>
+          <li>
+        <a href="/i-9-central/completing-form-i-9/exceptions" data-drupal-link-system-path="node/94794">Exceptions</a>
+              </li>
+          <li>
+        <a href="/i-9-central/completing-form-i-9/retention-and-storage" data-drupal-link-system-path="node/41577">Retention and Storage</a>
+              </li>
+          <li>
+        <a href="/i-9-central/completing-form-i-9/self-audits-and-correcting-mistakes" data-drupal-link-system-path="node/41550">Self-Audits and Correcting Mistakes</a>
+              </li>
+          <li>
+        <a href="/i-9-central/completing-form-i-9/special-rules-for-e-verify-users" data-drupal-link-system-path="node/42009">Special Rules for E-Verify Users</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-acceptable-documents" data-drupal-link-system-path="node/41814">Form I-9 Acceptable Documents</a>
+                            <ul>
+              <li>
+        <a href="/i-9-central/form-i-9-acceptable-documents/receipts" data-drupal-link-system-path="node/41575">Receipts</a>
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-acceptable-documents/who-is-issued-this-document" data-drupal-link-system-path="node/41570">Who is Issued This Document?</a>
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-acceptable-documents/combination-documents" data-drupal-link-system-path="node/42020">Combination Documents</a>
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-acceptable-documents/employment-authorization-extensions" data-drupal-link-system-path="node/76500">Employment Authorization Extensions</a>
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-acceptable-documents/examining-documents" data-drupal-link-system-path="node/41692">Examining Documents</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/i-9-central/special-employment-categories" data-drupal-link-system-path="node/94795">Special Employment Categories</a>
+                            <ul>
+              <li>
+        <a href="/i-9-central/special-employment-categories/guidance-for-certain-afghan-nationals-to-maintain-parole-and-employment-authorization-for-up-to-two" data-drupal-link-system-path="node/96350">Afghan Employees with Parole</a>
+              </li>
+          <li>
+        <a href="/i-9-central/special-employment-categories/ukrainian-parolees-and-their-immediate-family-members" data-drupal-link-system-path="node/97114">Ukrainian Employees with Parole</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/i-9-central/remote-examination-of-documents" data-drupal-link-system-path="node/96227">Remote Examination of Documents</a>
+              </li>
+          <li>
+        <a href="/i-9-central/employee-rights-and-resources/employee-rights" data-drupal-link-system-path="node/42035">Employee Rights and Resources</a>
+                            <ul>
+              <li>
+        <a href="/i-9-central/employee-rights-and-resources/preventing-discrimination" data-drupal-link-system-path="node/41895">Preventing Discrimination</a>
+              </li>
+          <li>
+        <a href="/i-9-central/employee-rights-and-resources/filing-a-discrimination-claim" data-drupal-link-system-path="node/42211">Filing a Discrimination Claim</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-resources/statutes-and-regulations" data-drupal-link-system-path="node/41597">Legal Requirements and Enforcement</a>
+                            <ul>
+              <li>
+        <a href="/i-9-central/legal-requirements-and-enforcement/inspections" data-drupal-link-system-path="node/41354">Form I-9 Inspections</a>
+              </li>
+          <li>
+        <a href="/i-9-central/legal-requirements-and-enforcement/penalties" data-drupal-link-system-path="node/41967">Penalties</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-resources" data-drupal-link-system-path="node/89065">Form I-9 Resources</a>
+                            <ul>
+              <li>
+        <a href="/eadautoextend" data-drupal-link-system-path="node/56451">EAD Automatic Extension</a>
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274" data-drupal-link-system-path="node/59502">Handbook for Employers M-274</a>
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-resources/employment-eligibility-webinars" data-drupal-link-system-path="node/81935">Employment Eligibility Webinars</a>
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-resources/questions-and-answers" data-drupal-link-system-path="node/42186">I-9 Central Questions &amp; Answers</a>
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-and-e-verify-guidance-for-those-affected-by-emergencies-and-unforeseen-circumstances" data-drupal-link-system-path="node/96705">Emergencies and Unforeseen Circumstances</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-related-news/policy-related-news-archive" data-drupal-link-system-path="node/95098">Policy &amp; Related News Archive</a>
+              </li>
+          <li>
+        <a href="/i-9-central/form-i-9-contact-us" data-drupal-link-system-path="node/41338">Form I-9 Contact Us</a>
+              </li>
+          <li>
+        <a href="https://www.e-verify.gov" data-drupal-link-system-path="node/67490">E-Verify</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/laws-and-policy" data-drupal-link-system-path="node/41528">Laws and Policy</a>
+                            <ul>
+              <li>
+        <a href="/laws-and-policy/legislation" data-drupal-link-system-path="node/88774">Legislation</a>
+                            <ul>
+              <li>
+        <a href="/laws-and-policy/legislation/immigration-and-nationality-act" data-drupal-link-system-path="node/42073">Immigration and Nationality Act</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/laws-and-policy/regulations" data-drupal-link-system-path="node/88777">Regulations</a>
+              </li>
+          <li>
+        <a href="/policy-manual" data-drupal-link-system-path="node/68600">Policy Manual</a>
+              </li>
+          <li>
+        <a href="/laws-and-policy/policy-memoranda" data-drupal-link-system-path="node/23734">Policy Memoranda</a>
+              </li>
+          <li>
+        <a href="/laws-and-policy/handbooks" data-drupal-link-system-path="node/42102">Handbooks</a>
+              </li>
+          <li>
+        <a href="/laws-and-policy/other-resources" data-drupal-link-system-path="node/88780">Other Resources</a>
+                            <ul>
+              <li>
+        <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" data-drupal-link-system-path="node/46414">Class Action, Settlement Notices and Agreements</a>
+              </li>
+          <li>
+        <a href="https://www.uscis.gov/sites/default/files/document/notices/Applicant-Caused-Delays-in-Adjudications-of-Asylum-Applications-and-Impact-on-Employment-Authorization.pdf">The 180-Day Asylum EAD Clock Notice</a>
+              </li>
+          <li>
+        <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" data-drupal-link-system-path="node/68038">Unlawful Presence and Inadmissibility</a>
+              </li>
+          <li>
+        <a href="/laws-and-policy/other-resources/us-immigration-law-in-the-commonwealth-of-the-northern-mariana-islands-cnmi" data-drupal-link-system-path="node/41735">U.S. Immigration Law in the Commonwealth of the Northern Mariana Islands (CNMI)</a>
+                            <ul>
+              <li>
+        <a href="/laws-and-policy/other-resources/us-immigration-law-in-the-commonwealth-of-the-northern-mariana-islands-cnmi/grants-of-status" data-drupal-link-system-path="node/42261">Grant of Status</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/laws-and-policy/other-resources/terrorism-related-inadmissibility-grounds-trig" data-drupal-link-system-path="node/41912">Terrorism-Related Inadmissibility Grounds (TRIG)</a>
+                            <ul>
+              <li>
+        <a href="/laws-and-policy/other-resources/terrorism-related-inadmissibility-grounds-trig/terrorism-related-inadmissibility-grounds-exemptions" data-drupal-link-system-path="node/43431">Grounds Exemptions</a>
+              </li>
+          <li>
+        <a href="/laws-and-policy/other-resources/terrorism-related-inadmissibility-grounds-trig/terrorism-related-inadmissibility-grounds-trig-group-based-exemptions" data-drupal-link-system-path="node/47545">Group-Based Exemptions</a>
+              </li>
+          <li>
+        <a href="/laws-and-policy/other-resources/terrorism-related-inadmissibility-grounds-trig/terrorism-related-inadmissibility-grounds-trig-situational-exemptions" data-drupal-link-system-path="node/47544">Situational Exemptions</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/military/military" data-drupal-link-system-path="node/88456">Military</a>
+                            <ul>
+              <li>
+        <a href="/military/naturalization-through-military-service" data-drupal-link-system-path="node/64176">Naturalization Through Military Service</a>
+              </li>
+          <li>
+        <a href="/military/citizenship-for-military-family-members" data-drupal-link-system-path="node/41943">Citizenship for Military Family Members</a>
+              </li>
+          <li>
+        <a href="/military/family-based-survivor-benefits" data-drupal-link-system-path="node/41843">Family Based Survivor Benefits</a>
+              </li>
+          <li>
+        <a href="/military/discretionary-options-for-military-members-enlistees-and-their-families" data-drupal-link-system-path="node/53350">Discretionary Options for Military Members, Enlistees and Their Families</a>
+              </li>
+          <li>
+        <a href="/military/military-help-line" data-drupal-link-system-path="node/41427">Military Help Line</a>
+              </li>
+          <li>
+        <a href="/military/military-naturalization-statistics" data-drupal-link-system-path="node/47803">Military Naturalization Statistics</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/newsroom" data-drupal-link-system-path="node/4153">Newsroom</a>
+                            <ul>
+              <li>
+        <a href="/newsroom/all-news" data-drupal-link-system-path="node/59144">All News</a>
+                            <ul>
+              <li>
+        <a href="/newsroom/all-news/uscis-fact-sheets" data-drupal-link-system-path="node/98971">Fact Sheets</a>
+              </li>
+          <li>
+        <a href="/newsroom/news-releases" data-drupal-link-system-path="node/23269">News Releases</a>
+              </li>
+          <li>
+        <a href="/newsroom/alerts" data-drupal-link-system-path="node/22984">Alerts</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/newsroom/immigration-relief-in-emergencies-or-unforeseen-circumstances" data-drupal-link-system-path="node/41775">Immigration Relief in Emergencies or Unforeseen Circumstances</a>
+              </li>
+          <li>
+        <a href="/newsroom/media-contacts" data-drupal-link-system-path="node/42113">Media Contacts</a>
+              </li>
+          <li>
+        <a href="/newsroom/video-and-photo-gallery" data-drupal-link-system-path="node/93165">Video and Photo Gallery</a>
+              </li>
+          <li>
+        <a href="/newsroom/speeches-statements-testimony" data-drupal-link-system-path="node/93164">Speeches, Statements, Testimony</a>
+              </li>
+          <li>
+        <a href="/newsroom/social-media-directory" data-drupal-link-system-path="node/93163">Social Media Directory</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/outreach" data-drupal-link-system-path="node/46359">Outreach</a>
+                            <ul>
+              <li>
+        <a href="/outreach/uscis-engagements" data-drupal-link-system-path="node/48362">USCIS Engagements</a>
+              </li>
+          <li>
+        <a href="/outreach/feedback-opportunities/feedback-opportunities" data-drupal-link-system-path="node/41946">Feedback Opportunities</a>
+                            <ul>
+              <li>
+        <a href="/outreach/feedback-opportunities/policy-memoranda-for-comment" data-drupal-link-system-path="node/66359">Policy Memoranda for Comment</a>
+              </li>
+          <li>
+        <a href="/outreach/feedback-opportunities/policy-manual-feedback/policy-manual-feedback" data-drupal-link-system-path="node/42100">Policy Manual Feedback</a>
+              </li>
+          <li>
+        <a href="/outreach/feedback-opportunities/feedback-updates" data-drupal-link-system-path="node/41472">Feedback Updates</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/outreach/contact-public-engagement" data-drupal-link-system-path="node/41437">Contact Public Engagement</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/policy-manual" data-drupal-link-system-path="node/68600">Policy Manual</a>
+              </li>
+          <li>
+        <a href="/records/records" data-drupal-link-system-path="node/88399">Records</a>
+                            <ul>
+              <li>
+        <a href="/records/electronic-reading-room" data-drupal-link-system-path="node/60822">Electronic Reading Room</a>
+              </li>
+          <li>
+        <a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" data-drupal-link-system-path="node/41801">Freedom of Information and Privacy Act (FOIA)</a>
+              </li>
+          <li>
+        <a href="/records/genealogy" data-drupal-link-system-path="node/41490">Genealogy</a>
+                            <ul>
+              <li>
+        <a href="/records/genealogy/historical-records-series-available-from-the-genealogy-program" data-drupal-link-system-path="node/44450">Historical Record Series</a>
+              </li>
+          <li>
+        <a href="/records/genealogy/searching-the-index" data-drupal-link-system-path="node/41827">Searching the Index</a>
+              </li>
+          <li>
+        <a href="/records/genealogy/requesting-records" data-drupal-link-system-path="node/41929">Requesting Records</a>
+              </li>
+          <li>
+        <a href="/records/genealogy/genealogy-notebook" data-drupal-link-system-path="node/41417">Genealogy Notebook</a>
+              </li>
+          <li>
+        <a href="/records/genealogy/genealogical-records-help" data-drupal-link-system-path="node/41822">Genealogical Records Help</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/scams-fraud-misconduct" data-drupal-link-system-path="node/88402">Scams, Fraud, and Misconduct</a>
+                            <ul>
+              <li>
+        <a href="/scams-fraud-and-misconduct/report-fraud" data-drupal-link-system-path="node/67090">Report Fraud</a>
+                            <ul>
+              <li>
+        <a href="/scams-fraud-and-misconduct/report-fraud/combating-fraud-and-abuse-in-the-h-1b-visa-program" data-drupal-link-system-path="node/57450">Combating Fraud and Abuse in the H-1B Visa Program</a>
+              </li>
+          <li>
+        <a href="/scams-fraud-and-misconduct/report-fraud/combating-fraud-and-abuse-in-the-h-2b-visa-program" data-drupal-link-system-path="node/67089">Combating Fraud and Abuse in the H-2B Visa Program</a>
+              </li>
+          <li>
+        <a href="/scams-fraud-and-misconduct/report-fraud/reporting-eb-5-fraud" data-drupal-link-system-path="node/73495">Reporting EB-5 Fraud</a>
+              </li>
+          <li>
+        <a href="/report-fraud/uscis-tip-form" data-drupal-link-system-path="node/80833">USCIS Tip Form</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/avoid-scams" data-drupal-link-system-path="node/41082">Avoid Scams</a>
+                            <ul>
+              <li>
+        <a href="/scams-fraud-and-misconduct/avoid-scams/become-an-authorized-provider" data-drupal-link-system-path="node/41087">Become an Authorized Provider</a>
+              </li>
+          <li>
+        <a href="/scams-fraud-and-misconduct/avoid-scams/community-based-organizations" data-drupal-link-system-path="node/41083">Community Organizations</a>
+              </li>
+          <li>
+        <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" data-drupal-link-system-path="node/41086">Find Legal Services</a>
+              </li>
+          <li>
+        <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" data-drupal-link-system-path="node/41085">Report Immigration Scams</a>
+              </li>
+          <li>
+        <a href="/scams-fraud-and-misconduct/avoid-scams/legal-service-providers" data-drupal-link-system-path="node/41084">Legal Service Providers</a>
+              </li>
+          <li>
+        <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" data-drupal-link-system-path="node/41079">Common Scams</a>
+              </li>
+          <li>
+        <a href="/scams-fraud-and-misconduct/avoid-scams/avoid-scams-resource-center" data-drupal-link-system-path="node/41081">Resource Center</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/scams-fraud-and-misconduct/report-uscis-employee-misconduct" data-drupal-link-system-path="node/41374">Report USCIS Misconduct</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/tools" data-drupal-link-system-path="node/50433">Tools</a>
+                            <ul>
+              <li>
+        <a href="/alienregistration" data-drupal-link-system-path="node/99098">Alien Registration Requirement</a>
+              </li>
+          <li>
+        <a href="/projecthomecoming" data-drupal-link-system-path="node/99738">Project Homecoming</a>
+              </li>
+          <li>
+        <a href="/tools/uscis-tools-and-resources" data-drupal-link-system-path="node/88549">USCIS Tools and Resources</a>
+                            <ul>
+              <li>
+        <a href="/tools/uscis-tools-and-resources/immigration-documents-and-how-to-correct-update-or-replace-them" data-drupal-link-system-path="node/94573">Immigration Documents and How to Correct, Update, or Replace Them</a>
+              </li>
+          <li>
+        <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" data-drupal-link-system-path="node/96434">Online Account and Technical Support</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/tools/multilingual-resource-center" data-drupal-link-system-path="node/41887">Multilingual Resource Center</a>
+              </li>
+          <li>
+        <a href="/tools/designated-civil-surgeons" data-drupal-link-system-path="node/41839">Designated Civil Surgeons</a>
+                            <ul>
+              <li>
+        <a href="/tools/find-a-civil-surgeon" data-drupal-link-system-path="node/94969">Find a Civil Surgeon</a>
+              </li>
+          <li>
+        <a href="/tools/designated-civil-surgeons/vaccination-requirements" data-drupal-link-system-path="node/43740">Vaccination Requirements</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/tools/employers/how-do-i-guides-for-employers" data-drupal-link-system-path="node/45434">Employers</a>
+              </li>
+          <li>
+        <a href="/tools/a-z-index" data-drupal-link-system-path="node/48452">A-Z Index</a>
+              </li>
+          <li>
+        <a href="/tools/glossary" data-drupal-link-system-path="node/50660">Glossary</a>
+                            <ul>
+              <li>
+        <a href="https://www.uscis.gov/sites/default/files/document/reports/OPA_ProgressReport.pdf">Fiscal Year 2022 Progress Report</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/tools/reports-and-studies/immigration-and-citizenship-data" data-drupal-link-system-path="node/67825">Immigration and Citizenship Data</a>
+                            <ul>
+              <li>
+        <a href="/tools/reports-and-studies" data-drupal-link-system-path="node/42283">Reports and Studies</a>
+              </li>
+          <li>
+        <a href="/tools/reports-and-studies/h-1b-employer-data-hub" data-drupal-link-system-path="node/73350">H-1B Employer Data Hub</a>
+              </li>
+          <li>
+        <a href="/tools/reports-and-studies/h-2a-employer-data-hub" data-drupal-link-system-path="node/93528">H-2A Employer Data Hub</a>
+              </li>
+          <li>
+        <a href="/tools/reports-and-studies/h-2b-employer-data-hub" data-drupal-link-system-path="node/92471">H-2B Employer Data Hub</a>
+              </li>
+          <li>
+        <a href="/tools/reports-and-studies/immigration-and-citizenship-data/eligible-to-naturalize-dashboard" data-drupal-link-system-path="node/94744">Eligible to Naturalize Dashboard</a>
+              </li>
+          <li>
+        <a href="/tools/reports-and-studies/refugee-processing-data/refugee-processing-data" data-drupal-link-system-path="node/82228">Refugee Processing Data</a>
+              </li>
+          <li>
+        <a href="/tools/reports-and-studies/understanding-our-data" data-drupal-link-system-path="node/70904">Understanding Our Data</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/tools/resources-for-congress" data-drupal-link-system-path="node/41539">Resources for Congress</a>
+                            <ul>
+              <li>
+        <a href="/tools/resources-for-congress/testimonies" data-drupal-link-system-path="node/34823">Testimonies</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/tools/while-my-case-is-pending" data-drupal-link-system-path="node/46093">While My Case is Pending</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/visit-the-us" data-drupal-link-system-path="node/42075">Visit the United States</a>
+                            <ul>
+              <li>
+        <a href="/visit-the-united-states/extend-your-stay" data-drupal-link-system-path="node/41971">Extend Your Stay</a>
+              </li>
+          <li>
+        <a href="/visit-the-united-states/change-my-nonimmigrant-status" data-drupal-link-system-path="node/41578">Change My Nonimmigrant Status Category</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/website-policies" data-drupal-link-system-path="node/41594">Website Policies</a>
+                            <ul>
+              <li>
+        <a href="/website-policies/accessibility" data-drupal-link-system-path="node/42012">Accessibility</a>
+              </li>
+          <li>
+        <a href="/website-policies/help-us-improve-our-website" data-drupal-link-system-path="node/78297">Help Us Improve Our Website</a>
+              </li>
+          <li>
+        <a href="/website-policies/website-metrics/website-metrics" data-drupal-link-system-path="node/44864">Website Metrics</a>
+              </li>
+          <li>
+        <a href="/website-policies/dhs-component-websites" data-drupal-link-system-path="node/88438">DHS Component Websites</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states" data-drupal-link-system-path="node/41823">Working in the United States</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/international-entrepreneur-rule" data-drupal-link-system-path="node/64977">International Entrepreneur Rule</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" data-drupal-link-system-path="node/41868">Temporary Workers</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/temporary-workers/cw-1-cnmi-only-transitional-worker" data-drupal-link-system-path="node/41876">CW-1: CNMI-Only Transitional Worker</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/e-1-treaty-traders" data-drupal-link-system-path="node/41924">E-1 Treaty Traders</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/e-2-visa-cnmi-only-investor" data-drupal-link-system-path="node/41413">E-2 CNMI Investor</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/e-2-treaty-investors" data-drupal-link-system-path="node/41819">E-2 Treaty Investors</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/e-3-specialty-occupation-workers-from-australia" data-drupal-link-system-path="node/41666">E-3 Certain Specialty Occupation Professionals from Australia</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/h-1b-specialty-occupations" data-drupal-link-system-path="node/47603">H-1B Specialty Occupations</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-cap-season" data-drupal-link-system-path="node/43468">H-1B Cap Season</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/faqs-for-individuals-in-h-1b-nonimmigrant-status" data-drupal-link-system-path="node/98078">FAQs for Individuals in H-1B Nonimmigrant Status</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-electronic-registration-process" data-drupal-link-system-path="node/80860">H-1B Electronic Registration Process</a>
+              </li>
+          <li>
+        <a href="/organizational-accounts-FAQ" data-drupal-link-system-path="node/96903">Organizational Accounts Frequently Asked Questions</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/extension-of-post-completion-optional-practical-training-opt-and-f-1-status-for-eligible-students" data-drupal-link-system-path="node/45861">Extension of Post Completion Optional Practical Training (OPT) and F-1 Status for Eligible Students under the H-1B Cap-Gap Regulations</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/employment-authorization-for-certain-h-4-dependent-spouses" data-drupal-link-system-path="node/48037">Employment Authorization for Certain H-4 Dependent Spouses</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/h-2a-temporary-agricultural-workers" data-drupal-link-system-path="node/42002">H-2A Agricultural Workers</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/h-2b-temporary-non-agricultural-workers" data-drupal-link-system-path="node/42173">H-2B Non-Agricultural Workers</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/h-3-nonimmigrant-trainee-or-special-education-exchange-visitor" data-drupal-link-system-path="node/41591">H-3 Nonimmigrant Trainee</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/i-representatives-of-foreign-media" data-drupal-link-system-path="node/41858">I Representatives of Foreign Media</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/l-1a-intracompany-transferee-executive-or-manager" data-drupal-link-system-path="node/41590">L-1A Intracompany Transferee Executive or Manager</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge" data-drupal-link-system-path="node/41988">L-1B Intracompany Transferee Specialized Knowledge</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/o-1-visa-individuals-with-extraordinary-ability-or-achievement" data-drupal-link-system-path="node/42236">O-1 Individuals with Extraordinary Ability or Achievement</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/temporary-workers/o-1-individuals-with-extraordinary-ability-or-achievement/o-nonimmigrant-classifications-question-and-answers" data-drupal-link-system-path="node/44166">O Nonimmigrant Classifications: Question and Answers</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/p-1a-athlete" data-drupal-link-system-path="node/41919">P-1A Internationally Recognized Athlete</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/p-1b-a-member-of-an-internationally-recognized-entertainment-group" data-drupal-link-system-path="node/42275">P-1B Member of Internationally Recognized Entertainment Group</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/p-2-individual-performer-or-part-of-a-group-entering-to-perform-under-a-reciprocal-exchange-program" data-drupal-link-system-path="node/41744">P-2 Performer or Group Performing under Reciprocal Exchange Program</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/p-3-artist-or-entertainer-coming-to-be-part-of-a-culturally-unique-program" data-drupal-link-system-path="node/42150">P-3 Artist or Entertainer Part of a Culturally Unique Program</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/q-cultural-exchange" data-drupal-link-system-path="node/41542">Q Cultural Exchange</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/r-1-nonimmigrant-religious-workers" data-drupal-link-system-path="node/41788">R-1 Temporary Religious Workers</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-workers/tn-usmca-professionals" data-drupal-link-system-path="node/41996">TN USMCA Professionals</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/permanent-workers" data-drupal-link-system-path="node/41415">Permanent Workers</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1" data-drupal-link-system-path="node/41759">Employment-Based Immigration: First Preference EB-1</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2" data-drupal-link-system-path="node/41726">Employment-Based Immigration: Second Preference EB-2</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3" data-drupal-link-system-path="node/42265">Employment-Based Immigration: Third Preference EB-3</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fourth-preference-eb-4" data-drupal-link-system-path="node/41502">Employment-Based Immigration: Fourth Preference EB-4</a>
+                            <ul>
+              <li>
+        <a href="/working-in-US/eb4/SIJ" data-drupal-link-system-path="node/66253">Special Immigrant Juveniles</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fourth-preference-eb-4/special-immigrant-juveniles/special-immigrant-juvenile-sij-frequently-asked-questions" data-drupal-link-system-path="node/96093">Special Immigrant Juvenile (SIJ) Frequently Asked Questions</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fourth-preference-eb-4/special-immigrant-religious-workers" data-drupal-link-system-path="node/42169">Religious Workers</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program" data-drupal-link-system-path="node/82543">Employment-Based Immigration: Fifth Preference EB-5</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-regional-centers" data-drupal-link-system-path="node/61308">EB-5 Immigrant Investor Regional Centers</a>
+              </li>
+          <li>
+        <a href="/IntegrityFund" data-drupal-link-system-path="node/95529">EB-5 Integrity Fund</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/about-the-eb-5-visa-classification" data-drupal-link-system-path="node/41903">About the EB-5 Visa Classification</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process" data-drupal-link-system-path="node/41906">EB-5 Immigrant Investor Process</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/options-for-alien-stem-professionals-to-work-in-the-united-states" data-drupal-link-system-path="node/94477">STEM Employment Pathways</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/stem-employment-pathways/immigrant-pathways-for-stem-employment-in-the-united-states" data-drupal-link-system-path="node/94479">Immigrant Pathways for STEM Employment in the United States</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/stem-employment-pathways/nonimmigrant-pathways-for-stem-employment-in-the-united-states" data-drupal-link-system-path="node/94478">Nonimmigrant Pathways for STEM Employment in the United States</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/options-for-alien-entrepreneurs-to-work-in-the-united-states" data-drupal-link-system-path="node/95595">Entrepreneur Employment Pathways</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/entrepreneur-employment-pathways/immigrant-pathways-for-entrepreneur-employment-in-the-united-states" data-drupal-link-system-path="node/95596">Immigrant Pathways for Entrepreneur Employment in the United States</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/entrepreneur-employment-pathways/nonimmigrant-or-parole-pathways-for-entrepreneur-employment-in-the-united-states" data-drupal-link-system-path="node/95597">Nonimmigrant or Parole Pathways for Entrepreneur Employment in the United States</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/students-and-exchange-visitors" data-drupal-link-system-path="node/41515">Students and Exchange Visitors</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/students-and-exchange-visitors/conrad-30-waiver-program" data-drupal-link-system-path="node/42043">Conrad 30 Waiver Program</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/students-and-exchange-visitors/exchange-visitors" data-drupal-link-system-path="node/41603">Exchange Visitors</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/students-and-exchange-visitors/students-and-employment" data-drupal-link-system-path="node/41638">Students and Employment</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-visitors-for-business" data-drupal-link-system-path="node/41375">Temporary Visitors for Business</a>
+                            <ul>
+              <li>
+        <a href="/working-in-the-united-states/temporary-visitors-for-business/b-1-temporary-business-visitor" data-drupal-link-system-path="node/41685">B-1 Temporary Business Visitor</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-visitors-for-business/gb-temporary-visitor-to-guam" data-drupal-link-system-path="node/41928">GB Temporary Business Visitor to Guam</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/temporary-visitors-for-business/wb-temporary-business-visitor-under-visa-waiver-program" data-drupal-link-system-path="node/41431">WB Temporary Business Visitor under Visa Waiver Program</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/information-for-employers-and-employees" data-drupal-link-system-path="node/42048">Information for Employers and Employees</a>
+                            <ul>
+              <li>
+        <a href="/eadautoextend" data-drupal-link-system-path="node/56451">Automatic Employment Authorization Document (EAD) Extension</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/information-for-employers-and-employees/employer-information" data-drupal-link-system-path="node/42182">Employer Information</a>
+                            <ul>
+              <li>
+        <a href="/employment-authorization" data-drupal-link-system-path="node/45834">Employment Authorization</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/information-for-employers-and-employees/employer-information/validation-instrument-for-business-enterprises-vibe-program" data-drupal-link-system-path="node/41469">VIBE</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/information-for-employers-and-employees/employment-authorization-in-compelling-circumstances" data-drupal-link-system-path="node/56446">Employment Authorization in Compelling Circumstances</a>
+              </li>
+          <li>
+        <a href="/archive/options-for-nonimmigrant-workers-following-termination-of-employment-0" data-drupal-link-system-path="node/95129">Options for Nonimmigrant Workers Following Termination of Employment</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/information-for-employers-and-employees/report-labor-abuses" data-drupal-link-system-path="node/52624">Report Labor Abuses</a>
+              </li>
+          <li>
+        <a href="/working-in-the-united-states/information-for-employers-and-employees/petition-process-overview" data-drupal-link-system-path="node/41525">Petition Process Overview</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/archive/important-information-about-working-legally-in-the-united-states" data-drupal-link-system-path="node/96343">Important Information About Working Legally in the United States</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian" data-drupal-link-system-path="node/46298">Humanitarian</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/abused-spouses-children-and-parents" data-drupal-link-system-path="node/41660">Abused Spouses, Children and Parents</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/abused-spouses-children-and-parents/questions-and-answers-abused-spouses-children-and-parents-under-the-violence-against-women-act-vawa" data-drupal-link-system-path="node/44696">Questions and Answers</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/DACA" data-drupal-link-system-path="node/41444">Consideration of Deferred Action for Childhood Arrivals (DACA)</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/consideration-of-deferred-action-for-childhood-arrivals-daca/daca-litigation-information-and-frequently-asked-questions" data-drupal-link-system-path="node/94928">DACA Litigation Information and Frequently Asked Questions</a>
+              </li>
+          <li>
+        <a href="/humanitarian/consideration-of-deferred-action-for-childhood-arrivals-daca/filing-tips-for-deferred-action-for-childhood-arrivals" data-drupal-link-system-path="node/44011">Filing Tips for Deferred Action for Childhood Arrivals</a>
+              </li>
+          <li>
+        <a href="/humanitarian/consideration-of-deferred-action-for-childhood-arrivals-daca/frequently-asked-questions" data-drupal-link-system-path="node/42190">Frequently Asked Questions</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian/deferred-enforced-departure" data-drupal-link-system-path="node/91592">Deferred Enforced Departure</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/deferred-enforced-departure/ded-covered-country-liberia" data-drupal-link-system-path="node/42003">DED Covered Country - Liberia</a>
+              </li>
+          <li>
+        <a href="/humanitarian/deferred-enforced-departure/ded-covered-country-certain-hong-kong-residents" data-drupal-link-system-path="node/93296">DED Covered Country – Certain Hong Kong Residents</a>
+              </li>
+          <li>
+        <a href="/humanitarian/deferred-enforced-departure/ded-covered-country-lebanon" data-drupal-link-system-path="node/98513">DED Covered Country – Lebanon</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian/information-for-afghan-nationals" data-drupal-link-system-path="node/93215">Information for Afghan Nationals</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/information-for-afghan-nationals/a-quick-guide-to-support-the-afghan-workforce" data-drupal-link-system-path="node/96289">A Quick Guide to Support The Afghan Workforce</a>
+              </li>
+          <li>
+        <a href="/humanitarian/information-for-afghan-nationals/re-parole-process-for-certain-afghans-nationals" data-drupal-link-system-path="node/96039">Re-Parole Process for Certain Afghans Nationals</a>
+              </li>
+          <li>
+        <a href="/humanitarian/information-for-afghan-nationals/afghan-re-parole-faqs" data-drupal-link-system-path="node/96040">Afghan Re-Parole FAQs</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian/employment-resources-for-parolees-in-the-united-states" data-drupal-link-system-path="node/96189">Employment Resources for Parolees in the United States</a>
+              </li>
+          <li>
+        <a href="/humanitarian/humanitarian_parole" data-drupal-link-system-path="node/41553">Humanitarian or Significant Public Benefit Parole for Aliens Outside the United States</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/humanitarian-or-significant-public-benefit-parole-for-aliens-outside-the-united-states/information-for-afghan-nationals-on-requests-to-uscis-for-parole" data-drupal-link-system-path="node/93027">Information for Afghan Nationals on Requests to USCIS for Humanitarian Parole</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/humanitarian-or-significant-public-benefit-parole-for-aliens-outside-the-united-states/information-for-afghan-nationals-on-requests-to-uscis-for-humanitarian-parole/frequently-asked-questions-about-parole-requests-for-afghans-based-on-urgent" data-drupal-link-system-path="node/94632">Frequently Asked Questions About Parole Requests for Afghans Based on Urgent Humanitarian Reasons and or Significant Public Benefit Parole for Afghans</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian/humanitarian-parole/parole-processing" data-drupal-link-system-path="node/93335">Parole Processing</a>
+              </li>
+          <li>
+        <a href="/humanitarian/humanitarian-or-significant-public-benefit-parole-for-aliens-outside-the-united-states/the-haitian-family-reunification-parole-hfrp-program" data-drupal-link-system-path="node/47936">Haitian Family Reunification</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-asylum" data-drupal-link-system-path="node/42224">Refugees and Asylum</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/refugees-and-asylum/refugees" data-drupal-link-system-path="node/42143">Refugees</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/refugees-and-asylum/refugees/refugee-eligibility-determination" data-drupal-link-system-path="node/45721">Refugee Eligibility Determination</a>
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/refugees/refugee-processing-and-security-screening" data-drupal-link-system-path="node/50077">Refugee Processing and Security Screening</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum" data-drupal-link-system-path="node/41901">Asylum</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/affirmative-asylum-frequently-asked-questions" data-drupal-link-system-path="node/89596">Affirmative Asylum Frequently Asked Questions</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/affirmative-asylum-frequently-asked-questions/questions-and-answers-affirmative-asylum-eligibility-and-applications" data-drupal-link-system-path="node/45220">Questions and Answers: Affirmative Asylum Eligibility and Applications</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/affirmative-asylum-interview-scheduling" data-drupal-link-system-path="node/48596">Affirmative Asylum Interview Scheduling</a>
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/asylum-merits-interview-with-uscis-processing-after-a-positive-credible-fear-determination" data-drupal-link-system-path="node/94201">Asylum Merits Interview with USCIS: Processing After a Positive Credible Fear Determination</a>
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/establishing-good-cause-or-exceptional-circumstances-for-rescheduling-affirmative-asylum-interviews" data-drupal-link-system-path="node/46654">Establishing Good Cause or Exceptional Circumstances for Rescheduling Affirmative Asylum Interviews</a>
+              </li>
+          <li>
+        <a href="https://www.uscis.gov/sites/default/files/document/notices/Applicant-Caused-Delays-in-Adjudications-of-Asylum-Applications-and-Impact-on-Employment-Authorization.pdf">The 180-Day Asylum EAD Clock Notice</a>
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/fact-sheet-implementation-of-the-credible-fear-and-asylum-processing-interim-final-rule" data-drupal-link-system-path="node/94193">FACT SHEET: Implementation of the Credible Fear and Asylum Processing Interim Final Rule</a>
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/types-of-affirmative-asylum-decisions" data-drupal-link-system-path="node/43984">Types of Affirmative Asylum Decisions</a>
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/the-affirmative-asylum-process" data-drupal-link-system-path="node/44660">The Affirmative Asylum Process</a>
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/preparing-for-your-affirmative-asylum-interview" data-drupal-link-system-path="node/46653">Preparing for Your Affirmative Asylum Interview</a>
+              </li>
+          <li>
+        <a href="/humanitarian/refugees-and-asylum/asylum/obtaining-asylum-in-the-united-states" data-drupal-link-system-path="node/45548">Obtaining Asylum in the United States</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status" data-drupal-link-system-path="node/42051">Temporary Protected Status</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-burma-myanmar" data-drupal-link-system-path="node/92676">Burma (Myanmar)</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador" data-drupal-link-system-path="node/41898">El Salvador</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-ethiopia" data-drupal-link-system-path="node/95059">Ethiopia</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-haiti" data-drupal-link-system-path="node/41771">Haiti</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-lebanon" data-drupal-link-system-path="node/98745">Lebanon</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-somalia" data-drupal-link-system-path="node/41671">Somalia</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-south-sudan" data-drupal-link-system-path="node/41416">South Sudan</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-sudan" data-drupal-link-system-path="node/42192">Sudan</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-syria" data-drupal-link-system-path="node/41547">Syria</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/TPS-Ukraine" data-drupal-link-system-path="node/93929">Ukraine</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-venezuela" data-drupal-link-system-path="node/92278">Venezuela</a>
+              </li>
+          <li>
+        <a href="/humanitarian/temporary-protected-status/yemen/temporary-protected-status-designated-country-yemen" data-drupal-link-system-path="node/49591">Yemen</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/humanitarian/victims-of-human-trafficking-and-other-crimes" data-drupal-link-system-path="node/41829">Victims of Human Trafficking and Other Crimes</a>
+                            <ul>
+              <li>
+        <a href="/humanitarian/victims-of-criminal-activity-u-nonimmigrant-status" data-drupal-link-system-path="node/41681">Victims of Criminal Activity: U Nonimmigrant Status</a>
+              </li>
+          <li>
+        <a href="/humanitarian/victims-of-human-trafficking-t-nonimmigrant-status" data-drupal-link-system-path="node/42207">Victims of Human Trafficking: T Nonimmigrant Status</a>
+              </li>
+          <li>
+        <a href="/humanitarian/victims-of-human-trafficking-and-other-crimes/resources-for-victims-of-human-trafficking-and-other-crimes" data-drupal-link-system-path="node/41470">Resources for Victims of Human Trafficking and Other Crimes</a>
+              </li>
+      </ul>
+    
+              </li>
+          <li>
+        <a href="/FGMC" data-drupal-link-system-path="node/48332">Female Genital Mutilation or Cutting (FGM/C)</a>
+              </li>
+          <li>
+        <a href="/humanitarian/forced-marriage" data-drupal-link-system-path="node/65449">Forced Marriage</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+
+
+  </div>
+</div>
+
+      </div>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                              
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link is-active" data-drupal-link-system-path="sitemap" aria-current="page">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_izAVEM2y-DSioTrDfbCnEJ7hAjn-AaOKkuLpcPoOP2I.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1j9FuwzAIRX_IifvQSvsbRA1xSR2IjJumfz9PqiJ1014QlwscQHduIDpzalbj7COmZJXEFG6MxBVINmgGtzNMsgf8M8B746pYoIjeoVphuJy-_mleK2_CT1jYHTPDFWtIdybpPhzoeGTjVE0bK4WO-QFEqo8Vy_iWIZvlTmyYY-7htx5xxv2zuISHJ3Egdskac7ErlsHbq-_Ln55z6ZcPyZbVlLV1d2LKtsF7I_a_X02Sx2JIwyGHRPoNi2iH-Q"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_YikcFOvTEZOedRCiECSS9kRPwkTiYEb5zE0zbEaVFBM.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1j9FuwzAIRX_IifvQSvsbRA1xSR2IjJumfz9PqiJ1014QlwscQHduIDpzalbj7COmZJXEFG6MxBVINmgGtzNMsgf8M8B746pYoIjeoVphuJy-_mleK2_CT1jYHTPDFWtIdybpPhzoeGTjVE0bK4WO-QFEqo8Vy_iWIZvlTmyYY-7htx5xxv2zuISHJ3Egdskac7ErlsHbq-_Ln55z6ZcPyZbVlLV1d2LKtsF7I_a_X02Sx2JIwyGHRPoNi2iH-Q"></script>
+
+  </body>

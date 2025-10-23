@@ -1,0 +1,80 @@
+H1: 7.3 Refugees and Asylees
+
+Refugees and asylees are employment eligible incident to their status and are authorized to work indefinitely because their immigration status does not expire. They may present any List A document or a combination of List B and List C documents from the Form I-9 Lists of Acceptable Documents to demonstrate identity and employment authorization. Employees may also present an acceptable receipt instead of the List A, B or C document. For more information about receipts, including the receipts refugees and asylees may present, see the information below in this section orSection 4.4, Acceptable Receipts.
+
+H2: Refugees
+
+Upon admission to the United States, DHS provides refugees with a Form I-94, Arrival/Departure Record, which does not expire.
+
+When completing Form I-9, refugees should check “An alien authorized to work” and enter “N/A” on the Expiration Date field in Section 1, even if they have an EAD with an expiration date.
+
+The departure portion that contains an unexpired refugee admission stamp or an electronic Form I-94 with an admission class of “RE” is an acceptable receipt establishing both employment authorization and identity for 90 days. If the refugee presents this receipt, at the end of the 90-day receipt period, the refugee must present either an EAD or a document from List B, such as a state-issued driver’s license, with a document from List C, such as an unrestricted Social Security card.
+
+Refugees may also present an expired EAD with a Form I-797C, Notice of Action, if the notice lists the same employment authorization category as the expired EAD. This combination is considered an unexpired List A document and is valid for up to 540 days after the “Card Expires” date on the EAD.­ For more information, seeSection 5.0, Automatic Extensions of Employment Authorization and/or Employment Authorization Documents (EADs) in Certain Circumstances.
+
+Table 4: Documentation Refugees May Present
+
+This table provides examples of documentation refugees may present to complete Form I-9 and whether the reverification of employment authorization is required.
+
+TABLE:
+Document | Additional Guidance | Is Reverification Required?
+Form I-766, Employment Authorization Document (EAD) (List A) | Yes, employee may present a List A or List C document or receipt for reverification. | 
+Form I-766, Employment Authorization Document (EAD) that appears expired on the face of the card with a Form I-797C issued for a Form I-765 renewal application (List A) | Section 5.0 Automatic Extensions of Employment Authorization and/or Employment Authorization Documents (EADs) in Certain Circumstancesfor eligibility requirements and extension period. | Yes, employee may present a List A or List C document or receipt for reverification.
+Form I-94 with:An unexpired refugee admission stamp; orAn admission class of “RE” (List A receipt)Note: Form I-94 does not expire. | No passport is needed. While the I-94 does not expire, this document is an acceptable receipt that is valid for 90 days. At the end of the 90-day receipt period, the employee must present an unexpired Form I-766, Employment Authorization Document (EAD) or a valid List B document and an unrestricted Social Security card. | If the employee presents an EAD at the end of the receipt period, you must reverify the employee’s employment authorization when that EAD expires.If the employee presents an unrestricted Social Security card and List B document, you may not reverify this employee’s employment authorization.
+Receipt for a lost, stolen or damaged Form I-766, Employment Authorization Document (EAD) (List A) | Acceptable receipt for 90 days. At the end of the receipt period the employee should show the replacement document. Alternatively, you may accept other Form I-9 documentation from the Lists of Acceptable Documents. | If the employee presents an EAD at the end of the receipt period, you must reverify the employee’s employment authorization when that EAD expires.If the employee presents an unrestricted Social Security card and List B document, you may not reverify this employee’s employment authorization.
+Form I-571, Refugee Travel Document (List C) | Can be presented with any List B identity Document | Yes, employee may present a List A or List C document or a receipt for reverification.
+
+Form I-94 with:
+
+- An unexpired refugee admission stamp; or
+
+- An admission class of “RE” (List A receipt)
+
+Note: Form I-94 does not expire.
+
+If the employee presents an EAD at the end of the receipt period, you must reverify the employee’s employment authorization when that EAD expires.
+
+If the employee presents an unrestricted Social Security card and List B document, you may not reverify this employee’s employment authorization.
+
+If the employee presents an EAD at the end of the receipt period, you must reverify the employee’s employment authorization when that EAD expires.
+
+If the employee presents an unrestricted Social Security card and List B document, you may not reverify this employee’s employment authorization.
+
+H2: Asylees
+
+After being granted asylum in the United States, DHS issues a Form I-94, Arrival/Departure Record, to asylees. Form I-94 will contain a stamp or notation, such as “asylum granted indefinitely” or the appropriate provision of law (8 CFR 274a.12(a)(5) or INA 208) to show their employment authorization. The asylee does not need to present a foreign passport with this Form I-94. An asylee can also present an electronic Form I-94 with an admission class of “AY.” Form I-94 is an acceptable List C document and does not expire or require reverification. Asylees who choose to present this document must also present a List B identity document, such as a state-issued driver’s license or identification card.
+
+When completing Form I-9, asylees should indicate “an alien authorized to work” and enter “N/A” on the expiration date line in Section 1, even if they have an EAD with an expiration date.
+
+USCIS issues EADs to asylees. These are acceptable List A documents; however, decisions from immigration judges or the Board of Immigration Appeals granting asylum are not acceptable List C documents because they are not issued by DHS.
+
+Table 5: Documentation Asylees May Present
+
+This table provides examples of documentation asylees may present to complete Form I-9 and whether reverification of employment authorization is required.
+
+TABLE:
+Document | Additional Guidance | Is Reverification Required?
+Unexpired Form I-766, Employment Authorization Document (EAD) (List A) | Yes, employee may present a List A or List C document or receipt for reverification. | 
+Form I-766, Employment Authorization Document (EAD) that appears expired on the face of the card with a Form I-797C issued for a Form I-765 renewal application (List A) | See Section 5.0 Automatic Extensions of Employment Authorization and/or Employment Authorization Documents (EADs) in Certain Circumstancesfor eligibility requirements and extension period. | Yes, employee may present a List A or List C document or receipt for reverification.
+Receipt for a lost, stolen or damaged Form I-766, Employment Authorization Document (EAD) (List A) | Acceptable receipt for 90 days. At the end of the receipt period, the employee should show the replacement document. Alternatively, you may accept other Form I-9 documentation from the Lists of Acceptable Documents. | If the employee presents an EAD at the end of the receipt period, you must reverify the employee’s employment authorization when that EAD expires.If the employee presents an unrestricted Social Security card and List B document, you may not reverify this employee’s employment authorization.
+Form I-94 (List C) that contains either:Admission class of “AY”; orStamp or notation, such as “asylum granted indefinitely” or the appropriate provision of law (8 CFR 274a.12(a)(5) or INA 208) | No passport is needed.Can be presented with any List B identity DocumentNote: Form I-94 does not expire. | 
+
+See Section 5.0 Automatic Extensions of Employment Authorization and/or Employment Authorization Documents (EADs) in Certain Circumstances
+
+for eligibility requirements and extension period.
+
+If the employee presents an EAD at the end of the receipt period, you must reverify the employee’s employment authorization when that EAD expires.
+
+If the employee presents an unrestricted Social Security card and List B document, you may not reverify this employee’s employment authorization.
+
+Form I-94 (List C) that contains either:
+
+- Admission class of “AY”; or
+
+- Stamp or notation, such as “asylum granted indefinitely” or the appropriate provision of law (8 CFR 274a.12(a)(5) or INA 208)
+
+No passport is needed.
+
+Can be presented with any List B identity Document
+
+Note: Form I-94 does not expire.

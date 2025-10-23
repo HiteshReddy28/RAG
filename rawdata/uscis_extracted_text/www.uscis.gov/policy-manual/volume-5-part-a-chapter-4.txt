@@ -1,0 +1,277 @@
+H1: Chapter 4 - Adoption Definition and Order Validity
+
+- Guidance
+
+- Resources (31)
+
+- Appendices (0)
+
+- Updates (3)
+
+A child may be eligible to immigrate through the orphan or Hague Adoption Convention process if otherwise eligible and:
+
+- The child was adopted, and the adoption meets the definition of an adoption for immigration purposes; or
+
+- The child is not yet the subject of a final adoption[1]but meets certain criteria to come to the United States for adoption.[2]
+
+Unlike the Hague Adoption Convention and orphan processes, a child may only immigrate through the family-based process if the child was already adopted (and is otherwise eligible).
+
+Definition of Adoption
+
+To meet the definition of adoption for immigration purposes, an adoption must create a legal status comparable to that of a natural legitimate child between the adopted child and the adoptive parent.[3]An adoption must be valid under the law of the country or place granting the order and must:
+
+- Terminate the legal parent-child relationship between the child and the prior legal parent(s);
+
+- Create a legal permanent parent-child relationship between the child and the adoptive parent; and
+
+- Comply with the law of the country or place granting the adoption.
+
+H2: A. Determining the Validity and Effect of an Adoption
+
+In general, USCIS accepts an adoption decree or order as primary evidence of an adoption. The validity of an adoption is relevant to the eligibility of a child to immigrate to the United States on the basis of adoption.[4]The law of the jurisdiction that issued the adoption order determines the validity of the adoption.[5]
+
+USCIS may question the validity of the adoption order if there is credible and probative evidence that:
+
+- The adoption was flawed in its execution, such as when the court (or other official body) granting the adoption appears to have lacked jurisdiction over the adoption, when the prior legal parent(s) did not consent to the adoption, or were not given proper notice of the termination of parental rights;
+
+- The adoption was granted due to official corruption or the use of fraud or material misrepresentation; or
+
+- The adoption order document is fraudulent.[6]
+
+If there is credible and probative evidence that the adoption may be invalid for one of these reasons, the burden falls on the petitioner to establish that the adoption is valid under the law of the jurisdiction where the adoption order was issued.
+
+H3: 1. Adoption as Judicial or Administrative Act
+
+The law of the jurisdiction that issued the adoption order governs what official act constitutes an adoption in that jurisdiction. In many countries, adoption is a judicial process. The evidence of the adoption is therefore a court order. In other countries, adoption is an administrative process, not a judicial process. For example, in some countries, adoption is accomplished by adding the adopted child to one’s Family Registry.[7]In some countries, a legal adoption can be accomplished according to legal custom, without a court or administrative order.
+
+H3: 2. Whether Adoption is Legally Possible in a Given Jurisdiction
+
+The law of the jurisdiction where the adoption order was issued governs whether or not a legal parent-child relationship can be created by adoption.
+
+Islamic Law
+
+With some limited exceptions,[8]in countries that follow traditional Islamic law, adoption in the sense required for immigration purposes generally does not exist.[9]Typically, a Kafala order is issued in countries that follow traditional Islamic law, and while the Kafala order may grant legal custody sufficient for purposes of emigration for adoption, they generally do not terminate the legal parent-child relationship with their prior parents. For that reason, a Kafala order generally would not qualify as an adoption for immigration purposes. In countries which follow traditional Islamic Law, the specific laws of that country must be applied in considering the legal effect of an adoption order, and its validity for immigration purposes.
+
+Multi-Ethnic or Multi-Religious Countries
+
+In some multi-ethnic or multi-religious countries, the personal status laws for each ethnic or religious group governs adoptions. In such countries, different bodies of law govern adoption for different children, even within the same neighborhood. For example, an adoption valid for immigration purposes may not be available for a Muslim child under Islamic family law but may be available for another child under Jewish or Christian family law.
+
+H3: 3. Customary Adoption
+
+In some countries, customary adoption may exist instead of, or in addition to, adoption through a judicial or administrative procedure. If a customary adoption terminates the legal parent-child relationship with the prior parents and creates a legal parent-child relationship with the adoptive parent under local law, then that customary adoption is valid for immigration purposes.[10]
+
+The petitioner has the burden to show that the law of the jurisdiction where the adoption order was issued actually creates a valid adoption for immigration purposes.[11]The petitioner must establish that the customary adoption complies with the requirements of the relevant customary law and meets the definition of adoption for immigration purposes.[12]
+
+H3: 4. Simple Adoption
+
+Some countries have a type of adoption commonly called simple adoption, in addition to another type that may be called full, plenary, or perfect adoption. Whether simple adoption is valid for immigration purposes depends on the law of the jurisdiction where the adoption order was issued.[13]
+
+Even if a simple adoption might be more easily terminated than a full adoption, the petitioner may still establish that a permanent relationship was created by the simple adoption. A simple adoption may be valid for immigration purposes if it meets the definition of an adoption for immigration purposes and the parent-child relationship cannot be terminated for other than serious or grave reasons. If a simple adoption creates a permanent legal parent-child relationship, it might be valid for immigration purposes.[14]
+
+H3: 5. Contact with Birth or Prior Parents After the Adoption
+
+The mere fact that contact between the adoptee and the birth or prior parents (as in open adoptions) is ongoing does not mean that the legal parent-child relationship with the prior legal parent(s) was not terminated. As long as the adoptive parents, rather than the prior parents, exercise full parental authority over the child as a result of the adoption, the adoption order may be valid to form the basis of granting an immigration benefit under U.S. immigration law (if otherwise eligible).
+
+H3: 6. Adoptive Stepparents
+
+In some jurisdictions, the law allows a stepparent to adopt the child(ren) of the stepparent’s spouse if the legal parent-child relationship with the other legal or birth parent has been terminated by death or legal action. Such termination may meet the requirement that the legal parent-child relationship between the child and the prior legal parent(s) was terminated. The continuing legal parent-child relationship between the child and the adopting stepparent’s spouse does not preclude recognition of the adoption.
+
+H3: 7. Evidence About the Applicable Adoption Law
+
+The law of the jurisdiction where the adoption order was issued is a question of fact that the petitioner must prove with evidence.[15]If the evidence of record does not clearly show that an adoption creates a permanent legal parent-child relationship, the officer issues a request for evidence (RFE) or notice of intent to deny (NOID) asking for a copy of the relevant laws, along with properly certified English translations.[16]In this way, the officer provides the petitioner with notice and an opportunity to respond before denying a petition based on information about the jurisdiction’s adoption law that the petitioner may not be aware of.[17]
+
+H2: B. Effect of an Adoption
+
+If the requirements for an adoptions-based petition have been met, the adoptee is considered to be the child, son, or daughter of the adopting parent(s), not the birth parent(s), for immigration purposes.[18]Similarly, the adoptee is considered the sibling of the adoptive parent’s other legal children, but not of the birth parent’s children.[19]
+
+Petition by Adopted Child for Birth Parent(s) Prohibited
+
+An adoption that meets the requirements in immigration law and terminates any prior legal parent-child relationship[20]precludes the birth parent(s) from gaining any immigration benefit from that child.[21]Accordingly, such child is prohibited from petitioning for the child’s birth parent(s), since the relationship between the child and the birth parent(s) was severed at the time of the adoption.
+
+If, however, the adoption in question did not terminate the legal parent-child relationship with the birth parent, then the relationship between the child and the birth parent(s) was not severed, and the child is not prohibited from petitioning for such birth parent(s). A natural parent-child relationship can again be recognized for immigration purposes following the legal termination of an adoption if the petitioner can establish that:
+
+- No immigration benefit was obtained or conferred through the adoptive relationship;
+
+- A natural parent-child relationship meeting the requirements ofINA 101(b)once existed;
+
+- The adoption has been lawfully terminated under applicable law; and
+
+- The natural relationship has been reestablished by law.[22]
+
+H2: C. Effect of Legal Termination of an Adoption
+
+The law of the jurisdiction where the legal termination of the adoption was ordered governs the validity of a termination of an adoption.
+
+Termination of an adoption does not necessarily mean that the legal parent-child relationship has actually been restored with the prior legal parent(s).[23]Even if the child received no immigration benefits as a result of the adoption, the evidence must show that the legal relationship to the prior legal parent(s) is re-established according to law in order for that relationship to form the basis for granting a benefit under U.S. immigration law.
+
+H2: Footnotes
+
+[^ 1]Not all countries grant a final adoption for immigration purposes. The petitioner may also obtain a legal custody order for purposes of emigration and adoption.
+
+[^ 2]For criteria for orphan cases, see Part C, Child Eligibility Determinations (Orphan), Chapter 5, Qualifying Adoptive or Custodial Relationship [5 USCIS-PM C.5]. For criteria for Hague Adoption Convention cases, see Part D, Child Eligibility Determinations (Hague), Chapter 5, Qualifying Adoptive or Custodial Relationship [5 USCIS-PM D.5].
+
+[^ 3]SeeMatter of Mozeb  (PDF), 15 I&N Dec. 430 (BIA 1975).
+
+[^ 4]SeeGuidance for Determining if an Adoption is Valid for Immigration and Nationality Act (INA) Purposes, PM 602-0070.1, issued November 6, 2012.
+
+[^ 5]SeeMatter of T-, 6 I&N Dec. 634 (1955).
+
+[^ 6]Not recognizing an adoption in one of these situations is consistent with legal principles generally observed by courts in the United States with respect to foreign country judgments. See Sections 482(2)(a)-(c) of Restatement (Third) Foreign Relations Law of the United States.
+
+[^ 7]SeeMatter of Cho  (PDF), 16 I&N Dec. 188 (BIA 1977).
+
+[^ 8]SeeGuidance for Determining if an Adoption is Valid for Immigration and Nationality Act (INA) Purposes, PM 602-0070.1, issued November 6, 2012.
+
+[^ 9]SeeMatter of Mozeb  (PDF), 15 I&N Dec. 430 (BIA 1975). SeeMatter of Ashree, Ahmed and Ahmed  (PDF), 14 I&N Dec. 305 (BIA 1973).
+
+[^ 10]SeeMatter of Lee  (PDF), 16 I&N Dec. 511 (BIA 1978).
+
+[^ 11]SeeMatter of Annang  (PDF), 14 I&N Dec. 502 (BIA 1973).
+
+[^ 12]SeeMatter of Kodwo  (PDF), 24 I&N Dec. 479 (BIA 2008).
+
+[^ 13]For example, inMatter of Kong  (PDF), 15 I&N Dec. 224 (BIA 1975),Matter of Kong  (PDF)14 I&N Dec. 649 (BIA 1974) andMatter of Chang  (PDF), 14 I&N Dec. 720 (BIA 1974), the Board of Immigration Appeals (BIA) held that “Appatitha,” a form of simple adoption in Burma, did not create a legal parent-child relationship.
+
+[^ 14]SeeMatter of Chin  (PDF), 12 I&N Dec. 240 (BIA 1967).
+
+[^ 15]SeeMatter of Annang  (PDF), 14 I&N Dec. 502 (BIA 1973).
+
+[^ 16]See Volume 1, General Policies and Procedures, Part E, Adjudications [1 USCIS-PM E].
+
+[^ 17]See8 CFR 103.2(b)(16).
+
+[^ 18]SeeINA 101(b)(1).
+
+[^ 19]SeeMatter of Li  (PDF), 20 I&N Dec. 700 (BIA 1993).
+
+[^ 20]SeeGuidance for Determining if an Adoption is Valid for Immigration and Nationality Act (INA) Purposes, PM 602-0070.1, issued November 6, 2012.
+
+[^ 21]SeeINA 101(b)(1). SeeMatter of Li  (PDF), 20 I&N Dec. 700 (BIA 1993).
+
+[^ 22]SeeMatter of Xiu Hong Li  (PDF), 21 I&N Dec. 13, 13 (BIA 1995).
+
+[^ 23]As the Board noted inXiu Hong Li, “We do not assume that natural relationships are automatically reestablished solely by virtue of the fact that an adoption has been lawfully terminated.” SeeMatter of Xiu Hong Li  (PDF), 21 I&N Dec. 13 (BIA 1995).
+
+H2: Resources
+
+22 CFR 96- Intercountry adoption accreditation of agencies and approval of persons
+
+8 CFR 103.2- Submission and adjudication of benefit requests
+
+8 CFR 204 Subpart C- Intercountry adoption of a Convention adoptee
+
+8 CFR 204.1- General information about immediate relative and family-sponsored petitions
+
+8 CFR 204.2(d)- Petition for a child or son or daughter
+
+8 CFR 204.3- Orphan cases under section 101(b)(1)(F) of the Act (non-Convention cases)
+
+Convention of 29 May 1993 on Protection of Children and Co-operation in Respect of Intercountry Adoption
+
+INA 101(b)(1)- Definition of child
+
+INA 101(b)(1)(E)- Definition of a child adoptee for family-based process
+
+INA 101(b)(1)(F)- Definition of a child adoptee for orphan process
+
+INA 101(b)(1)(G)- Definition of a child adoptee for Hague Adoption Convention process
+
+INA 101(c)- Definition of child for citizenship and naturalization
+
+INA 201(b)(2)(A)(i)- Immediate relatives
+
+INA 203(a)- Preference allocation for family-sponsored immigrants
+
+INA 204,8 CFR 204- Procedure for granting immigrant status
+
+Pub. L. 106-139                          (PDF)- Immigration and Nationality Act of 1999
+
+Pub. L. 106-279         (PDF)- Hague Adoption Convention and the Intercountry Adoption Act
+
+Pub. L. 111-287                          (PDF)- Intercountry Adoption Act
+
+Pub. L. 112-276                          (PDF)- Intercountry Adoption Universal Accreditation Act of 2012
+
+Pub. L. 80-774 (PDF)- Displaced Persons Act of 1948
+
+Pub. L. 87-301                          (PDF)- The Act of September 26, 1961
+
+Pub. L. 89-236                          (PDF)- Immigration and Nationality Act of 1965
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-130, Petition for Alien Relative
+
+I-600, Petition to Classify Orphan as an Immediate Relative
+
+I-600A, Application for Advance Processing of an Orphan Petition
+
+I-800, Petition to Classify Convention Adoptee as an Immediate Relative
+
+I-800A, Application for Determination of Suitability to Adopt a Child from a Convention Country
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is publishing a volume in the USCIS Policy Manual regarding adoptions. This guidance incorporates basic requirements for the submission of adoption-based applications and petitions to USCIS.
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

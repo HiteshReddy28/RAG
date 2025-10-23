@@ -1,0 +1,60 @@
+"Count of Active DACA Recipients
+",
+
+"By Age on September 30, 2023",
+
+"As of September 30, 2023",
+
+Age,Count (Rounded)1
+
+,
+
+TOTAL,"544,690"
+
+,
+
+Under 16,D
+
+16-20,"2,390"
+
+21-25,"127,820"
+
+26-30,"195,000"
+
+31-35,"140,400"
+
+36-40,"70,790"
+
+Not available,"8,270"
+
+Average Age,29.6
+
+Median Age,29
+
+Interquartile Range,26 to 33
+
+Table Key,
+
+D Disclosure standards not met,
+
+Reference:,
+
+1 Totals may not sum due to rounding.,
+
+Notes:,
+
+1) The report reflects the most up-to-date estimate available at the time the database is queried.,
+
+2) Counts may differ from previous periods due to system updates and post-adjudicative outcomes.,
+
+"3) This report reflects the number of individuals with DACA expiration on or after Sep. 30, 2023 as of Sep. 30, 2023.",
+
+4) Individuals who have obtained Lawful Permanent Resident status or U.S. citizenship are excluded.,
+
+"5) For a complete list of USCIS forms and descriptions, visit: https://www.uscis.gov/forms",
+
+Source:,
+
+"Department of Homeland Security, U.S. Citizenship and Immigration Services, Office of Performance and Quality",
+
+"ELIS, CLAIMS3, queried 12/2023, TRK 13219",

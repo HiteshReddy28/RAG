@@ -1,0 +1,61 @@
+,,,,,,,,,,,,,,,,,,,,
+
+"Form I-485 Application to Register Permanent Residence or Adjust Status
+",,,,,,,,,,,,,,,,,,,,
+
+Counts of Liberian Refugee Immigration Fairness (LRIF) Fee Waiver,,,,,,,,,,,,,,,,,,,,
+
+"By Fiscal Year
+",,,,,,,,,,,,,,,,,,,,
+
+"December 20, 2019 - December 31, 2021",,,,,,,,,,,,,,,,,,,,
+
+,,,,,,,,,,,,,,,,,,,,
+
+Fiscal Year,Fee Waivers Requested,Fee Waivers Granted,Fee Waivers Denied1,,,,,,,,,,,,,,,,,
+
+,,,,,,,,,,,,,,,,,,,,
+
+TOTAL, 142 , 158 , 49 ,,,,,,,,,,,,,,,,,
+
+,,,,,,,,,,,,,,,,,,,,
+
+Fiscal Year 2020 , N/A , 65 , N/A ,,,,,,,,,,,,,,,,,
+
+Fiscal Year 2021, 114 , 76 , 38 ,,,,,,,,,,,,,,,,,
+
+Fiscal Year 2022, 28 , 17 , 11 ,,,,,,,,,,,,,,,,,
+
+Table Key:,,,,,,,,,,,,,,,,,,,,
+
+N/A Not Available,,,,,,,,,,,,,,,,,,,,
+
+References:,,,,,,,,,,,,,,,,,,,,
+
+1 The number of denied fee waivers were not tracked in FY 2020. Grand Total of the Fee Waivers Denied and Requested is the,,,,,,,,,,,,,,,,,,,,
+
+   total since FY 2021.,,,,,,,,,,,,,,,,,,,,
+
+Notes:,,,,,,,,,,,,,,,,,,,,
+
+1) Some waivers approved or denied may have been received in previous reporting periods.,,,,,,,,,,,,,,,,,,,,
+
+2) The report reflects the most up-to-date estimate available at the time the database is queried.,,,,,,,,,,,,,,,,,,,,
+
+"3) If an application has an error that causes an automatic rejection, such as missing signature, the fee waiver request would not be ",,,,,,,,,,,,,,,,,,,,
+
+    adjudicated and thus would not be included in the Denied Fee Waiver count.,,,,,,,,,,,,,,,,,,,,
+
+4) Counts may differ from previous periods due to system updates and post-adjudicative outcomes.,,,,,,,,,,,,,,,,,,,,
+
+"5) LRIF applications must be properly filed to USCIS by the December 20, 2021 deadline.  Applications filed after the deadline",,,,,,,,,,,,,,,,,,,,
+
+    will no longer be accepted.,,,,,,,,,,,,,,,,,,,,
+
+"6) For a complete list of USCIS forms and descriptions, visit: https://www.uscis.gov/forms",,,,,,,,,,,,,,,,,,,,
+
+Source:,,,,,,,,,,,,,,,,,,,,
+
+"Department of Homeland Security, U.S. Citizenship and Immigration Services, Office of Performance and Quality",,,,,,,,,,,,,,,,,,,,
+
+"OIDP, CLAIMS3, queried 07/2022, TRK 10081",,,,,,,,,,,,,,,,,,,,

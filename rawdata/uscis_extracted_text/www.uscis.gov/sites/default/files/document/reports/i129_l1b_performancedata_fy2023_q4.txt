@@ -1,0 +1,63 @@
+Number of Form I-129 Petition for a Nonimmigrant Worker Intracompany Transferee-Specialized Knowledge (L1B),,,,
+
+"By Fiscal Year, Quarter, and Case Status",,,,
+
+"Fiscal Years 2016 - 2023 through September 30, 2023",,,,
+
+Period,Petitions Received1,Approved2,Denied3,Pending4
+
+Fiscal Year - Total,,,,
+
+2016,"13,418","10,167","3,242","2,937"
+
+2017,"13,474","10,626","3,915","2,344"
+
+2018,"13,629","9,218","3,585","3,530"
+
+2019,"14,715","9,822","5,141","3,751"
+
+2020,"13,197","7,959","3,926","5,776"
+
+2021,"13,323","10,469","3,725","5,313"
+
+2022,"14,082","13,096","3,191","3,767"
+
+Fiscal Year 2023 by Quarter,,,,
+
+Q1 October - December,"3,202","2,986",692,"3,305"
+
+Q2 January - March,"2,968","2,732",594,"3,009"
+
+Q3 April - June,"2,441","2,869",499,"2,161"
+
+Q4 July - September,"2,690","2,873",458,"1,553"
+
+TOTAL,"11,301","11,460","2,243","1,553"
+
+References:,,,,
+
+1 The number of new petitions received and entered into a case tracking system during the reporting period.,,,,
+
+2 The number of petitions approved during the reporting period.,,,,
+
+3 The number of petitions denied during the reporting period.,,,,
+
+4 The number of petitions awaiting a decision as of the end of the reporting period. Some actions taken on cases are not reflected in this report such as administrative closures and transfers between offices; ,,,,
+
+thus the total pending counts cannot be calculated using data from previous reporting periods.,,,,
+
+Notes:,,,,
+
+"1) Some petitions approved, denied, or pending a decision may have been received in previous reporting periods.",,,,
+
+2) The report reflects the most up-to-date estimate available at the time the database is queried.,,,,
+
+3) Counts may differ from previous periods due to system updates and post-adjudicative outcomes.  ,,,,
+
+"4) For a complete list of USCIS forms and descriptions, visit https://www.uscis.gov/forms",,,,
+
+Source:,,,,
+
+"Department of Homeland Security, U.S. Citizenship and Immigration Services, Office of Performance and Quality",,,,
+
+"CLAIMS3, queried 11/2023, TRK 13209",,,,

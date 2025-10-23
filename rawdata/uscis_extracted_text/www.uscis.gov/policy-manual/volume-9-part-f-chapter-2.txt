@@ -1,0 +1,205 @@
+H1: Chapter 2 - Adjudication of Fraud and Willful Misrepresentation Waivers
+
+- Guidance
+
+- Resources (9)
+
+- Appendices (0)
+
+- Updates (5)
+
+H2: A. Eligibility
+
+An applicant inadmissible for fraud or willful misrepresentation may be eligible for a waiver. Before adjudicating the waiver, the officer should determine if the applicant is inadmissible for fraud or willful misrepresentation.[1]
+
+If inadmissible, the applicant must meet the following requirements before a waiver can be granted:
+
+- The applicant must show that denial of admission to or removal from the United States would result in extreme hardship to his or her qualifying relative (or if the applicant is a VAWA self-petitioner, to himself or herself); and
+
+- The applicant must show that a favorable exercise of discretion is warranted.[2]​
+
+TABLE:
+General Guidelines for Adjudication of Fraud and Willful Misrepresentation Waivers
+Step 1 | Determine whether the applicant is a VAWA self-petitioner or has established the relationship to the qualifying relative.
+Step 2 | Determine whether the applicant has demonstrated that his or her qualifying relative (or the applicant himself or herself, if a VAWA self-petitioner) would suffer extreme hardship if the applicant were denied admission to or removed from the United States as a result of the denial of the waiver.
+Step 3 | Determine whether the waiver should be granted as a matter of discretion, particularly whether positive equities such as humanitarian relief to a qualifying relative and family unity overcome negative factors such as fraud and willful misrepresentation.
+
+H2: B. Waiver Adjudication
+
+H3: 1. Determine Whether the Applicant Has a Qualifying Relative
+
+For cases other than VAWA self-petitioners, the applicant must have a qualifying relative who is either the applicant’s:
+
+- U.S. citizen parent or spouse;
+
+- ​Lawful permanent resident (LPR) parent or spouse; or
+
+- U.S. citizen fiancé(e) petitioner (for K-1 or K-2 visa applicants only).
+
+U.S. citizen or LPR children are not qualifying relatives.
+
+A VAWA self-petitioner does not need a qualifying relative, since the VAWA self-petitioner may claim extreme hardship to himself or herself. The VAWA self-petitioner may also claim extreme hardship to a U.S. citizen, LPR, or qualified alien parent or child.[3]
+
+The evidence needed to establish that an applicant has a qualifying relative is generally the same as the evidence required to establish the underlying relationship for a relative or fiancé(e) visa petition.
+
+H3: 2. Make an Extreme Hardship Determination
+
+An applicant must demonstrate that his or her qualifying relative (or the applicant himself or herself, if a VAWA self-petitioner) would suffer extreme hardship if the applicant were refused admission to or removed from the United States as a result of the denial of the waiver.
+
+If the applicant fails to establish extreme hardship, then the officer must deny the waiver application because the applicant has not met the statutory requirements of the waiver. Before denying the waiver, the officer should follow standard operating procedures regarding issuance of a Request for Evidence or Notice of Intent to Deny.
+
+In general, a finding that the applicant has not shown extreme hardship is sufficient to support a denial of the waiver application. If the applicant has not established extreme hardship, then it is unnecessary to determine whether the waiver would have been granted as a matter of discretion. There may be instances, however, where the applicant’s past actions were so egregious that the officer may want to note in the decision that even if extreme hardship were found, the application would be denied as a matter of discretion.
+
+If the applicant has established extreme hardship, the officer should proceed with the discretionary determination.
+
+H3: 3. Analyze Whether the Waiver Should Be Granted as a Matter of Discretion
+
+A fraud or willful misrepresentation waiver generally requires an officer to consider whether granting the waiver is warranted as a matter of discretion. The officer should determine whether the applicant’s positive factors outweigh the negative factors.
+
+The finding of extreme hardship experienced by a qualifying relative (or the VAWA self-petitioner himself or herself) is the first positive factor for consideration. The underlying fraud or willful misrepresentation itself is the first negative factor to consider.[4]The nature, seriousness, and underlying circumstances of the fraud or willful misrepresentation may influence the weight given to this negative factor. Considerations include, but are not limited to:
+
+- The facts and circumstances surrounding the fraud or willful misrepresentation;
+
+- The reasons and motivations of the applicant when the fraud or willful misrepresentation was committed;
+
+- Age or mental capacity of the applicant when the fraud was committed;
+
+- Whether the applicant has engaged in a pattern of fraud or whether it was merely an isolated act of misrepresentation;[5]and
+
+- The nature of the proceedings in which the applicant committed the fraud or willful misrepresentation.[6]
+
+H2: Footnotes
+
+[^ 1]For more on inadmissibility for fraud and willful misrepresentation, see Volume 8, Admissibility, Part J, Fraud and Willful Misrepresentation [8 USCIS-PM J].
+
+[^ 2]Once found inadmissible, the underlying fraud or willful misrepresentation is not considered again until the officer determines whether the waiver is warranted as a matter of discretion. For more information, see Chapter 3, Effect of Granting a Waiver [9 USCIS-PM G.3].
+
+[^ 3]SeeINA 212(i),INA 204(a)(1)(A)(iii), andINA 204(a)(1)(A)(iv).
+
+[^ 4]See INS v. Yueh-Shaio Yang, 519 U.S. 26 (1996). SeeMatter of Cervantes-Gonzalez, 22 I&N Dec. 560 (BIA 1999).
+
+[^ 5]SeeINS v. Yueh-Shaio Yang, 519 U.S. 26 (1996).
+
+[^ 6]InMatter of Tijam, 22 I&N Dec. 408, 413 (BIA 1998), the Board of Immigration Appeals (BIA) stated that it considered making false statements under oath during the naturalization process to be an extremely serious adverse factor because of the government’s interest in maintaining the integrity of that process.
+
+H2: Resources
+
+8 CFR 212.7- Waiver of certain grounds of inadmissibility
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-192, Application for Advance Permission to Enter as a Nonimmigrant
+
+I-601, Application for Waiver of Grounds of Inadmissibility
+
+I-601A, Application for Provisional Unlawful Presence Waiver
+
+I-602, Application by Refugee for Waiver of Inadmissibility Grounds
+
+I-690, Application for Waiver of Grounds of Inadmissibility Under Sections 245A or 210 of the Act
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance on the fraud and willful misrepresentation grounds of inadmissibility under INA 212(a)(6)(C)(i) and the corresponding waiver under INA 212(i).
+
+8 USCIS-PM J-Part J - Fraud and Willful Misrepresentation
+
+9 USCIS-PM F-Part F - Fraud and Willful Misrepresentation

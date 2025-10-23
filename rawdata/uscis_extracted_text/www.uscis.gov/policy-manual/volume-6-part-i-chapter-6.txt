@@ -1,0 +1,333 @@
+H1: Chapter 6 - Decision and Post-Adjudication
+
+- Guidance
+
+- Resources (15)
+
+- Appendices (0)
+
+- Updates (5)
+
+H2: A. Discretion
+
+H3: 1. Non-Discretionary Decision for Joint Filings and Individual Filing Requests
+
+The decision to remove conditions on residence in a joint petition or individual filing request is not discretionary. The only issues that are resolved through the joint petition or individual filing request process are those relating to eligibility under section 216 of the Immigration and Nationality Act (INA) and the bona fides of the qualifying marriage.[1]
+
+If derogatory information unrelated to INA 216 eligibility is discovered, the officer forwards the information to an investigations unit for appropriate action. However, unless the derogatory information relates to INA 216 eligibility, such information cannot serve as the basis for a denial.
+
+If USCIS determines that the qualifying marriage is bona fide and all other INA 216 eligibility requirements are met, USCIS approves the joint petition or individual filing request and removes the conditions on residence.[2]
+
+H3: 2. Discretionary Decision for Waivers
+
+Unlike a joint petition, the approval of a Petition to Remove Conditions on Residence (Form I-751) filed as a waiver is solely within the discretion of USCIS.[3]Therefore, unlike the adjudication of a joint petition, the adjudication of a waiver may take into consideration factors not directly related to the bona fides of the qualifying marriage.[4]
+
+H2: B. Approvals
+
+If USCIS determines that the facts and information provided in theForm I-751demonstrate eligibility by a preponderance of the evidence, USCIS approves the Form I-751 and removes the conditions on residence.[5]The approval also applies to any Conditional Permanent Resident (CPR) children who are included in the Form I-751 and who are eligible for removal of conditions on residence.[6]
+
+Upon approval, USCIS removes the conditions on the CPR’s status effective as of the second anniversary of the CPR obtaining permanent resident status.[7]USCIS notifies the CPR of the approval and produces a new Permanent Resident Card (PRC). The CPR must surrender to USCIS any previously issued PRC upon receipt of the new card.[8]
+
+H2: C. Denials
+
+If USCIS finds that the facts and information in theForm I-751do not demonstrate eligibility by a preponderance of the evidence, then USCIS denies the Form I-751 and terminates the CPR’s permanent resident status as of the date of the decision.[9]USCIS is also required by statute to issue a Notice to Appear (NTA), placing the CPR in removal proceedings. The following sections describe common reasons for denial.
+
+H3: 1. Abandonment Denials
+
+Insufficient Response or Failure to Respond
+
+USCIS generally considers theForm I-751abandoned and denies the Form I-751 if the CPR does not submit all of the requested evidence by the required date provided in the Request for Evidence (RFE) or Notice of Intent to Deny (NOID).[10]
+
+Failure to Appear for Biometrics
+
+If the CPR fails to appear for a scheduled biometrics appointment, USCIS generally considers the Form I-751 abandoned and denies the Form I-751. If the CPR submits a change of address or a rescheduling request, USCIS may reschedule the CPR’s biometrics appointment.[11]
+
+Failure to Appear for Interview
+
+If the CPR (and petitioning spouse or stepparent if a joint petition) fails to appear for a scheduled interview, USCIS generally considers the Form I-751 abandoned and denies the Form I-751.[12]If the CPR submits a written request to reschedule the interview or requests an interview waiver, USCIS may reschedule or waive the interview based on good cause.
+
+H3: 2. Qualifying Marriage is Improper
+
+USCIS denies a joint petition or individual filing request if the qualifying marriage is improper because:
+
+- The marriage was not entered into in accordance with the laws of the place where the marriage took place;[13]
+
+- The marriage has been judicially annulled or terminated other than through the death of a spouse;[14]
+
+- The marriage was entered into for the purpose of procuring the CPR’s admission as an immigrant;[15]or
+
+- The CPR or someone else gave a fee or other consideration for filing a petition for an immigrant visa with respect to the CPR or the CPR’s son or daughter.[16]
+
+H3: 3. Failure to Establish Eligibility by Preponderance of the Evidence
+
+If the CPR fails to establish eligibility under the requested basis or bases for filing by a preponderance of the evidence, USCIS denies theForm I-751.
+
+H3: 4. Discretionary Denial of Waivers
+
+If in the adjudication of a waiver request, the officer finds that significant negative factors, such as a significant criminal record, outweigh the benefits of approving the waiver, the officer may deny the petition.[17]
+
+H2: D. Withdrawals
+
+In general, USCIS considers the joint petition withdrawn if the CPR, petitioning spouse, or both withdraw(s) support from the joint petition before its adjudication.[18]If the CPR or both the CPR and the petitioning spouse withdraw(s), USCIS considers the joint petition withdrawn and terminates the CPR’s status. USCIS then issues an NTA and places the CPR in removal proceedings. When the CPR is in removal proceedings, the CPR may file a new waiver application at any time unless and until the immigration court issues the final order of removal.[19]
+
+However, if the petitioning spouse is the only one who withdraws, the officer sends an RFE to give the CPR an opportunity to amend the basis for filing from a joint petition to a waiver. The Board of Immigration Appeals (BIA) held that withdrawal of support for a joint petition by a petitioning spouse automatically withdraws the joint petition, and the joint petition is then “considered as if never filed” rather than being reviewed on its merits.[20]USCIS will provide a withdrawal notice to the CPR and the petitioning spouse.
+
+While the petition can no longer be considered a joint petition if one party withdraws, the CPR is given an opportunity to amend the basis for filing to a waiver. For example, a petitioning spouse may withdraw support from the joint petition because the spouses have divorced or are in the process of divorcing. Therefore, USCIS gives the CPR the opportunity to amend the basis for filing from a joint petition to a waiver.
+
+H2: E. Notification of Decision
+
+USCIS provides the CPR with written notice of the decision, whether an approval or denial.[21]If the decision is a denial, USCIS must advise the CPR of the reason(s) for denial, notify the CPR of the termination of permanent resident status, and instruct the CPR to surrender any permanent resident cards. USCIS also issues an NTA, beginning the process of placing the CPR in removal proceedings.
+
+The CPR may not appeal the decision to USCIS but may seek review of the decision in removal proceedings.[22]Although the CPR may not appeal the decision to USCIS, the CPR may file a motion to reopen or reconsider with USCIS by submitting a Notice of Appeal or Motion (Form I-290B). The CPR may also choose to file a newForm I-751if eligible.
+
+H2: F. Motion to Reopen or Reconsider
+
+The denial notice should include instructions for filing aForm I-290B. If USCIS denies theForm I-751and the CPR disagrees with the decision or has additional evidence that shows the decision was incorrect, the CPR may file a motion to reopen or reconsider the case by filing a Form I-290B.[23]The CPR may also choose to simply file a new Form I-751 with a new filing basis, rather than filing a motion to reopen or reconsider.
+
+Amending the Basis for Filing on a Motion to Reopen
+
+If the petition was denied under one basis for filing, but the CPR may qualify under another basis, when the CPR files a motion to reopen, the CPR may amend the Form I-751 for consideration under a new basis in limited circumstances. The CPR may request that USCIS amend the filing basis from a joint filing to a waiver or from one waiver basis to another.
+
+For example, if the basis for the Form I-751 was a divorce waiver but the CPR may qualify for a waiver based on battery or extreme cruelty, the CPR may amend the basis for filing when filing a motion. However, if the CPR seeks to change the basis for filing from a waiver to a joint petition, the CPR cannot amend the filing basis using a motion. The CPR must file a new Form I-751 jointly with the petitioning spouse or stepparent because the petitioning spouse or stepparent never signed the prior Form I-751.
+
+If either the original filing or the desired amended filing is based on battery or extreme cruelty, additional procedures must be followed.[24]
+
+The CPR must file the Form I-290B with the appropriate fee[25]within 30 calendar days of the decision if the denial was delivered by personal service or within 33 calendar days of the decision if the denial was mailed. After the CPR files a motion to reopen or reconsider, USCIS decides whether there is sufficient justification for reopening the case. If so, USCIS renders a new decision on the merits of the reopened case.[26]
+
+H2: G. Multiple Filings
+
+There are no regulatory limits on how many times a CPR may fileForm I-751. For example, a CPR who initially files a joint petition may subsequently file another joint petition or a waiver request.[27]USCIS reviews all prior filings before making a final decision on the new filing. The following sections outline how USCIS handles common multiple filing scenarios.
+
+H3: 1. Same Filing Basis
+
+Prior Abandonment Denial
+
+If USCIS receives aForm I-751following the denial of a Form I-751 due to abandonment (resulting from, for example, a failure to appear for a biometrics or interview appointment or failure to respond to an RFE or NOID), USCIS adjudicates the new Form I-751 separately from the prior denial.
+
+Prior Denial for Cause
+
+If USCIS receives a Form I-751 following the denial for cause of a Form I-751 filed under the same basis, USCIS reviews the new Form I-751 to determine if the CPR has presented any new evidence. This evidence must be different from the evidence that the CPR presented with the previous Form I-751.
+
+If there is no new evidence, USCIS denies the new Form I-751, referencing the grounds of the previous denial in the notification.
+
+In cases where the subsequent Form I-751 contains new evidence but this new evidence does not establish the bona fides of the qualifying marriage or eligibility for the requested waiver, USCIS denies the Form I-751 and states the reasons for the denial in the notification.
+
+If USCIS determines the new evidence is sufficient to overcome the reasons for the prior denial, USCIS approves the Form I-751.
+
+H3: 2. Different Filing Basis
+
+If USCIS receives a Form I-751subsequent to the denial of aForm I-751filed under a different basis, USCIS evaluates the new filing separately from the prior filing.
+
+For example, if the initial Form I-751 was a joint petition and the subsequent Form I-751 is a waiver based on divorce, USCIS evaluates the new divorce waiver separately from the initial joint petition. Likewise, if the initial Form I-751 was a waiver based on divorce and the subsequent Form I-751 is a waiver based on extreme hardship, USCIS evaluates the new extreme hardship waiver separately. However, the officer considers all relevant evidence in the record, including in the prior Form I-751 filing, during adjudication.
+
+H3: 3. Prior Form I-751 Still Pending
+
+Same Filing Basis
+
+If USCIS receives aForm I-751after receiving another Form I-751 filed under the same basis, and the first Form I-751 remains pending, USCIS adjudicates the first Form I-751 and administratively closes the second.
+
+Different Filing Basis
+
+If USCIS receives a Form I-751 after receiving another Form I-751 filed under a different filing basis, USCIS adjudicates the forms separately. In certain circumstances, USCIS may administratively close or deny the first filing.
+
+H2: Footnotes
+
+[^ 1]See8 CFR 216.4(c)(4).
+
+[^ 2]See8 CFR 216.4(c)(4).
+
+[^ 3]SeeINA 216(c)(4).
+
+[^ 4]See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis [1 USCIS-PM E.8].
+
+[^ 5]See8 CFR 216.4(c)(4). See8 CFR 216.5(f).
+
+[^ 6]See8 CFR 216.4(a)(2).
+
+[^ 7]SeeINA 216(c)(3)(B).
+
+[^ 8]See8 CFR 216.4(d)(1)and8 CFR 216.5(f).
+
+[^ 9]SeeINA 216(c)(3)(C).
+
+[^ 10]See8 CFR 103.2(b)(13)(i).
+
+[^ 11]See8 CFR 103.2(b)(13)(ii). See Volume 1, General Policies and Procedures, Part C, Biometrics Collection and Security Checks, Chapter 2, Biometrics Collection [1 USCIS-PM C.2].
+
+[^ 12]SeeINA 216(c)(2)(A)(ii). See8 CFR 216.4(b)(3)and8 CFR 216.5(d).
+
+[^ 13]SeeINA 216(d)(1)(A)(i)(I).
+
+[^ 14]SeeINA 216(d)(1)(A)(i)(II).
+
+[^ 15]SeeINA 216(d)(1)(A)(i)(III).
+
+[^ 16]SeeINA216(d),INA 204(a),INA 214(d), andINA 214(p). The statutory provision on fee or consideration does not refer to fees paid to attorneys, notarios, or others who assisted with filing petitions, but rather refers to instances where a fee or other consideration was paid in connection with a fraudulent marriage. If a fee or other consideration was paid in order to enter into a fraudulent marriage or to obtain an immigration benefit through a fraudulent marriage, the CPR is ineligible for removal of conditions.
+
+SeeINA 216(d)(1)(A)(ii). See8 CFR 216.4(c)(4).
+
+[^ 17]SeeINA 216(c)(4).
+
+[^ 18]SeeMatter of Mendes(PDF), 20 I&N Dec. 833 (BIA 1994).
+
+[^ 19]See8 CFR 216.5(a)(2).
+
+[^ 20]SeeMatter of Mendes(PDF), 20 I&N Dec. 833 (BIA 1994).
+
+[^ 21]See8 CFR 103.2(b)(19).
+
+[^ 22]See8 CFR 216.4(d)and8 CFR 216.5(f).
+
+[^ 23]The CPR may file a motion to reopen, a motion to reconsider, or both. SeeForm I-290Band instructions for more information.
+
+[^ 24]See Chapter 5, Waiver of Joint Filing Requirement, Section C, Battery or Extreme Cruelty, Subsection 5, Changing or Supplementing the Filing Basis [6 USCIS-PM I.5(C)(5)].
+
+[^ 25]See Fee Schedule (Form G-1055).
+
+[^ 26]See8 CFR 103.5(a).
+
+[^ 27]CPRs who file untimely joint petitions after previously filing timely joint petitions must still establish good cause and extenuating circumstances for the untimely filing.
+
+H2: Resources
+
+INA 201- Worldwide level of immigration
+
+INA 202- Numerical limitations on individual foreign states
+
+INA 203- Allocation of immigrant visas
+
+INA 204,8 CFR 204- Procedure for granting immigrant status
+
+INA 216,8 CFR 216- Conditional permanent resident status for certain alien spouses and sons and daughters
+
+Section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act           (PDF)- Penalties for disclosure of information
+
+The Immigration Marriage Fraud Amendments of 1986           (PDF)
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-290B, Notice of Appeal or Motion
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-751, Petition to Remove Conditions on Residence
+
+DHS Implementation of Section 1367 Information Provisions            (PDF)
+
+How to Use the USCIS Policy Manual Website
+
+Information for Conditional Permanent Residents Seeking to Change the Basis of Form I-751 From a Waiver Based on Battery or Extreme Cruelty to a Joint Petition
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual regarding family-based conditional permanent residents (CPRs).
+
+6 USCIS-PM I.1-Chapter 1 - Purpose and Background
+
+6 USCIS-PM I.2-Chapter 2 - Terms and Conditions of CPR Status
+
+6 USCIS-PM I.3-Chapter 3 - Petition to Remove Conditions on Residence
+
+6 USCIS-PM I.4-Chapter 4 - Joint Petitions and Individual Filing Requests
+
+6 USCIS-PM I.5-Chapter 5 - Waiver of Joint Filing Requirement
+
+6 USCIS-PM I.6-Chapter 6 - Decision and Post-Adjudication
+
+6 USCIS-PM I.7-Chapter 7 - Effect of Removal Proceedings
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

@@ -1,0 +1,1333 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/archivo/recursos-sobre-carga-publica-0" class="language-link" hreflang="es" data-drupal-link-system-path="node/93014">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+      
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+    <nav aria-labelledby="block-uscis-design-mainnavigation-menu" id="block-uscis-design-mainnavigation">
+            
+  <div class="visually-hidden" id="block-uscis-design-mainnavigation-menu">Main navigation</div>
+  
+
+        
+<a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+
+      <ul class="menu--main leftnav-menu" data-level="0">
+          <li class="menu__item-title leftnav-menu__item leftnav-menu__item--0 has-sub-items" data-id="id33829"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/archive" class="leftnav-menu__link leftnav-menu__title" data-drupal-link-system-path="node/46757">Archive</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Archive" aria-controls="id33829" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="id33829"><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id41226"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/dhs-support-of-the-enforcement-of-labor-and-employment-laws" class="leftnav-menu__link" data-drupal-link-system-path="node/95235">DHS Support of the Enforcement of Labor and Employment Laws</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id25772"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/notice-to-appear-policy-memorandum" class="leftnav-menu__link" data-drupal-link-system-path="node/68860">Notice to Appear Policy Memorandum</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id13246"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/how-do-i-guides-for-nonimmigrants" class="leftnav-menu__link" data-drupal-link-system-path="node/45669">Nonimmigrants</a></div></div></li></ul></li>    
+    </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                            <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/archive">Archive</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Public Charge Resources</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-article">
+      <div class="container container--main">
+                
+
+                        
+            <h1 class="page-title js-page-title">
+              <span>Public Charge Resources</span>
+            </h1>
+          
+              
+                                    <div class="clearfix text-formatted field field--name-body field__item"><div class="alert-message" role="note">
+<div class="messages messages--warning messages--has-header">
+<div class="messages__text">
+<h4 class="messages__header">Archived Content</h4>
+
+<p>The information on this page is out of date. However, some of the content may still be useful, so we have archived the page.</p>
+</div>
+</div>
+</div>
+</div>
+      
+              
+      
+  <div>
+                      <div class="clearfix text-formatted field field--name-body field__item"><p>Consistent with <a href="https://www.federalregister.gov/documents/2021/02/05/2021-02563/restoring-faith-in-our-legal-immigration-systems-and-strengthening-integration-and-inclusion-efforts">Executive Order 14012</a>, we are committed to restoring trust in our legal immigration system and identifying excessive or unjustified administrative and other barriers that impede access to immigration benefits and fair, efficient adjudications of these benefits. One goal of this executive order is to reduce the confusion and fear that may have prevented immigrants and their families, including their children, from obtaining access to critical government services available to them.</p><p>We must ensure that immigrants and their U.S. citizen and non-U.S. citizen family members, are not deterred from obtaining access to important government services for which they are eligible to keep their families safe and healthy. A central goal of our efforts is to promote equity and to prevent unfairness, consistent with law.</p><p>Please see our resources below to learn more about the <a href="https://www.federalregister.gov/documents/2022/09/09/2022-18867/public-charge-ground-of-inadmissibility">2022 Public Charge Ground of Inadmissibility Final Rule</a> and how we now administer the public charge ground of inadmissibility. Our question-and-answer section, infographics, and other resources address common concerns and misconceptions about the public charge ground of inadmissibility. These resources include information about the public benefits that we do not consider when making public charge inadmissibility determinations.</p><p>For example, we do not consider vaccines or public benefits specifically related to the coronavirus (COVID-19) pandemic. You can continue to receive the care you and your family need to protect your health and limit the spread of COVID-19. We do not consider vaccinations when making public charge inadmissibility determinations. In fact, we encourage everyone, regardless of immigration status, to receive the COVID-19 vaccine. For more information on COVID-19 vaccines, please visit the <a href="https://www.dhs.gov/news/2021/02/01/dhs-statement-equal-access-covid-19-vaccines-and-vaccine-distribution-sites">DHS statement on COVID-19 vaccines</a> and <a href="https://www.covid.gov/">Covid.gov</a>.</p><p>We also encourage everyone, including aliens, to seek necessary medical care, including treatment or preventive services for COVID-19. You may seek pandemic-related benefits and services (including food assistance, housing programs, and others) for which you are eligible—without fear of negative consequences to your immigration status.</p><p>These resources also describe the steps we are taking to communicate with the public about current public charge policies. When in doubt, please seek information from a trusted source, including federal, state or local government agencies.</p><h2>Questions and Answers About Public Charge</h2><div id="acc2"> </div><div class="content-accordion"><h4 class="accordion__header" tabindex="0">Key Facts About the 2022 Final Rule</h4><div class="accordion__panel"><p><strong>Q: What is the public charge ground of inadmissibility?</strong></p><p>A: Congress established that an alien application for a visa, admission, or adjustment of status can be denied if they are found “likely at any time to become a public charge.”</p><p>For DHS, a public charge inadmissibility determination is based on an alien’s likelihood of becoming primarily dependent on the government for subsistence, as demonstrated by either the receipt of public cash assistance for income maintenance or long-term institutionalization at government expense.</p><p>USCIS must apply this public charge inadmissibility determination to most aliens who are applying for lawful permanent residence (also known as a Green Card) when we adjudicate Form I-485, Application to Register Permanent Residence or Adjust Status.</p><p>As explained in detail below, some aliens are exempt from the public charge ground of inadmissibility.</p><p><strong>Q: How does USCIS administer the public charge ground of inadmissibility?</strong></p><p>A: For adjustment of status applications postmarked (or electronically filed, if applicable) on or after Dec. 23, 2022, USCIS will apply the <a href="https://www.federalregister.gov/documents/2022/09/09/2022-18867/public-charge-ground-of-inadmissibility">2022 Final Rule</a>. For applications postmarked before Dec. 23, 2022, USCIS will administer the public charge ground of inadmissibility consistent with the statute and the <a href="/archive/public-charge-resources" data-entity-type="node" data-entity-uuid="40e01774-80a9-4d20-9765-4599dd36b58d" data-entity-substitution="canonical">1999 Interim Field Guidance</a>.</p><p><strong>Q: Who is exempt from the public charge ground of inadmissibility?</strong></p><p>A: The following aliens are exempt from the public charge ground of inadmissibility when applying for visas, admission, or adjustment of status:</p><ul><li>Asylees and refugees;</li><li>Amerasian immigrants at admission;</li><li>Afghan and Iraqi interpreters or Afghan or Iraqi nationals employed by or on behalf of the U.S. government;</li><li>Cuban and Haitian entrants at adjustment of status;</li><li>Applicants seeking adjustment under the Cuban Adjustment Act;</li><li>Nicaraguans and other Central Americans who are adjusting status to legal permanent resident;</li><li>Haitians who are adjusting status to legal permanent resident;</li><li>Lautenberg parolees;</li><li>Special immigrant juveniles;</li><li>Applicants for registry;</li><li>Applicants seeking Temporary Protected Status;</li><li>Certain nonimmigrant ambassadors, ministers, diplomats, and other foreign government officials, and their families;</li><li>Human trafficking victims (T nonimmigrants);</li><li>Victims of qualifying criminal activity (U nonimmigrants);</li><li>Self-petitioners under the Violence Against Women Act;</li><li>Certain battered aliens who are “qualified aliens” under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (also known as the Welfare Reform Act);</li><li>Applicants adjusting status who qualify for a benefit as surviving spouses, children, or parents of military members;</li><li>Alien  American Indians born in Canada;</li><li>Alien members of the Texas Band of Kickapoo Indians of the Kickapoo Tribe of Oklahoma;</li><li>Nationals of Vietnam, Cambodia, and Laos applying under the Indochinese Act;</li><li>Polish and Hungarian Parolees;</li><li>Certain Syrian nationals;</li><li>Applicants adjusting under the Liberian Refugee Immigration Fairness law; and</li><li>Any other categories of alien exempt under any other law from the public charge ground of inadmissibility provisions under INA 212(a)(4).</li></ul><p>For further information on which categories of aliens are subject to and exempt from the public charge ground of inadmissibility, see the <a href="/policy-manual/volume-8-part-g" data-entity-type="node" data-entity-uuid="68df2897-3a8f-40af-a48c-9b9e93c502c5" data-entity-substitution="canonical">USCIS Policy Manual, Volume 8, Part G, Chapter 3</a> and <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-212#212.23">8 CFR 212.23</a>.</p><p><strong>Q: What are the factors that USCIS will consider when making a public charge inadmissibility determination?</strong></p><p>A: For all applicants for adjustment of status who are subject to the public charge ground of inadmissibility, USCIS must consider the statutory minimum factors of age; health; family status; assets, resources, and financial status; and education and skills. The applicant provides relevant information about these factors as part of the adjustment application (Form I-485) and the Report of Medical Examination and Vaccination Record (Form I-693).</p><p>USCIS will favorably consider a sufficient Affidavit of Support Under Section 213A of the INA (<a href="/i-864" data-entity-type="node" data-entity-uuid="224b9c85-1034-4a07-80d3-8347ca130377" data-entity-substitution="canonical">Form I-864</a> or <a href="/i-864ez" data-entity-type="node" data-entity-uuid="01bbc03e-7854-4a4b-be8f-2e1771e2a61e" data-entity-substitution="canonical">Form I-864EZ</a>), if required.</p><p>USCIS will also consider any current and/or past receipt of public cash assistance for income maintenance or long-term institutionalization at government expense.</p><p><strong>Q: Which public benefits does USCIS consider when determining whether an applicant is inadmissible under the public charge ground?</strong></p><p>A: We consider an applicant’s current and/or past receipt of public cash assistance for income maintenance. Public cash assistance for income maintenance includes only the following:</p><ul><li>Supplemental Security Income (SSI);</li><li>Cash assistance under the Temporary Assistance for Needy Families (TANF) program; and</li><li>State and local cash assistance programs that provide benefits for income maintenance (often called ‘‘General Assistance’’ programs).</li></ul><p>We also consider an applicant’s institutionalization for long-term care at government expense, such as in a nursing home or mental health institution.</p><p>However, relatively few applicants will be both subject to the public charge ground of inadmissibility and eligible for these public benefits prior to adjustment of status. (For more details, see below under “Most Aliens Are Not Eligible for Public Benefits.”)</p><p><strong>Q: What public assistance programs does USCIS not consider?</strong></p><p>A: Generally, we do not consider noncash benefits in making public charge determinations. The only noncash benefit we consider is long-term institutionalization at government expense. We also do not consider special-purpose cash assistance that is not intended for income maintenance.</p><p>For example, USCIS does <strong>not</strong> consider any of the following public benefits when making a public charge determination:</p><p><em><strong>Nutrition programs</strong></em></p><ul><li>Supplemental Nutrition Assistance Program (SNAP) or other nutrition programs</li><li>Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)</li><li>School lunch and school breakfast programs</li><li>Benefits under the Emergency Food Assistance Act (TEFAP)</li><li>Child and Adult Care Food Program (CACFP)</li><li>Food Distribution Program on Indian Reservations (FDPIR)</li></ul><p><em><strong>Health programs</strong></em></p><ul><li>Children’s Health Insurance Program (CHIP)</li><li>Medicaid (other than support for long-term institutional care), including public assistance for immunizations and for testing and treatment of symptoms of communicable diseases, health clinics, short-term rehabilitation services, and emergency medical services</li><li>Health Insurance through the Affordable Care Act</li><li>Any benefits related to immunizations or testing for communicable diseases</li><li>Treatments or preventative services related to COVID-19, including vaccinations</li><li>Home and community-based services (HCBS)</li></ul><p><em><strong>Housing programs</strong></em></p><ul><li>Housing benefits</li><li>Housing assistance under the McKinney-Vento Homeless Assistance Act</li></ul><p><em><strong>Education and childcare programs</strong></em></p><ul><li>Cash payments that are provided for childcare assistance or other supplemental, special purpose cash assistance</li><li>Child care related services including the Child Care and Development Block Grant (CCDBG)</li><li>Head Start</li><li>Attending public school</li><li>Student loans and home mortgage loan programs</li><li>Publicly funded scholarships and educational grants</li><li>Foster care and adoption benefits</li></ul><p><em><strong>Disaster relief programs</strong></em></p><ul><li>Any services provided under the Stafford Act or comparable disaster assistance provided by state, tribal, territorial, or local governments</li><li>Cash payments that are provided as part of pandemic or disaster relief funds, such as the American Rescue Plan Act</li></ul><p><em><strong>Earned benefits</strong></em></p><ul><li>Social Security retirement benefits</li><li>Government pensions</li><li>Veterans’ benefits</li><li>Unemployment insurance</li></ul><p><em><strong>Other public benefits</strong></em></p><ul><li>Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) provided by local communities or through public or private nonprofit organizations</li><li>Transportation vouchers or other non-cash transportation services</li><li>Job training programs</li><li>Energy assistance, such as the Low Income Home Energy Assistance Program (LIHEAP)</li><li>Guaranteed income programs that are not equivalent to public cash assistance for income maintenance</li><li>Child Tax Credit (CTC) or other tax-related cash benefits including Earned Income Tax Credit (EITC); Additional Child Tax Credit (ACTC); Premium Tax Credit (PTC); Advance Payment of Premium Tax Credit (APTC); and State, local, or tribal tax credit</li></ul></div><h4 class="accordion__header" tabindex="0">Most Aliens Are Not Eligible for Public Benefits</h4><div class="accordion__panel"><p id="a2q20"><strong>Q: Who is subject to the public charge ground of inadmissibility and eligible for the public benefits considered under the 2022 Final Rule?</strong></p><p>A: Relatively few aliens in the United States are both subject to the public charge ground of inadmissibility and eligible for the public benefits considered under the 2022 Final Rule before adjustment of status.</p><p>The following table identifies the major categories of aliens who are generally subject to the public charge ground of inadmissibility and may be eligible for the federal public benefits considered under the 2022 Final Rule (such as Supplemental Security Income, Temporary Assistance for Needy Families, and Medicaid that supports aliens who are institutionalized for long-term care at government expense). The 2022 Final Rule also includes consideration of state and local cash assistance programs that provide benefits for income maintenance (often called ‘‘General Assistance’’ programs); and any other program in addition to Medicaid that supports aliens who are institutionalized for long term care at government expense. (The table does not include these programs).</p><p>The 2022 Final Rule, the public charge inadmissibility determination is a prospective determination based on the totality of the alien's circumstances (that is, we weigh all the information and evidence relevant to the statutory factors as applied to an applicant’s case). No one factor serves as the sole criterion for making a public charge inadmissibility determination (except for an insufficient Affidavit of Support Under Section 213A of the INA where required).</p><p>The table is provided for background purposes only and should not be used to determine eligibility for public benefits.</p><table class="dataTable"><caption>Categories of aliens eligible for SSI, TANF, or Medicaid for long-term institutionalization whose past or current benefit use may be considered in a public charge inadmissibility determination</caption><thead><tr><th scope="col">Population</th><th scope="col">Eligible for which benefits?</th><th scope="col">Notes</th></tr></thead><tbody><tr><td>Alien who were paroled into the United States for more than one year³</td><td>SSI, TANF, Medicaid for long-term institutionalization</td><td><p>SSI eligibility only in limited circumstances.¹</p><p>Medicaid and TANF eligibility subject to 5-year waiting period in most cases.</p></td></tr><tr><td>Alien granted withholding of removal who are allowed to remain in the United States</td><td>SSI, TANF, Medicaid for long-term institutionalization</td><td>SSI eligibility only in limited circumstances.¹</td></tr><tr><td>Certain citizens of Micronesia, the Marshall Islands, or Palau, who can lawfully reside and work in the United States under the Compacts of Free Association</td><td>Medicaid for long-term institutionalization</td><td> </td></tr><tr><td>Cuban and Haitian Entrants under section 501(e) of the Refugee Education Assistance Act of 1980 (8 U.S.C. 1522 note)</td><td>SSI, TANF, Medicaid for long-term institutionalization</td><td><p>SSI eligibility only in limited circumstances.¹</p><p>Not subject to the public charge inadmissibility ground if also in an exempt immigration status.²</p></td></tr><tr><td>Lawfully present children, pregnant women, and women in the 60-day postpartum period or 12-month postpartum period (depending on the State’s election), in States that have elected to cover this population in Medicaid</td><td>Medicaid for long-term institutionalization</td><td>Not subject to the public charge inadmissibility ground if also in an exempt immigration status.²</td></tr><tr><td>Alien members of federally recognized Indian tribes</td><td>SSI, Medicaid for long-term institutionalization</td><td>Not subject to the public charge inadmissibility ground if also in an exempt immigration status.²</td></tr><tr><td>Conditional entrants under section 203(a)(7) of the INA as in effect before April 1, 1980</td><td>SSI, TANF, Medicaid for long-term institutionalization</td><td>SSI eligibility only in limited circumstances.¹</td></tr><tr><td>Returning lawful permanent residents (LPRs) who are seeking admission to the United States as described in section 101(a)(13)(C) of the INA (8 U.S.C. 1101(a)(13)(C)), including those absent from the United States for more than 180 days</td><td>SSI, TANF, Medicaid for long-term institutionalization</td><td>Not all LPRs are eligible for SSI, TANF, and Medicaid, depending on factors such as whether the State requires LPRs to have 40 qualified work quarters and whether subject to the 5-year waiting period.</td></tr><tr><td colspan="3"><p>Abbreviations: SSI, Supplemental Security Income; INA, Immigration and Naturalization Act; LPR, lawful permanent resident (or “Green Card” holder); TANF, Temporary Assistance for Needy Families; U.S.C., United States Code.</p><p>¹ <em>See</em> Social Security Administration, Supplemental Security Income for Alien , <a href="https://www.ssa.gov/pubs/EN-05-11051.pdf%C2%A0"><em>https://www.ssa.gov/pubs/EN-05-11051.pdf</em></a> (accessed Feb. 9, 2022).</p><p>² Certain aliens are exempt from the public charge ground of inadmissibility, including but not limited to:</p><ul><li>Asylees and refugees</li><li>Afghan and Iraqi interpreters or Afghan or Iraqi nationals employed by or on behalf of the U.S. government</li><li>Cuban and Haitian entrants</li><li>Applicants seeking adjustment under the Cuban Adjustment Act</li><li>Special immigrant juveniles</li><li>Applicants applying for or reregistering for Temporary Protected Status (TPS)</li><li>Human trafficking victims (T nonimmigrants)</li><li>Victims of qualifying criminal activity (U nonimmigrants)</li><li>Self-petitioners under the Violence against Women Act (VAWA)</li><li>Applicants adjusting under the Liberian Refugee Immigration Fairness (LRIF) law</li><li>Any other categories of aliens exempt under any other law from the public charge ground of inadmissibility provisions under INA 212(a)(4)</li></ul><p>For further information on which categories of aliens are subject to and exempt from the public charge ground of inadmissibility, see the <a href="/policy-manual/volume-8-part-g" data-entity-type="node" data-entity-uuid="68df2897-3a8f-40af-a48c-9b9e93c502c5" data-entity-substitution="canonical">USCIS Policy Manual, Volume 8, Admissibility, Part G, Public Charge Ground of Inadmissibility</a> and the <a href="https://www.govinfo.gov/content/pkg/FR-2022-09-09/pdf/2022-18867.pdf">2022 Final Rule [PDF  (PDF)</a>].</p><p>³ USCIS does not consider any public benefits that were received by aliens  who, while not refugees, are eligible for resettlement assistance, entitlement programs, and other benefits available to refugees. For example, Congress explicitly extended benefits normally reserved for refugees to our Afghan allies and to certain Ukrainians impacted by the Russian invasion of Ukraine.</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Past or Current Receipt of Public Cash Assistance for Income Maintenance or Long-term Institutionalization at Government Expense</h4><div class="accordion__panel"><p><strong>Q: What if a family member living in the adjustment applicant’s household uses public cash assistance for income maintenance or long-term institutionalization at government expense? Would that count against the applicant’s immigration status or eligibility for immigration benefits?</strong></p><p>A: No. The receipt of public benefits by an applicant’s family members is not considered in a public charge inadmissibility determination under the 2022 Final Rule. Only public cash assistance for income maintenance or long-term institutionalization at government expense provided <em>to the applicant</em>, where the applicant is listed as a named beneficiary, are considered in a public charge inadmissibility determination.</p><p><strong>Q: Does the receipt of public benefits by someone who naturalized or derived U.S. citizenship affect their citizenship?</strong></p><p>A: No. Anyone who naturalized or derived U.S. citizenship cannot lose their citizenship because of receipt of public benefits while a U.S. citizen.</p><p><strong>Q: Are lawful permanent residents subject to a public charge inadmissibility determination when they apply to renew their Green Cards?</strong></p><p>A: No. Lawful permanent residents applying to renew their Green Card are not subject to a public charge inadmissibility determination, because they are not required to establish that they are admissible to the United States to renew their Green Card.</p><p><strong>Q: Does the receipt of public benefits by a lawful permanent resident affect their immigration status while they are in the United States?</strong></p><p>A: No. DHS only applies the public charge ground of inadmissibility to applicants for admission to the United States or to applicants for adjustment of status who are already in the United States. Lawful permanent residents have already adjusted their status.</p><p><strong>Q: What if a lawful permanent resident has received or is receiving public cash assistance for income maintenance or long-term institutionalization at government expense and departs the United States—will they be subject to a public charge determination upon their return?</strong></p><p>No, except in a few unusual circumstances. DHS does not typically treat a lawful permanent resident who has been outside the United States as an applicant for admission when they return from a trip abroad and, therefore, they would not generally undergo a public charge inadmissibility determination upon their return. Under INA 101(a)(13)(C), an LPR returning from a temporary trip abroad would only be considered seeking admission to the United States if any of the following factors apply:</p><ul><li>Abandoned or relinquished their status as a lawful permanent resident;</li><li>Has been absent for a continuous period more than 180 days;</li><li>Departed the United States while in removal proceedings or extradition proceedings;</li><li>Engaged in certain illegal activity after departing the United States;</li><li>Committed an offense identified in INA 212(a) (unless they have been granted relief under INA 212(h) since the offense); or</li><li>Is attempting to enter the United States at a time or place other than as designated by immigration officers or has not been admitted to the United States after inspection and authorization by an immigration officer.</li></ul><p><strong>Q: Does the current and/or past receipt of public benefits automatically result in an applicant being found likely at any time to become a public charge?</strong></p><p>A: No. USCIS considers current and/or past receipt of public cash assistance for income maintenance and long-term institutionalization at government expense in the totality of the circumstances, taking into account the amount, duration, and recency of the receipt.  Current and/or past receipt of these benefits alone is not a sufficient basis to determine that an applicant is likely at any time to become a public charge.</p><p>The past or current receipt of public cash assistance for income maintenance and long-term institutionalization at government expense is only one factor we consider in the totality of the circumstances; other factors include the statutory minimum factors (age; health; family status; assets, resources, financial status; and education and skills) and the Affidavit of Support Under Section 213A of the INA, if required.</p><p>USCIS will not find an applicant inadmissible on the public charge ground solely based on an applicant’s disability.</p><p><strong>Q: What if an alien receives public benefits while in a category that is exempt from the public charge ground of inadmissibility, but then applies to adjust status while in a non-exempt category?</strong></p><p>USCIS does not consider any public benefits received by a alien during periods in which the alien was present in the United States in an immigration category that is exempt from the public charge ground of inadmissibility or for which the alien received a waiver of public charge inadmissibility.</p><p>For example, an individual with refugee status is exempt from the public charge ground of inadmissibility and may be eligible for a range of public benefits, including public cash assistance for income maintenance. If this individual later applied for adjustment of status based on a family petition (Form I-130), they <em>would</em> be subject to a public charge determination, but their receipt of public benefits during their period of refugee status would not be considered.</p></div><h4 class="accordion__header" tabindex="0">COVID-19 Related Public Benefits</h4><div class="accordion__panel"><p><strong>Q: Will receiving free COVID-19 testing, vaccinations, or treatment be used in determining whether someone is likely to become a public charge?</strong></p><p>A: No. We do not consider public assistance for immunizations and for testing and treating communicable diseases. We do not consider receipt of Medicaid and other public health insurance and health services. This includes health clinics, short-term rehabilitation services, and emergency medical services.</p><p>We encourage everyone, regardless of immigration status, to receive the COVID-19 vaccine and subsequent booster vaccines. We also encourage everyone, including aliens, with COVID-19 symptoms (such as fever, cough, shortness of breath) to seek necessary medical treatment or preventive services. Such treatment or preventive services will not affect any public charge determination, now or in the future.</p><p><strong>Q: What about other COVID-19 public assistance, such as for food, housing, cash assistance, rental assistance, tax credits, stimulus payments, unemployment, financial aid grants to students, Paycheck Protection Program, and student loan forbearance?</strong></p><p>A: We do not consider such public assistance that is specifically related to COVID-19, because these are noncash benefits or special-purpose cash benefits that we do not use in making public charge determinations as a general matter. We only consider Supplemental Security Income (SSI), cash assistance under the Temporary Assistance for Needy Families (TANF) program, and General Assistance (in other words, cash assistance provided by states or localities), as well long-term institutionalization provided at government expense.</p><p>States have flexibility in administering the TANF program and may choose to provide noncash assistance such as subsidized childcare or transportation vouchers in addition to cash assistance. Such noncash benefits are not considered for public charge purposes. States may also provide nonrecurrent cash payments for specific crisis situations under TANF. These payments are not considered for public charge purposes because they are not cash for income maintenance.</p></div><h4 class="accordion__header" tabindex="0">Affidavit of Support</h4><div class="accordion__panel"><p><strong>Q: What is an Affidavit of Support Under Section 213A of the INA?</strong></p><p>A: Congress amended <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(4)</a> in 1996 to require that certain immigrants submit a sufficient Affidavit of Support Under Section 213A of the INA (<a href="/i-864" data-entity-type="node" data-entity-uuid="224b9c85-1034-4a07-80d3-8347ca130377" data-entity-substitution="canonical">Form I-864</a> or <a href="/i-864ez" data-entity-type="node" data-entity-uuid="01bbc03e-7854-4a4b-be8f-2e1771e2a61e" data-entity-substitution="canonical">Form I-864EZ</a>), executed by a sponsor, to avoid a finding of inadmissibility under this section. The new section, <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1183a&amp;num=0&amp;edition=prelim">INA 213A</a>, specifies who meets the definition of a sponsor, which immigrants must submit a sufficient Affidavit of Support, the scope of a sponsor’s obligations, and how an Affidavit of Support may be enforced.</p><p>By executing an Affidavit of Support, a sponsor creates a contract between the sponsor and the U.S. government. Under this contract, the sponsor agrees:</p><ul><li>To provide support to maintain the sponsored immigrant at an annual income not less than 125% of the federal poverty line (or 100% if the sponsor is on active duty—and not in active duty for training—in the U.S. armed forces and petitioning for their spouse or child) during the period the support obligation is in effect;</li><li>To be liable for any reimbursement obligation incurred from the sponsored immigrant receiving means-tested public benefits during the period the obligation is in effect;</li><li>To submit to the jurisdiction of any federal or state court for enforcing the support obligation; and</li><li>That the U.S. government can consider the sponsor’s income and assets as available for the support of the sponsored immigrant when the immigrant applies for means-tested public benefits.</li></ul><p>Receiving means-tested public benefits does not disqualify someone from becoming a sponsor. However, means-tested public benefits cannot be included as income that is used to meet the income threshold.</p><p><strong>Q: Which applicants for adjustment of status must submit an Affidavit of Support Under Section 213A of the INA?</strong></p><p>A: Most family-based applicants for adjustment of status must submit an Affidavit of Support Under Section 213A of the INA (<a href="/i-864" data-entity-type="node" data-entity-uuid="224b9c85-1034-4a07-80d3-8347ca130377" data-entity-substitution="canonical">Form I-864</a> or <a href="/i-864ez" data-entity-type="node" data-entity-uuid="01bbc03e-7854-4a4b-be8f-2e1771e2a61e" data-entity-substitution="canonical">Form I-864EZ</a>), executed by a sponsor, who is usually the U.S. citizen or lawful permanent resident who filed the immigrant petition on the adjustment applicant’s behalf. Employment-based applicants for adjustment of status must submit <a href="/i-864" data-entity-type="node" data-entity-uuid="224b9c85-1034-4a07-80d3-8347ca130377" data-entity-substitution="canonical">Form I-864</a> or <a href="/i-864ez" data-entity-type="node" data-entity-uuid="01bbc03e-7854-4a4b-be8f-2e1771e2a61e" data-entity-substitution="canonical">Form I-864EZ</a> if the applicant’s U.S. citizen or lawful permanent resident relative (as defined in <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.213a_11">8 CFR 213a.1</a>) filed the employment-based immigrant petition, or has a significant ownership interest in the entity that filed the immigrant visa petition on behalf of the applicant.</p><p><strong>Q: Which applicants for adjustment of status do not have to submit an Affidavit of Support Under Section 213A of the INA?</strong></p><p>A: Applicants for adjustment of status who do not have to submit an Affidavit of Support Under Section 213A of the INA (<a href="/i-864" data-entity-type="node" data-entity-uuid="224b9c85-1034-4a07-80d3-8347ca130377" data-entity-substitution="canonical">Form I-864</a> or <a href="/i-864ez" data-entity-type="node" data-entity-uuid="01bbc03e-7854-4a4b-be8f-2e1771e2a61e" data-entity-substitution="canonical">Form I-864EZ</a>) include applicants in the following categories:</p><ul><li>Employment-based preference immigrant when both of the following apply:<ul><li>Applicant is not a relative of the Form I-140 petitioner; and</li><li>Applicant does not have a relative with a significant ownership interest (at least five percent) in the business that filed Form I-140</li></ul></li><li>Immigrant Investor</li><li>Human trafficking victim (T nonimmigrant)</li><li>Victim of qualifying criminal activity (U nonimmigrant)</li><li>Diplomat or high ranking official unable to return home</li><li>S nonimmigrant immigrant (or a qualifying family member)</li><li>Diversity Visa program</li><li>One of the following special immigrant categories:<ul><li>Armed Forces (also known as the Six and Six program)</li><li>Panama Canal Zone</li><li>Certain broadcasters</li><li>G-4 or NATO-6 employees and their family members</li><li>International employees of the U.S. Government abroad</li><li>Religious workers</li><li>Certain physicians</li><li>Employed by or on behalf of the U.S. Government</li><li>Certain Afghan or Iraqi nationals employed by or on behalf of the U.S. government as translators</li><li>Special immigrant juveniles</li></ul></li><li>Amerasian Act</li><li>Refugee</li><li>Asylee</li><li>Haitian Refugee Immigrant Fairness Act</li><li>Indochinese Parole Adjustment Act of 2000</li><li>Registry (based on continuous residence in the United States since before Jan. 1, 1972)</li><li>Cuban Adjustment Act</li><li>Lautenberg Parolee</li><li>Born in the United States under diplomatic status</li><li>Spouse, child, or parent of a deceased U.S. active duty service military member in the armed forces</li><li>Polish or Hungarian parolee immigrant category</li><li>American Indian born in Canada</li><li>Liberian Refugee Immigration Fairness (LRIF)</li></ul><p>For further information on which applicants for adjustment of status do not have to submit an Affidavit of Support Under Section 213A of the INA, see the <a href="/policy-manual/volume-8-part-g" data-entity-type="node" data-entity-uuid="68df2897-3a8f-40af-a48c-9b9e93c502c5" data-entity-substitution="canonical">USCIS Policy Manual, Volume 8, Admissibility, Part G, Public Charge Ground of Inadmissibility</a>.</p><p><strong>Q: What is the purpose of Form I-864W, Request for Exemption for Intending Immigrant's Affidavit of Support, and who may submit this form instead of Form I-864?</strong></p><p>A: The Affidavit of Support Under Section 213A of the INA (<a href="/i-864" data-entity-type="node" data-entity-uuid="224b9c85-1034-4a07-80d3-8347ca130377" data-entity-substitution="canonical">Form I-864</a> or <a href="/i-864ez" data-entity-type="node" data-entity-uuid="01bbc03e-7854-4a4b-be8f-2e1771e2a61e" data-entity-substitution="canonical">Form I-864EZ</a>) is required for most family-based immigrants and some employment-based immigrants to show that they have adequate means of financial support and are not likely to become a public charge. Certain classes of immigrants are exempt from the Form I-864 or Form I-864EZ requirement but must submit <a href="/i-864w" data-entity-type="node" data-entity-uuid="b995e310-8e39-4fe4-b446-be6be4bfd32f" data-entity-substitution="canonical">Form I-864W, Request for Exemption for Intending Immigrant's Affidavit of Support</a> with their adjustment of status application to establish that a Form I-864 is not required in their case.</p><p>Applicants for adjustment of status who must submit Form I-864W include applicants who:</p><ul><li>Have earned or can receive credit for 40 qualifying quarters (credits) of work in the United States (as defined by the Social Security Act);</li><li>Are under 18 years of age, unmarried, immigrating as the child of a U.S. citizen, are not likely to become a public charge, and will automatically become a U.S. citizen under INA section 320 upon admission to the United States as lawful permanent resident and taking up residence in the legal and physical custody of their U.S. citizen parent;</li><li>Are applying under the self-petitioning battered spouse or child immigrant category; or</li><li>Are applying as the self-petitioning widow or widower of a U.S. citizen.</li></ul><p><strong>Q: What is the effect of a missing or an insufficient Affidavit of Support Under Section 213A of the INA, when one is required?</strong></p><p>A: If an Affidavit of Support Under Section 213A of the INA (<a href="/i-864" data-entity-type="node" data-entity-uuid="224b9c85-1034-4a07-80d3-8347ca130377" data-entity-substitution="canonical">Form I-864</a> or <a href="/i-864ez" data-entity-type="node" data-entity-uuid="01bbc03e-7854-4a4b-be8f-2e1771e2a61e" data-entity-substitution="canonical">Form I-864EZ</a>) is required but not submitted, or if we deem the Form I-864 or Form I-864EZ insufficient because the sponsor failed to demonstrate the means to maintain income at the required threshold, the intending immigrant is inadmissible on the public charge ground and we will deny the intending immigrant’s application for adjustment of status or an immigrant visa.</p></div><h4 class="accordion__header" tabindex="0">Other Questions</h4><div class="accordion__panel"><p><strong>Q: When does DHS make public charge inadmissibility determinations?</strong></p><p>A: In general, all grounds of inadmissibility apply to immigration benefits that require that an applicant is admissible to the United States. Specifically, the public charge ground of inadmissibility applies to applicants for visas, admission, and adjustment of status, unless the alien is exempt from the public charge ground of inadmissibility. Most commonly, we make public charge inadmissibility determinations as part of the adjustment of status application process (<a href="/i-485" data-entity-type="node" data-entity-uuid="6d9a13a3-f3c9-4773-b112-0015c55ae4dd" data-entity-substitution="canonical">Form I-485, Application to Register Permanent Residence or Adjust Status</a>) when aliens apply to adjust their status to that of a lawful permanent resident. U.S. Customs and Border Protection makes public charge inadmissibility determinations when applicants for admission who are subject to this inadmissibility ground present themselves for inspection at a port of entry.</p><p><strong>Q: How is the Department of State addressing public charge inadmissibility determinations during consular processing of immigrant visa applications?</strong></p><p>A: Please refer to the Department of State’s Foreign Affairs Manual (FAM) at <a href="https://fam.state.gov/fam/09fam/09fam030208.html">9 FAM 302.8</a> for information about public charge determinations made in consular processing of immigrant visa applications.</p><p><strong>Q: Is the public charge ground of inadmissibility a consideration when determining a person’s eligibility to file an immigrant petition on behalf of a relative?</strong></p><p>A: No. The public charge ground of inadmissibility does not apply to immigrant petitions on behalf of a relative (Form I-130).</p><p><strong>Q: INA 213 states that aliens inadmissible only based on the public charge ground may be admitted in the discretion of DHS “upon the giving of a suitable and proper bond or undertaking.” What policies and procedures does USCIS have in place to implement this section of law?</strong></p><p>A: DHS regulations implementing the public charge bond provisions are available in <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.103_16">8 CFR 103.6</a> and <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.213_11">8 CFR 213.1</a>. Additionally, USCIS’ policies and procedures on public charge bonds are found in the <a href="/policy-manual/volume-8-part-g" data-entity-type="node" data-entity-uuid="68df2897-3a8f-40af-a48c-9b9e93c502c5" data-entity-substitution="canonical">USCIS Policy Manual</a>.</p></div></div><h2>Additional Resources</h2><div class="content-accordion"><h4 class="accordion__header" tabindex="0">Public Charge Letter to Interagency Partners</h4><div class="accordion__panel"><ul><li><a href="/sites/default/files/document/legal-docs/USCIS_Public_Charge_Interagency_Letter_11.16.21.pdf" data-entity-type="media" data-entity-uuid="4818aa09-80e0-4ea9-bf87-0673a7277d42" data-entity-substitution="media">Public Charge Letter to Interagency Partners</a></li></ul></div><h4 class="accordion__header" tabindex="0">2022 Public Charge Final Rule Infographic</h4><div class="accordion__panel"><ul><li><a href="/sites/default/files/document/flyers/PublicChargeFinalRule2022_Infographic_V4_508.pdf" data-entity-type="media" data-entity-uuid="6f59c36b-06be-4076-915c-5c7b7eb799d5" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a></li><li><a href="/sites/default/files/document/flyers/PublicChargeFinalRule2022_Infographic_V4_508.pdf" data-entity-type="media" data-entity-uuid="6f59c36b-06be-4076-915c-5c7b7eb799d5" data-entity-substitution="media" type="application/pdf;length=645687">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Spanish)</li><li><a href="/sites/default/files/document/flyers/PublicChargeFinalRule2022_Infographic_V4_508%20%28002%29_FINAL%20BEN.pdf" data-entity-type="media" data-entity-uuid="b3d4507b-f353-4043-b2f4-38861ae473ef" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Bengali)</li><li><a href="/sites/default/files/document/flyers/Public%20%20Charge%20Final%20Rule%202022%20Infographic_V4_508%20%28002%29_FINAL_CHI.pdf" data-entity-type="media" data-entity-uuid="ba469613-9069-4bd7-827b-0c47a5a625b1" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Chinese)</li><li><a href="/sites/default/files/document/flyers/Public%20%20Charge%20Final%20Rule%202022%20Infographic_V4_508%20%28002%29_FINAL_HAI.pdf" data-entity-type="media" data-entity-uuid="1e433db0-945d-4b57-b29e-a22d5df0a071" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Haitian Creole)</li><li><a href="/sites/default/files/document/flyers/Public%20%20Charge%20Final%20Rule%202022%20Infographic_V4_508%20%28002%29_FINAL_NEP.pdf" data-entity-type="media" data-entity-uuid="51b3014f-7cd2-49cc-9840-65cb6baeb822" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Nepali)</li><li><a href="/sites/default/files/document/flyers/Public%20%20Charge%20Final%20Rule%202022%20Infographic_V4_508%20%28002%29%20FINAL_PAS.pdf" data-entity-type="media" data-entity-uuid="588ef111-b2ca-4d96-bcd1-d05d1c9e4181" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Pashto)</li><li><a href="/sites/default/files/document/flyers/PublicChargeFinalRule2022_Infographic_V4_508%20%28002%29_FINAL_POR.pdf" data-entity-type="media" data-entity-uuid="7e9395e7-92e7-4c08-af98-4df11f3ba27d" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Portuguese)</li><li><a href="/sites/default/files/document/flyers/PublicChargeFinalRule2022_Infographic_V4_508%20%28002%29_FINAL_TAG.pdf" data-entity-type="media" data-entity-uuid="57066b1b-9dc7-444d-bcce-4baa0556c2c4" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Tagalog)</li><li><a href="/sites/default/files/document/flyers/PublicChargeFinalRule2022_Infographic_V4_508%20%28002%29_FINAL_UKR.pdf" data-entity-type="media" data-entity-uuid="d04865c8-2d16-4de8-a657-b164e5aa99c5" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Ukrainian)</li><li><a href="/sites/default/files/document/flyers/Public%20%20Charge%20Final%20Rule%202022%20Infographic_V4_508%20%28002%29_FINAL_URD.pdf" data-entity-type="media" data-entity-uuid="1a716288-de3a-480b-9cef-60e9744aa9a9" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Urdu)</li><li><a href="/sites/default/files/document/flyers/Public%20%20Charge%20Final%20Rule%202022%20Infographic_V4_508%20%28002%29_FINAL_VIE.pdf" data-entity-type="media" data-entity-uuid="3b7d7556-52da-429b-85cd-9c5fd14a166a" data-entity-substitution="media">Clarifying the 2022 Public Charge Final Rule Infographic</a> (Vietnamese)</li></ul></div><h4 class="accordion__header" tabindex="0">Public Assistance Access for Domestic Violence and Sexual Assault Survivors Fact Sheet</h4><div class="accordion__panel"><ul><li><a href="/sites/default/files/document/fact-sheets/How_Receiving_Public_Benefits_Might_Impact_the_Public_Charge_Ground_of_Inadmissibility_Fact_Sheet.pdf" data-entity-type="media" data-entity-uuid="61fff7ce-f717-4856-9919-1dce0a696c0b" data-entity-substitution="media">How Receiving Public Benefits Might Impact the Public Charge Ground of Inadmissibility (“Public Assistance Access for Domestic Violence and Sexual Assault Survivors”) Fact Sheet</a></li></ul></div></div></div>
+      
+      </div>
+
+                </div>
+  
+  
+    
+              <div class="reviewed-date">
+    <div class="reviewed-date__label">Last Reviewed/Updated:</div>
+                <div class="field field--name-field-display-date field__item"><time datetime="2025-07-08T12:30:00Z" class="datetime">07/08/2025</time>
+</div>
+      
+  </div>
+
+      </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/archive/public-charge-resources-0" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="93014" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="93014" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="93014" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-piozonuql0obasfboq0wxwnbhrxr1wgbkpcd5dbbihy" type="hidden" name="form_build_id" value="form-pIozONuqL0obASFboq0wxwNbHrXr1WgBKpCD5DBBIHY"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="93014" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_0pX_SnfPDMf7vwrzbDcQ_nJ4OxbrxKFiBZO-ck0gvU4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_AsKNwrz_GL8MOvSFwxCjaawni6tz6q3D931E8dkUKrI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+
+  </body>

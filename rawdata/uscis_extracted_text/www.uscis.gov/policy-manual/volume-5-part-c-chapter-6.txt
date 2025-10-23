@@ -1,0 +1,187 @@
+H1: Chapter 6 - Additional Requirements
+
+- Guidance
+
+- Resources (19)
+
+- Appendices (0)
+
+- Updates (3)
+
+In addition to meeting general eligibility requirements, the following requirements also must be met:
+
+- There is no child-buying, fraud, misrepresentation, or non-bona fide intent;
+
+- The child matches the characteristics that the prospective adoptive parent (PAP) has been approved to adopt; and
+
+- The petitioner has identified a primary adoption service provider (unless a limited exception applies).
+
+H2: A. No Child-Buying, Fraud, Misrepresentation, or Non-Bona Fide Intent
+
+The officer must determine whether there are allegations or indications of child-buying, fraud, misrepresentation, or non-bona fide intent (that is, the PAP does not intend to form a parent-child relationship).
+
+H3: 1. Child-Buying
+
+Child-buying is when the PAP(s) or a person or entity working on their behalf gave or will give money or other consideration, either directly or indirectly, to the child's parent(s), agent(s), other person(s), or entity as payment for the child or as an inducement to release the child.[1]
+
+An orphan petition must be denied or revoked if there is evidence of child-buying demonstrating the PAP has not established eligibility by a preponderance of the evidence. Officers must review any allegations of child-buying or other evidence that indicates child-buying took place in the case and determine whether it constitutes child-buying.
+
+Child-buying does not include reasonable payment for necessary activities such as administrative, court, legal, translation, or medical services related to the adoption proceedings. Foreign adoption services are sometimes expensive and the costs may seem disproportionately high in comparison with other social services. In many countries, there may be a network of legitimate adoption facilitators, each playing a transparent role in processing a case and reasonably expecting to be paid for their services.
+
+The U.S. Department of State (DOS) works closely with foreign governments to identify costs related to intercountry adoption in particular countries.[2]In most intercountry adoption cases, the expenses incurred can be explained in terms of reasonable payments. Even cash given directly to a birth mother may be justifiable if it relates directly to expenses such as pre-natal or neo-natal care, transportation, lodging, or living expenses.
+
+H3: 2. Fraud or Misrepresentation
+
+Fraud in the adoption context typically involves concealment of a material fact to obtain an official document or judgment by a court or authorized entity (for example, an adoption decree). To meet the requirement of materiality, evidence of fraud must be documented and generally relate to the child’s eligibility as an orphan.
+
+H2: B. Child Matches Characteristics that Prospective Adoptive Parent Is Approved For
+
+During the suitability application process (or orphan petition process, if there was no prior suitability application), the officer determined that the PAP was a suitable adoptive parent for a child with specific characteristics.[3]The child must match the characteristics that the PAP has been approved to adopt (such as age, sex, nationality, and special needs).
+
+If the child does not match the characteristics for which USCIS has approved the PAP to adopt, then the officer should issue a Request for Evidence (RFE)[4]for an updated home study and any related documents.
+
+H3: 1. Special Needs
+
+The officer should review evidence to verify whether the child has any special needs (such as a significant disability or medical condition). The officer should:
+
+- Ensure that any significant or serious disability or medical condition of the child is not excluded by special conditions established in the suitability application approval; and
+
+- Verify that the PAP is aware of and accepts any significant medical, physical, or mental condition.
+
+If an officer discovers that the child has a significant disability or medical condition that the PAP is not aware of, the officer must:
+
+- Furnish the PAP with all pertinent details concerning the impairment, disability, or condition. This is especially important in cases where the PAP has not personally observed the child; and
+
+- Halt adjudication of the case until the PAP submits an updated home study recommending the PAP to provide proper care for such child and USCIS determines the PAP is suitable to provide proper care for such child.[5]
+
+H3: 2. Age
+
+The child must meet the age range listed on the suitability application approval at the time the referral or match was accepted by the PAP, or if the accepted referral or match date cannot be established, the filing date of the orphan petition.[6]If the child does not match the age range for which USCIS has approved the PAP to adopt, then the officer should issue an RFE[7]for an updated home study and any related documents.
+
+H2: C. Primary Provider
+
+The PAP must indicate a primary service provider on the orphan petition, unless a limited exception applies.[8]If the officer determines that the PAP has not sufficiently identified a primary adoption service provider on the orphan petition, the officer may issue an RFE.[9]
+
+If an officer receives notice or learns that the PAP's primary adoption service provider has withdrawn from the PAP's case, the officer should issue an RFE for proof that either the current primary adoption service provider remains as such or the PAP has identified a new primary adoption service provider.[10]
+
+H2: Footnotes
+
+[^ 1]See8 CFR 204.3(i).
+
+[^ 2]DOS posts general information about adoption-related costs on theirCountry Informationwebpage.
+
+[^ 3]See Part B, Adoptive Parent Suitability Determinations [5 USCIS-PM B].
+
+[^ 4]For more information on RFEs, see Chapter 8, Adjudication, Section E, Decisions and Actions [5 USCIS-PM C.8(E)].
+
+[^ 5]See Part B, Adoptive Parent Suitability Determinations, Chapter 5, Action on Pending or Approved Suitability Determinations [5 USCIS-PM B.5].
+
+[^ 6]For example, if a suitability determination states that the PAP is approved to adopt a child aged 0-4 years old, then a child who is 4 years old but not yet 5 at the time the PAP accepted a match (or alternatively the filing date of the orphan petition) would meet this age range. This is true even if the child has turned 5 by the time the officer is adjudicating the application. SeeThe Jurisdiction of Amended Home Studies and the Application of Home Study Age Restrictions for Prospective Adoptive Child(ren) in Intercountry Adoption Cases Policy Memo, PM-602-0071.1, issued November 5, 2012.
+
+[^ 7]For more information on RFEs, see Chapter 8, Adjudication, Section E, Decisions and Actions [5 USCIS-PM C.8(E)].
+
+[^ 8]See Part A, Adoptions Overview, Chapter 5, Authorized Adoption Service Providers [5 USCIS-PM A.5].
+
+[^ 9]For more information on RFEs, see Chapter 8, Adjudication, Section E, Decisions and Actions [5 USCIS-PM C.8(E)].
+
+[^ 10]For more information see theIf Your Adoption Service Provider Is No Longer Accredited or Approvedwebpage.
+
+H2: Resources
+
+22 CFR 96- Intercountry adoption accreditation of agencies and approval of persons
+
+8 CFR 204.1- General information about immediate relative and family-sponsored petitions
+
+8 CFR 204.3- Orphan cases under section 101(b)(1)(F) of the Act (non-Convention cases)
+
+8 CFR 204.301- Definitions
+
+8 CFR 204.311- Convention adoption home study requirements
+
+8 CFR 205.1- Automatic revocation
+
+8 CFR 205.2- Revocation on notice
+
+INA 101(b)(1)- Definition of child
+
+INA 101(b)(1)(F)- Definition of a child adoptee for orphan process
+
+INA 101(b)(2)- Definition of parent, father or mother
+
+INA 101(c)- Definition of child for citizenship and naturalization
+
+INA 201(b)(2)(A)(i)- Immediate relatives
+
+INA 204(d)- Recommendation of valid home study
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-600, Petition to Classify Orphan as an Immediate Relative
+
+I-600A, Application for Advance Processing of an Orphan Petition
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is publishing a volume in the USCIS Policy Manual regarding adoptions. This guidance incorporates basic requirements for the submission of adoption-based applications and petitions to USCIS.
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

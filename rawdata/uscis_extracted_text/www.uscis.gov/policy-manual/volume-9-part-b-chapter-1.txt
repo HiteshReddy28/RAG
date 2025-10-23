@@ -1,0 +1,185 @@
+H1: Chapter 1 - Purpose and Background
+
+- Guidance
+
+- Resources (9)
+
+- Appendices (0)
+
+- Updates (5)
+
+H2: A. Purpose
+
+This part offers guidance concerning the adjudication of applications for those discretionary waivers of inadmissibility that require applicants to establish that refusal of their admission would result in “extreme hardship” to certain U.S. citizen or lawful permanent resident (LPR) family members.
+
+H2: B. Background
+
+Under the Immigration and Nationality Act (INA),[1]admissibility is generally a requirement for admission to the United States, adjustment of status, and other immigration benefits.[2]The grounds that make aliens inadmissible to the United States are generally described in section 212 of the INA.
+
+Several statutory provisions authorize the Secretary of Homeland Security[3]to grant discretionary waivers of particular grounds of inadmissibility for those who demonstrate that a denial of admission would result in “extreme hardship” to specified U.S. citizen or LPR family members. These specified family members are known as “qualifying relatives.”[4]
+
+Each of these statutory provisions conditions a waiver on both a finding of extreme hardship to one or more qualifying relatives and the favorable exercise of discretion. These waiver applications are adjudicated by USCIS (and in some cases by the Department of Justice’s Executive Office for Immigration Review).[5]
+
+The various statutory waiver provisions specify different categories of qualifying relatives and permit waivers of different inadmissibility grounds. The provisions include:
+
+- INA 212(a)(9)(B)(v)– Provides for waiver of the 3- and 10-year inadmissibility bars for unlawful presence.[6]Qualifying relatives are limited to applicants’ U.S. citizen and LPR spouses and parents.[7]
+
+- INA 212(h)(1)(B)[8]– Provides for waiver of inadmissibility based on crimes involving moral turpitude, multiple criminal convictions, prostitution and commercialized vice, and certain serious criminal offenses for which the alien received immunity from prosecution.[9]Also provides a waiver of inadmissibility for a controlled substance violation insofar as the violation relates to a single offense of simple possession of 30 grams or less of marijuana.[10]Qualifying relatives are limited to applicants’ U.S. citizen and LPR spouses, parents, sons, and daughters.[11]
+
+- INA 212(i)(1)– Provides for waiver of inadmissibility for certain types of immigration fraud or willful misrepresentations of material fact.[12]For purposes of this waiver:
+
+- Qualifying relatives are generally limited to applicants’ U.S. citizen and LPR spouses and parents.
+
+- But if the applicant is a Violence Against Women Act (VAWA) self-petitioner, USCIS also must consider extreme hardship to the applicant himself or herself, or to a parent or child[13]who is a U.S. citizen, LPR, or otherwise a qualified alien.
+
+The factors discussed in this guidance apply to any waiver application in which the applicant must establish extreme hardship to a qualifying relative.[14]Because the classes of individuals who may serve as qualifying relatives varies among the different waiver provisions, officers should carefully determine which individuals can serve as qualifying relatives under the relevant extreme hardship analysis.
+
+H2: Footnotes
+
+[^ 1]See Immigration and Nationality Act,Pub. L. 82-414, 66 Stat. 163 (June 27, 1952), as amended.
+
+[^ 2]SeeINA 212(a)andINA 245(a).
+
+[^ 3]See6 U.S.C. 271(b). See Delegation No. 0150.1, “Delegation to the Bureau of Citizenship and Immigration Services” II, Z (June 5, 2003).
+
+[^ 4]The classes of individuals who may serve as “qualifying relatives” depends on the specific text of the waiver provision involved. A U.S. citizen or LPR spouse or parent is a qualifying relative for most extreme hardship waivers. For certain other extreme hardship waivers, a U.S. citizen or LPR child, as well as an adult son or daughter, can be the qualifying relative. In the case of a K visa applicant, a U.S. citizen fiancé(e) is considered a U.S. citizen “spouse” qualifying relative. See8 CFR 212.7(a)and22 CFR 41.81(d)(K nonimmigrants). Finally, under some provisions, discretionary relief may be available upon a showing of extreme hardship to the applicants themselves. These include waivers of inadmissibility underINA 212(i)(1)(waiver of fraud-related inadmissibility for Violence Against Women Act (VAWA) self-petitioners), waivers of requirements for removing conditions on LPR status underINA 216(c)(4)(A), cancellation of removal underINA 240A(b)(2)(A)(v)adjudicated by the Executive Office for Immigration Review, and suspension of removal and cancellation of removal under Section 203 of Nicaraguan Adjustment and Central America Relief Act (NACARA),Pub. L. 105-100  (PDF), 111 Stat. 2160, 2196 (November 19, 1997). See8 CFR 240.64(c)and8 CFR 1240.64(c). This guidance addresses USCIS’ adjudication of waiver applications that require a showing of extreme hardship to specified family members, not applications based on extreme hardship to applicants themselves.
+
+[^ 5]See6 U.S.C. 271(b). See Delegation No. 0150.1, “Delegation to the Bureau of Citizenship and Immigration Services” II, Z (June 5, 2003).
+
+[^ 6]SeeINA 212(a)(9)(B)(i).
+
+[^ 7]A U.S. citizen fiancé(e) is a qualifying relative in the case of a K nonimmigrant applicant. See8 CFR 212.7(a)and22 CFR 41.81(d)(K nonimmigrants).
+
+[^ 8]Other provisions ofINA 212(h)authorize waivers of certain grounds of inadmissibility without an extreme hardship determination. SeeINA 212(h),INA 212(h)(1)(A), andINA 212(h)(1)(C).
+
+[^ 9]SeeINA 212(a)(2)(A)(i),INA 212(a)(2)(B),INA 212(a)(2)(D), andINA 212(a)(2)(E).
+
+[^ 10]SeeINA 212(a)(2)(A)(ii).
+
+[^ 11]The son or daughter must be related to the applicant in one of the ways specified inINA 101(b)(1), but he or she does not need to be a “child” (unmarried and under 21 years of age). Because the term “son or daughter” is not restricted with respect to age or marital status, it includes children as defined inINA 101(b)(1)as well as adult or married sons and daughters.
+
+[^ 12]SeeINA 212(a)(6)(C)(i).
+
+[^ 13]The term “child” is limited to individuals who are unmarried, under 21 years of age, and related to the applicant in one of the ways specified inINA 101(b)(1).
+
+[^ 14]Certain types of waivers utilize standards of hardship other than “extreme hardship.” For example, the “exceptional hardship” waiver that applies to the foreign residence requirement for certain exchange visitors underINA 212(e)is a less demanding standard than “extreme hardship.” By contrast, the “exceptional and extremely unusual hardship” standard for non-LPR cancellation of removal is more stringent that the extreme hardship standard underINA 240A(b). SeeMatter of Monreal-Aguinaga  (PDF), 23 I&N Dec. 56 (BIA 2001). This guidance specifically applies only to “extreme hardship” determinations.
+
+H2: Resources
+
+8 CFR 212.7- Waiver of certain grounds of inadmissibility
+
+INA 212(a)(9)(B)(v)- Waiver of the 3-year or 10-year unlawful presence bar
+
+INA 212(h)(1)(B)- Waiver for certain criminal and related grounds
+
+INA 212(i)- Admission of immigrant excludable for fraud or willful misrepresentation of material fact
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-601, Application for Waiver of Grounds of Inadmissibility
+
+I-601A, Application for Provisional Unlawful Presence Waiver
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance on determinations of extreme hardship to qualifying relatives as required by certain statutory waiver provisions. This guidance becomes effective December 5, 2016.
+
+9 USCIS-PM B-Part B - Extreme Hardship

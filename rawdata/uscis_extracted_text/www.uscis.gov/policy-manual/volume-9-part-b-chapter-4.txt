@@ -1,0 +1,263 @@
+H1: Chapter 4 - Qualifying Relative
+
+- Guidance
+
+- Resources (12)
+
+- Appendices (0)
+
+- Updates (5)
+
+H2: A. Establishing the Relationship to the Qualifying Relative
+
+A USCIS officer must verify that the relationship to a qualifying relative exists. When the qualifying relative is the visa petitioner, an officer should use the approval of the Petition for Alien Relative (Form I-130) as proof that the qualifying relationship has been established.[1]
+
+If the applicant’s relationship to the qualifying relative has not already been established through a prior approved petition, the USCIS officer must otherwise verify that the relationship to the qualifying relative exists. Along with the waiver application, applicants should include primary evidence that supports the relationship, such as marriage certificates,[2]birth certificates, adoption papers, paternity orders, orders of child support, or other court or official documents.
+
+If such primary evidence does not exist or is otherwise unavailable, the applicant should explain the reason for the unavailability and submit secondary evidence of the relationship, such as school records or records of religious or other community institutions. If secondary evidence is also not reasonably available, the applicant may submit written testimony from a witness or witnesses with personal knowledge of the relevant facts.[3]If evidence establishing the relationship is missing or insufficient, the officer should issue a Request for Evidence (RFE) in accordance with USCIS policy.
+
+If the applicant claims that the qualifying relative would suffer extreme hardship in part due to the hardship that would be suffered by a non-qualifying relative, the applicant must submit evidence establishing the claimed relationships.[4]If such evidence is missing or insufficient, the officer should issue an RFE in accordance with USCIS policy.
+
+H2: B. Separation or Relocation
+
+With respect to the requirement that the refusal of the applicant’s admission “would result in” extreme hardship to a qualifying relative, there are 2 potential scenarios to consider. Either:
+
+- The qualifying relative(s) may remain in the United States separated from the applicant who is denied admission (separation); or
+
+- The qualifying relative(s) may relocate overseas with the applicant who is denied admission (relocation).
+
+In either scenario, depending on all the facts of the particular case, the refusal of admission may result in extreme hardship to one or more qualifying relatives.
+
+Separation may result in extreme hardship if refusal of the applicant’s admission would cause hardship (for example, suffering or harm) to a qualifying relative that is greater than the common consequences of family separation.[5]When assessing extreme hardship claims based on separation, USCIS focuses on how denial of the applicant’s admission would affect the qualifying relative’s well-being in the United States given the separation of the qualifying relative from the applicant.
+
+Relocation may result in extreme hardship if refusal of the applicant’s admission would cause hardship (for example, suffering or harm) to a qualifying relative that is greater than the common consequences of family relocation. When assessing extreme hardship claims based on relocation, USCIS focuses on how denial of the applicant’s admission would affect the qualifying relative’s well-being given the qualifying relative’s relocation outside the United States.
+
+An applicant may show that extreme hardship to a qualifying relative would result from both separation and relocation.[6]However, an applicant is not required to show extreme hardship under both scenarios. An applicant may submit evidence demonstrating which of the 2 scenarios would result from a denial of admission and may establish extreme hardship to one or more qualifying relatives by showing that either relocation or separation would result in extreme hardship.[7]
+
+If the applicant seeks to demonstrate extreme hardship based on separation or relocation, the applicant’s evidence must demonstrate that the designated outcome “would result” from the denial of the waiver. The applicant may meet this burden by submitting a statement from the qualifying relative certifying under penalty of perjury that the qualifying relative would relocate or separate if the applicant is denied admission. The statement should be sufficiently detailed to adequately convey to USCIS the reasons why either separation or relocation would likely result from a denial of admission. The applicant may also submit documentation or other evidence, if available, in support of this statement.
+
+Due to the subjective factors inherently involved in decisions involving separation or relocation, a credible statement from the qualifying relative may be the best available evidence for establishing whether he or she would separate or relocate if the applicant’s admission is denied. Among other things, such decisions generally involve the weighing of many deeply personal and subjective factors that cannot be objectively assessed by others.
+
+Qualifying relative spouses, for example, are faced with the choice of separating from their applicant spouses to remain in the United States or leaving the United States to relocate abroad with their applicant spouses. The former may involve, among other things, the significant decline in the emotional support and affection between spouses; the latter may involve leaving behind important ties to the United States, including family and friends in the country, jobs and career opportunities, educational opportunities, availability of medical care, and safety and security. Decisions based on such complex human factors may be difficult to prove other than through credible statements.
+
+However, if the USCIS officer determines that such a statement is not plausible or credible (including because it is inconsistent with the evidence of hardship presented), the officer may request additional evidence from the applicant to support the designation that the qualifying relative would separate or relocate. In such cases, the officer must consider the subjective nature of the inquiry and the difficulty involved in proving intent in this context through documentary or other supporting evidence.
+
+Moreover, the officer must make determinations based on the evidence and arguments presented and not on the officer’s personal moral view as to whether a particular qualifying relative “ought” to either relocate or separate in an individual case. Generally, in the absence of inconsistent evidence, a credible, sworn statement from the qualifying relative of his or her intent to relocate or separate would generally suffice to demonstrate what the qualifying relative plans to do.
+
+Ultimately, the officer must be persuaded that it is more likely than not that a qualifying relative will suffer extreme hardship resulting from the denial of admission. In a case in which the applicant chooses to rely on evidence showing that extreme hardship would result from relocation, the officer must determine based on a preponderance of the evidence that relocation would occur. The same principle applies if the applicant chooses to rely on evidence showing that extreme hardship would result from separation. If the evidence presented fails to persuade the officer, the officer should provide an opportunity for the applicant to submit additional evidence—either to show that relocation or separation would occur, or to demonstrate that extreme hardship would result under both scenarios.
+
+Finally, special considerations may arise in cases involving those limited statutory waivers for which a child may serve as a qualifying relative.[8]In such cases, a parent who asserts that he or she will separate from a child so that the child may remain in the United States bears the burden of overcoming the general presumption that the child will relocate with the parent. Among other factors, the parent should generally be expected to explain the arrangements for the child’s care and support.
+
+The failure to provide a credible plan for the care and support of the child would cast doubt on the parent’s contention that he or she will actually leave the child behind in the United States.[9]Moreover, if the parent represents that the child will be left behind, USCIS may require the parent to state that understanding in a statement made under penalty of perjury.[10]Such a statement is not required, however, if the parent credibly represents that the child will be left behind in the care of the other parent[11](which may itself give rise to extreme hardship depending on the totality of the circumstances).
+
+H2: C. Effect on Extreme Hardship if Qualifying Relative Dies
+
+Generally, the applicant must show extreme hardship to a qualifying relative who is alive at the time the waiver application is both filed and adjudicated.[12]Unless a specific exception applies, an applicant cannot show extreme hardship if the qualifying relative has died.
+
+INA 204(l)provides the only exception. In general,INA 204(l)allows USCIS to approve, or reinstate approval of, an immigrant visa petition and certain other benefits even though the petitioner or the principal beneficiary has died.INA 204(l)also provides that it applies generally to “any related applications,” thereby including applications for waivers related to immigrant visa petitions.
+
+Under this provision, an alien who establishes that the requirements ofINA 204(l)have been met may apply for a waiver even though the qualifying relative for purposes of extreme hardship has died. Moreover, in cases in which the deceased individual is both the qualifying relative for purposes ofINA 204(l)and the qualifying relative for purposes of the extreme hardship determination, the death of the qualifying relative is treated as the functional equivalent of a finding of extreme hardship.[13]
+
+Section 204(l) also applies in the case of widows and widowers of U.S. citizens whose pending or approved petition was converted to a Petition for Amerasian, Widow(er), or Special Immigrant (Form I-360),[14]including if the petition later reverts to aForm I-130petition based on a subsequent remarriage.[15]
+
+H2: D. Effect of Hardship Experienced by a Person who is not a Qualifying Relative
+
+On its own, hardship to a non-qualifying relative[16]cannot satisfy the extreme hardship requirement. In some cases, however, the hardship experienced by non-qualifying relatives can be considered as part of the extreme hardship determination, but only to the extent that such hardship affects one or more qualifying relatives.[17]
+
+H3: 1. Hardship to the Applicant
+
+Except for certain applicants who are Violence Against Women Act (VAWA) self-petitioners, applicants for the waivers enumerated in Chapter 1 may not meet the relevant extreme hardship requirements by establishing hardship to themselves. In cases in which applicants who are not VAWA self-petitioners submit evidence of hardship to themselves, officers should consider the alleged hardships only as they affect the applicants’ qualifying relatives.
+
+For example, consider an applicant who indicates he suffers from a medical condition for which he would be unable to obtain necessary medical treatment in his home country. The applicant provides medical documentation about his condition and Department of State (DOS) information on country conditions that corroborate his statements. Because the applicant is not a qualifying relative, his claims alone cannot meet the extreme hardship requirement of the waiver.
+
+However, the applicant’s condition and prospective situation may show that denial of his admission would have a significant emotional or financial impact on one or more qualifying relatives in the United States. The USCIS officer may consider such impacts when determining whether the qualifying relative(s) would experience extreme hardship upon the applicant’s denial of admission.
+
+H3: 2. Hardship to Other Non-Qualifying Relatives
+
+Similarly, if the applicant claims hardship to an individual who is not a qualifying relative for purposes of the relevant waiver, the officer should consider the alleged hardship only as it affects one or more qualifying relatives.
+
+For example, consider an applicant who is married to a U.S. citizen with whom she has a 5-year-old child with a disability. Unless the relevant waiver allows for her child to serve as a qualifying relative, the USCIS officer may not consider the hardship to the child if the applicant is denied admission. The officer, however, may consider the child’s disability when assessing whether the denial of admission will cause hardship for the qualifying-relative spouse. For example, denial of admission may impact the qualifying parent’s financial and emotional ability to care for the disabled child.[18]Moreover, even if such derivative hardship does not rise to the level of extreme hardship by itself, it is a factor that should be considered when determining whether the qualifying relative’s hardship, considered in the aggregate, rises to the level of extreme.
+
+H2: E. Aggregating Hardships
+
+To establish extreme hardship, it is not necessary to demonstrate that a single hardship, taken in isolation, rises to the level of “extreme.” Rather, any relevant hardship factors “must be considered in the aggregate, not in isolation.”[19]Therefore, even if no one factor individually rises to the level of extreme hardship, the USCIS officer “must consider the entire range of factors concerning hardship in their totality and determine whether the combination of hardships takes the case beyond those hardships ordinarily associated with deportation” (or, in this case, the refusal of admission).[20]Moreover, even “those hardships ordinarily associated with deportation, . . . while not alone sufficient to constitute extreme hardship, are considered in the assessment of aggregate hardship.”[21]
+
+The applicant needs to show extreme hardship to only one qualifying relative.[22]But an applicant may have more than one qualifying relative. In such cases, if there is no single qualifying relative whose hardship alone is severe enough to be found “extreme,” the extreme hardship standard would be met if the combination of hardships to 2 or more qualifying relatives in the aggregate rises to the level of extreme hardship.[23]
+
+Therefore, if the applicant demonstrates that the combined hardships that two or more qualifying relatives would suffer rise to the level of extreme hardship, the applicant has met the extreme hardship standard. If the applicant presents evidence of hardship to multiple qualifying relatives that does not rise to the level of extreme hardship to any one qualifying relative, the USCIS officer should aggregate all of their hardships to decide whether these hardships combined rise to the level of extreme hardship.[24]
+
+H2: Footnotes
+
+[^ 1]An officer who has concerns about the qualifying relationship in the approvedForm I-130should consult with a supervisor.
+
+[^ 2]This includes marriages valid under the laws of the place of marriage.
+
+[^ 3]See8 CFR 103.2(b)(2)(i).
+
+[^ 4]See Section D, Effect of Hardship Experienced by a Person who is not a Qualifying Relative [9 USCIS-PM B.4(D)].
+
+[^ 5]For discussion of the common consequences of family separation and relocation, see Chapter 5, Extreme Hardship Considerations and Factors, Section B, Common Consequences [9 USCIS-PM B.5(B)].
+
+[^ 6]If an applicant who submits evidence related to both relocation and separation ultimately demonstrates extreme hardship with regard to only one scenario, the USCIS officer should determine, possibly through the issuance of an RFE, whether the qualifying relative has established which scenario is more likely to result from a denial of admission.
+
+[^ 7]See, for example,Matter of Calderon-Hernandez  (PDF), 25 I&N Dec. 885 (BIA 2012) (remanding for determination of hardship based only on separation after immigration judge had rejected hardship based on relocation). SeeMatter of Recinas  (PDF), 23 I&N Dec 467 (BIA 2002) (consideration of hardship based only on relocation). SeeCerrillo-Perez v. INS, 809 F.2d 1419 (9th Cir. 1987) (ordering consideration of extreme hardship based on separation after Board of Immigration Appeals found no hardship based on relocation). SeeSalcido-Salcido v. INS, 138 F.3d 1292 (9th Cir. 1998) (same). SeeMendez v. Holder, 566 F.3d 316 (2nd Cir. 2009) (ordering consideration of hardship only under relocation). SeeFigueroa v. Mukasey, 543 F.3d 487 (9th Cir. 2008) (remanding assessment of hardship only under relocation).
+
+[^ 8]This is authorized by statute in cases of waivers of criminal grounds underINA 212(h)(1)(B).
+
+[^ 9]SeeMatter of Ige  (PDF), 20 I&N Dec. 880, 885 (BIA 1994) (holding that, for purposes of the former suspension of deportation, neither the parent’s “mere assertion” that the child will remain in the United States nor the mere “possibility” of the child remaining is entitled to “significant weight;” rather, the Board expects evidence that “reasonable provisions will be made for the child’s care and support”). SeeIturribarria v. INS, 321 F.3d 889, 902-03 (9th Cir. 2003) (finding that in suspension of deportation case, the petitioner could not claim extreme hardship from family separation without evidence of the family’s intent to separate). SeePerez v. INS, 96 F.3d 390, 393 (9th Cir. 1996) (holding that agency properly required, as means of reducing speculation in considering extreme hardship element in a suspension of deportation case, affidavits and other evidentiary material establishing that family members “will in fact separate”).
+
+[^ 10]SeeMatter of Ige  (PDF), 20 I&N Dec. 885, 885 (BIA 1994) (requiring such an affidavit in suspension of deportation cases).
+
+[^ 11]SeeMatter of Calderon-Hernandez  (PDF), 25 I&N Dec. 885 (BIA 2012) (concluding that when a child will stay behind with a parent in the United States, regardless of that parent’s immigration status, the waiver applicant need not provide documentary evidence regarding the child’s care).
+
+[^ 12]SeeMatter of Federiso  (PDF), 24 I&N Dec. 661 (BIA 2008).
+
+[^ 13]SeeAFM Chapter 10.21(c)(5), Waivers and Other Related Applications  (PDF).
+
+[^ 14]See8 CFR 204.2(i)(1)(iv).
+
+[^ 15]For more detailed guidance on the approval of petitions and applications after the death of a qualifying relative underINA 204(l), seeApproval of Petitions and Applications after the Death of the Qualifying Relative under New Section 204(l) of the Immigration and Nationality Act  (PDF), issued December 16, 2010, andApproval of a Spousal Immediate Relative Visa Petition under Section 204(l) of the Immigration and Nationality Act after the Death of a U.S. Citizen Petitioner  (PDF), issued November 18, 2015. SeeWilliams v. DHS, 741 F.3d 1228 (11th Cir. 2014) (noting congressional intent in not expressly including a “remarriage bar” in 204(l) and finding “[t]hat a spouse eventually remarries does nothing to impugn the validity of the original I-130 beneficiary-petition or the first marriage, and leaves the surviving spouse in the same position she would have been but for the untimely passing of her husband, an event beyond her control.”). USCIS applies this ruling to all cases it adjudicates.
+
+[^ 16]For example, hardship to the applicant’s child when the particular waiver provision lists only the applicant’s spouse and parents as qualifying relatives.
+
+[^ 17]SeeMatter of Gonzalez Recinas  (PDF), 23 I&N Dec. 467, 471 (BIA 2002) (“In addition to the hardship of the United States citizen children, factors that relate only to the respondent may also be considered to the extent that they affect the potential level of hardship to her qualifying relatives.”).
+
+[^ 18]SeeZamora-Garcia v. INS, 737 F.2d 488, 494 (5th Cir. 1984) (requiring, in suspension of deportation case, “consideration of the hardship to the [qualifying applicant] posed by the possibility of separation from the [non-qualifying third party children]”).
+
+[^ 19]SeeBueno-Carrillo v. Landon, 682 F.2d 143, 146 n.3 (7th Cir. 1982). SeeRamos v. INS, 695 F.2d 181, 186 n.12 (5th Cir. 1983).
+
+[^ 20]SeeMatter of O-J-O-  (PDF), 21 I&N Dec. 381, 383 (BIA 1996).
+
+[^ 21]SeeMatter of O-J-O  (PDF)-, 21 I&N Dec. 381, 383 (BIA 1996). SeeMatter of Ige  (PDF), 20 I&N Dec. 880, 882 (BIA 1994) (“Relevant factors, though not extreme in themselves, must be considered in the aggregate in determining whether extreme hardship exists.”).
+
+[^ 22]See, for example,INA 212(h),INA 212(i), andINA 212(a)(9)(B)(v).
+
+[^ 23]SeeWatkins v. INS, 63 F.3d 844, 850 (9th Cir. 1995) (reversing BIA decision on ground it had failed to aggregate the “professional and social changes” of the petitioner, who was a qualifying relative under the particular statute, with the hardship to the applicant’s children, who were also qualifying relatives). SeePrapavat v. INS, 638 F.2d 87, 89 (9th Cir. 1980) (holding that extreme hardship “may also be satisfied … by showing that the aggregate hardship to two or more family members described in 8 U.S.C. 1254(a)(1) is extreme, even if the hardship suffered by any one of them would be insufficient by itself”), on rehearing, 662 F.2d 561, 562-63 (9th Cir. 1981) (per curiam) (again listing both hardships to the qualifying relative petitioners and hardships to their U.S. citizen child, holding that these hardships “must all be assessed in combination,” and finding that the Board had erred in failing to do so). SeeJong Ha Wang v. INS, 622 F.2d 1341, 1347 (9th Cir. 1980) (“[T]he Board should consider the aggregate effect of deportation on all such persons when the alien alleges hardship to more than one.”),rev’d on other grounds, 450 U.S. 139 (1981) (per curiam). These decisions all interpreted the former suspension of deportation provision. The list of qualifying individuals (which included the petitioners themselves) whose extreme hardship sufficed under that provision differed from the lists of qualifying relatives in the waiver provisions discussed here, but the statutory language was identical in all other relevant respects (“result in extreme hardship to …”).
+
+[^ 24]Hardships that the BIA has held to be “common results” in themselves are insufficient for a finding of extreme hardship. SeeMatter of Ngai,  (PDF)19 I&N Dec. 245 (BIA 1984). A common consequence, however, when combined with other factors that alone would also have been insufficient, may meet the extreme hardship standard when considered in the aggregate. For a list of those common consequences, see Chapter 5, Extreme Hardship Considerations and Factors, Section B, Common Consequences [9 USCIS-PM B.5(B)].
+
+H2: Resources
+
+8 CFR 212.7- Waiver of certain grounds of inadmissibility
+
+INA 204(l)- Surviving relative consideration for certain petitions and applications
+
+INA 212(a)(9)(B)(v)- Waiver of the 3-year or 10-year unlawful presence bar
+
+INA 212(h)(1)(B)- Waiver for certain criminal and related grounds
+
+INA 212(i)- Admission of immigrant excludable for fraud or willful misrepresentation of material fact
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-130, Petition for Alien Relative
+
+I-360, Petition for Amerasian, Widow(er), or Special Immigrant
+
+I-601, Application for Waiver of Grounds of Inadmissibility
+
+I-601A, Application for Provisional Unlawful Presence Waiver
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance on determinations of extreme hardship to qualifying relatives as required by certain statutory waiver provisions. This guidance becomes effective December 5, 2016.
+
+9 USCIS-PM B-Part B - Extreme Hardship

@@ -1,0 +1,11 @@
+H1: 10.2 Retaining Copies of Form I-9 Documents
+
+If you choose to copy or scan documents an employee presents when completing Form I-9, you must retain the copies (or electronic images) with their Form I-9 or their employee record.
+
+Making copies of an employee’s documents does not take the place of completing Form I-9. Even if you retain copies of documents, you are still required to fully complete and retain Form I-9. If you choose to retain copies of an employee’s documents for reasons unrelated to E-Verify requirements, you must do so for all employees, regardless of actual or perceived national origin, citizenship, or immigration status, or you may violate anti-discrimination laws.
+
+Copies or electronic images of documents must be retrievable consistent with DHS’s standards on electronic retention, documentation, security, and electronic signatures for employers and employees, as specified in 8 CFR 274a.2(b)(3).
+
+If you make copies or electronic images of the employee’s documents, you must retain them with the corresponding Form I-9 or with the employee’s records according to the electronic records retention standards specified in 8 CFR 274a.2(b)(3). However, if you make copies or electronic images of the employee’s documents, you must make them available at the time of a Form I-9 inspection by DHS, DOJ or DOL.
+
+If you are an E-Verify participant and choose to use an alternative procedure to remotely examine your employee’s Form I-9 documentation, you must retain clear and eligible copies of all documents you examine with the employee’s Form I-9. For more information, seeSection 4.1, Retaining Copies of Documents Your Employee Presents.

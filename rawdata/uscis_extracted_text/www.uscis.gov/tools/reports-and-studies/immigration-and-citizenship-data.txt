@@ -1,0 +1,95 @@
+H1: Immigration and Citizenship Data
+
+These reports provide data on various aspects of USCIS operations. In addition, certain tables list the USCIS office responsible for the adjudication.
+
+- H-1B Employer Data Hub– Data on hiring practices of employers petitioning for H-1B workers.
+
+- H-2A Employer Data Hub– Data on petitioners who submitted petitions to employ H-2A nonimmigrant workers.
+
+- H-2B Employer Data Hub– Data on consular processing, wage levels, and the first adjudicative decision that USCIS made on petitions for initial and continuing employment.
+
+- Eligible to Naturalize Dashboard– Data on the population of lawful permanent residents (LPRs) who may be eligible to naturalize.
+
+The reports listed below provide data on various aspects of USCIS operations.  In addition, certain tables list the USCIS office responsible for the adjudication. This is a curated list by Fiscal Year and Quarter that is linked to resources available below in thedata librarywhere teasers and publication date are available for review.
+
+- All USCIS Application and Petition Form Types (Fiscal Year 2025, Quarter 3)(XLSX, 767.01 KB)
+
+- Form I-765, Application for Employment Authorization, Eligibility Category and Filing Type (Fiscal Year 2025, Quarter 3)(XLSX, 35.52 KB)
+
+- Form I-765, Application for Employment Authorization Counts of Pending Applications by Days Pending and by filing type for All Eligibility Categories and (c)(8) Pending Asylum Category (Fiscal Year 2025, Quarter 3)(XLSX, 21.8 KB)
+
+- Form I-526, Immigrant Petition by Standalone Investor and Form I-526E, Immigrant Petition by Regional Center Investor (Fiscal Year 2022 - Fiscal Year 2024)(XLSX, 51.42 KB)
+
+- Form I-526, Immigrant Petition by Standalone Investor and Form I-526E, Immigrant Petition by Regional Center Investor (Fiscal Year 2025, Quarter 3)(XLSX, 30.48 KB)
+
+- Form I-130, (Awaiting Visa Availability) (Fiscal Year 2025, Quarter 3)(XLSX, 22.34 KB)
+
+- Form I-360, Petition for Special Immigrant with a Classification of Special Immigrant Juvenile (SIJ) Pending, Completions, Processing Time, Requests for Evidence, and Notice of Intent to Deny by Fiscal Year and Quarter (Fiscal Year 2025, Quarter 3)(XLSX, 40.58 KB)
+
+- Form I-140, I-360, I-526 Approved EB Petitions Awaiting Visa Final Priority Dates (Fiscal Year 2025, Quarter 3)(XLSX, 22.71 KB)
+
+- Form I-907, Request for Premium Processing Service By Underlying Form Number and Request Type (Fiscal Year 2025, Quarter 3)(XLSX, 27.15 KB)
+
+- Active DACA Recipients – (Fiscal Year 2025, Quarter 3)(XLSX, 55.75 KB)
+
+- Nonimmigrant Worker Petitions by Case Status and Request for Evidence (RFE) (Fiscal Year 2025, Quarter 3)(XLSX, 72.54 KB)
+
+- Form N‐400, Application for Naturalization, by Category of Naturalization, Case Status, and USCIS Field Office Location (Fiscal Year 2025, Quarter 3)(XLSX, 42.4 KB)
+
+- Form I-918, Petition for U Nonimmigrant Status, by Fiscal Year, Quarter, and Case Status and Form I-918, Petition for U Nonimmigrant Status, Bona Fide Determination Review (Fiscal Year 2025, Quarter 3)(XLSX, 126.25 KB)
+
+- Deferred Action for Childhood Arrivals (DACA) Quarterly Report (Fiscal Year 2025, Quarter 3)(XLSX, 47.11 KB)
+
+- Form I‐360, Petition for Amerasian, Widow(er), or Special Immigrant, by Fiscal Year, Quarter, and Case Status (VAWA) (Fiscal Year 2025, Quarter 3)(XLSX, 34.36 KB)
+
+- I‐360 Petitions for Special Immigrant with a Classification of Special Immigrant Juvenile (SIJ) by Fiscal Year, Quarter and Case Status (Fiscal Year 2025, Quarter 3)(XLSX, 30.95 KB)
+
+- I-130, Petition for Alien Relative, by Category, Case Status, and USCIS Field Office or Service Center Location (Fiscal Year 2025, Quarter 3)(XLSX, 387.7 KB)
+
+- Net Backlog and Frontlog (Fiscal Year 2025, Quarter 3)(XLSX, 324.67 KB)
+
+- Application for Adjustment of Status (Form I-485) Quarterly Report (Fiscal Year 2025, Quarter 3)(XLSX, 41.73 KB)
+
+- Form I‐914, Application for T Nonimmigrant Status by Fiscal Year, Quarter, and Case Status (Fiscal Year 2025, Quarter 3)(XLSX, 99.28 KB)
+
+- Form I-140 by Fiscal Year, Quarter and Case Status (Fiscal Year 2025, Quarter 3)(XLSX, 65.16 KB)
+
+- Form I-140, Receipts and Current Status by Preference and Country (Fiscal Year 2025, Quarter 3)(XLSX, 61.41 KB)
+
+- Form I-821, Application for Temporary Protected Status Receipts, Approvals, Denials, and Pending by Country of Designation (Fiscal Year 2025, Q3)(XLSX, 30.24 KB)
+
+- Number of Waivers by Form Number and Case Status (Fiscal Year 2025, Quarter 3)(XLSX, 27.15 KB)
+
+- Form I-485, Liberian Refugee Immigration Fairness (LRIF) (Fiscal Year 2025, Quarter 3)(XLSX, 42.68 KB)
+
+- Reports and Studies– Agency reports, factsheets, and studies including reports to Congress
+
+- USCIS Electronic Reading Room– Information released under the Freedom of Information Act (FOIA), correspondence to and responses from USCIS, and stakeholder engagement presentations
+
+- Naturalization-Related Data and Statistics– Data on naturalizations including the number of naturalizations and characteristics of naturalized citizens
+
+- Eligible to Naturalize Data– Information on the population eligible to naturalize in cities and regions throughout the United States
+
+- E-Verify Program Reports– User surveys, key findings, and recommendations
+
+- Semi-Monthly Credible Fear and Reasonable Fear Receipts and Decisions- Number of cases received and number of cases completed by outcome per semi-monthly period
+
+- Processing Times– Data on processing times by form type and USCIS field office or service center
+
+- Historic Processing Times– Data on historical national median processing times for select forms
+
+- Archive page– Archived web content
+
+- DHS Office of Homeland Security Statistics– DHS data and statistics
+
+H2: USCIS Data Library
+
+For more information on our reports, visit theUnderstanding Our Datapage.
+
+Quick Search Filters:
+
+Employment BasedFamily BasedNaturalization DataHumanitarian Data
+
+- Previous
+
+- Next

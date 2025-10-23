@@ -1,0 +1,361 @@
+H1: Chapter 3 - Applicability of Medical Examination and Vaccination Requirement
+
+- Guidance
+
+- Resources (10)
+
+- Appendices (0)
+
+- Updates (10)
+
+H2: A. Requirements by Benefit Type
+
+Medical examination and vaccination requirements vary depending on the immigration benefit the person is seeking.
+
+Most applicants subject to medical grounds of inadmissibility must undergo a medical examination to determine their admissibility. Some applicants, however, do not need to undergo a medical examination unless there is a specific concern. Nonimmigrants, for example, are in this category.
+
+Even if the applicant is not subject to health-related grounds of inadmissibility, the officer may still order a medical examination as a matter of discretion if the evidence indicates that there may be a public health concern.[1]This could apply, for example, when an officer adjudicates a request for parole.[2]
+
+In general, an immigration officer may order a medical examination of an applicant at any time, if the officer is concerned that the applicant may be medically inadmissible.[3]This rule applies regardless of the type of immigration benefit sought, or whether the applicant is applying for a visa, seeking entry at a U.S. port-of-entry, or already in the United States.
+
+A civil surgeon in the United States can only perform a medical examination for purposes of a benefits application processed within the United States. Similarly, a panel physician abroad can generally only perform a medical examination for purposes of a visa application processed outside the United States. There are limited exceptions where an applicant seeking a benefit application inside the United States does not have to repeat a medical examination performed by a panel physician. The following chart highlights the benefits that require a medical examination and vaccinations, and whether a civil surgeon or panel physician should conduct the medical examination.[4]
+
+TABLE:
+Benefit Type | Medical Examination(Yes or No) | Vaccination(Yes or No) | Panel Physician or Civil Surgeon
+Immigrant visa applicants, applying with U.S. Department of State (DOS) | Yes | Yes | Panel physician
+Adjustment applicants (other than exceptions noted elsewhere in this table) | Yes | Yes | Civil surgeon
+Nonimmigrant visa applicants, applying with DOS; and nonimmigrants seeking change/extension of status while in the United States[5] | No (with some exceptions)[6] | No | N/A
+Temporary Protected Status (TPS) applicants[7] | No (with some exceptions)[8] | No | N/A
+K or V visa applicants, applying with DOS[9] | Yes | No | Panel physician
+Nonimmigrant seeking change of status to V status[10] | Yes | No | Civil surgeon
+K or V nonimmigrants applying for adjustment of status in the United States[11] | May be required[12] | Yes | Panel physician and/or civil surgeon
+Refugee applicants, including principal and derivative applicants overseas[13] | Yes | No | Panel physician
+Applicants seeking derivative refugee or derivative asylee status while in the United States[14] | No | No | N/A
+Principal asylum applicants in the United States[15] | No | No | N/A
+Applicants seeking derivative asylee status with DOS[16] | Yes | No | Panel physician
+Refugee-based adjustment applicants[17] | May be required[18] | Yes | Civil surgeon[19]
+Asylees applying for adjustment of status[20] | May be required[21] | Yes | Civil surgeon
+Kurdish asylees paroled under Operation Pacific Haven applying for adjustment of status | Yes | Yes | Panel physician or civil surgeon
+Registry applicants | No | No | N/A
+North American Indians entering the United States[22] | No | No | N/A
+Children of returning residents entering the United States[23]or children of U.S. nationals | No | No | N/A
+Internationally adopted orphans[24] | Yes | Yes(exception available) | Panel physician
+Afghan nationals who arrived in the United States under Operation Allies Welcome (OAW) applying for adjustment of status | Yes | Yes | Panel physician or civil surgeon
+
+Medical Examination
+
+(Yes or No)
+
+Vaccination
+
+(Yes or No)
+
+Yes
+
+(exception available)
+
+H2: B. Special Considerations
+
+H3: 1. Nonimmigrants and TPS Applicants
+
+In general, nonimmigrant visa applicants, nonimmigrants seeking change or extension of status, and Temporary Protected Status (TPS) applicants are only medically examined if the consular officer or immigration officer has concerns as to the applicant’s inadmissibility on health-related grounds. Customs and Border Protection (CBP) officers at ports-of-entry may also require a nonimmigrant arriving with or without a visa to submit to a medical examination to determine whether a medical ground of inadmissibility applies.
+
+H3: 2. K or V Visa Applicants Applying with DOS[25]
+
+While the consular officer may encourage compliance, the consular officer cannot deny a K or V visa for lack of compliance with the vaccination requirements.
+
+Some panel physicians may perform the vaccination assessment in anticipation of the applicant’s later adjustment of status application.
+
+H3: 3. Nonimmigrants Applying for Change of Status to V Status
+
+For nonimmigrants applying for change of status to V status, the civil surgeon may perform the vaccination assessment in anticipation of the applicant’s later adjustment of status application.
+
+H3: 4. K or V Nonimmigrants Applying for Adjustment[26]
+
+K and V nonimmigrants applying for adjustment of status are not required to repeat the medical examination if the application was filed within one year of the date of the original medical examination, and:
+
+- The medical examination did not reveal a Class A medical condition; or
+
+- The applicant received a conditional waiver in conjunction with the K or V nonimmigrant visa or the change of status to V and the applicant submits evidence of compliance with the waiver terms and conditions.[27]
+
+If a new medical examination is required and reveals a Class A medical condition, a new waiver application will also be required. In such cases, the officer should determine whether the applicant complied with the terms and conditions of the first waiver, if applicable. Such determination should be given considerable weight in the adjudication of a subsequent waiver application.[28]
+
+Even if a new medical examination is not required, applicants must still comply with the vaccination requirements if the vaccination record was not included as part of the original medical examination report. If the vaccination report was properly completed at the time of the overseas examination, the officer may accept the vaccination assessment completed by the panel physician.
+
+An applicant’s overseas medical examination report completed by a panel physician should already be in the applicant’s A-file. If it is not in the A-file, the officer should request the medical examination report through a Request for Evidence (RFE).
+
+If the applicant was granted a change of status to V in the United States,[29]the medical examination report completed by the civil surgeon should be in the A-file created at the time that the change of status was initially granted.
+
+H3: 5. Refugees Applying for Adjustment[30]
+
+By regulation, refugees applying for adjustment of status generally do not need to repeat the entire medical examination if the applicant was already examined by a panel physician for purposes of admission to the United States.[31]Refugees must undergo an additional medical examination only if the original examination by the panel physician revealed a Class A medical condition.
+
+Family members granted refugee status in the United States must submit to a medical examination at the time they seek to adjust their status.
+
+All refugees must comply with the vaccination requirements at the time of adjustment of status by submitting the relevant parts of the Report of Immigration Medical Examination and Vaccination Record (Form I-693) completed by a designated civil surgeon. A prior vaccination assessment performed by the panel physician cannot be used for purposes of the adjustment of status application.[32]
+
+USCIS granted a blanket civil surgeon designation to state and local health department physicians for the limited purpose of completing the vaccination record for refugees applying for adjustment of status.
+
+H3: 6. Asylees Applying for Adjustment
+
+All asylees are required to undergo an immigration medical exam, including vaccination assessment, at time of adjustment.[33]
+
+However, according to USCIS policy developed in consultation with the Centers for Disease Control and Prevention, an asylee dependent who had a medical examination conducted overseas is not required to undergo a new medical exam when applying for adjustment of status if:
+
+- The results of the overseas medical examination are contained in the A-file and no Class A condition was reported;
+
+- The asylee has applied for adjustment of status within one year of eligibility to file; and
+
+- No evidence in the A-file or testimony given at the interview suggests that the asylee has acquired a Class A condition after his or her entry into the United States.
+
+Even if an asylee dependent may use the result of the previous examination, he or she must still establish compliance with the vaccination requirements and submit the vaccination assessment with his or her adjustment of status application. This requirement applies even if the applicant had a vaccination assessment completed overseas by a panel physician. To comply with the requirement, the applicant must have the relevant parts ofForm I-693completed by the civil surgeon.
+
+H3: 7. Certain Afghan Nationals Applying for Adjustment of Status After Arriving in the United States During Operation Allies Welcome
+
+Certain Afghan nationals who arrived in the United States during OAW and completed a qualifying immigration medical examination are not required to repeat the immigration medical examination when applying for adjustment of status, provided they meet the following conditions:
+
+- The Afghan national completed a full immigration medical examination abroad, or at a government-run facility in the United States;
+
+- A panel physician conducted the immigration medical examination abroad and annotated the results on DS-7794 or DS-2054, and related worksheets, or a blanket-designated civil surgeon conducted the immigration medical examination in the United States at a government-run facility in the United States and annotated the results on Form I-693;
+
+- The results of the immigration medical examination are contained in the A-file or USCIS systems and no Class A medical condition was reported; and
+
+- No evidence in the A-file, USCIS systems, or testimony given at the interview suggests that the applicant has acquired a Class A medical condition after completing their immigration medical examination.
+
+Additionally, in consultation with CDC, USCIS has determined that Afghan nationals who meet the above conditions may use their immigration medical examination to show they are not inadmissible under the health-related grounds for the purpose of any benefit request at any time in the future.
+
+H3: 8. Children of Returning Residents Entering the United States[34]
+
+For children of returning residents entering the United States, as long as the parent’s visa is valid or the parent is a U.S. resident or U.S. national, there are no medical examination or vaccination requirements.
+
+Children of returning residents entering the United States are:
+
+- Children born abroad after the parent has been issued an immigrant visa and while the parent is applying for admission to the United States.
+
+- Children born abroad during the temporary visit abroad of a mother who is a national or permanent resident of the United States.
+
+H3: 9. Internationally Adopted Orphans[35]
+
+Children 10 years of age or younger who are classified as orphans and who are applying for IR-3 and IR-4 (orphans) and IH-3 and IH-4 (Hague Convention adoptees) visas are not required to comply with the vaccination requirements before admission to the United States.[36]
+
+H2: Footnotes
+
+[^ 1]Based on the conditions listed inINA 212(a)(1).
+
+[^ 2]SeeINA 212(d)(5)(A).
+
+[^ 3]SeeMatter of Arthur  (PDF), 16 I&N Dec. 558 (BIA 1978) (The applicant has the burden of proof to establish his or her admissibility to the United States according toINA 291; the burden never shifts to the government).
+
+[^ 4]Special considerations that apply to certain benefit types are noted in Section B, Special Considerations [8 USCIS-PM B.3(B)].
+
+[^ 5]SeeINA 248. See8 CFR 214.1and8 CFR 248.
+
+[^ 6]See Section B, Special Considerations [8 USCIS-PM B.3(B)].
+
+[^ 7]SeeINA 244.
+
+[^ 8]See Section B, Special Considerations [8 USCIS-PM B.3(B)].
+
+[^ 9]SeeINA 214. See8 CFR 214.2(k)and8 CFR 214.15.
+
+[^ 10]SeeINA 214(q)and8 CFR 214.15.
+
+[^ 11]SeeINA 245and8 CFR 245.
+
+[^ 12]See Section B, Special Considerations [8 USCIS-PM B.3(B)].
+
+[^ 13]SeeINA 207and8 CFR 207.7. SeeINA 208and8 CFR 208.21.
+
+[^ 14]SeeINA 207and8 CFR 207.
+
+[^ 15]SeeINA 208and8 CFR 208.
+
+[^ 16]SeeINA 208and8 CFR 208.21.
+
+[^ 17]SeeINA 209and8 CFR 209.1.
+
+[^ 18]See Section B, Special Considerations [8 USCIS-PM B.3(B)].
+
+[^ 19]Including state or local health department physicians, who are blanket designated by USCIS as civil surgeons for purposes of completing the vaccination record for refugees adjusting status only.
+
+[^ 20]SeeINA 209and8 CFR 209.2.
+
+[^ 21]See Section B, Special Considerations [8 USCIS-PM B.3(B)].
+
+[^ 22]See8 CFR 289.1and8 CFR 289.2. American Indians born in Canada who meet the regulatory requirements may be regarded as having been admitted for lawful permanent residence. Because neither an immigrant visa nor an adjustment of status application is required, the applicant is not required to comply with the medical examination and vaccination requirements.
+
+[^ 23]SeeINA 101(a)(27)(A)and22 CFR 42.22.
+
+[^ 24]SeeINA 101(b)(1)(F), including Hague Convention adoptees.
+
+[^ 25]SeeINA 214. See8 CFR 214.2(k)and8 CFR 214.15. For more information, see9 FAM 302.2.
+
+[^ 26]SeeINA 245and8 CFR 245.
+
+[^ 27]See8 CFR 245.5.
+
+[^ 28]See Volume 9, Waivers and Other Forms of Relief, Part D, Health-Related Grounds of Inadmissibility [9 USCIS-PM D] for more information on medical waivers.
+
+[^ 29]UnderINA 214(q).
+
+[^ 30]SeeINA 209and8 CFR 209.1.
+
+[^ 31]See8 CFR 209.1(c).
+
+[^ 32]See8 CFR 209.1(c).
+
+[^ 33]See8 CFR 209.2(d).
+
+[^ 34]SeeINA 101(a)(27)(A)and22 CFR 42.22.
+
+[^ 35]SeeINA 101(b)(1)(F). See Chapter 9, Vaccination Requirement, Section G, Exception for Certain Adopted Children [8 USCIS-PM B.9(G)] for more on this exception.
+
+[^ 36]SeeINA 212(a)(1)(C), as amended by Section 2 of the International Adoption Simplification Act,Pub. L. 111-287  (PDF), 124 Stat. 3058, 3058 (November 30, 2010).
+
+H2: Resources
+
+42 CFR 34- Medical examination of aliens
+
+42 U.S.C. 252- Medical examination of aliens
+
+INA 212(a)(1)- Health-related grounds
+
+INA 221(d)- Physical examination
+
+INA 232,8 CFR 232- Detention of aliens for physical and mental examination
+
+Technical Instructions for Civil Surgeons
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-693, Report of Medical Examination and Vaccination Record
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update to Volume 8, Admissibility, removes the COVID-19 vaccination requirement to align with the U.S. Centers for Disease Control and Prevention (CDC) Technical Instructions and makes other minor technical changes.
+
+8 USCIS-PM B.3-Chapter 3 - Applicability of Medical Examination and Vaccination Requirement
+
+8 USCIS-PM B.9-Chapter 9 - Vaccination Requirement
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual regarding immigration medical examinations completed by certain Afghan nationals who arrived in the United States during Operation Allies Welcome (OAW).
+
+8 USCIS-PM B.3-Chapter 3 - Applicability of Medical Examination and Vaccination Requirement
+
+8 USCIS-PM B.4-Chapter 4 - Review of Medical Examination Documentation
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to allow certain Afghan nationals applying for adjustment of status after evacuation under Operation Allies Welcome (OAW) to use the report of an immigration medical examination completed abroad by a panel physician to satisfy the requirement normally demonstrated on a Report of Medical Examination and Vaccination Record (Form I-693) completed by a USCIS-designated civil surgeon, as long as certain conditions are met.
+
+8 USCIS-PM B.3-Chapter 3 - Applicability of Medical Examination and Vaccination Requirement
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in Volume 8, Part B of the USCIS Policy Manual regarding the period of time during which a Form I-693 submitted in support of a related immigration benefits application is considered valid.
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is updating guidance regarding health-related grounds of inadmissibility in accordance with the U.S. Department of Health and Human Services (HHS) rulemaking updating Title 42 of the Code of Federal Regulations, part 34 (42 CFR 34).
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual on the health-related grounds of inadmissibility under INA 212(a)(1) and corresponding waivers under INA 212(g).
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+9 USCIS-PM D-Part D - Health-Related Grounds of Inadmissibility

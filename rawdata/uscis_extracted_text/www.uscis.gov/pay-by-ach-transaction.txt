@@ -1,0 +1,134 @@
+H1: Pay with Automated Clearing House (ACH) Transaction by Mail
+
+If you are filing by mail you may pay your filing fee, and other applicable fees, (e.g., premium processing, statutory, biometric services), using a U.S. bank account by making an Automated Clearing House (ACH) debit transaction.
+
+There is no additional cost to use the ACH payment method. We cannot accept an ACH payment through a foreign bank. USCIS can only withdraw funds from a U.S. banking institution.
+
+H2: How To Pay by ACH Transaction
+
+- Complete and signForm 1650, Authorization for ACH Transactions;
+
+- Make sure the account has enough money to cover the fee being paid; and
+
+- Place the form on top of your application, petition, or request package when you file it.
+
+If we accept your filing, we will:
+
+- Debit your account for the amount authorized;
+
+- Process the transaction using the bank account routing and account number provided; and
+
+- Destroy your paper form G-1650 (even if we reject your filing and do not process your payment.) We will retain a digital image of the Form G-1650 in your official record.
+
+For general filing information, see ourTips for Filing Forms by Mailpage.
+
+H2: Multiple or Combined Applications
+
+You must pay each filing fee separately for each application, petition, or request you submit.
+
+If you are paying by ACH transaction, you cannot combine the fees for multiple requests on 1 Form G-1650 and must submit the fees required separately with each application, petition, or request that you submit. You may pay both the filing fee and biometric services fee, if applicable, for 1 benefit request with the same Form G-1650.  Some forms require multiple fees and the fees may require separate payment instruments and Forms G-1650 because the funds are deposited in different systems.  Review the web page for the form you are filing to identify separate payment requirements that may apply.
+
+We may reject your entire package if you:
+
+- Submit 1 Form G-1650 for multiple applications, petitions, or requests;
+
+- Submit both Form G-1650 andForm G-1450, Authorization for Credit Card Transactions, to split the payment for the same application, petition, or request;
+
+- Do not identify on Form G-1650 if it is a personal or business account;
+
+- Do not identify on Form G-1650 if it is a checking or savings account;
+
+- Do not provide the correct routing and account number; or
+
+- Do not provide the correct fee payment amount or leave the Authorized Payment Amount box blank.
+
+Below are examples of how to properly submit payments:
+
+TABLE:
+If you submit... | And wish to pay with... | Then you must
+One application, petition, or request | One bank account | Pay the entire fee for that application, petition, or request using a single Form G-1650.
+One application, petition, or request | Two bank accounts (split payment) | Complete 2 Form G-1650 authorizations (1 for each transaction) and specify the amount you wish to pay with each transaction.Make sure the amounts on both Form G-1650 authorizations add up to the correct total. We will reject a filing with an incorrect fee payment amount. Please complete a single Form G-1650 for each transaction and ensure the total amount of the filing fee is correct between the 2 authorizations. (For example, you could pay a $400 filing fee with a $200 payment on the first G-1650 authorization and a $200 payment on the second G-1650 authorization.)
+Three applications, petitions, or request | One bank account | Submit separate Form G-1650 authorizations for each application, petition, or request.
+Five applications, petitions, or requests | One bank account for 2 of the formsA credit card for the other 3 forms | Submit 2 separate packages:First package: 2 applications, petitions, or requests and 2 Form G-1650 authorizations.Second package: 3 applications, petitions, or requests and 3 Form G-1450 authorizations.
+
+Complete 2 Form G-1650 authorizations (1 for each transaction) and specify the amount you wish to pay with each transaction.
+
+Make sure the amounts on both Form G-1650 authorizations add up to the correct total. We will reject a filing with an incorrect fee payment amount. Please complete a single Form G-1650 for each transaction and ensure the total amount of the filing fee is correct between the 2 authorizations. (For example, you could pay a $400 filing fee with a $200 payment on the first G-1650 authorization and a $200 payment on the second G-1650 authorization.)
+
+- One bank account for 2 of the forms
+
+- A credit card for the other 3 forms
+
+Submit 2 separate packages:
+
+- First package: 2 applications, petitions, or requests and 2 Form G-1650 authorizations.
+
+- Second package: 3 applications, petitions, or requests and 3 Form G-1450 authorizations.
+
+H2: ACH Debit Block
+
+Some bank account owners have placed a debit block on their bank account to prevent unauthorized individuals from withdrawing funds through ACH. These blocks frequently prevent ACH transactions by USCIS. If you have a debit block on your account, you must contact your bank and provide all the ACH transaction codes before the transaction. This will allow USCIS to withdraw the fee. Visit theFiling Feeswebpage for more information.
+
+USCIS Agency Location Codes (ALC+2):
+
+- 7001010330
+
+- 7001010331
+
+- 7001010335
+
+- 7001010390
+
+- 700101031B
+
+- 700101031D
+
+- 700101031E
+
+- 7001010333
+
+- 700101031F
+
+- 700101031J
+
+- 7001010325
+
+- 7001010326
+
+- 7001010327
+
+- 7001010328
+
+- 7001010329
+
+- 7001010371
+
+- 7001010372
+
+- 70010103X5
+
+H2: Third-Party Payments
+
+Any owner of a U.S. checking or savings account may pay for your application, petition, or request. The account holder must complete Form G-1650, sign it, and give it to you to submit with your filing.
+
+H2: Declined Transactions
+
+If you pay a fee using an ACH transaction but the bank returns the ACH payment as unpayable because of insufficient funds, we will resubmit the payment to the banking institution 1 time. If the bank returns the ACH payment as unpayable a second time, we may reject or deny the filing. We do not resubmit payments returned as unpayable for any reason other than insufficient funds.
+
+H2: Rejection Notices
+
+If we reject your filing, we will send you a notice explaining why we rejected it.
+
+If you file a corrected application, petition, or request, and wish to pay again by ACH authorization, you will need to include a new Form G-1650.
+
+H2: Security
+
+We use the U.S. Department of the Treasury’s Pay.gov Trusted Collections Service to process your ACH debit transaction. Trusted Collections Service is a web-based application that allows government agencies to process ACH debit payments. You cannot pay the fee directly to Pay.gov.
+
+We will destroy your Form G-1650 after processing, even if we reject your application, petition, or request.  We will retain a digital image of the Form G-1650 in your official record.
+
+H2: Avoid Immigration Scams
+
+Learn how to protect yourself from common immigration services scams and where to report suspected fraud atAvoid Scams.
+
+And remember, the current versions of all USCIS forms are always available for free atuscis.gov/forms.

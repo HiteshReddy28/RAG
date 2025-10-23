@@ -1,0 +1,233 @@
+H1: Chapter 1- Purpose and Background
+
+- Guidance
+
+- Resources (10)
+
+- Appendices (1)
+
+- Updates (5)
+
+H2: A. Purpose
+
+Revocation of naturalization is sometimes referred to as “denaturalization.” Unlike most other immigration proceedings that USCIS handles in an administrative setting, revocation of naturalization can only occur in federal court.
+
+A person’s naturalization can be revoked either by civil proceeding or pursuant to a criminal conviction. For civil revocation of naturalization, the United States Attorney’s Office must file the revocation of naturalization actions in Federal District Court.[1]For criminal revocation of naturalization, the U.S. Attorney’s Office files criminal charges in Federal District Court.[2]
+
+The government holds a high burden of proof when attempting to revoke a person’s naturalization. For civil revocation of naturalization, the burden of proof is clear, convincing, and unequivocal evidence which does not leave the issue in doubt.[3]For criminal revocation of naturalization the burden of proof is the same as for every other criminal case, proof beyond a reasonable doubt.
+
+USCIS refers cases for civil revocation of naturalization when there is sufficient evidence to establish that the person is subject to one of the grounds of revocation.
+
+The general grounds for civil revocation of naturalization are:
+
+- Illegal procurement of naturalization; or
+
+- Concealment of a material fact or willful misrepresentation.
+
+Illegal procurement of naturalization; or
+
+Concealment of a material fact or willful misrepresentation.
+
+Another ground for revocation of naturalization exists in cases where the person naturalized under the military provisions. In those cases, the person may also be subject to revocation of naturalization if he or she is discharged under other than honorable conditions before serving honorably for five years.
+
+H2: B. Background
+
+On February 14, 2001, a district court issued a nationwide injunction based on a finding that USCIS has no statutory authority to administratively revoke naturalization.[4]A person’s naturalization can only be revoked after a final order in a judicial proceeding to revoke his or her naturalization.[5]During a revocation of naturalization proceeding, all related documentation from the A-file is subject to discovery.
+
+H2: C. Difference between Revocation and Cancellation of Certificate
+
+USCIS is authorized to cancel any Certificate of Citizenship or Certificate of Naturalization in cases where USCIS considers that the certificate itself was obtained or created illegally or fraudulently.[6]Cancellation of a certificate under this provision only cancels the certificate and does not affect the citizenship status of the person in whose name the certificate was issued.
+
+If someone was unlawfully naturalized or misrepresented or concealed facts during the naturalization process, civil or criminal proceedings must be instituted to revoke the naturalization and the status of the person as a citizen. Once the naturalization is revoked, the court also cancels the person’s Certificate of Naturalization.
+
+The main difference between cancellation and revocation proceedings is that cancellation only affects the document, not the person’s underlying status. For this reason, cancellation is only effective against persons who are not citizens, either because they have not complied with the entire naturalization process or because they did not acquire citizenship under law, but who nonetheless have evidence of citizenship which was fraudulently or illegally obtained.
+
+Where USCIS has affirmatively granted naturalization to a person, that person is a citizen unless and until that person’s citizenship is revoked.[7]Revocation, therefore, is appropriate when:
+
+- The person filed an Application for Naturalization (Form N-400);
+
+- The person appeared at the naturalization interview;
+
+- ​The naturalization application was approved; and
+
+- ​The person took the Oath of Allegiance for naturalization.
+
+The person filed an Application for Naturalization (Form N-400);
+
+The person appeared at the naturalization interview;
+
+​The naturalization application was approved; and
+
+​The person took the Oath of Allegiance for naturalization.
+
+By contrast, a person who illegally obtained a Certificate of Naturalization without going through the naturalization process, and was therefore never naturalized by USCIS, is not a citizen of the United States. While the person has a certificate as evidence of U.S. citizenship, the certificate in and of itself, does not confer the status of citizenship.
+
+In such cases, USCIS can initiate proceedings to cancel the Certificate of Naturalization.[8]Because the person holding this certificate did not obtain citizenship based on a USCIS process, the person maintains whatever immigration status he or she had.
+
+H2: D. Legal Authorities
+
+- INA 340;8 CFR 340– Revocation of naturalization
+
+- ​INA 342;8 CFR 342– Administrative cancellation of certificates, documents, or records
+
+INA 340;8 CFR 340– Revocation of naturalization
+
+​INA 342;8 CFR 342– Administrative cancellation of certificates, documents, or records
+
+H2: Footnotes
+
+[^ 1]SeeINA 340(a).
+
+[^ 2]A criminal conviction under18 U.S.C. 1425results in automatic revocation of naturalization underINA 340(e).
+
+[^ 3]SeeKungys v. United States, 485 U.S. 759, 767 (1988).
+
+[^ 4]See Order Granting Order for Permanent Injunction,Gorbach v. Reno, 2001 WL 34145464 (February 14, 2001) (Entering order pursuant toGorbach v. Reno, 219 F.3d 1087 (9th Cir. 2000)).
+
+[^ 5]SeeINA 340(a).
+
+[^ 6]SeeINA 342. See Part K, Certificates of Citizenship and Naturalization, Chapter 5, Cancellation of Certificate of Citizenship or Naturalization [12 USCIS-PM K.5].
+
+[^ 7]The revocation must have been pursuant toINA 340(e)or18 U.S.C. 1425.
+
+[^ 8]SeeINA 342.
+
+H2: Resources
+
+INA 332,8 CFR 332- Naturalization administration, executive functions
+
+INA 340- Revocation of naturalization
+
+INA 340(f),8 CFR 340- Cancellation of certificate after revocation of naturalization
+
+INA 342,8 CFR 342- Administrative cancellation of certificates, documents, or records
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+Citizenship Resource Center: Check for Test Updates
+
+Citizenship Resource Center: Study for the Test
+
+Citizenship Resource Center: The Naturalization Interview and Test
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Before October 29, 2019, USCIS considered children of members of the U.S. armed forces or U.S. government employees, who were stationed outside of the United States, to meet the requirement of “is residing in” the United States for the purpose of acquiring citizenship underINA 320.[1]This interpretation was consistent with the definition of “residence” for purposes of naturalization underINA 316.[2]Based on this treatment of U.S. government employees and their children in the context of naturalization under INA 316, USCIS determined that “residing in the United States” for purposes of acquisition of citizenship under INA 320 should likewise be interpreted to include children of U.S. military and government employees stationed outside of the United States who were residing with their parents.[3]
+
+This interpretation, however, was inconsistent with other provisions of the Immigration and Nationality Act (INA), including the definition of “residence” atINA 101(a)(33)and language inINA 322(a)andINA 322(d), which suggested that the citizenship of military children residing outside of the United States should be considered under that provision rather than under INA 320. Effective October 29, 2019, USCIS amended its policy guidance to address these concerns, and determined that children of members of the U.S. armed forces or U.S. government employees stationed outside of the United States would not be eligible for citizenship acquisition under INA 320.[4]
+
+On March 26, 2020, the Citizenship for Children of Military Members and Civil Servants Act was enacted,[5]amending INA 320, so that a child residing with his or her U.S. citizen parent, who is stationed outside of the United States as a member of the U.S. armed forces or a U.S. government employee, or is residing in marital union with a member of the U.S. armed forces or a U.S. government employee who is stationed outside of the United States, acquires citizenship under INA 320 if all requirements of INA 320(c) and INA 320(a)(1)-(2) are met. In line with the statute, USCIS rescinds its previous guidance, clarifying that these children are eligible to acquire citizenship under INA 320 if all other requirements under INA 320 are met.
+
+The amendment to INA 320 applies to children who were under the age of 18 on March 26, 2020.
+
+H3: Footnotes
+
+[^ 1]Even though the child of a member of the U.S. armed forces or U.S. government employee stationed outside of the United States may be eligible to apply for a Certificate of Citizenship underINA 322since he or she resides outside of the United States, USCIS interpreted the child to meet residency requirements underINA 320as well, which formerly required the child to be residing in the United States with his or her parent to acquire citizenship.
+
+[^ 2]For example, U.S. government employees, including members of the U.S. armed forces, are eligible to apply for an exception to the continuous residence requirement for naturalization under INA 316 as long as their residency outside of the United States was on behalf of the U.S. government. SeeINA 316(b). SeeINA 316(a). See Part D, General Naturalization Requirements, Chapter 3, Continuous Residence [12 USCIS-PM D.3].
+
+[^ 3]See Policy Manual Technical Update,Child Citizenship Act and Children of U.S. Government Employees Residing Abroad(July 20, 2015); and Acquisition of Citizenship by Children of U.S. Military and Government Employees Stationed Abroad under Section 320 of the Immigration and Nationality Act (INA), No. 103, issued May 6, 2004.
+
+[^ 4]See USCIS Policy Alert, Defining “Residence” in Statutory Provisions Related to Citizenship[PA-2019-05]. This Policy Alert has been superseded by Policy Manual updates to reflect changes made underPub. L. 116-133                                             (PDF).
+
+[^ 5]SeePub. L. 116-133                                             (PDF)(March 26, 2020).
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+USCIS is issuing updated and comprehensive citizenship and naturalization policy guidance in the new USCIS Policy Manual.
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

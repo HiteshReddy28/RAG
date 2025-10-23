@@ -1,0 +1,75 @@
+H1: How USCIS Determines Same or Similar Occupational Classifications for Job Portability Under AC21
+
+If you have a pendingForm I-485, Application to Register Permanent Residence or Adjust Statusbased on employment, you may be able to change the job or employer on which yourForm I-140, Immigrant Petition for Alien Worker, is based as long as the new job offer is in the same or a similar occupational classification as the job offer for which the Form I-140 petition was filed. For you to change the offer of employment or employer, your Form I-485 must have been pending with USCIS for 180 days or more. You may request to “port” your job offer using theForm I-485, Supplement J, Confirmation of Valid Job Offer or Request for Job Portability Under INA Section 204(j). Seesection 204(j) of the Immigration and Nationality Act (INA), which was enacted from section 106(c) of the American Competitiveness in the Twenty-first Century Act of 2000 (AC21), for more information.
+
+The term “port” or “porting” means to change the offer of employment from one job or employer to another job or employer in a way that allows an applicant to remain eligible for a Green Card without having a newForm I-140, Immigrant Petition for Alien Workerfiled, for the applicant.
+
+The Department of Labor (DOL) uses theStandard Occupational Classification (SOC)system to group and classify jobs and occupations. The purpose of the SOC system is to organize occupational data and classify workers into distinct occupational categories. The SOC system covers all occupations where work is performed for pay or for profit. Occupations are generally categorized based on the type of work performed. Additionally, certain occupations are also classified based on the skills, education and training required to perform the job.
+
+The SOC system is organized using codes, which generally consist of six numerical digits. For example, the SOC code for a stonemason is 47-2022.
+
+- [47]-2022: The first two digits, “47” represent the major group, which includes all construction and extraction occupations.
+
+- 47-[2]022: The third digit, “2” represents the minor group, which includes all construction trade workers.
+
+- 47-2[02]2: The fourth and fifth digits, “02” represent the broad occupation, which includes brick masons, block masons, and stonemasons.
+
+- 47-202[2]: The sixth digit, “2” represents the detailed occupation, which only includes stonemasons.47-0000 Construction and Extraction Occupations47-2000 Construction Trades Workers47-2020 Brick masons, Block masons, and Stonemasons47-2022 Stonemasons
+
+- 47-0000 Construction and Extraction Occupations
+
+- 47-2000 Construction Trades Workers
+
+- 47-2020 Brick masons, Block masons, and Stonemasons
+
+- 47-2022 Stonemasons
+
+- 47-0000 Construction and Extraction Occupations
+
+- 47-2000 Construction Trades Workers
+
+- 47-2020 Brick masons, Block masons, and Stonemasons
+
+- 47-2022 Stonemasons
+
+No occupation will be assigned to more than one category with six digits.
+
+The USCIS Policy Manual [7 USCIS-PM E.5] instructs USCIS officers that they may refer to DOL’s SOC system in making portability determinations. It also instructs officers to consider additional resources such as DOL’s Bureau of Labor Statistics’Occupational Outlook Handbookas well as the DOL’s Bureau of Labor Statistics’Occupational Employment Statistics Databaseas part of the analysis.
+
+USCIS officers consider multiple factors when deciding if two jobs are in similar occupational classifications for job porting purposes. USCIS officers may compare factors including, but not limited to:
+
+- DOL’s SOC system
+
+- The job duties of both positions
+
+- The skills, experience, education, training, licenses or certifications specifically required to perform each job
+
+- The SOC code from theForm I-140, Immigrant Petition for Alien Worker, theETA Form 9089, Application for Permanent Employment Certification  (PDF)(if applicable), and the appropriate SOC code for the new position as identified on theI-485 Supplement J
+
+- The wages associated with each position
+
+- Any other relevant and credible evidence submitted by the applicant
+
+USCIS officers will consider the totality of the circumstances to determine if the two jobs are the same or similar for porting purposes and make our determination based upon a preponderance of the evidence.
+
+As noted above, USCIS does not use a simple numerical comparison of SOC codes to determine if two jobs are the same or similar. USCIS aims to determine in all cases whether a new position is in the same or similar occupational classification as the original job offer. When referring to the SOC system, USCIS will analyze the SOC codes of the two jobs it is comparing. However, there is no specific rule for matching any particular order of digits in two SOC codes.
+
+In the example in the Occupational Classifications section above, the “47” encompasses all construction and extraction occupations, which is a broad category and would not determine whether two jobs are similar. In this particular example, even matching additional digits of the SOC codes may not show whether or not two jobs are similar.
+
+For example, the SOC code for a stonemason is47-2022. The job description for a stonemason is:
+
+Build stone structures, such as piers, walls, and abutments. Lay walks, curbstones, or special types of masonry for vats, tanks, and floors.
+
+The SOC code for a boilermaker is47-2010, which contains the same first four numbers of the stonemason’s SOC code (47-20). However, the job description for a boilermaker is significantly different from that of stonemason:
+
+Construct, assemble, maintain, and repair stationary steam boilers and boiler house auxiliaries. Align structures or plate sections to assemble boiler frame tanks or vats, following blueprints. Work involves use of hand and power tools, plumb bobs, levels, wedges, dogs, or turnbuckles. Assist in testing assembled vessels. Direct cleaning of boilers and boiler furnaces. Inspect and repair boiler fittings, such as safety valves, regulators, automatic-control mechanisms, water columns, and auxiliary machines.
+
+In reviewing two positions within the same broad occupational classification, USCIS will consider factors such as the similarity of the duties, experience, or areas of study associated with each position.
+
+The USCIS Policy Manual [7 USCIS-PM E.5] indicates that USCIS may consider the wages offered for the original position and the new position when determining whether the two positions meet the requirements for job portability. However, USCIS will not necessarily conclude that the two positions are the same or similar based solely on whether the wages are the same or not. USCIS takes into consideration factors such as normal raises that occur over time to account for inflation or promotion, the fact that the two positions might be located in different geographic locations or economic sectors, possible corporate mergers that could affect compensation structures, as well as moving from a for-profit to a non-profit employer (or moving from a non-profit to a for-profit employer).
+
+If you change jobs or receive a promotion, USCIS will determine whether you remain eligible for a Green Card on a case-by-case basis and based upon the totality of the circumstances. You must establish by a preponderance of the evidence that the relevant positions are in similar occupational classifications. For example, if you move into a more senior but related position which is non-managerial, USCIS will use the criteria explained above to determine whether you are primarily responsible for managing the same or similar functions of your original job or the work of persons whose jobs are in the same or similar occupational classification(s) as your original position.
+
+- The USCIS Policy Manual [7 USCIS-PM E.5]
+
+- Immigration and Nationality Act

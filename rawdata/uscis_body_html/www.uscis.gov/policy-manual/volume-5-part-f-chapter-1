@@ -1,0 +1,1793 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+        
+  
+      <div class="book-utility-menu hide-print" role="navigation" aria-label="Book utility menu">
+  <div class="content-container">
+    <div class="container-1">
+      <a href="/policy-manual" hreflang="en">Policy Manual</a>
+      <div class="mobile-chevron">
+        <button id="util-menu" class="menu-toggle__link highlight-strong" aria-label="Toggle Menu">
+          <i id="util-chevron" class="fas fa-chevron-down"></i>
+        </button>
+      </div>
+    </div>
+    <div class="container-2" id="util-links">
+      <div class="menu-items">
+                  <div class="menu__elem"><a href="/policy-manual/table-of-contents">Contents</a></div>
+                  <div class="menu__elem"><a href="/policy-manual/updates" hreflang="en">Updates</a></div>
+                  <div class="menu__elem"><a href="/legal-resources/immigration-and-nationality-act">INA</a></div>
+                  <div class="menu__elem"><a href="https://www.ecfr.gov/current/title-8">8 CFR</a></div>
+                  <div class="menu__elem"><a href="/tools/glossary" hreflang="en">Glossary</a></div>
+                  <div class="menu__elem"><a href="https://www.uscis.gov/outreach/feedback-opportunities/policy-manual-feedback/policy-manual-feedback">Feedback</a></div>
+              </div>
+    </div>
+      <div class="book-search" id="pm-search">
+        <div class="line-sep"> </div>
+                    <form accept-charset="UTF-8" action="/policy-manual/search" name="custom-search" method="get" id="custom-search">
+          <div class="input-group">
+            <input name="pm_query" id="pm-query" type="text" class="book-search-box book-utility-menu__search" title="Search USCIS Policy Manual" autocomplete="off" size="25" maxlength="200" value="" placeholder="Search USCIS Policy Manual">
+            <div class="input-group__btn--icon">
+              <button id="pm-btn-search-submit" aria-label="Search USCIS Policy Manual" class="btn-icon btn--search-submit" type="submit">
+                <svg class="usa-icon fa-search" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/uswds/img/sprite.svg#search"></use>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </form>
+              <div class="line-sep after-search"> </div>
+      </div>
+  </div>
+</div>
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+      <div id="block-booknavigation">
+    
+        
+            <nav id="book-block-menu-68600" class="book-block-menu" aria-labelledby="book-menu-label">
+    <div class="visually-hidden" id="book-menu-label">Book outline for Policy Manual</div>
+    
+
+                  <ul class="leftnav-menu book-title" data-level="0">
+    
+              
+              <li class="leftnav-menu__item leftnav-menu__item--0 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual" class="leftnav-menu__link leftnav-menu__title" hreflang="en">Policy Manual</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Policy Manual" aria-controls="leftnav-menu" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="leftnav-menu"><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/search" class="leftnav-menu__link" hreflang="en">Search</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/updates" class="leftnav-menu__link" hreflang="en">Updates</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/table-of-contents" class="leftnav-menu__link" hreflang="en">Table of Contents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-1" class="leftnav-menu__link" hreflang="en">Volume 1 - General Policies and Procedures</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-2" class="leftnav-menu__link" hreflang="en">Volume 2 - Nonimmigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-3" class="leftnav-menu__link" hreflang="en">Volume 3 - Humanitarian Protection and Parole</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-4" class="leftnav-menu__link" hreflang="en">Volume 4 - Refugees and Asylees</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5" class="leftnav-menu__link" hreflang="en">Volume 5 - Adoptions</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2" data-level="2"><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-a" class="leftnav-menu__link" hreflang="en">Part A - Adoptions Overview</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-b" class="leftnav-menu__link" hreflang="en">Part B - Adoptive Parent Suitability Determinations</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-c" class="leftnav-menu__link" hreflang="en">Part C - Child Eligibility Determinations (Orphan)</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-d" class="leftnav-menu__link" hreflang="en">Part D - Child Eligibility Determinations (Hague)</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-e" class="leftnav-menu__link" hreflang="en">Part E - Family-Based Adoption Petitions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-f" class="leftnav-menu__link" hreflang="en">Part F - Citizenship for Adopted Children</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3" data-level="3"><li class="leftnav-menu__item leftnav-menu__item--3 leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-f-chapter-1" class="is-active leftnav-menu__link">Chapter 1 - Purpose and Background</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-f-chapter-2" class="leftnav-menu__link" hreflang="en">Chapter 2 - Definitions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-f-chapter-3" class="leftnav-menu__link" hreflang="en">Chapter 3 - Eligibility, Documentation, and Evidence</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5-part-f-chapter-4" class="leftnav-menu__link" hreflang="en">Chapter 4 - Citizenship Following a Disrupted or Dissolved Adoption</a></div></div></li></ul></li></ul></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-6" class="leftnav-menu__link" hreflang="en">Volume 6 - Immigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-7" class="leftnav-menu__link" hreflang="en">Volume 7 - Adjustment of Status</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8" class="leftnav-menu__link" hreflang="en">Volume 8 - Admissibility</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9" class="leftnav-menu__link" hreflang="en">Volume 9 - Waivers and Other Forms of Relief</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10" class="leftnav-menu__link" hreflang="en">Volume 10 - Employment Authorization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-11" class="leftnav-menu__link" hreflang="en">Volume 11 - Travel and Identity Documents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12" class="leftnav-menu__link" hreflang="en">Volume 12 - Citizenship and Naturalization</a></div></div></li></ul></li>
+      
+         </ul>
+  
+
+
+  </nav>
+
+      </div>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                                <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual">Policy Manual</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-5">Volume 5 - Adoptions</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-5-part-f">Part F - Citizenship for Adopted Children</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Chapter 1 - Purpose and Background</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+
+
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-book">
+      <div class="container container--main">
+            
+                        
+            <h1 class="page-title js-page-title">
+              <span>Chapter 1 - Purpose and Background</span>
+            </h1>
+          
+              
+                    
+              <div>
+                        
+<nav id="pm-tabs" aria-labelledby="pm-tabs-label">
+  <div class="visually-hidden" id="pm-tabs-label">Content navigation tabs</div>
+  <ul>
+    <li><a href="#" aria-controls="guidance" class="pm-tab__guidance tablinks active tab1">Guidance</a></li>
+    <li><a href="#" id="resource_tab" aria-controls="resources" class="pm-tab__resource tablinks tab2">Resources (<span id="resources_count">11</span>)</a></li>
+    <li><a href="#" id="appendices_tab" aria-controls="appendices" class="pm-tab__appendices tablinks tab3">Appendices (<span id="appendices_count">2</span>)</a></li>
+    <li><a href="#" id="updates_tab" aria-controls="updates" class="pm-tab__updates tablinks tab4">Updates (<span id="updates_count">4</span>)</a></li>
+  </ul>
+</nav>
+<section id="book-content">
+  <div id="guidance" class="tabcontent tabcontent--guidance">
+                <div class="clearfix text-formatted field field--name-body field__item"><h2><a id="S-A" name="S-A"></a>A. Purpose</h2>
+
+<p>Under U.S. laws, children may obtain U.S. citizenship other than through birth in the United States.<sup><strong><a href="#footnote-1" name="footnotelink-1" title id="footnotelink-1">[1]</a></strong></sup> Persons born outside of the United States, including adopted children, may obtain U.S. citizenship after birth, before the age of 18, through a U.S. citizen adoptive parent.<sup><strong><a href="#footnote-2" name="footnotelink-2" title id="footnotelink-2">[2]</a></strong></sup> Some children immigrating based on adoption automatically acquire U.S. citizenship upon their admission to the United States as lawful permanent residents. Others do not, and their adoptive parents need to take additional steps before the adopted child turns 18 years of age for the child to obtain U.S. citizenship through the adoptive parent(s).</p>
+
+<p>Adopted children who do not obtain citizenship through their adoptive parents before turning 18 may be eligible to apply for naturalization as an adult.<sup><strong><a href="#footnote-3" name="footnotelink-3" title id="footnotelink-3">[3]</a></strong></sup></p>
+
+<h2><a id="S-B" name="S-B"></a>B. Background</h2>
+
+<p>The law under which an adopted child may have obtained citizenship is the law in effect while the adopted child was under the age of 18.<sup><strong><a href="#footnote-4" name="footnotelink-4" title id="footnotelink-4">[4]</a></strong></sup> Citizenship laws for children have changed over time with the most recent major change taking effect in 2001.</p>
+
+<h3><a id="S-B-1" name="S-B-1"></a>1. The Child Citizenship Act of 2000</h3>
+
+<p>The Child Citizenship Act of 2000 (CCA) took effect on February 27, 2001, and was not retroactive.<sup><strong><a href="#footnote-5" name="footnotelink-5" title id="footnotelink-5">[5]</a></strong></sup> The CCA amended <a href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a> and removed INA 321 to create only one method for children in the United States to automatically acquire citizenship after birth.</p>
+
+<p>Children, including adopted children, who were under the age of 18 on February 27, 2001 (that is, born on or after February 28, 1983), may automatically acquire U.S. citizenship from a U.S. citizen parent if the statutory requirements are satisfied before the child’s 18th birthday. The CCA also amended <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322</a> to provide for applications for naturalization on behalf of foreign-born children who did not automatically acquire citizenship under INA 320 and who generally reside outside the United States with a U.S. citizen parent.</p>
+
+<h3><a id="S-B-2" name="S-B-2"></a>2. Before the Child Citizenship Act of 2000</h3>
+
+<p>Although adoptees do not qualify under the CCA if they were 18 years of age or older on February 27, 2001 (that is, were born on or before February 27, 1983), they may have obtained citizenship under a different law.<sup><strong><a href="#footnote-6" name="footnotelink-6" title id="footnotelink-6">[6]</a></strong></sup></p>
+
+<h2><a id="S-C" name="S-C"></a>C. Scope</h2>
+
+<p>This Part F clarifies how current citizenship provisions apply to adopted children. Volume 12, Citizenship and Naturalization, contains detailed guidance on the requirements for citizenship and naturalization, including for adopted children.<sup><strong><a href="#footnote-7" name="footnotelink-7" title id="footnotelink-7">[7]</a></strong></sup></p>
+
+<h2><a id="S-D" name="S-D"></a>D. Legal Authorities</h2>
+
+<ul><li>
+	<p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(c)</a> – Definition of child for citizenship and naturalization​</p>
+	</li>
+	<li>
+	<p><a href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a>; <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-320">8 CFR 320</a> – Children residing permanently in the United States​ </p>
+	</li>
+	<li>
+	<p><a href="http://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322</a>; <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-322">8 CFR 322</a> – Children residing outside the United States</p>
+	</li>
+</ul><h2>Footnotes</h2>
+
+<hr><p><a href="#footnotelink-1" name="footnote-1" title id="footnote-1">[^ 1]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1401&amp;num=0&amp;edition=prelim">INA 301</a>, <a href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1409&amp;num=0&amp;edition=prelim">INA 309</a>, <a href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a>, and <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322</a>. See Volume 12, Citizenship and Naturalization [<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0cc4504e-98eb-4e97-9c13-a2806e75e649" href="/policy-manual/volume-12">12 USCIS-PM</a>].</p>
+
+<p><a href="#footnotelink-2" name="footnote-2" title id="footnote-2">[^ 2]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a> and <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322</a>.</p>
+
+<p><a href="#footnotelink-3" name="footnote-3" title id="footnote-3">[^ 3]</a> See Volume 12, Citizenship and Naturalization, Part D, General Naturalization Requirements [<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c29a80f9-2f9a-4692-8cb5-4f96fbe81423" href="/policy-manual/volume-12-part-d">12 USCIS-PM-D</a>].</p>
+
+<p><a href="#footnotelink-4" name="footnote-4" title id="footnote-4">[^ 4]</a> Adoptees who need more information about determining their immigration status may see the <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="53972721-f75c-4080-9955-28c629bf5e3e" href="/adoption/adult-adoptees-and-us-citizenship">Adult Adoptees and U.S. Citizenship</a> webpage.</p>
+
+<p><a href="#footnotelink-5" name="footnote-5" title id="footnote-5">[^ 5]</a> See the Child Citizenship Act of 2000, <a href="https://www.govinfo.gov/content/pkg/PLAW-106publ395/pdf/PLAW-106publ395.pdf">Pub. L. 106-395   (PDF)</a> (October 30, 2000).</p>
+
+<p><a href="#footnotelink-6" name="footnote-6" title id="footnote-6">[^ 6]</a> For information on prior provisions, see Appendix: How Previous Citizenship Provisions Apply to Adopted Children [<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d2c000de-f53f-4753-9a24-e0b330dfaa8d" href="/policy-manual/volume-5-part-f#3#2">5 USCIS-PM F, Appendices Tab</a>].</p>
+
+<p><a href="#footnotelink-7" name="footnote-7" title id="footnote-7">[^ 7]</a> See Volume 12, Citizenship and Naturalization [<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0cc4504e-98eb-4e97-9c13-a2806e75e649" href="/policy-manual/volume-12">12 USCIS-PM</a>].</p>
+</div>
+      
+  </div>
+
+  <div id="resources" class="tabcontent tabcontent--resources hidden">
+    <h2>Resources</h2>
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Legal Authorities</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-9e8634cbd9a504a395073e64c97b939071194c00af08af1fc3b65f51ad7ceedf hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)</a> - Definition of child</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(c)</a> - Definition of child for citizenship and naturalization</p>
+</div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a>, <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-320">8 CFR 320</a> - Children residing permanently in the United States</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322</a>, <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-322">8 CFR 322</a> - Children residing outside the United States</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1452&amp;num=0&amp;edition=prelim">INA 341</a>, <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-341">8 CFR 341</a> - Certificates of citizenship</p></div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Forms</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-c1030d7887181814fd6ddb6577d4081699c17da419555c0dd1ec81255846fb7f hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/ar-11">AR-11, Change of Address</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/g-1055" data-entity-type="node" data-entity-uuid="944bb8d1-cae6-467c-96b4-979e03f8ca66" data-entity-substitution="canonical">G-1055, Fee Schedule</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/node/41152">G-28, Notice of Entry of Appearance as Attorney or Accredited Representative</a></p>
+</div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/n-600">N-600, Application for Certificate of Citizenship</a></p>
+</div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/node/41145">N-600K, Application for Citizenship and Issuance of Certificate Under Section 322</a></p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Other Materials</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-2f5e390fa03f87e17f1955da927a3a717ce9f38b0112f99528b56407512807e0 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="837656db-38a5-4ce9-a548-27a2b09d6b57" data-lang="en" href="/sites/default/files/document/policy-manual-resources/HowToUseTheUSCISPolicyManualWebsite.pdf" type="application/pdf; length=3130835">How to Use the USCIS Policy Manual Website</a></p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+  </div>
+
+  <div id="appendices" class="tabcontent tabcontent--appendices hidden">
+    <div class="pm-resource__container">
+      <h2>Appendices</h2>
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-2 pm-resources-block_2 js-view-dom-id-f128d949bc3b42a1c6000cc516a57d2ec1d8d3a2b8f108e6e2b43e2a9ec22b10 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+<div class="content-accordion">
+  <div class="row-data ">
+<div class="accordion__header " tabindex="0"><span>Appendix: Citizenship and Naturalization for Adopted Children by Main Visa Classification Codes</span>
+</div>
+<div class="accordion__panel "><table class="dataTable"><caption>Orphan Process and Citizenship Under INA 320(b) (Child Residing in the United States)<a class="ck-anchor" id="app-footnotelink-101"></a><a class="ck-anchor" href="#app-footnote-101" title><strong><sup>[1]</sup></strong></a></caption><thead><tr><th scope="col">Code</th><th scope="col">Classification Name<a class="ck-anchor" id="app-footnotelink-102"></a><a class="ck-anchor" href="#app-footnote-102" title><strong><sup>[2]</sup></strong></a></th><th scope="col">Citizenship Acquisition (if otherwise eligible)</th><th scope="col">Process for Obtaining a Certificate of Citizenship*</th></tr></thead><tbody><tr><td>IR-3 </td><td><p>Orphan – “full and final” adoption abroad </p><p>(Consular process)</p></td><td>Automatically acquires citizenship upon being admitted as a lawful permanent resident (LPR) if under 18 years old and residing in the United States in the legal and physical custody of the U.S. citizen adoptive parent.</td><td><p>USCIS generally automatically sends a child under 14 years of age the Certificate of Citizenship within 60 days of the child being admitted. Children 14 years of age or older at the time of their admission are also automatically issued a Certificate of Citizenship but must collect their Certificate of Citizenship at a USCIS field office after taking the oath. </p><p>An Application for Certificate of Citizenship (<a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a>)<a class="ck-anchor" id="app-footnotelink-103"></a><a class="ck-anchor" href="#app-footnote-103" title><strong><sup>[3]</sup></strong></a> is not required.</p></td></tr><tr><td>IR-4 </td><td><p>Orphan – coming to the United States to be adopted<a class="ck-anchor" id="app-footnotelink-104"></a><a class="ck-anchor" href="#app-footnote-104" title><strong><sup>[4]</sup></strong></a> </p><p>(Consular process)</p></td><td><p>Must be adopted in the United States, readopted in the United States, or show that the adoptive parent(s)’ U.S. jurisdiction of residence recognizes the foreign adoption before the child can acquire citizenship.</p><p>Automatically acquires citizenship after being admitted as an LPR and residing in the United States in the legal and physical custody of the U.S. citizen adoptive parent, when the adoption is considered full, final, and complete, and the other requirements of <a href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a> are met.</p></td><td>File <a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a> after obtaining an adoption that is considered full, final, and complete, and the other requirements of INA 320 are met.</td></tr></tbody></table><p>* Note that children 14 years of age and older need to take the Oath of Allegiance before a USCIS officer, unless waived, to be issued a Certificate of Citizenship.</p><p> </p><table class="dataTable"><caption>Hague Process and Citizenship Under INA 320(b) (Child Residing in the United States)<a class="ck-anchor" id="app-footnotelink-105"></a><a class="ck-anchor" href="#app-footnote-105" title><strong><sup>[5]</sup></strong></a></caption><thead><tr><th scope="col">Code</th><th scope="col">Classification Name</th><th scope="col">Citizenship Acquisition (if otherwise eligible)</th><th scope="col">Process for Obtaining a Certificate of Citizenship*</th></tr></thead><tbody><tr><td>IH-3</td><td><p>Hague Convention adoptee – final adoption abroad</p><p>(Consular process)</p></td><td>Automatically acquires citizenship upon being admitted as an LPR if under 18 years old and residing in the United States in the legal and physical custody of the U.S. citizen adoptive parent.</td><td><p>USCIS generally automatically sends a child under 14 years of age the Certificate of Citizenship within 60 days of the child being admitted. Children 14 years of age or older at the time of their admission are also automatically issued a Certificate of Citizenship but must collect their Certificate of Citizenship at a USCIS field office after taking the oath.</p><p>A <a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a> is not required.</p></td></tr><tr><td>IH-4</td><td><p>Hague Convention adoptee – coming to the United States to be adopted<a class="ck-anchor" id="app-footnotelink-106"></a><a class="ck-anchor" href="#app-footnote-106" title><strong><sup>[6]</sup></strong></a></p><p>(Consular process)</p></td><td><p>Must be adopted in the United States, readopted in the United States, or show that the adoptive parent(s)’ jurisdiction of residence recognizes the foreign adoption before the child can acquire citizenship.</p><p>Automatically acquires citizenship after being admitted as an LPR and residing in the United States in the legal and physical custody of the U.S. citizen adoptive parent, when the adoption is considered full, final, and complete, and the other requirements of are met.</p></td><td>File <a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a> after obtaining an adoption that is considered full, final, and complete and the other requirements of INA 320 are met.</td></tr></tbody></table><p>* Note that children 14 years of age and older need to take the Oath of Allegiance before a USCIS officer, unless waived, to be issued a Certificate of Citizenship.<br> </p><table class="dataTable"><caption>Family-Based Adoption Petition<a class="ck-anchor" id="app-footnotelink-107"></a><a class="ck-anchor" href="#app-footnote-107" title><strong><sup>[7]</sup></strong></a> Process and Citizenship under INA 320(a) and (b) (Child<a class="ck-anchor" id="app-footnotelink-108"></a><a class="ck-anchor" href="#app-footnote-108" title><strong><sup>[8]</sup></strong></a> Residing in the United States)<a class="ck-anchor" id="app-footnotelink-109"></a><a class="ck-anchor" href="#app-footnote-109" title><strong><sup>[9]</sup></strong></a></caption><thead><tr><th scope="col">Code</th><th scope="col">Classification Name</th><th scope="col">Citizenship Acquisition (if otherwise eligible)</th><th scope="col">Process for Obtaining a Certificate of Citizenship*</th></tr></thead><tbody><tr><td>IR-2 </td><td><p>Child of a U.S. citizen  </p><p>(Consular process)</p></td><td><p>Automatically acquires citizenship upon being admitted as an LPR if under 18 years old and residing in the United States in the legal and physical custody of the U.S. citizen adoptive parent.</p><p> </p></td><td>File <a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a> after being admitted as an LPR.</td></tr><tr><td>IR-7 </td><td><p>Child of a U.S. citizen </p><p>(Adjustment of status)</p></td><td><p>Automatically acquires citizenship upon approval of the Application to Register Permanent Residence or Adjust Status (<a href="/i-485" data-entity-type="node" data-entity-uuid="6d9a13a3-f3c9-4773-b112-0015c55ae4dd" data-entity-substitution="canonical">Form I-485</a>) if under 18 years old and residing in the  legal and physical custody of the U.S. citizen adoptive parent.</p><p> </p></td><td>File <a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a> after the <a href="/i-485" data-entity-type="node" data-entity-uuid="6d9a13a3-f3c9-4773-b112-0015c55ae4dd" data-entity-substitution="canonical">Form I-485</a> is approved and the other requirements of  are met.</td></tr><tr><td>F22 </td><td><p>Child (under 21) of an LPR </p><p>(Consular process)</p></td><td><p>May acquire citizenship if the parent naturalizes while child is under 18 and an LPR.</p><p> </p><p>If the child is over 18, they may be eligible for naturalization.</p></td><td><p>File <a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a> after being admitted as an LPR and the other requirements of INA 320 are met.</p><p> </p><p>Or file an Application for Naturalization (<a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a>)<a class="ck-anchor" id="app-footnotelink-110"></a><a class="ck-anchor" href="#app-footnote-110" title><strong><sup>[10]</sup></strong></a> to apply for naturalization when eligible.</p></td></tr><tr><td>F27 </td><td><p>Child (under 21) of an LPR </p><p>(Adjustment of status)</p></td><td><p>May acquire citizenship through parent if the parent naturalizes while the child is under 18 and an LPR.</p><p> </p><p>If the child is over 18, they may be eligible for naturalization.</p><p> </p></td><td><p>File <a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a> if the requirements of INA 320 are met.</p><p> </p><p>Or file <a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a> to apply for naturalization when eligible.</p></td></tr><tr><td>F11 </td><td><p>Unmarried son or daughter of a U.S. citizen </p><p>(age 21 and older) </p><p>(Consular process)</p></td><td>Aliens age 18 and older cannot acquire citizenship through a parent.</td><td>File <a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a> to apply for naturalization when eligible.</td></tr><tr><td>F16 </td><td><p>Unmarried son or daughter of a U.S. citizen</p><p>(age 21 and older)  </p><p>(Adjustment of status)</p></td><td>Aliens age 18 and older cannot acquire citizenship through a parent.</td><td>File <a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a> to apply for naturalization when eligible.</td></tr><tr><td>F24 </td><td><p>Unmarried son or daughter of an LPR</p><p>(age 21 and older)  </p><p>(Consular process)</p></td><td><p>Aliens age 18 and older cannot acquire citizenship through a parent. Additionally, cannot acquire citizenship through an LPR parent.</p><p> </p></td><td>File <a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a> to apply for naturalization when eligible.</td></tr><tr><td>F29 </td><td><p>Unmarried son or daughter of an LPR </p><p>(age 21 and older)  </p><p>(Adjustment of status)</p></td><td><p>Aliens age 18 and older cannot acquire citizenship through a parent. Additionally, cannot acquire citizenship through an LPR parent.</p><p> </p></td><td>File <a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a> to apply for naturalization when eligible.</td></tr><tr><td>F31 </td><td><p>Married sons or daughters of a U.S. citizen </p><p>(Consular process)</p></td><td><p>Married aliens cannot acquire citizenship through a parent.</p><p> </p></td><td>File <a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a> to apply for naturalization when eligible.</td></tr><tr><td>F36 </td><td><p>Married sons and daughters of a U.S. citizen  </p><p>(Adjustment of status)</p></td><td>Married aliens cannot acquire citizenship through a parent.</td><td>File <a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a> to apply for naturalization when eligible.</td></tr></tbody></table><p>*Note that children 14 years of age and older need to take the Oath of Allegiance before a USCIS officer, unless waived, in order to be issued a Certificate of Citizenship.</p><h2>Footnotes</h2><hr><p><a class="ck-anchor" id="app-footnote-101"></a><a class="ck-anchor" href="#app-footnotelink-101" title>[^ 1]</a> Certain adopted children of U.S. armed forces members or U.S. government employees (or their spouses) who are residing outside the United States may also acquire citizenship under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a>. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320(c)</a>. For more information, see Volume 12, Citizenship and Naturalization, Part H, Children of U.S. Citizens, Chapter 4, Automatic Acquisition of Citizenship After Birth (INA 320), Section C, Children of Armed Forces Members or U.S. Government Employees (or their Spouses) [<a href="/policy-manual/volume-12-part-h-chapter-4#S-C" data-entity-type="node" data-entity-uuid="8c342ba3-b845-416a-b671-2c56ea209e80" data-entity-substitution="canonical">12 USCIS-PM H.4(C)</a>].</p><p><a class="ck-anchor" id="app-footnote-102"></a><a class="ck-anchor" href="#app-footnotelink-102" title>[^ 2]</a> For information on visa classification requirements, see Part F, Citizenship for Adopted Children, Chapter 2, Definitions [<a href="/policy-manual/volume-5-part-f-chapter-2" data-entity-type="node" data-entity-uuid="060b995e-820f-46e8-b7a2-3811b37ca4dc" data-entity-substitution="canonical">5 USCIS-PM F.2</a>].</p><p><a class="ck-anchor" id="app-footnote-103"></a><a class="ck-anchor" href="#app-footnotelink-103" title>[^ 3]</a> See Application for Certificate of Citizenship (<a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a>).</p><p><a class="ck-anchor" id="app-footnote-104"></a><a class="ck-anchor" href="#app-footnotelink-104" title>[^ 4]</a> This includes children in the legal custody of their prospective adoptive parents for purposes of emigration and adoption, children where both parents of a married couple did not jointly adopt the child, and children where at least one of the adoptive parents did not personally see and observe the orphan before or during the foreign adoption proceedings. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)(F)</a>.</p><p><a class="ck-anchor" id="app-footnote-105"></a><a class="ck-anchor" href="#app-footnotelink-105" title>[^ 5]</a> Certain adopted children of U.S. armed forces members or U.S. government employees (or their spouses) who are residing outside the United States may also acquire citizenship under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a>. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320(c)</a>. For more information, see Volume 12, Citizenship and Naturalization, Part H, Children of U.S. Citizens, Chapter 4, Automatic Acquisition of Citizenship After Birth (INA 320), Section C, Children of Armed Forces Members or U.S. Government Employees (or their Spouses) [<a href="/policy-manual/volume-12-part-h-chapter-4#S-C" data-entity-type="node" data-entity-uuid="8c342ba3-b845-416a-b671-2c56ea209e80" data-entity-substitution="canonical">12 USCIS-PM H.4(C)</a>].</p><p><a class="ck-anchor" id="app-footnote-106"></a><a class="ck-anchor" href="#app-footnotelink-106" title>[^ 6]</a> This includes children in the legal custody of their prospective adoptive parents for purposes of emigration and adoption and children where both parents of a married couple did not jointly adopt the child. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)(G)</a>.</p><p><a class="ck-anchor" id="app-footnote-107"></a><a class="ck-anchor" href="#app-footnotelink-107" title>[^ 7]</a> See Petition for Alien Relative (<a href="/i-130" data-entity-type="node" data-entity-uuid="c5e56d90-76ee-4108-be71-58e7e465e312" data-entity-substitution="canonical">Form I-130</a>).</p><p><a class="ck-anchor" id="app-footnote-108"></a><a class="ck-anchor" href="#app-footnotelink-108" title>[^ 8]</a> A stepchild cannot acquire citizenship or naturalize through the U.S. citizen stepparent unless the stepparent adopts the stepchild, and the adoption meets certain requirements. See Volume 12, Citizenship and Naturalization, Part H, Children of U.S. Citizens, Chapter 2, Definition of Child and Residence for Citizenship and Naturalization, Section A, Definition of Child [<a href="/policy-manual/volume-12-part-h-chapter-2#S-A" data-entity-type="node" data-entity-uuid="e97e04eb-4b28-4262-90cc-64779a82dfce" data-entity-substitution="canonical">12 USCIS-PM H.2(A)</a>]. See the <a href="/adoption/immigration-through-adoption/family-based-petition-process/immigration-adoption-and-citizenship-for-stepchildren-of-us-citizens-and-lprs" data-entity-type="node" data-entity-uuid="547c483f-5cd1-4573-bb4f-7998b706cfa8" data-entity-substitution="canonical">Immigration, Adoption, and Citizenship for Stepchildren of U.S. Citizens and LPRs</a> webpage.</p><p><a class="ck-anchor" id="app-footnote-109"></a><a class="ck-anchor" href="#app-footnotelink-109" title>[^ 9]</a> Certain adopted children of U.S. armed forces members or U.S. government employees (or their spouses) who are residing outside the United States may also acquire citizenship under <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a>. See <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320(c)</a>. For more information, see Volume 12, Citizenship and Naturalization, Part H, Children of U.S. Citizens, Chapter 4, Automatic Acquisition of Citizenship After Birth (INA 320), Section C, Children of Armed Forces Members or U.S. Government Employees (or their Spouses) [<a href="/policy-manual/volume-12-part-h-chapter-4#S-C" data-entity-type="node" data-entity-uuid="8c342ba3-b845-416a-b671-2c56ea209e80" data-entity-substitution="canonical">12 USCIS-PM H.4(C)</a>].</p><p><a class="ck-anchor" id="app-footnote-110"></a><a class="ck-anchor" href="#app-footnotelink-110" title>[^ 10]</a> See Application for Naturalization (<a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a>).</p></div>
+  </div>
+  <div class="row-data ">
+<div class="accordion__header " tabindex="0"><span>Appendix: How Previous Citizenship Provisions Apply to Adopted Children</span>
+</div>
+<div class="accordion__panel "><p>Adoptees do not qualify for automatic citizenship under the current <a href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a> provisions if they were 18 years of age or older on February 27, 2001 (that is, were born on or before February 27, 1983). However, they may have obtained citizenship under a different law if their adoptive parent(s) were or became U.S. citizens. The law under which an adopted child may have obtained citizenship is the law that was in effect<a class="ck-anchor" id="app-footnotelink-201"></a><a class="ck-anchor" href="#app-footnote-201" title><strong><sup>[1]</sup></strong></a> while the adopted child was under the age of 18.<a class="ck-anchor" id="app-footnotelink-202"></a><a class="ck-anchor" href="#app-footnote-202" title><strong><sup>[2]</sup></strong></a></p><p>Additionally, adoptees who did not obtain citizenship through their adoptive parents may obtain citizenship under a different law.<a class="ck-anchor" id="app-footnotelink-203"></a><a class="ck-anchor" href="#app-footnote-203" title><strong><sup>[3]</sup></strong></a></p><p><strong>Citizenship and Naturalization Laws (Before October 5, 1978)</strong></p><p>Before October 5, 1978, there were no statutory provisions that provided for the automatic acquisition of citizenship by adopted children through their adoptive parents (unless the child was adopted by their biological father and the adoption legitimated the child). An adopted child may, however, have obtained citizenship if the adoptive parents applied for naturalization on the adopted child’s behalf. The adopted child must have met the requirements under the applicable law (former INA 323), had their application approved, and taken the Oath of Allegiance before reaching the age of 18.</p><p><strong>Citizenship and Naturalization Laws (October 5, 1978 - February 27, 2001)</strong><a class="ck-anchor" id="app-footnotelink-204"></a><a class="ck-anchor" href="#app-footnote-204" title><strong><sup>[4]</sup></strong></a></p><p><em>Adoptive Parents Were U.S. Citizens at Time of Adoption</em></p><p>If the adoptive parents were both U.S. citizens at the time of the adoption, there was no path for an adopted child to automatically derive citizenship through them.</p><p>The adopted child may, however, have obtained citizenship through the child’s U.S. citizen adoptive parent(s), if the adoptive parent(s) applied for a Certificate of Naturalization or a Certificate of Citizenship on the adopted child’s behalf (under former INA 322). The adopted child must have met the requirements under the applicable law (former INA 322), had their application approved, and taken the Oath of Allegiance before reaching the age of 18 (unless waived).</p><p><em>Adoptive Parent(s) Naturalized After Adoption</em></p><p>If the adoptive parents were not U.S. citizens at the time of the adoption, or one parent was a U.S. citizen and one was not, and the alien parent(s) later became naturalized U.S. citizens before the adopted child turned 18, the adopted child may have automatically derived citizenship. The adopted child must have met the requirements under the applicable law (former INA 320 or 321). If the adopted child automatically derived citizenship under former INA 320 or 321, they may file  Application for Certificate of Citizenship (<a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a>), to seek documentation of their citizenship, or they may apply for a U.S. passport with the Department of State to serve as evidence of their U.S. citizenship.</p><p>The following table provides an overview of how previous provisions for automatic derivation of citizenship apply to adopted children.</p><table class="dataTable"><caption>Previous Derivation of Citizenship Provisions Applicability to Adopted Children</caption><thead><tr><th scope="col">Period in which the Last Action Took Place<a class="ck-anchor" id="app-footnotelink-205"></a><a class="ck-anchor" href="#app-footnote-205" title><strong><sup>[5]</sup></strong></a></th><th scope="col">Citizenship Status of Adoptive Parent(s)</th><th scope="col">Derivation of Citizenship for Adopted Children<a class="ck-anchor" id="app-footnotelink-206"></a><a class="ck-anchor" href="#app-footnote-206" title><strong><sup>[6]</sup></strong></a></th></tr></thead><tbody><tr><td><strong>Before Dec. 24, 1952</strong></td><td>N/A</td><td>Adopted children cannot derive U.S. citizenship.</td></tr><tr><td><p><strong>On or After </strong></p><p><strong>Dec. 24, 1952</strong></p><p> </p><p><strong>and Before </strong></p><p><strong>Oct. 5, 1978</strong></p></td><td>N/A</td><td><p>Adopted children cannot derive U.S. citizenship, unless adopted by their biological father and adoption legitimates the child.</p><p>However, adoptive parent(s) could apply for naturalization on behalf of certain adopted children.<a class="ck-anchor" id="app-footnotelink-207"></a><a class="ck-anchor" href="#app-footnote-207" title><strong><sup>[7]</sup></strong></a></p></td></tr><tr><td><p><strong>On or After </strong></p><p><strong>Oct. 5, 1978</strong></p><p> </p><p><strong>and Before </strong></p><p><strong>Feb. 27, 2001</strong></p></td><td>Adoptive parent(s) were U.S. citizens at time of adoption</td><td><p>If the adoptive parent(s) were both U.S. citizens at the time of the child’s adoption, there was no path for the adoptee to derive citizenship through the adoptive parent(s).</p><p>However, adoptive parent(s) could apply for naturalization on behalf of certain adopted children.<a class="ck-anchor" id="app-footnotelink-208"></a><a class="ck-anchor" href="#app-footnote-208" title><strong><sup>[8]</sup></strong></a> To obtain citizenship based on an adoptive relationship, the child must have been adopted by a certain age depending on the period of last action.<a class="ck-anchor" id="app-footnotelink-209"></a><a class="ck-anchor" href="#app-footnote-209" title><strong><sup>[9]</sup></strong></a></p></td></tr><tr><td><p><strong>On or After </strong></p><p><strong>Oct. 5, 1978 </strong></p><p> </p><p><strong>and Before</strong></p><p><strong>Feb. 27, 2001</strong></p><p><strong>Note: </strong>To obtain citizenship based on an adoptive relationship, the child must have been adopted by a certain age depending on the period of last action.<a class="ck-anchor" id="app-footnotelink-210"></a><a class="ck-anchor" href="#app-footnote-210" title><strong><sup>[10]</sup></strong></a></p></td><td>Adoptive parent(s) naturalized after adoption</td><td><p>The child derived U.S. citizenship if the child was lawfully admitted as a permanent resident, was in the custody of the adoptive parents, and was residing in the United States at the time of naturalization of the adoptive parent(s), as described below:<a class="ck-anchor" id="app-footnotelink-211"></a><a class="ck-anchor" href="#app-footnote-211" title><strong><sup>[11]</sup></strong></a></p><ul><li>One adoptive parent naturalized before the child turned 18 years old and the other parent was already a U.S. citizen on the date the child was born and never lost that citizenship;</li><li>The surviving adoptive parent naturalized before the child turned 18 years old and the other died before the child turned 18;</li><li>The adoptive parent having legal custody of the child, where there was a divorce or legal separation of the parents, naturalized before the child turned 18 years old; or</li><li>Both adoptive parents naturalized before the child’s 18th birthday.</li></ul></td></tr></tbody></table><h2>Footnotes</h2><hr><p><a class="ck-anchor" id="app-footnote-201"></a><a class="ck-anchor" href="#app-footnotelink-201" title>[^ 1]</a> This is generally former INA 320 or former INA 321. The adopted child must have also met requirements applicable to adopted children under U.S. immigration laws that were in effect during the time period.</p><p><a class="ck-anchor" id="app-footnote-202"></a><a class="ck-anchor" href="#app-footnotelink-202" title>[^ 2]</a> For adoptees who need more information about determining their immigration status, see the <a href="/adoption/adult-adoptees-and-us-citizenship" data-entity-type="node" data-entity-uuid="53972721-f75c-4080-9955-28c629bf5e3e" data-entity-substitution="canonical">Adult Adoptees and U.S. Citizenship</a> webpage.</p><p><a class="ck-anchor" id="app-footnote-203"></a><a class="ck-anchor" href="#app-footnotelink-203" title>[^ 3]</a> For information on the different paths to citizenship, see Volume 12, Citizenship and Naturalization [<a href="/policy-manual/volume-12" data-entity-type="node" data-entity-uuid="0cc4504e-98eb-4e97-9c13-a2806e75e649" data-entity-substitution="canonical">12 USCIS-PM</a>].</p><p><a class="ck-anchor" id="app-footnote-204"></a><a class="ck-anchor" href="#app-footnotelink-204" title>[^ 4]</a> See the Act of October 5, 1978, <a href="https://uscode.house.gov/statutes/pl/95/417.pdf">Pub. L. 95-417   (PDF)</a> (October 5, 1978). See Section 18 of the Immigration and Nationality Act Amendments of 1981, <a href="https://www.govinfo.gov/content/pkg/STATUTE-95/pdf/STATUTE-95-Pg1611.pdf">Pub. L. 97-116   (PDF)</a>, 95 Stat. 1611, 1620 (December 29, 1981). See former INA 320. See former INA 321.</p><p><a class="ck-anchor" id="app-footnote-205"></a><a class="ck-anchor" href="#app-footnotelink-205" title>[^ 5]</a> For example, the child’s admission as a lawful permanent resident or the finalization of the child’s adoption as the final criteria for eligibility took place during the described time period.</p><p><a class="ck-anchor" id="app-footnote-206"></a><a class="ck-anchor" href="#app-footnotelink-206" title>[^ 6]</a> Some adopted children who did not derive citizenship through their adoptive parent(s) may have obtained citizenship if the law at the time allowed their adoptive parent(s) to apply for citizenship or naturalization on their behalf, and their parents did so. The adopted child must have met the requirements under the applicable law, had the application approved, and taken the Oath of Allegiance before reaching the age of 18 (unless waived). Adoptees whose parents did not apply for citizenship or naturalization on their behalf may apply for naturalization when eligible. See Part D, General Naturalization Requirements [<a href="/policy-manual/volume-12-part-d" data-entity-type="node" data-entity-uuid="c29a80f9-2f9a-4692-8cb5-4f96fbe81423" data-entity-substitution="canonical">12 USCIS-PM D</a>].</p><p><a class="ck-anchor" id="app-footnote-207"></a><a class="ck-anchor" href="#app-footnotelink-207" title>[^ 7]</a> See former INA 323.</p><p><a class="ck-anchor" id="app-footnote-208"></a><a class="ck-anchor" href="#app-footnotelink-208" title>[^ 8]</a> See former INA 322.</p><p><a class="ck-anchor" id="app-footnote-209"></a><a class="ck-anchor" href="#app-footnotelink-209" title>[^ 9]</a> From October 5, 1978, until December 28, 1981, the adoption must have taken place before the child turned 16 years of age. From December 29, 1981, until February 26, 2001, the adoption must have taken place before the child turned 18 years of age. Note that the child must have also met age-related requirements to immigrate based on adoption under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)</a>, which differ from age-related requirements for citizenship based on adoption. Under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)(E)</a>, a child must be under age 16 at time of adoption, unless a sibling exception applies. See Part E, Family-Based Adoption Petitions, Chapter 2, Eligibility <a href="/policy-manual/volume-5-part-e-chapter-2" data-entity-type="node" data-entity-uuid="98799685-b78b-454a-992b-13600f5c931a" data-entity-substitution="canonical">[5 USCIS-PM E.2</a>]. Under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)((F)</a>, a child must be under age 16 at the time the orphan petition is filed, unless an exception applies. See Part C, Child Eligibility Determinations (Orphan), Chapter 3, Identity and Age [<a href="/policy-manual/volume-5-part-c-chapter-3" data-entity-type="node" data-entity-uuid="199f7783-c1f2-45f6-8de3-6b6bc7994663" data-entity-substitution="canonical">5 USCIS-PM C.3</a>].</p><p><a class="ck-anchor" id="app-footnote-210"></a><a class="ck-anchor" href="#app-footnotelink-210" title>[^ 10]</a> From October 5, 1978, until December 28, 1981, the adoption must have taken place before the child turned 16 years of age. From December 29, 1981, until February 26, 2001, the adoption must have taken place before the child turned 18 years of age. Note that the child must have also met age-related requirements to immigrate based on adoption under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)</a>, which differ from age-related requirements for citizenship based on adoption. Under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)(E)</a>, a child must be under age 16 at time of adoption, unless a sibling exception applies. See Part E, Family-Based Adoption Petitions, Chapter 2, Eligibility <a href="/policy-manual/volume-5-part-e-chapter-2" data-entity-type="node" data-entity-uuid="98799685-b78b-454a-992b-13600f5c931a" data-entity-substitution="canonical">[5 USCIS-PM E.2</a>]. Under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)(F)</a>, a child must be under age 16 at the time the orphan petition is filed, unless an exception applies. See Part C, Child Eligibility Determinations (Orphan), Chapter 3, Identity and Age [<a href="/policy-manual/volume-5-part-c" data-entity-type="node" data-entity-uuid="f1876b87-d2d3-4e61-be8e-ead7c0e11241" data-entity-substitution="canonical">5 USCIS-PM C</a>].</p><p><a class="ck-anchor" id="app-footnote-211"></a><a class="ck-anchor" href="#app-footnotelink-211" title>[^ 11]</a> The child must have met the requirements under the applicable law (former INA 320 or 321).</p></div>
+  </div>
+ 
+</div>
+  
+  
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="updates" class="tabcontent tabcontent--updates hidden">
+    <h2>Updates</h2>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-3 pm-resources-block_3 js-view-dom-id-48a03d23e9cf718896c50f3e70eeec7aa0a16d0e41f212627dcda900882e4a0b hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term "Noncitizen"</div>
+    <div><br><time datetime="2025-02-26T12:00:00Z" class="datetime">February 26, 2025</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-683ab5bf6b91f3463e99449f995c96314094d28bed5bb2c6d36bc1e4050fd164 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Citizenship for Adopted Children</div>
+    <div><br><time datetime="2023-04-21T12:00:00Z" class="datetime">April 21, 2023</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to clarify how citizenship and naturalization provisions apply to adopted children.</p>
+</div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20230421-CitizenshipForAdoptedChildren.pdf" title="Select to read more about Citizenship for Adopted Children" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-14fc10b2e61828d6583f54bc8bf1203cb3e152f4c0fb7cdaddf1746e1c8b6857 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-5-part-f"><span class="citation">5 USCIS-PM F</span> - <span>Part F - Citizenship for Adopted Children</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-a-chapter-2"><span class="citation">12 USCIS-PM A.2</span> - <span>Chapter 2 - Becoming a U.S. Citizen</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-h-chapter-1"><span class="citation">12 USCIS-PM H.1</span> - <span>Chapter 1 - Purpose and Background</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-h-chapter-2"><span class="citation">12 USCIS-PM H.2</span> - <span>Chapter 2 - Definition of Child and Residence for Citizenship and Naturalization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-h-chapter-4"><span class="citation">12 USCIS-PM H.4</span> - <span>Chapter 4 - Automatic Acquisition of Citizenship after Birth (INA 320)</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-h-chapter-5"><span class="citation">12 USCIS-PM H.5</span> - <span>Chapter 5 - Child Residing Outside the United States (INA 322)</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Adoptions</div>
+    <div><br><time datetime="2021-11-19T12:00:00Z" class="datetime">November 19, 2021</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is publishing a volume in the USCIS Policy Manual regarding adoptions. This guidance incorporates basic requirements for the submission of adoption-based applications and petitions to USCIS.</p>
+</div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20211119-Adoptions.pdf" title="Select to read more about Adoptions" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-816d4d505a0c8f1de3419825e0207f2612f9f75a674796d872c0f5f091b7d2e8 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Moving the Adjudicator’s Field Manual Content into the USCIS Policy Manual</div>
+    <div><br><time datetime="2020-05-21T12:00:00Z" class="datetime">May 21, 2020</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see the <a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="349de2b5-990b-4b61-b780-2eb4c0ed58cf" href="/sites/default/files/document/policy-manual-afm/afm-pmcrosswalk.pdf">crosswalk</a> between the AFM and the Policy Manual.</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-c298caa3bad2ebd68dc4c18ac359621e3e4d5cd66afbc54cd9e0ec76e7cc4863 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</section>
+
+  <span id="hidden-resources" class="hidden"></span>
+  <span id="hidden-appendices" class="hidden"></span>
+  <span id="hidden-updates" class="hidden"></span>
+  <span id="hidden-versions" class="hidden">0</span>
+
+
+  <nav class="nav-sub-tree" aria-labelledby="nav-sub-tree-label">
+    <div class="visually-hidden" id="nav-sub-tree-label">Page sub tree links</div>
+        
+  </nav>
+
+          <div class="current-date"><span class="current-date__label">Current as of</span><span class="current-date__value"> October 20, 2025</span></div>
+  
+        <div class="prev-next">
+          <div class="previous-container">
+        <a href="/policy-manual/volume-5-part-f" id="previous-button" class="usa-button" rel="prev" title="Go to previous page">Previous</a>
+      </div>
+              <div class="next-container">
+        <a href="/policy-manual/volume-5-part-f-chapter-2" id="next-button" class="usa-button" rel="next" title="Go to next page">Next</a>
+      </div>
+        </div>
+  
+      
+  
+        </div>
+      
+                </div>
+  
+  
+    
+  </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/policy-manual/volume-5-part-f-chapter-1" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="95715" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="95715" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="95715" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-ddxdpv0mkbouv1h4rqizrj9kaz2pb-odo-bmkhgieok" type="hidden" name="form_build_id" value="form-ddxdpv0mkbouV1H4RQizrj9kaZ2pB-oDO-BMkhgieOk"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="95715" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_f7zHONM931Ca8gnbX5D2rr4I9JXY3squQ33IJRVWJ9I.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_z29Okdt7hgaFcU0AxeQoxu6Pn68RoUSKbTmlZ77r4_o.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+
+  </body>

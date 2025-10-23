@@ -1,0 +1,41 @@
+H1: Making a Request Online
+
+Welcome to the new USCIS Genealogy online request system. Please take a moment to read this important information before submitting your Record Request Online.
+
+Need help submitting your online order? Follow the step-by-stepInstructions for Making a Genealogy Request Online.If you prefer, you may alsoMake a Request by Mail.
+
+H2: How does the Genealogy Request System work?
+
+When you are ready to place yourOrder Online, you will enter your request information in a series of screen "forms" to upload your data into our Genealogy Online Request System. Once you have completed all the screens and verified the information is correct, you will choose the method of payment.
+
+- If paying online,you will be redirected to the Pay.Gov website to enter your card or bank account payment information. Once the transaction is complete, you will then receive return to a printable receipt on the Genealogy System showing your new USCIS Genealogy Case number.
+
+- If paying by mail,a printable receipt showing your new USCIS Genealogy Case number will be displayed. Then mail your form and method of payment. When paying by mail, you can pay with personal or cashier’s check, money order, or with a debit, credit or pre-paid card by submitting aForm G-1450, Authorization for Credit Card Transactions.
+
+When submitting an Index Search Request:
+
+- DO NOT close your internet browser after receiving your case number.
+
+- Instead, select the "Next" button at the bottom of the page to submit your order. The request is not submitted until the "Next" button at the bottom of the form is selected.
+
+- If you do not submit the security question information, you will not be able to use your Case ID to make a Records Request.
+
+H2: Quick Tips
+
+- If you know about the immigrant, but do not know the immigrant's file number(s), choose to make anIndex SearchRequest. You may also want to consider a preliminaryIndex Searchsince one person may have multiple records and/or file numbers.Be sure to include all possible names. If you have more than one name or name spelling for the immigrant, first enter the name you think is correct when filling out theIndex SearchRequest. Later add alternate spellings in the "Optional Information" section.If you have only an approximate birthdate (or multiple birthdates) for the immigrant, provide an estimated date of birth. The online form asks for an exact date of birth and then asks you if the date given is an estimate. If you can only provide an approximate year, enter January 1 as the birthdate (e.g., 01/01/XXXX) and check the "estimated" box. Later, in the "Other Biographical Information" section, you can provide alternate birth dates.If you enter an estimated date of birth, the system will alert you that proof of the immigrant's death may be necessary. If you know the date of birth is more than 100 years ago (for example, an estimated birth year of 1878), you will not have to provide any proof of death. If you estimate 1912 the system may accept your request without proof. However, if we determine the immigrant was born less than 100 years ago you will be contacted and asked for proof of death before records or information can be released. For more information about acceptable proofs of death, seeGenealogy FAQs.A separateIndex Searchrequest is required for each individual immigrant. Requests for related immigrants cannot be combined and you will only receive index search results for the subject of your request.
+
+- Be sure to include all possible names. If you have more than one name or name spelling for the immigrant, first enter the name you think is correct when filling out theIndex SearchRequest. Later add alternate spellings in the "Optional Information" section.
+
+- If you have only an approximate birthdate (or multiple birthdates) for the immigrant, provide an estimated date of birth. The online form asks for an exact date of birth and then asks you if the date given is an estimate. If you can only provide an approximate year, enter January 1 as the birthdate (e.g., 01/01/XXXX) and check the "estimated" box. Later, in the "Other Biographical Information" section, you can provide alternate birth dates.If you enter an estimated date of birth, the system will alert you that proof of the immigrant's death may be necessary. If you know the date of birth is more than 100 years ago (for example, an estimated birth year of 1878), you will not have to provide any proof of death. If you estimate 1912 the system may accept your request without proof. However, if we determine the immigrant was born less than 100 years ago you will be contacted and asked for proof of death before records or information can be released. For more information about acceptable proofs of death, seeGenealogy FAQs.
+
+- A separateIndex Searchrequest is required for each individual immigrant. Requests for related immigrants cannot be combined and you will only receive index search results for the subject of your request.
+
+- If you know about the immigrant and have the correct file number(s), choose to make aRecord Request. You may have learned the file number from a previousIndex SearchRequest, or from other research.
+
+- Be sure to include all possible names. If you have more than one name or name spelling for the immigrant, first enter the name you think is correct when filling out theIndex SearchRequest. Later add alternate spellings in the "Optional Information" section.
+
+- If you have only an approximate birthdate (or multiple birthdates) for the immigrant, provide an estimated date of birth. The online form asks for an exact date of birth and then asks you if the date given is an estimate. If you can only provide an approximate year, enter January 1 as the birthdate (e.g., 01/01/XXXX) and check the "estimated" box. Later, in the "Other Biographical Information" section, you can provide alternate birth dates.If you enter an estimated date of birth, the system will alert you that proof of the immigrant's death may be necessary. If you know the date of birth is more than 100 years ago (for example, an estimated birth year of 1878), you will not have to provide any proof of death. If you estimate 1912 the system may accept your request without proof. However, if we determine the immigrant was born less than 100 years ago you will be contacted and asked for proof of death before records or information can be released. For more information about acceptable proofs of death, seeGenealogy FAQs.
+
+- A separateIndex Searchrequest is required for each individual immigrant. Requests for related immigrants cannot be combined and you will only receive index search results for the subject of your request.
+
+* If you have any doubt that the file number is correct, request anIndex Searchbefore submitting yourRecord Request.

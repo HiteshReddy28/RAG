@@ -1,0 +1,272 @@
+H1: Chapter 2 - Application for Civil Surgeon Designation
+
+- Guidance
+
+- Resources (10)
+
+- Appendices (0)
+
+- Updates (6)
+
+H2: A. Background
+
+Historically, civil surgeon designation was an informal process handled by USCIS District Directors. By regulation, USCIS District Directors are authorized to designate civil surgeons in their respective jurisdictions.[1]Physicians submitted informal written requests for civil surgeon designation to the district or field office with jurisdiction, along with documentary evidence showing they meet the professional qualifications to be a civil surgeon.
+
+As of March 11, 2014, USCIS replaced the informal, decentralized civil surgeon application process with a formal, centralized process by (a) requiring centralized filing of the Application for Civil Surgeon Designation (Form I-910), at a Lockbox facility, and (b) delegating the District Directors’ authority to grant, deny, and revoke civil surgeon designation to the Director of the National Benefits Center (NBC).[2]These changes were made to improve the application intake process, enhance case management, promote consistency and uniformity in decision-making, and improve the overall efficiency and integrity of the program.
+
+H2: B. Application
+
+A physician generally must apply for civil surgeon designation with USCIS. However, physicians who qualify under a blanket designation are exempt from the filing and fee requirements.[3]
+
+USCIS will only accept[4]and consider complete applications for civil surgeon designation; applications must be submitted in accordance with the form instructions.[5]
+
+A complete application consists of the following:
+
+H3: 1. Application for Civil Surgeon Designation (Form I-910)
+
+A physician seeking designation as a civil surgeon must complete all required parts of the Application for Civil Surgeon Designation.[6]
+
+H3: 2. Filing Fee
+
+The physician must include the required filing fee[7]with the completed Application for Civil Surgeon Designation. Applications for civil surgeon designation that do not include the correct filing fee will be rejected.​
+
+H3: 3. Evidence
+
+The physician must include evidence that shows that he or she meets the eligibility requirements to be designated a civil surgeon. At a minimum, the civil surgeon applicant must submit all of the following evidence with the completed Application for Civil Surgeon Designation (Form I-910):[8]
+
+- Proof of U.S. citizenship, legal status, or authorization to work in the United States;
+
+- A copy of the physician’s current medical license in the state in which he or she seeks to perform immigration medical examinations;
+
+- A copy of the physician’s medical degree verifying he or she is an M.D. or D.O.; and
+
+- Evidence to verify the requisite professional experience, such as letters of employment verification.​
+
+H3: 4. Signature
+
+The physician must sign the application.[9]The signature must be submitted to USCIS on Application for Civil Surgeon Designation (Form I-910). Applications for civil surgeon designation that do not include a signature may be rejected or returned to the physician.
+
+H2: C. Adjudication of Civil Surgeon Applications
+
+H3: 1. Adjudication
+
+To determine whether to approve or deny the application for civil surgeon designation, the officer should follow these steps:
+
+TABLE:
+Adjudication of Civil Surgeon Applications
+Step 1: Determine whether the physician meets all of the eligibility requirements to be designated a civil surgeon:
+Is the physician authorized to work in the United States?[10]Is the physician an M.D. or a D.O?Is the physician licensed without restriction in the state in which he or she seeks to perform immigration medical examinations?Does the physician have at least four years of professional experience, not including residency or internships or other experience related to training?If there is insufficient information in the application and evidence submitted with the application to make this determination, the officer may issue a Request for Evidence (RFE) for additional information such as documentary evidence establishing any of the eligibility requirements.If the physician does not meet all of the eligibility requirements, the officer shoulddenythe application. Otherwise, go to Step 2.
+Step 2: Determine whether the application warrants a favorable exercise of discretion.[11]In general, a favorable exercise of discretion is warranted unless there are adverse factors that prevent it.
+An unfavorable exercise of discretion may, for instance, be applied to any applications submitted by physicians who had a prior civil surgeon designation revoked by USCIS, and where the concerns underlying that revocation have not been resolved.If there is insufficient evidence in the application to make this determination, the officer may request additional information through the issuance of a Request for Evidence (RFE).​ExamplesExample:The physician had a prior civil surgeon designation revoked due to the physician’s confirmed participation in an immigration fraud scheme. The officer should deny the civil surgeon application as a matter of discretion. The fee will not be refunded since USCIS performed an adjudication of the application.Example:The physician had a prior civil surgeon designation revoked due to suspension of her medical license. However, the officer determines that the underlying reason for the suspension has been resolved, is unlikely to recur, and the physician now has a current, unrestricted medical license. In this case, the officer may approve the civil surgeon application if the physician otherwise meets the eligibility requirements.
+
+- Is the physician authorized to work in the United States?[10]
+
+- Is the physician an M.D. or a D.O?
+
+- Is the physician licensed without restriction in the state in which he or she seeks to perform immigration medical examinations?
+
+- Does the physician have at least four years of professional experience, not including residency or internships or other experience related to training?
+
+If there is insufficient information in the application and evidence submitted with the application to make this determination, the officer may issue a Request for Evidence (RFE) for additional information such as documentary evidence establishing any of the eligibility requirements.
+
+If the physician does not meet all of the eligibility requirements, the officer shoulddenythe application. Otherwise, go to Step 2.
+
+An unfavorable exercise of discretion may, for instance, be applied to any applications submitted by physicians who had a prior civil surgeon designation revoked by USCIS, and where the concerns underlying that revocation have not been resolved.
+
+If there is insufficient evidence in the application to make this determination, the officer may request additional information through the issuance of a Request for Evidence (RFE).​
+
+Examples
+
+Example:The physician had a prior civil surgeon designation revoked due to the physician’s confirmed participation in an immigration fraud scheme. The officer should deny the civil surgeon application as a matter of discretion. The fee will not be refunded since USCIS performed an adjudication of the application.
+
+Example:The physician had a prior civil surgeon designation revoked due to suspension of her medical license. However, the officer determines that the underlying reason for the suspension has been resolved, is unlikely to recur, and the physician now has a current, unrestricted medical license. In this case, the officer may approve the civil surgeon application if the physician otherwise meets the eligibility requirements.
+
+H3: 2. Approval
+
+If the application for civil surgeon designation is approved, the officer should do the following:
+
+Notification
+
+Notify the physician in writing of the approval.
+
+Files
+
+Either create a new file for the physician who was granted civil surgeon designation; or, if a file for the physician already exists, update the file to reflect the grant of designation.
+
+The files should be maintained in such a way as to facilitate retrieval or review of information relating to the specific civil surgeon. The file should be retained according to the established records retention schedule. ​
+
+Updating Civil Surgeon List
+
+The NBC should coordinate with External Affairs Directorate (EXA) to ensure the civil surgeon list is updated in a timely manner to reflect all newly designated civil surgeons. At a minimum, the newly designated civil surgeon’s full name, name of medical practice, address, and telephone number should be added to the list. Particular care should be taken when entering the civil surgeon’s zip code and telephone number since these are the primary ways that applicants search for civil surgeons.
+
+H3: 3. Denial
+
+If the application for civil surgeon designation is denied, the officer should do the following:
+
+Notification
+
+Notify the physician in writing of the denial. There is no appeal from a decision denying designation as a civil surgeon. However, the physician may file a motion to reopen or reconsider.[12]In the decision denying designation as a civil surgeon, the officer must notify the physician of the possibility to file a timely motion to reopen or reconsider.
+
+A physician who is denied designation is not precluded from reapplying for civil surgeon designation. In the decision denying designation as a civil surgeon, the officer should also notify the physician that he or she may reapply if the physician believes that he or she has overcome the reason(s) for denial.[13]
+
+Files
+
+Create a new file for each physician who was denied designation; or, if a file for the physician already exists, the officer should update the file to reflect the denial of the designation.
+
+H3: 4. File Maintenance
+
+The files should be maintained in such a way as to facilitate retrieval or review of information relating to the specific civil surgeon. The file should be retained according to the established records retention schedule.
+
+H2: Footnotes
+
+[^ 1]See8 CFR 232.2. In some circumstances, District Directors had delegated the designation authority to Field Office Directors in their districts.
+
+[^ 2]USCIS field offices continued to accept applications for civil surgeon designation until March 11, 2014. Federal regulations provide the authority for this transfer of authority:Director or district directorprior to March 1, 2003, means the district director or regional service center director, unless otherwise specified. On or after March 1, 2003, pursuant to delegation from the Secretary of Homeland Security or any successive re-delegation, the terms mean, to the extent that authority has been delegated to such official: asylum office director; director, field operations; district director for interior enforcement; district director for services; field office director; service center director; or special agent in charge. The terms also mean such other official, including an official in an acting capacity, within U.S. Citizenship and Immigration Services, U.S. Customs and Border Protection, U.S. Immigration and Customs Enforcement, or other component of the Department of Homeland Security who is delegated the function or authority above for a particular geographic district, region, or area. See8 CFR 1.2.
+
+[^ 3]See Chapter 3, Blanket Civil Surgeon Designation [8 USCIS-PM C.3] for more information.
+
+[^ 4]USCIS also has the authority to select as many (or as few) civil surgeons necessary to serve the needs of the jurisdiction. See8 CFR 232.2(b). Therefore, USCIS may also reject complete applications if it determines the jurisdiction’s needs are met. In this case, USCIS would return the entire application package to the physician, including the fee associated with the application.
+
+[^ 5]Filing instructions can be found atuscis.gov/I-910.
+
+[^ 6]The current version of the form and instructions can be accessed online atuscis.gov/i-910.
+
+[^ 7]See8 CFR 106.1(a). The current filing fee can also be found atuscis.gov/i-910.
+
+[^ 8]If not all of the required initial evidence has been submitted or the officer determines that the totality of the evidence submitted does not meet the applicable standard of proof, the officer may request additional evidence.
+
+[^ 9]See8 CFR 103.2(a)(2).
+
+[^ 10]If an officer grants civil surgeon designation to a physician who is only authorized to work in the United States for a limited period of time, the designation should be limited to the duration of the physician’s work authorization.
+
+[^ 11]USCIS has the discretion to designate as many (or as few) civil surgeons as needed. See8 CFR 232.2(b).
+
+[^ 12]See8 CFR 103.5. To file a motion to reopen or reconsider, a physician should file a Notice of Appeal or Motion (Form I-290B), with fee. Forms and fee information can be found atuscis.gov.
+
+[^ 13]If the physician would like to reapply for civil surgeon designation because he or she has overcome the reason(s) for denial, the physician must file a new Application for Civil Surgeon Designation (Form I-910) with the required evidence and filing fee.
+
+H2: Resources
+
+42 CFR 34- Medical examination of aliens
+
+42 U.S.C. 252- Medical examination of aliens
+
+INA 212(a)(1)- Health-related grounds
+
+INA 232,8 CFR 232- Detention of aliens for physical and mental examination
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-290B, Notice of Appeal or Motion
+
+I-693, Report of Medical Examination and Vaccination Record
+
+I-910, Application for Civil Surgeon Designation
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update clarifies that an applicant for civil surgeon designation must, at a minimum, submit a copy of the medical degree to show he or she is a Medical Doctor or Doctor of Osteopathy.
+
+8 USCIS-PM C.2-Chapter 2 - Application for Civil Surgeon Designation
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to centralize the civil surgeon designation process at the National Benefits Center, effective March 11, 2014.
+
+8 USCIS-PM C-Part C - Civil Surgeon Designation and Revocation

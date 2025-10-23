@@ -1,0 +1,270 @@
+H1: Chapter 4 - School Transfer
+
+- Guidance
+
+- Resources (16)
+
+- Appendices (1)
+
+- Updates (7)
+
+H2: A. F-1 Students
+
+An F-1 student who is maintaining status must notify the Designated School Official (DSO) at the student’s current school of the request to transfer to another school certified by the U.S. Immigration and Customs Enforcement’s (ICE) Student and Exchange Visitor Program (SEVP).[1]The F-1 student may start a transfer during the 60-day grace period following completion of the student’s studies since the student is considered to be maintaining status during this grace period.
+
+An F-1 student who did not pursue a full course of study at the school the student was last authorized to attend is ineligible for school transfer and must apply for reinstatement,[2]or alternatively, may depart the country and return as an initial entry in a new F-1 nonimmigrant status.[3]
+
+The Student and Exchange Visitor Information System (SEVIS) transfer procedures allow an F-1 student to transfer between SEVP-certified schools at the same educational level or move between educational levels, such as progressing from high school to a bachelor’s program or a bachelor’s program to a master’s program.[4]
+
+H3: 1. Students Who Are Not Pursuing a Full Course of Study
+
+With the exception of those who are authorized by the DSO to take less than a full load for valid academic, medical, or hardship reasons, DHS considers any student who is not pursuing a full course of study at the school the student is authorized to attend to be out of status. Such a student may not transfer to a different school without first requesting reinstatement.
+
+While the request for reinstatement is pending, and if classes are in session, the student should be enrolled in school as the student will have to abide by the terms of the F-1 status as of the date of reinstatement, including being enrolled on a full time basis.[5]While there is no appeal of a denial of the application for reinstatement, a student may file a motion to reopen or reconsider according to the instructions on the USCIS denial notice. Otherwise, the student must depart the United States upon notification of the denial by USCIS.
+
+H3: 2. Five-Month Limit
+
+When transferring between schools or programs, a student may not remain in the United States unless the student is able to resume classes at the transfer school or program within 5 months of transferring out of the current school, or within 5 months of the program completion date as indicated on the Certificate of Eligibility for Nonimmigrant Student Status (Form I-20) issued by the current school, whichever date is earlier. For a student authorized to engage in post-completion Optional Practical Training (OPT), the student must be able to resume classes within 5 months of transferring out of the current school that recommended OPT or by the date the OPT authorization ends, whichever is earlier.
+
+An F-1 student’s authorization to engage in OPT employment is automatically terminated when the student transfers to another school or begins study at another educational level.[6]
+
+H2: B. M-1 Students
+
+H3: 1. Eligibility
+
+A nonimmigrant admitted as an M-1 student or who changes status to M-1 may not transfer to another school after 6 months from the date of admission as or change of status to an M-1 student. However, there is an exception if the student was unable to remain at the school which initially admitted the student due to circumstances beyond the student’s control.
+
+An M-1 student may be otherwise eligible to transfer to another school if the student:
+
+- Is a bona fide nonimmigrant;
+
+- Has been pursuing a full course of study at the school the student was last authorized to attend;
+
+- Intends to pursue a full course of study at the school to which the student intends to transfer; and
+
+- Is financially able to attend the school to which the student intends to transfer.
+
+H3: 2. Procedure
+
+An M-1 student must apply to USCIS on an Application to Extend/Change Nonimmigrant Status (Form I-539), for permission to transfer between schools. The student must first notify the student’s current school (the transfer-out school) of the intent to transfer and indicate the school to which the student intends to transfer (the transfer-in school).
+
+Upon notification by the student, the transfer-out school must update SEVIS to show the student is transferring out, indicate the transfer-in school, and input the release date for transfer. Once the transfer-out school updates SEVIS, the transfer-in school generates aForm I-20for transfer. However, the transfer-in school will not gain access to the student’s SEVIS record until the release date. Upon receipt of the Form I-20 from the transfer-in school, the student must submit aForm I-539.[7]
+
+The student may enroll in the transfer-in school at the next available term or session and is required to notify the DSO of the transfer-in school immediately upon beginning attendance. The transfer-in school must update the student’s registration record in SEVIS.[8]
+
+If USCIS approves the application, the program start date listed on theForm I-20is the approval transfer date, and the student is granted an extension of stay for the lesser of the period of time necessary to complete the new course of study plus 30 days, or for a total period of 1 year. If USCIS denies theForm I-539, the student is out of status.[9]A student who has not been pursuing a full course of study must apply for and be granted reinstatement to student status before being eligible to transfer to a new school.
+
+H2: Footnotes
+
+[^ 1]See8 CFR 214.2(f)(8)(i).
+
+[^ 2]See8 CFR 214.2(f)(16).
+
+[^ 3]See8 CFR 214.2(f)(8)(i).
+
+[^ 4]See8 CFR 214.2(f)(8).
+
+[^ 5]See the DHSReinstatement COE (Form I-20)webpage.
+
+[^ 6]See8 CFR 214.2(f)(10)(ii)(B).
+
+[^ 7]See8 CFR 214.2(m)(11).
+
+[^ 8]See8 CFR 214.3(g)(3).
+
+[^ 9]See8 CFR 214.2(m)(11)(ii).
+
+H2: Resources
+
+22 CFR 41.61Students - academic and nonacademic
+
+8 CFR 214.1(c)(5)- Decision on application for extension or change of status
+
+8 CFR 214.13- SEVIS fee for certain F, J, and M nonimmigrants
+
+8 CFR 214.2(f)- Students in colleges, universities, seminaries, conservatories, academic high schools, elementary schools, other academic institutions, and in language training programs
+
+8 CFR 214.2(m)- Students in established vocational or other recognized nonacademic institutions, other than in language training programs
+
+8 CFR 214.2(q)(5)(ii)- Petition for multiple participants
+
+8 CFR 214.3- Approval of schools for enrollment of F and M nonimmigrants
+
+8 CFR 274a.12(c)- Aliens who must apply for employment authorization
+
+INA 101(a)(15)(F)- Academic student definition
+
+INA 101(a)(15)(M)- Vocational student definition
+
+INA 214(c)- Admission of nonimmigrants
+
+INA 214(m)- Nonimmigrant elementary and secondary school students
+
+INA 248,8 CFR 248- Change of nonimmigrant classification
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-539, Application To Extend/Change Nonimmigrant Status Application To Extend/Change Nonimmigrant Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+TABLE:
+Requirement | F-1 | M-1
+Acceptance at a U.S. Immigration and Customs Enforcement (ICE) Student and Exchange Visitor Program (SEVP)-certified school | Required | Required
+Bona fide student pursuing full course of study | Required | Required
+Sufficient funds | Must have sufficient funds that are or will be available to successfully study without resorting to unauthorized employment in the United States for financial support | Must have immediately available funds or assurances of support necessary to pay all tuition and living costs for the entire period of intended stay
+Full-time study | Required, unless Designated School Official (DSO) or the Secretary of Homeland Security (in a Federal Register notice) authorizes a reduced course load | Required, unless DSO authorizes a reduced course load for medical reasons
+Public schools | No study permitted at a public school for kindergarten through grade eight. Study is only permitted at an U.S. Immigration and Customs Enforcement (ICE) Student and Exchange Visitor Program (SEVP)-certified public high school (grades nine through 12) and is limited to 12 months. The student must demonstrate that they have paid the unsubsidized cost of the education to the educational agency. | No study permitted at a public school for kindergarten through grade eight
+School transfers | Allowed, DSO must record in Student and Exchange Visitor Information System (SEVIS) | Allowed if it is less than 6 months into program of study and student cannot remain at present school due to circumstances beyond their control. USCIS must authorize. Student cannot change educational objective.
+Curricular Practical Training | Allowed, DSO must authorize | Not applicable
+Optional Practical Training (OPT) (pre-completion) | Allowed, if student has been enrolled for 1 full academic year. Must be directly related to the student’s major area of study. Cannot be full-time while school is in session. DSO must endorse, and USCIS must approve and issue employment authorization document (EAD) prior to the student starting OPT. | Not applicable
+OPT (post-completion) | Allowed, must be directly related to the student’s major area of study. Requires DSO endorsement, approval by USCIS, and issuance of EAD | Not applicable
+Science, Technology, Engineering, and Mathematics (STEM) OPT Extension | Allowed, must have a bachelor’s degree, master’s degree, or doctorate degree that is on theSTEM Designated Degree Program List            (PDF); receive DSO endorsement; and receive USCIS approval to qualify for a 24-month OPT extension | Not applicable
+Practical Training | Not applicable | Allowed after completion of the student’s course of study. Must be related to the student’s course of study, and employment comparable to the proposed employment is not available to the student in the country of the student’s foreign residence. Requires approval by USCIS and issuance of EAD.
+Maximum Stay | Duration of status | 1 year, plus extensions not to exceed 3 years
+Program Extension | Allowed, if the student has continually maintained F-1 status, the need is caused by a compelling academic or medical reason, and the student applies to the student’s DSO for the extension before the student’s Certificate of Eligibility for Nonimmigrant Student Status (Form I-20) expires | Allowed, the maximum cumulative time of extensions is 3 years from original start date. M-1s must apply for an extension beyond the end date of their Arrival/Departure Record (Form I-94) by filing an Application to Extend/Change Nonimmigrant Status (Form I-539) with USCIS
+Family members | Spouses and unmarried children under the age of 21 are eligible for the F-2 visa classification | Spouses and unmarried children under the age of 21 are eligible for the M-2 visa classification
+
+F-1
+
+M-1
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual regarding when students may be eligible for optional practical training (OPT) for Science, Technology, Engineering, and Mathematics (STEM) fields; as well as clarifying guidance concerning online study, school transfers, the grace period, and study abroad.
+
+2 USCIS-PM F.3-Chapter 3 - Courses and Enrollment, Full Course of Study, and Reduced Course Load
+
+2 USCIS-PM F.4-Chapter 4 - School Transfer
+
+2 USCIS-PM F.5-Chapter 5 - Practical Training
+
+2 USCIS-PM F.7-Chapter 7 - Absences From the United States
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address the nonimmigrant student (F and M) classifications, including USCIS’ role in the adjudication of applications for employment authorization and change or reinstatement of status to F or M classifications.
+
+2 USCIS-PM F.1-Chapter 1 - Purpose and Background
+
+2 USCIS-PM F.2-Chapter 2 - Eligibility Requirements
+
+2 USCIS-PM F.3-Chapter 3 - Courses and Enrollment, Full Course of Study, and Reduced Course Load
+
+2 USCIS-PM F.4-Chapter 4 - School Transfer
+
+2 USCIS-PM F.5-Chapter 5 - Practical Training
+
+2 USCIS-PM F.6-Chapter 6 - Employment
+
+2 USCIS-PM F.7-Chapter 7 - Absences From the United States
+
+2 USCIS-PM F.8-Chapter 8 - Change of Status, Extension of Stay, and Length of Stay
+
+2 USCIS-PM F.9-Chapter 9 - Dependents
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is revising its policy guidance in the USCIS Policy Manual to align with the Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements Final Rule, published in the Federal Register on August 3, 2020. This guidance becomes effective October 2, 2020. For information regarding implementation, seeAppendix: 2020 Fee Rule Litigation Summary.
+
+1 USCIS-PM A-Part A - Public Services
+
+1 USCIS-PM B-Part B - Submission of Benefit Requests
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+11 USCIS-PM A-Part A - Secure Identity Documents Policies and Procedures
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

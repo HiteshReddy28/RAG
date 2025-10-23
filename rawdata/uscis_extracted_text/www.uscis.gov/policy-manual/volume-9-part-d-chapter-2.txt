@@ -1,0 +1,266 @@
+H1: Chapter 2 - Waiver of Communicable Disease of Public Health Significance
+
+- Guidance
+
+- Resources (10)
+
+- Appendices (0)
+
+- Updates (6)
+
+H2: A. General
+
+The INA authorizes USCIS to exercise discretion in deciding whether to waive inadmissibility based on a communicable disease of public health significance.[1]USCIS may grant this waiver in accordance with such terms, conditions,[2]and controls, if any, that USCIS considers appropriate after consultation with the Secretary of HHS.[3]This includes the grant of a waiver based on requiring payment of a bond.
+
+Once the officer has verified that the applicant is inadmissible because of a communicable disease of public health significance and requires a waiver,[4]the officer must go through the following steps to adjudicate the waiver application:
+
+- Determine whether the applicant meets the eligibility requirements of the waiver;
+
+- Consult with CDC; and
+
+- Determine whether the waiver is warranted as a matter of discretion.
+
+H2: B. Special Note on HIV
+
+As of January 4, 2010, HIV infection is no longer defined as a communicable disease of public health significance according to HHS regulations.[5]Therefore, HIV infection does not make an applicant inadmissible if the immigration benefit is adjudicated on or after January 4, 2010, even if the applicant filed the immigration benefit application before January 4, 2010. Officers should administratively close any HIV waiver application that is filed before January 4, 2010 but adjudicated on or after January 4, 2010.
+
+H2: C. Waiver Eligibility and Adjudication
+
+H3: 1. Qualifying Relationship
+
+To be eligible for the waiver, the applicant must be one of the following:
+
+- The spouse, parent, child, unmarried son or daughter,[6]or minor unmarried lawfully adopted child[7]of:A U.S. citizen,A person lawfully admitted for permanent residence, orA person who has been issued an immigrant visa.
+
+- A U.S. citizen,
+
+- A person lawfully admitted for permanent residence, or
+
+- A person who has been issued an immigrant visa.
+
+- Eligible for classification as a self-petitioning spouse or child.[8]
+
+- The fiancé(e) of a U.S. citizen or the fiancé(e)’s child.
+
+- A U.S. citizen,
+
+- A person lawfully admitted for permanent residence, or
+
+- A person who has been issued an immigrant visa.
+
+The officer should verify that the existence of the appropriate relationship is well supported in the applicant’s file.
+
+H3: 2. Documentation for CDC’s Review
+
+As stated above, USCIS can only grant this waiver after it has consulted with CDC. However, CDC’s review of necessary documents does not constitute a waiver approval. CDC may recommend that USCIS should make the waiver subject to appropriate terms, conditions, or controls.
+
+To obtain CDC’s review of a waiver application, the officer should forward the following documents to CDC:
+
+- A cover letter that identifies the USCIS office requesting the review;
+
+- ​A copy of the waiver application (including the TB supplement,[9]if applicable) that contains all the required signatures, excluding the supporting documentation that is not medically relevant;[10]
+
+- ​A copy of the medical examination documentation;[11]
+
+- ​Copies of all other medical reports, laboratory results, and evaluations regardless of whether they are connected to the communicable disease of public health significance.
+
+H3: ​3. Sending Documents to CDC
+
+Officers should email the documents tocdcqap@cdc.gov.
+
+To request expedited review, officers should indicate in the subject line of the email to CDC that the request is “Urgent.”
+
+H3: 4. CDC Response
+
+Once CDC receives and reviews the documents, CDC will forward a response letter with its recommendation to the requesting USCIS office.
+
+CDC’s usual processing time for review and response to the requesting USCIS office is approximately 4 weeks. If CDC’s response appears delayed, the officer may contact CDC atcdcqap@cdc.govto obtain a status update.
+
+Upon receipt, the officer should review CDC’s response letter to determine next steps.
+
+If CDC’s response letter indicates that CDC was satisfied with the initial documentation and that it does not require additional information, then the officer may proceed to the next step of the waiver adjudication. If CDC was not satisfied with the documentation, it may request additional information or recommend additional conditions to be met before the waiver may be granted. In such a case, the officer should issue a Request for Evidence (RFE) for the applicant to provide the additional information or to demonstrate that he or she made the arrangements required by CDC.
+
+If CDC requests it, the officer will need to submit the information obtained through the RFE to CDC to determine whether the additional information is sufficient. CDC will provide a response letter to the requesting USCIS office advising if the additional information is sufficient.[12]
+
+Once CDC indicates no additional information is needed, the officer may proceed with the next step of the waiver adjudication.
+
+H3: 5. Discretion
+
+As is generally the case for waivers, a waiver for communicable diseases of public health significance requires an officer to consider whether the grant of the waiver is warranted as a matter of discretion. Hardship to a qualifying relative is not required for this waiver.[13]
+
+CDC’s response in support of granting the waiver should ordinarily be sufficient to warrant a favorable exercise of discretion for the grant of the waiver. However, if an applicant declares openly his or her unwillingness to commit to treatment, the waiver may be denied as a matter of discretion.[14]If CDC does not issue a favorable recommendation, the officer generally should not grant the waiver as a matter of discretion.
+
+By statute, it is USCIS’s decision whether to make the waiver subject to terms, conditions, or controls. A CDC recommendation concerning terms, conditions, or controls on the granting of the waiver ordinarily carries great persuasive weight.
+
+Once a final decision (approval or denial) is made on the waiver, the officer should inform CDC of the decision. The officer should provide a brief statement indicating the final action and date of the action and forward it to CDC by emailingcdcqap@cdc.gov.
+
+H2: D. Step-by-Step Checklist
+
+TABLE:
+Step-by-Step Checklist
+Step 1 | Check for qualifying relationship to determine whether the applicant is eligible for the waiver.
+Step 2 | Gather the necessary documentation for CDC review.
+Step 3 | Send documentation to CDC.
+Step 4 | Review CDC response.
+Step 5 | Analyze whether the waiver should be granted as a matter of discretion.
+Step 6 | Inform CDC of waiver decision.
+
+H2: Footnotes
+
+[^ 1]SeeINA 212(g)(1)andINA 212(a)(1)(A)(i).INA 212(g)(1)was also amended to include a specific provision for battered immigrants. See Section 1505(d) of the Victims of Trafficking and Violence Protection Act of 2000 (VTVPA),Pub. L. 106-386 (PDF), 114 Stat. 1464, 1526 (October 28, 2000). For more information on the inadmissibility determination based on communicable disease of public health significance, see Volume 8, Admissibility, Part B, Health-Related Grounds of Inadmissibility, Chapter 6, Communicable Diseases of Public Health Significance [8 USCIS-PM B.6].
+
+[^ 2]A condition of granting a waiver for an applicant with a communicable disease of public health significance, such as tuberculosis, is that the applicant must agree to see a doctor immediately upon admission and make arrangements to receive private or public medical care for that disease. This requirement is reflected, for example, in the Application for Waiver of Grounds of Inadmissibility (Form I-601), TB Supplement.
+
+[^ 3]SeeINA 212(g)(1)(B).
+
+[^ 4]Note that an applicant who has been determined to have a Class A condition involving a communicable disease of public health significance may successfully complete treatment. If, after treatment, the civil surgeon or panel physician certifies that the applicant now has a Class B condition, the applicant is no longer inadmissible and does not need a waiver.
+
+[^ 5]See42 CFR 34.2(b)as amended by 74 FR 56547 (November 2, 2009).
+
+[^ 6]USCIS interprets the references to “unmarried son or daughter” as embracing both those sons and daughters who qualify as “children” because they are not yet 21 years old and sons and daughters who are over 21, so long as they are not married.
+
+[^ 7]USCIS interprets “minor unmarried lawfully adopted child” as a clarifying, not as a restricting, provision. Therefore, an applicant is eligible to apply for this waiver if he or she qualifies as the “child” of a citizen or permanent resident (or a person who has received an immigrant visa) under any provision ofINA 101(b)(1). This includes, but is not limited to, both children adopted abroad to be admitted in class IR3 or IH3 and children whose adoption will be finalized in the United States to be admitted in class IR4 or IH4.
+
+[^ 8]UnderINA 204(a)(1)(A)(iii)orINA 204(a)(1)(A)(iv)orINA 204(a)(1)(B)(ii)orINA 204(a)(1)(B)(iii), including derivative children of the person. This includes self-petitioning spouses and children eligible for classification underINA 204(a)(1)(A)(v)orINA 204(a)(1)(B)(iv).
+
+[^ 9]TB is currently the only communicable disease of public health significance that requires a supplement.
+
+[^ 10]For instance, evidence of the family relationship.
+
+[^ 11]Report of Immigration Medical Examination and Vaccination Record (Form I-693); Medical Examination for Immigrant or Refugee Applicant (1991 TB Technical Instructions) (Form DS-2053) or the Medical Examination for Immigrant or Refugee Applicant (2007 TB Technical Instructions) (Form DS-2054), and related worksheets.
+
+[^ 12]For Class A TB waivers, CDC’s response letter will provide a specific recommendation whether CDC supports the granting of a waiver.
+
+[^ 13]SeeINA 212(g)(1).
+
+[^ 14]If CDC certifies that an applicant who obtained anINA 212(g)waiver has failed to comply with any terms, conditions, or controls on the waiver, the applicant is subject to removal perINA 237(a)(1)(C)(ii). The U.S. health care provider treating the particular condition should provide a summary of the applicant’s initial evaluation to CDC or notify CDC that the applicant has failed to report for care. Generally, no further follow-up is required by the officer.
+
+H2: Resources
+
+8 CFR 212.7- Waiver of certain grounds of inadmissibility
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-192, Application for Advance Permission to Enter as a Nonimmigrant
+
+I-601, Application for Waiver of Grounds of Inadmissibility
+
+I-601A, Application for Provisional Unlawful Presence Waiver
+
+I-602, Application by Refugee for Waiver of Inadmissibility Grounds
+
+I-690, Application for Waiver of Grounds of Inadmissibility Under Sections 245A or 210 of the Act
+
+I-693, Report of Medical Examination and Vaccination Record
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update removes references to sending documents to the Centers for Disease Control and Prevention (CDC) by mail or fax. CDC now prefers all requests for waiver consultations and any subsequent notifications from USCIS to be communicated by email.
+
+9 USCIS-PM D.2-Chapter 2 - Waiver of Communicable Disease of Public Health Significance
+
+9 USCIS-PM D.4-Chapter 4 - Waiver of Physical or Mental Disorder Accompanied by Harmful Behavior
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual on the health-related grounds of inadmissibility under INA 212(a)(1) and corresponding waivers under INA 212(g).
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+9 USCIS-PM D-Part D - Health-Related Grounds of Inadmissibility

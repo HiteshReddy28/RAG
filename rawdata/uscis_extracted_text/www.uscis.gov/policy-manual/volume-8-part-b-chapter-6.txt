@@ -1,0 +1,241 @@
+H1: Chapter 6 - Communicable Diseases of Public Health Significance
+
+- Guidance
+
+- Resources (10)
+
+- Appendices (0)
+
+- Updates (9)
+
+H2: A. Communicable Diseases
+
+Applicants who have communicable diseases of public health significance are inadmissible.[1]The Department of Health and Human Services (HHS) has designated the following conditions as communicable diseases of public health significance that apply to immigration medical examinations conducted in the United States:[2]
+
+- Gonorrhea;
+
+- Hansen’s Disease (Leprosy), infectious;
+
+- Syphilis, infectious stage; and
+
+- Tuberculosis (TB), Active—Only a Class A TB diagnosis renders an applicant inadmissible to the United States. Under current Centers for Disease Control and Prevention (CDC)guidelines, Class A TB means TB that is clinically active and communicable.
+
+What qualifies as a communicable disease of public health significance is determined by HHS, not by USCIS. Any regulatory updates HHS makes to its list of communicable diseases of public health significance are controlling over the list provided in this Part B.
+
+H3: 1. Additional Communicable Diseases for Applicants Abroad
+
+HHS regulations also list two additional general categories of communicable diseases of public health significance.[3]Currently, these provisions only apply to applicants outside the United States who have to be examined by panel physicians:[4]
+
+- Communicable diseases that may make a person subject to quarantine, as listed in a Presidential Executive Order, as provided under Section 361(b) of the Public Health Service Act.[5]
+
+- Communicable diseases that may pose a public health emergency of international concern if they meet one or more of the factors listed in42 CFR 34.3(d)and for which the Director of the CDC has determined that (A) a threat exists for importation into the United States, and (B) such disease may potentially affect the health of the American public. The determination will be made consistent with criteria established in Annex 2 of the revised International Health Regulations. HHS/CDC's determinations will be announced by notice in the Federal Register.
+
+H3: 2. Human Immunodeficiency Virus (HIV)
+
+As of January 4, 2010, human immunodeficiency virus (HIV) infection is no longer defined as a communicable disease of public health significance according to HHS regulations.[6]Therefore, HIV infection does not make the applicant inadmissible on health-related grounds for any immigration benefit adjudicated on or after January 4, 2010, even if the applicant filed the immigration benefit application before January 4, 2010.
+
+The officer should disregard a diagnosis of HIV infection when determining whether an applicant is inadmissible on health-related grounds. The officer should administratively close any HIV waiver application filed before January 4, 2010.
+
+H2: B. Parts of Form I-693 Addressing Communicable Diseases
+
+The civil surgeon must complete “Findings” boxes for all categories of communicable diseases of public health significance. The civil surgeon may add explanatory remarks; however, the officer should not issue a Request for Evidence (RFE) simply because there are no remarks.
+
+H3: 1. Tuberculosis
+
+An initial tuberculosis (TB) screening test for showing an immune response to Mycobacterium tuberculosis[7]antigens is required for all applicants 2 years of age or older.[8]According to theTuberculosis Technical Instructions for Civil Surgeons, applicants under 2 years of age are required to undergo an initial screening test only if the child has signs or symptoms suggestive of TB or has known human immunodeficiency virus (HIV) infection.
+
+The “testing age” is the applicant’s age on the date the civil surgeon completed the medical examination by signing the form, not the age at the time of the adjudication. An officer should not send a RFE for testing if the applicant was properly exempt from the testing requirement due to age at the time of the medical examination. The officer, however, may always require testing if evidence indicates the applicant may have been exposed to TB since the examination.
+
+Initial Screening Test Results
+
+The initial screening test results must be recorded. If the initial screening test was not administered, the exceptions should be clearly annotated in the remarks portion after the “not administered” box in the testing section. The officer should be aware that anyone who previously received the Bacille Calmette-Guérin vaccine[9]must still undergo an initial TB screening test. These applicants are not exempt from the initial screening test.
+
+The civil surgeon must also annotate the “Initial Screening Test Result and Chest X-Ray Determination” section. If the section indicates that the applicant is medically cleared relating to TB, then no further TB tests are required. In this case, the X-ray section should be left blank.
+
+Positive Screening Results
+
+If the initial screening test is positive, or if the applicant has signs or symptoms of TB or has known HIV infection, a chest X-ray must be performed. Applicants who have chest x-ray findings suggestive of TB, signs or symptoms of TB, or known HIV infection must be referred to the health department of jurisdiction for sputum testing. This referral, testing, and treatment can be a lengthy process, but the civil surgeon cannot sign off on the Report of Immigration Medical Examination and Vaccination Record (Form I-693) until any required steps relating to TB have been completed.
+
+Under the Technical Instructions, a pregnant applicant can defer the chest X-ray until after pregnancy but the civil surgeon may not submit the form until the chest X-ray has been performed, interpreted, and the appropriate follow-up, if required under the Technical Instructions, is completed. If the officer receives an incomplete medical examination for a pregnant applicant, the officer should return the original form to the applicant for corrective action according to established local procedures.
+
+Referral and Reporting to Health Departments
+
+If a referral is required, the civil surgeon must not sign Form I-693 until the referral evaluation section has been completed and received back from the appropriate health department. If the referral evaluation section is not documented, the officer should issue an RFE for corrective action. Determining whether a referral is required is detailed in theTB Technical Instructionsfor Civil Surgeons.
+
+H3: 2. Syphilis
+
+An applicant may be required to undergo serological testing for syphilis depending on the applicant’s age and other factors set by CDC. Civil surgeons must consult CDC’sTechnical Instructions for Civil Surgeonsfor current requirements, and to ensure they are using approved screening, testing, and treatment procedures. The testing age is determined by the applicant’s age on the date the civil surgeon completed the immigration medical examination and signedForm I-693, not the age at the time USCIS adjudicates the application.
+
+H3: 3. Gonorrhea
+
+An applicant may be required to undergo testing for gonorrhea depending on the applicant’s age and other factors set by CDC. Civil surgeons must consult CDC’sTechnical Instructions for Civil Surgeonsfor current requirements, and to ensure they are using approved screening, testing, and treatment procedures. The testing age is determined by the applicant’s age on the date the civil surgeon completed the immigration medical examination and signedForm I-693, not the age at the time USCIS adjudicates the application.
+
+H3: 4. Other Class A and Class B Conditions for Communicable Diseases of Public Health Significance
+
+According to theTechnical Instructions for Hansen's Disease (Leprosy) for Civil Surgeons, screening for Hansen’s disease includes obtaining medical history with inquiries as to past and present diagnoses of Hansen’s disease, history of skin lesions unresponsive to treatment, and family history of skin lesions or known Hansen’s disease. The physical exam must include a search for signs and lesions consistent with Hansen’s disease, and the civil surgeon must complete the “Findings” portion in Form I-693.
+
+H2: Footnotes
+
+[^ 1]SeeINA 212(a)(1)(A)(i).
+
+[^ 2]See42 CFR 34.2(b).
+
+[^ 3]See42 CFR 34.2(b)(2)and42 CFR 34.2(b)(3).
+
+[^ 4]An officer will not encounter such annotations on Report of Immigration Medical Examination and Vaccination Record (Form I-693), but may on the DS-2053/DS-2054.
+
+[^ 5]See Pub. L. 78-410, 58 Stat. 682, 703 (July 1, 1944), as amended, codified at42 U.S.C. Chapter 6A. The current revised list of quarantinable communicable diseases is available atcdc.govandarchives.gov/federal-register.
+
+[^ 6]See the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008,Pub. L. 110-293  (PDF)(July 30, 2008). See42 CFR 34.2(b)as amended by74 FR 56547  (PDF)(Nov. 2, 2009).
+
+[^ 7]Bacteria that cause latent TB infection and TB disease.
+
+[^ 8]For acceptable tests and more information regarding procedures relating to the referral process, see theTuberculosis Technical Instructions for Civil Surgeons.
+
+[^ 9]Often referred to as the “BCG” vaccine. BCG vaccine is a tuberculosis vaccination that is administered in many countries outside of the United States, especially those with a high TB rate. For more information, see CDC’s website atcdc.gov.
+
+H2: Resources
+
+42 CFR 34- Medical examination of aliens
+
+42 U.S.C. 252- Medical examination of aliens
+
+INA 212(a)(1)- Health-related grounds
+
+INA 221(d)- Physical examination
+
+INA 232,8 CFR 232- Detention of aliens for physical and mental examination
+
+Technical Instructions for Civil Surgeons
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-693, Report of Medical Examination and Vaccination Record
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating existing guidance based on revised Centers for Disease Control and Prevention Technical Instructions regarding gonorrhea and syphilis.
+
+8 USCIS-PM B.6-Chapter 6 - Communicable Diseases of Public Health Significance
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating existing guidance based on revised Centers for Disease Control and Prevention Technical Instructions regarding tuberculosis, gonorrhea, and syphilis and the change in nomenclature from leprosy to Hansen’s Disease. USCIS is also updating how USCIS submits a request to CDC for advisory opinion and removing the outdated vaccination chart.
+
+8 USCIS-PM B.1-Chapter 1 - Purpose and Background
+
+8 USCIS-PM B.6-Chapter 6 - Communicable Diseases of Public Health Significance
+
+8 USCIS-PM B.8-Chapter 8 - Drug Abuse or Drug Addiction
+
+8 USCIS-PM B.9-Chapter 9 - Vaccination Requirement
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in Volume 8, Part B of the USCIS Policy Manual regarding the period of time during which a Form I-693 submitted in support of a related immigration benefits application is considered valid.
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is updating guidance regarding health-related grounds of inadmissibility in accordance with the U.S. Department of Health and Human Services (HHS) rulemaking updating Title 42 of the Code of Federal Regulations, part 34 (42 CFR 34).
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual on the health-related grounds of inadmissibility under INA 212(a)(1) and corresponding waivers under INA 212(g).
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+9 USCIS-PM D-Part D - Health-Related Grounds of Inadmissibility

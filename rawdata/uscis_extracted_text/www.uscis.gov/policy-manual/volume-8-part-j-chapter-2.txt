@@ -1,0 +1,285 @@
+H1: Chapter 2 - Overview of Fraud and Willful Misrepresentation
+
+- Guidance
+
+- Resources (5)
+
+- Appendices (0)
+
+- Updates (5)
+
+H2: A. General
+
+An applicant may be found inadmissible if he or she obtains a benefit under the Immigration and Nationality Act (INA) either through:
+
+- Fraud; or​
+
+- Willful misrepresentation.
+
+Although fraud and willful misrepresentation are distinct actions for inadmissibility purposes, they share common elements. All of the elements necessary for a finding of inadmissibility based on willful misrepresentation are also needed for a finding of inadmissibility based on fraud. However, a fraud finding requires two additional elements.
+
+This is why an alien who is inadmissible for fraud is always also inadmissible for willful misrepresentation. However, the opposite is not necessarily true: an alien inadmissible for willful misrepresentation is not necessarily inadmissible for fraud.[1]
+
+Additionally, misrepresentation of a material fact may lead to other adverse immigration consequences. For example, if the beneficiary commits marriage fraud, it may have adverse immigration consequences for both the petitioner and the beneficiary.
+
+H2: B. Willful Misrepresentation
+
+Inadmissibility based on willful misrepresentation requires a finding that an alien willfully misrepresented a material fact.[2]For an alien to be inadmissible, the officer must find all of the following elements:
+
+- The alien procured, or sought to procure, a benefit under U.S. immigration laws;
+
+- The alien made a false representation;
+
+- The false representation was willfully made;
+
+- The false representation was material; and
+
+- The false representation was made to a U.S. government official, generally an immigration or consular officer.[3]
+
+If all of the above elements are present, then the alien is inadmissible for willful misrepresentation.
+
+If the alien succeeded in obtaining the benefit under the INA, he or she would be inadmissible for having procured the benefit by willful misrepresentation. If the attempt was not successful,[4]the alien would still be inadmissible for having “sought to procure” the immigration benefit by willful misrepresentation. In each case, evidence of intent to deceive is not required.[5]
+
+H2: C. Fraud
+
+Inadmissibility based on fraud requires a finding that an alien knowingly made a false representation of a material fact with the intent to deceive the other party.[6]
+
+For an alien to be inadmissible for having procured entry, a visa, other documentation, or any other benefit under the INA by fraud, the officer must find all of the following elements: ​
+
+- The alien procured, or sought to procure, a benefit under U.S. immigration laws;
+
+- The alien made a false representation;
+
+- The false representation was willfully made;
+
+- The false representation was material;
+
+- The false representation was made to a U.S. government official, generally an immigration or consular officer;[7]
+
+- The false representation was made with the intent to deceive a U.S. government official authorized to act upon the request (generally an immigration or consular officer);[8]and
+
+- The U.S. government official believed and acted upon the false representation by granting the benefit.[9]
+
+If all of the above elements are present, then the alien is inadmissible for having procured an immigration benefit by fraud. Since the elements required for fraud also include the elements for willful misrepresentation, the alien is also inadmissible for willful misrepresentation.
+
+If the alien was unsuccessful in obtaining the benefit,[10]he or she may still be inadmissible for having “sought to procure” the immigration benefit by fraud. In this case, the fraud element requiring the U.S. government official to believe and act upon the false representation is not applicable; however, intent to deceive is still a required element.
+
+In cases of attempted fraud, it may be difficult to establish the alien’s intent to deceive because the fraud has not actually succeeded. However, establishing intent to deceive may be unnecessary; if evidence supports a finding of willful misrepresentation, which does not require intent to deceive,[11]then the alien is already considered inadmissible without any further determination of fraud.
+
+H2: D. Comparing Fraud and Willful Misrepresentation
+
+In practice, the distinction between fraud and willful misrepresentation is not greatly significant because either fraud or a willful misrepresentation alone is sufficient to establish inadmissibility.
+
+The following table shows a comparison of the elements required for each ground:
+
+TABLE:
+ | Elements Required for a Finding of …
+Scenario | Willful Misrepresentation | Fraud
+The alien procured, or sought to procure, a benefit under U.S. immigration laws. | x | x
+The alien made a false representation. | x | x
+The false representation was willfully made. | x | x
+The false representation was material. | x | x
+The false representation was made to a U.S. government official. | x | x
+When making the false representation, the alien intended to deceive a U.S. government official authorized to act upon the request (generally an immigration or consular officer). | Not Applicable | x
+The U.S. government official believed and acted upon the false representation. | Not Applicable | x(Not applicable if fraud finding based on “seeking to procure” benefit)
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Not Applicable
+
+x
+
+Not Applicable
+
+x
+
+(Not applicable if fraud finding based on “seeking to procure” benefit)
+
+As the table illustrates, a fraud finding encompasses a willful misrepresentation finding. Therefore, if all the elements are present to make a finding of fraud, then the elements for making a finding of willful misrepresentation must also necessarily be present.
+
+Example:
+
+The officer finds that an alien obtained an immigration benefit by fraud. The alien is then inadmissible for both fraud[12]and willful misrepresentation.
+
+Example:
+
+The officer finds that there was no intent to deceive, but the other elements of fraud are present. The alien is not inadmissible based on fraud but is still inadmissible for willful misrepresentation.[13]
+
+H2: E. Overview of Admissibility Determination
+
+A finding of willful misrepresentation or fraud requires certain determinations. If the evidence indicates that the alien may be inadmissible due to fraud or willful misrepresentation, the officer should follow the steps in the table below to determine inadmissibility:
+
+TABLE:
+Step | For More Information
+Step 1 | Determine whether the alien procured, or sought to procure, a benefit under U.S. immigration laws. | Chapter 3, Adjudicating Inadmissibility, Section B, Procuring a Benefit under the INA [8 USCIS-PM J.3(B)]
+Step 2 | Determine whether the alien made a false representation. | Chapter 3, Adjudicating Inadmissibility, Section C, False Representation [8 USCIS-PM J.3(C)]
+Step 3 | Determine whether the false representation was willfully made. | Chapter 3, Adjudicating Inadmissibility, Section D, Willfulness [8 USCIS-PM J.3(D)]
+Step 4 | Determine whether the false representation was material. | Chapter 3, Adjudicating Inadmissibility, Section E, Materiality [8 USCIS-PM J.3(E)]
+Step 5 | Determine whether the false representation was made to a U.S. government official. | Chapter 3, Adjudicating Inadmissibility, Section F, Fraud or Willful Misrepresentation Must Be Made to a U.S. Government Official [8 USCIS-PM J.3(F)]
+Step 6 | Determine whether, when making the false representation, the alien intended to deceive a U.S. government official authorized to act upon request (generally an immigration or consular officer). | Chapter 3, Adjudicating Inadmissibility, Section G, Elements Only Applicable to Fraud [8 USCIS-PM J.3(G)]
+Step 7 | Determine whether the U.S. government official believed and acted upon the false representation. | Chapter 3, Adjudicating Inadmissibility, Section G, Elements Only Applicable to Fraud [8 USCIS-PM J.3(G)]
+Step 8 | Determine whether a waiver of inadmissibility is available. | Volume 9, Waivers and Other Forms of Relief[14]
+
+When making the inadmissibility determination, the officer should keep in mind the severe nature of the penalty for fraud or willful misrepresentation. The alien will be barred from admission for the rest of his or her life unless the alien qualifies for and is granted a waiver. The officer should examine all facts and circumstances when evaluating inadmissibility for fraud or willful misrepresentation.
+
+H2: Footnotes
+
+[^ 1]For more on the interplay between findings of fraud and willful misrepresentation, see Section D, Comparing Fraud and Willful Misrepresentation [8 USCIS-PM J.2(D)].
+
+[^ 2]SeeINA 212(a)(6)(C)(i). For a definition of materiality, see Chapter 3, Adjudicating Inadmissibility, Section E, Materiality [8 USCIS-PM J.3(E)].
+
+[^ 3]SeeMatter of Y-G-,20 I&N Dec. 794, 796 (BIA 1994).
+
+[^ 4]For example, the misrepresentation was detected and the benefit was denied.
+
+[^ 5]SeeMatter of Kai Hing Hui,15 I&N Dec. 288, 289-90 (BIA 1975).
+
+[^ 6]SeeMatter of Tijam,22 I&N Dec. 408, 424 (BIA 1998).
+
+[^ 7]SeeMatter of Y-G-,20 I&N Dec. 794, 796 (BIA 1994).
+
+[^ 8]SeeMatter of Tijam,22 I&N Dec. 408, 424 (BIA 1998).
+
+[^ 9]SeeMatter of G- G-, 7 I&N Dec. 161 (BIA 1956).
+
+[^ 10]For example, the fraud was detected and the benefit was denied.
+
+[^ 11]SeeMatter of Kai Hing Hui,15 I&N Dec. 288, 289-90 (BIA 1975).
+
+[^ 12]SeeMatter of B- and P-,2 I&N Dec. 638, 651 (A.G. 1947).
+
+[^ 13]SeeMatter of Kai Hing Hui,15 I&N Dec. 288, 290 (“We interpret the Attorney General's decision inMatter of S- and B-C-as one which modifiedMatter of G-G-so that the intent to deceive is no longer required before the willful misrepresentation charge comes into play.”).
+
+[^ 14]For guidance on the waiver of the fraud and willful misrepresentation inadmissibility ground underINA 212(i), see Volume 9, Waivers and Other Forms of Relief, Part F, Fraud and Willful Misrepresentation [9 USCIS-PM F].
+
+H2: Resources
+
+INA 212(a)(6)(C)(i)- Illegal entrants and immigration violators - misrepresentation
+
+INA 212(i)- Admission of immigrant excludable for fraud or willful misrepresentation of material fact
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance on the fraud and willful misrepresentation grounds of inadmissibility under INA 212(a)(6)(C)(i) and the corresponding waiver under INA 212(i).
+
+8 USCIS-PM J-Part J - Fraud and Willful Misrepresentation
+
+9 USCIS-PM F-Part F - Fraud and Willful Misrepresentation

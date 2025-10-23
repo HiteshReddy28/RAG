@@ -1,0 +1,258 @@
+H1: Chapter 4 - Application for Replacement of Naturalization/Citizenship Document
+
+- Guidance
+
+- Resources (12)
+
+- Appendices (1)
+
+- Updates (9)
+
+The table below serves as a quick reference guide for requests to replace certificates of naturalization or citizenship.[1]The sections and paragraphs that follow the table provide further guidance.[2]
+
+TABLE:
+Type of Certificate | Correct USCIS Clerical Error | Date of Birth Correction(Not USCIS Clerical Error) | Legal Name Change | Lost or Mutilated Certificate
+Certificate of Naturalization | Permitted (no fee required) | Not permitted per 8 CFR 338.5 | Permitted if name change through court order or operation of law, including common law name change evidenced by a state-issued identification document[3](fee required) | Permitted (fee required)
+Certificate of Citizenship | Permitted (no fee required) | Permitted if correction through U.S. state court order or similar state vital record (fee required) | Permitted if name change through court order or operation of law, including common law name change evidenced by a state-issued identification document[4](fee required) | Permitted (fee required)
+
+Date of Birth Correction
+
+(Not USCIS Clerical Error)
+
+H2: A. General Provisions
+
+In general, an applicant submits an Application for Replacement Naturalization/Citizenship Document (Form N-565) to request a replacement Certificate of Citizenship or Certificate of Naturalization. The application must be submitted with the appropriate fee and in accordance with the form instructions.[5]
+
+A person may request a replacement certificate to replace a lost or mutilated certificate. A person may also request a replacement certificate, without fee, in cases where:
+
+- USCIS issued a certificate that does not conform to the supportable facts shown on the applicant’s citizenship or naturalization application;[6]or
+
+- USCIS committed a clerical error in preparing the certificate.[7]
+
+H2: B. Requests to Change Name or Date of Birth
+
+H3: 1. Certificates of Naturalization
+
+Applicants may submitForm N-565to update their name on a replacement Certificate of Naturalization based on a name change ordered by a state court with jurisdiction, or by operation of law, including a common law name change evidenced by a state-issued identification document, or a name change resulting from marriage or divorce.[8]
+
+Unless there is a USCIS clerical error, regulations prohibit USCIS from making any changes to a date of birth on a Certificate of Naturalization if the applicant has completed the naturalization process and sworn to the facts of the application, including the date of birth (DOB).[9]
+
+H3: 2. Certificates of Citizenship
+
+Applicants may submitForm N-565to request issuance of a replacement Certificate of Citizenship to correct the name or DOB if they have obtained a state-issued document with a corrected name or DOB. Along with their application and the appropriate fee, applicants must submit the court order or other state vital record.[10]
+
+H2: C. Clerical Errors
+
+Applicants may submitForm N-565to request issuance of a replacement Certificate of Citizenship or a Certificate of Naturalization to correct the name or DOB if the correction is justified due to USCIS error.[11]No filing fee is required when an application is filed based on a USCIS error.
+
+H2: Footnotes
+
+[^ 1]Where the table indicates a fee is required, applicants may be eligible for a waiver. SeeAdditional Information on Filing a Fee Waiver.
+
+[^ 2]For general information, see Volume 11, Travel and Identity Documents, Part A, Secure Identity Documents Policies and Procedures, Chapter 3, Reissuance of Secure Identity Documents [11 USCIS-PM A.3].
+
+[^ 3]Certain states recognize common law name changes. See Volume 1, Policies and Procedures, Part E, Adjudications, Chapter 5, Verification of Identifying Information, Section A, Full Legal Name [1 USCIS-PM E.5(A)].
+
+[^ 4]Certain states recognize common law name changes. See Volume 1, Policies and Procedures, Part E, Adjudications, Chapter 5, Verification of Identifying Information, Section A, Full Legal Name [1 USCIS-PM E.5(A)].
+
+[^ 5]See Fee Schedule (Form G-1055).
+
+[^ 6]If an applicant’s sex is incorrectly listed on the certificate or declaration, USCIS updates the certificate or declaration to be consistent with the sex at birth as generally evidenced by the birth certificate issued at the time of birth or issued closest to the time of birth.
+
+[^ 7]See8 CFR 338.5(a).
+
+[^ 8]SeeINA 343(c). See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 5, Verification of Identifying Information, Section A, Full Legal Name [1 USCIS-PM E.5(A)].
+
+[^ 9]See8 CFR 338.5(e). The regulation at8 CFR 338.5(e)specifically provides that USCIS will not deem a request to change a DOB justified if the naturalization certificate contains the DOB provided by the applicant at the time of naturalization.
+
+[^ 10]See Chapter 2, Certificate of Citizenship, Section B, Contents of Certificate of Citizenship, Subsection 3, Changes to Names or Dates of Birth per Court Order [12 USCIS-PM K.2(B)(3)].
+
+[^ 11]See8 CFR 338.5(a),8 CFR 338.5(c), and8 CFR 338.5(e). See the Immigration Act of 1990,Pub. L. 101-649  (PDF)(November 29, 1990), which transferred the authority over naturalization from the courts to the executive branch. For naturalization certificates issued by a court prior to 1991, the regulations provide that USCIS may “authorize” the court to make a change on the certificate if it is the result of clerical error. However, USCIS plays a minimal role in these cases. See8 CFR 338.5(b)and8 CFR 338.5(e).
+
+H2: Resources
+
+INA 310(b)(4)- Naturalization authority and issuance of certificates
+
+INA 310,8 CFR 310- Naturalization authority
+
+INA 332,8 CFR 332- Naturalization administration, executive functions
+
+INA 338,8 CFR 338- Contents and issuance of certificate of naturalization
+
+INA 342,8 CFR 342- Administrative cancellation of certificates, documents, or records
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+N-565, Application for Replacement Naturalization/Citizenship Document
+
+Citizenship Resource Center: Check for Test Updates
+
+Citizenship Resource Center: Study for the Test
+
+Citizenship Resource Center: The Naturalization Interview and Test
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Before October 29, 2019, USCIS considered children of members of the U.S. armed forces or U.S. government employees, who were stationed outside of the United States, to meet the requirement of “is residing in” the United States for the purpose of acquiring citizenship underINA 320.[1]This interpretation was consistent with the definition of “residence” for purposes of naturalization underINA 316.[2]Based on this treatment of U.S. government employees and their children in the context of naturalization under INA 316, USCIS determined that “residing in the United States” for purposes of acquisition of citizenship under INA 320 should likewise be interpreted to include children of U.S. military and government employees stationed outside of the United States who were residing with their parents.[3]
+
+This interpretation, however, was inconsistent with other provisions of the Immigration and Nationality Act (INA), including the definition of “residence” atINA 101(a)(33)and language inINA 322(a)andINA 322(d), which suggested that the citizenship of military children residing outside of the United States should be considered under that provision rather than under INA 320. Effective October 29, 2019, USCIS amended its policy guidance to address these concerns, and determined that children of members of the U.S. armed forces or U.S. government employees stationed outside of the United States would not be eligible for citizenship acquisition under INA 320.[4]
+
+On March 26, 2020, the Citizenship for Children of Military Members and Civil Servants Act was enacted,[5]amending INA 320, so that a child residing with his or her U.S. citizen parent, who is stationed outside of the United States as a member of the U.S. armed forces or a U.S. government employee, or is residing in marital union with a member of the U.S. armed forces or a U.S. government employee who is stationed outside of the United States, acquires citizenship under INA 320 if all requirements of INA 320(c) and INA 320(a)(1)-(2) are met. In line with the statute, USCIS rescinds its previous guidance, clarifying that these children are eligible to acquire citizenship under INA 320 if all other requirements under INA 320 are met.
+
+The amendment to INA 320 applies to children who were under the age of 18 on March 26, 2020.
+
+H3: Footnotes
+
+[^ 1]Even though the child of a member of the U.S. armed forces or U.S. government employee stationed outside of the United States may be eligible to apply for a Certificate of Citizenship underINA 322since he or she resides outside of the United States, USCIS interpreted the child to meet residency requirements underINA 320as well, which formerly required the child to be residing in the United States with his or her parent to acquire citizenship.
+
+[^ 2]For example, U.S. government employees, including members of the U.S. armed forces, are eligible to apply for an exception to the continuous residence requirement for naturalization under INA 316 as long as their residency outside of the United States was on behalf of the U.S. government. SeeINA 316(b). SeeINA 316(a). See Part D, General Naturalization Requirements, Chapter 3, Continuous Residence [12 USCIS-PM D.3].
+
+[^ 3]See Policy Manual Technical Update,Child Citizenship Act and Children of U.S. Government Employees Residing Abroad(July 20, 2015); and Acquisition of Citizenship by Children of U.S. Military and Government Employees Stationed Abroad under Section 320 of the Immigration and Nationality Act (INA), No. 103, issued May 6, 2004.
+
+[^ 4]See USCIS Policy Alert, Defining “Residence” in Statutory Provisions Related to Citizenship[PA-2019-05]. This Policy Alert has been superseded by Policy Manual updates to reflect changes made underPub. L. 116-133                                             (PDF).
+
+[^ 5]SeePub. L. 116-133                                             (PDF)(March 26, 2020).
+
+H2: Updates
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to clarify that USCIS recognizes the two biological sexes, male or female, for purposes of reviewing benefit requests and USCIS-issued documents.
+
+1 USCIS-PM E.5-Chapter 5 - Verification of Identifying Information
+
+11 USCIS-PM A.2-Chapter 2 - USCIS-Issued Secure Identity Documents
+
+12 USCIS-PM G.2-Chapter 2 - Marriage and Marital Union for Naturalization
+
+12 USCIS-PM H.2-Chapter 2 - Definition of Child and Residence for Citizenship and Naturalization
+
+12 USCIS-PM K.2-Chapter 2 - Certificate of Citizenship
+
+12 USCIS-PM K.3-Chapter 3 - Certificate of Naturalization
+
+12 USCIS-PM K.4-Chapter 4 - Application for Replacement of Naturalization/Citizenship Document
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to address how officers determine a benefit requestor’s legal name.
+
+1 USCIS-PM E.5-Chapter 5 - Verification of Identifying Information
+
+11 USCIS-PM A.2-Chapter 2 - USCIS-Issued Secure Identity Documents
+
+12 USCIS-PM K.3-Chapter 3 - Certificate of Naturalization
+
+12 USCIS-PM K.4-Chapter 4 - Application for Replacement of Naturalization/Citizenship Document
+
+U.S. Citizenship and Immigration Services (USCIS) is revising policy guidance in the USCIS Policy Manual to clarify that benefit requestors may select their gender on USCIS forms (or change a prior gender selection) without the need to provide supporting documentation. Documents issued by USCIS as a result of the benefit adjudication will reflect the gender selected by the benefit requestor.
+
+1 USCIS-PM E.5-Chapter 5 - Verification of Identifying Information
+
+11 USCIS-PM A.2-Chapter 2 - USCIS-Issued Secure Identity Documents
+
+12 USCIS-PM K.2-Chapter 2 - Certificate of Citizenship
+
+12 USCIS-PM K.3-Chapter 3 - Certificate of Naturalization
+
+12 USCIS-PM K.4-Chapter 4 - Application for Replacement of Naturalization/Citizenship Document
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance relating to changes of dates of birth and names per court orders.
+
+12 USCIS-PM K.2-Chapter 2 - Certificate of Citizenship
+
+12 USCIS-PM K.4-Chapter 4 - Application for Replacement of Naturalization/Citizenship Document
+
+USCIS is issuing updated and comprehensive citizenship and naturalization policy guidance in the new USCIS Policy Manual.
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

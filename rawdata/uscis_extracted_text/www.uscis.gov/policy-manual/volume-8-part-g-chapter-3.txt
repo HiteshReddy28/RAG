@@ -1,0 +1,581 @@
+H1: Chapter 3 - Applicability
+
+- Guidance
+
+- Resources (68)
+
+- Appendices (5)
+
+- Updates (13)
+
+In general, the public charge ground of inadmissibility at Immigration and Nationality Act (INA)212(a)(4)applies to an applicant who is applying for a visa, admission, or adjustment of status.[1]An alien applying for a visa, admission, or adjustment of status must establish that they are not inadmissible under any ground of inadmissibility including the public charge ground.[2]If an alien is exempt from the public charge ground of inadmissibility, this ground of inadmissibility does not apply to them.[3]
+
+H2: A. Applicants for Admission
+
+The public charge ground of inadmissibility[4]generally applies to applicants for admission[5]as an immigrant[6]or a nonimmigrant unless they are specifically exempted by statute or regulations.[7]U.S. Customs and Border Protection (CBP) inspects applicants for admission to the United States. When an applicant for admission demonstrates that they are admissible, the applicant may be permitted to enter the United States as an immigrant or nonimmigrant.[8]
+
+H3: 1. Nonimmigrants
+
+UnderINA 212(a)(4), any alien who is applying for a visa or for admission to the United States as a nonimmigrant is inadmissible if they are likely at any time to become a public charge. An alien applies directly to a U.S. consulate or embassy abroad for a nonimmigrant visa to travel to the United States temporarily for a limited purpose, such as to visit for business or tourism.[9]Department of State (DOS) consular officers assess whether the alien is inadmissible and therefore ineligible for a visa, including under the public charge ground of inadmissibility, as applicable.[10]Eligible aliens may also apply for admission as a nonimmigrant without a visa under, for example, the Visa Waiver Program (VWP).[11]
+
+Once DOS issues the nonimmigrant visa, or the prospective traveler has obtained any required pre-travel authorization from CBP, the alien generally may travel to the United States using that visa or travel authorization, if applicable, and apply for admission at a port of entry. CBP then determines whether the applicant for admission is inadmissible under any ground, including public charge.
+
+H3: 2. Immigrants
+
+An alien who is abroad and is the beneficiary of an approved immigrant visa petition may apply to DOS for an immigrant visa to allow them to travel to the United States and seek admission to the United States as an immigrant.[12]As part of the immigrant visa process, DOS determines whether the applicant is eligible for the visa, which includes a determination of whether the alien has demonstrated that they are not inadmissible under any of the applicable grounds inINA 212.
+
+Once DOS issues the immigrant visa, the alien may travel to the United States and seek admission as an immigrant at a port of entry. CBP determines whether the applicant for admission as an immigrant is inadmissible under any ground, including public charge.[13]
+
+H3: 3. Certain Lawful Permanent Residents Returning to the United States
+
+Lawful permanent residents (LPRs) generally are not considered to be applicants for admission, and therefore are not subject to inadmissibility determinations upon their return from a trip abroad. However, in certain limited circumstances, an LPR is considered an applicant for admission and, therefore, subject to an inadmissibility determination upon the LPR’s return to the United States.[14]This inadmissibility determination includes whether the alien is inadmissible under the public charge ground of inadmissibility.
+
+H2: B. Applicants for Adjustment of Status
+
+The public charge ground of inadmissibility will generally apply to all applicants for adjustment of status unless they are specifically exempt from the public charge ground of inadmissibility.
+
+The tables below indicate which applicants for adjustment of status are subject to the public charge ground of inadmissibility:[15]
+
+TABLE:
+Family-Based Adjustment of Status Applicants Subject to the Public Charge Ground of Inadmissibility
+Spouses, children, and parents of U.S. citizens[16]
+Unmarried sons and daughters of U.S. citizens and their children[17]
+Spouses, children, and unmarried sons and daughters of LPRs[18]
+Married sons and daughters of U.S. citizens and their spouses and children[19]
+Brothers and sisters of U.S. citizens[20]
+Fiancé(e)s of U.S. citizens[21]
+Amerasians based on preference category, born on or after December 31, 1950, and before October 22, 1982[22]
+Spouses, widows, or widowers of U.S. citizens[23]
+
+TABLE:
+Employment-Based Adjustment of Status Applicants Subject to the Public Charge Ground of Inadmissibility
+Priority workers[24]
+Professionals with advanced degrees or aliens of exceptional ability[25]
+Skilled workers, professionals, and other workers[26]
+Investors[27]
+
+TABLE:
+Special Immigrant Adjustment of Status Applicants Subject to the Public Charge Ground of Inadmissibility
+Religious workers[28]
+Certain employees or former employees of the U.S. government abroad[29]
+Panama Canal Zone employees[30]
+Foreign medical school graduates[31]
+Retired employees of international organizations[32]
+U.S. armed forces personnel[33]
+International broadcasters[34]
+
+TABLE:
+Other Adjustment of Status Applicants Subject to the Public Charge Ground of Inadmissibility
+Diplomats or high-ranking officials unable to return home (Section 13 of the Act of September 11, 1957)
+Persons born in the United States under diplomatic status[35]
+Diversity visa immigrants[36]
+Certain entrants before Jan. 1, 1982[37]
+S (Alien witness or informant)[38]
+
+The public charge ground of inadmissibility does not apply, based on statutory or regulatory authority, to the following applicants for visas, admission, and adjustment of status:[39]
+
+- Asylees[40]and refugees;[41]
+
+- Amerasian immigrants at admission;[42]
+
+- Afghan and Iraqi interpreters or Afghan and Iraqi nationals employed by or on behalf of the U.S. government;[43]
+
+- Cuban and Haitian entrants at adjustment of status;[44]
+
+- Applicants seeking adjustment under the Cuban Adjustment Act;[45]
+
+- Nicaraguans and other Central Americans who are adjusting status to LPR;[46]
+
+- Haitians who are adjusting status to LPR;[47]
+
+- Lautenberg parolees;[48]
+
+- Special immigrant juveniles;[49]
+
+- Applicants for registry;[50]
+
+- Applicants seeking temporary protected status (TPS);[51]
+
+- Certain nonimmigrant ambassadors, ministers, diplomats, and other foreign government officials, and their families;[52]
+
+- Victims of human trafficking (T nonimmigrants);[53]
+
+- Victims of qualifying criminal activity (U nonimmigrants);[54]
+
+- Self-petitioners under the Violence against Women Act (VAWA);[55]
+
+- Certain battered aliens who are “qualified aliens” under PRWORA;[56]
+
+- Applicants adjusting status who qualify for a benefit as surviving spouses, children, or parents of military members;[57]
+
+- American Indians born in Canada who are not U.S. citizens;[58]
+
+- Certain members of the Texas Band of Kickapoo Indians of the Kickapoo Tribe of Oklahoma;[59]
+
+- Nationals of Vietnam, Cambodia, and Laos applying under the Foreign Operations, Export Financing, and Related Programs Appropriations Act of 2001;[60]
+
+- Polish and Hungarian Parolees;[61]
+
+- Certain Syrian nationals;[62]
+
+- Applicants adjusting under the Liberian Refugee Immigration Fairness (LRIF) law;[63]and
+
+- Any other categories of aliens exempt from the public charge ground of inadmissibility under any other law.[64]
+
+H2: D. Categories of Aliens Exempt from the Public Charge Ground of Inadmissibility Who Must Still Submit Form I-864
+
+UnderINA 212(a)(4)(D), certain aliens applying to adjust status in an employment-based category are required to submit an Affidavit of Support Under Section 213A of the INA (Form I-864). This includes aliens whose employment-based petition was filed by a relative of the alien[65]or by an entity in which the alien’s relative has a significant ownership interest.[66]
+
+Congress did not include an exemption from this requirement for aliens applying to adjust status in the employment-based category, even for certain categories of aliens who are otherwise exempt from the public charge ground of inadmissibility.[67]
+
+Therefore, if an alien in the following categories applies for adjustment of status based on an employment-based petition that requires a Form I-864, these applicants must submit a Form I-864 executed by their petitioning relative (or the relative with significant ownership interest in the petitioning entity):[68]
+
+- Aliens who have a pending application that sets a prima facie case for eligibility for T nonimmigrant status;
+
+- Aliens who have been granted T nonimmigrant status and are in valid T nonimmigrant status at the time the adjustment of status application is properly filed with USCIS and at the time the adjustment of status is adjudicated;
+
+- Petitioners for U nonimmigrant status;
+
+- Aliens who have been granted U nonimmigrant status and are in valid U nonimmigrant status at the time the adjustment of status application is properly filed with USCIS and at the time the adjustment of status is adjudicated;
+
+- Self-petitioners under the Violence Against Women Act (VAWA); and
+
+- Certain aliens who have been battered or subjected to extreme cruelty by a family member in the United States.[69]
+
+H2: Footnotes
+
+[^ 1]SeeINA 212(a)(4)(A).
+
+[^ 2]SeeINA 291andINA 212(a)(4).
+
+[^ 3]See8 CFR 212.23. See Section C, Exemptions [8 USCIS-PM G.3(C)].
+
+[^ 4]SeeINA 212(a)(4).
+
+[^ 5]SeeINA 101(a)(4)andINA 101(a)(13)(A).
+
+[^ 6]An alien, who is a lawful permanent resident (LPR), who travels abroad and seeks to enter the United States again is generally not seeking admission under the Immigration and Nationality Act (INA). SeeINA 101(a)(13)(C).
+
+[^ 7]See8 CFR 212.23.For more information, see Section C, Exemptions [8 USCIS-PM G.3(C)].
+
+[^ 8]SeeINA 235. See8 CFR 235. CBP follows CBP guidance on the determination, in accordance with DHS regulations at8 CFR 212.20and8 CFR 212.23.
+
+[^ 9]Certain nonimmigrant classifications are subject to petition requirements, and in such cases USCIS generally must approve a petition before the nonimmigrant applies for a visa. SeeINA 214. In addition, certain aliens are not subject to a visa requirement in order to seek admission as a nonimmigrant. SeeINA 217. See8 CFR 212.1.
+
+[^ 10]SeeINA 221andINA 222. See8 CFR 204.
+
+[^ 11]Examples of other ways in which eligible aliens may apply for admission as a nonimmigrant without a visa include but are not limited to the Guam-CNMI VWP (see8 CFR 212.1(q)) as well as certain nationals of Canada, Bermuda, the Bahamas, the British Virgin Islands, and Mexico in certain situations (see8 CFR 212.1(a)-(c)).
+
+[^ 12]SeeINA 221andINA 222. See8 CFR 204.
+
+[^ 13]The public charge ground of inadmissibility does not apply to nonimmigrants seeking extension of stay or change of status in the United States.
+
+[^ 14]SeeINA 101(a)(13)(C). See Volume 7, Adjustment of Status, Part B, 245(a) Adjustment, Chapter 2, Eligibility Requirements, Section A, “Inspected and Admitted” or “Inspected and Paroled,” Subsection 2, Admission [7 USCIS-PM B.2(A)(2)]. An LPR who travels abroad does not undergo another public charge inadmissibility determination upon return to the United States unless CBP determines that the returning LPR is an applicant for admission based on one of the criteria set forth inINA 101(a)(13)(C)(for example, CBP determines that the alien has been absent from the United States for more than 180 days).
+
+[^ 15]The tables provided include footnotes indicating the immigrant classes of admission as well as the associated codes that appear on applicants’ USCIS-issued documents and in USCIS systems. For additional information about the applicability of the public charge ground of inadmissibility, and in particular whether you may be required to submit the Affidavit of Support under Section 213A of the INA based on the immigration classification under which you are applying for adjustment of status, see the Appendices  [8 USCIS-PM G, Appendices Tab] and Chapter 6, Affidavit of Support Under Section 213A of the INA [8 USCIS G.6].
+
+[^ 16]Immediate relatives, including the following categories: IR-6 Spouses; IR-7 Children; CR-7 Children, conditional; IH-8 Children adopted abroad under the Hague Adoption Convention; IH-9 Children coming to the United States to be adopted under the Hague Adoption Convention; IR-8 Orphans adopted abroad; IR-9 Orphans coming to the United States to be adopted; IR-0 Parents of adult U.S. citizens. Children adopted abroad generally do not apply for adjustment of status.
+
+[^ 17]Family-sponsored 1st preference applicants, including the following categories: A-16 Unmarried Amerasian sons/daughters of U.S. citizens; F-16 Unmarried sons/daughters of U.S. citizens; A-17 Children of A-11 or A-16; F-17 Children of F-11 or F-16; B-17 Children of B-11 or B-16.
+
+[^ 18]Family-sponsored 2nd preference applicants, including the following categories: F-26 Spouses of alien residents, subject to country limits; C-26 Spouses of alien residents, subject to country limits, conditional; FX-6 Spouses of alien residents, exempt from country limits; CX-6 Spouses of alien residents, exempt from country limits, conditional; F-27 Children of alien residents, subject to country limits; C-28 Children of C-26 or C-27, subject to country limits, conditional; B-28 Children of B-26 or B-27, subject to country limits; F-28 Children of F-26 or F-27, subject to country limits; C-20 Children of C-29, subject to country limits, conditional; B-20 Children of B-29, subject to country limits; F-20 Children of F-29, subject to country limits; C-27 Children of alien residents, subject to country limits, conditional; FX-7 Children of alien residents, exempt from country limits; CX-8 Children of CX7, exempt from country limits, conditional; FX-8 Children of FX-7 or FX-8, exempt from country limits; CX-7 Children of alien residents, exempt from country limits, conditional; F-29 Unmarried sons/daughters of alien residents, subject to country limits; C-29 Unmarried children of alien residents, subject to country limits, conditional.
+
+[^ 19]Family-sponsored 3rd preference applicants, including the following categories: A-36 Married Amerasian sons/daughters of U.S. citizens; F-36 Married sons/daughters of U.S. citizens; C-36 Married sons/daughters of U.S. citizens, conditional; A-37 Spouses of A-31 or A-36; F-37 Spouses of married sons/daughters of U.S. citizens; C-37 Spouses of married sons/daughters of U.S. citizens, conditional; B-37 Spouses of B-31 or B-36; A-38 Children of A-31 or A-36, subject to country limits; F-38 Children of married sons/daughters of U.S. citizens; C-38 Children of C-31 or C-36, subject to country limits, conditional; B-38 Children of B-31 or B-36, subject to country limits.
+
+[^ 20]Family-sponsored 4th preference applicants, including the following categories: F-46 Brothers/sisters of U.S. citizens, adjustments; F-47 Spouses of brothers/sisters of U.S. citizens, adjustments; F-48 Children of brothers/sisters of U.S. citizens, adjustments.
+
+[^ 21]Applicants admitted as a K-1 or K-2 nonimmigrant, including the following categories: CF-1 Spouses, entered as fiancé(e), adjustments conditional; IF-1 Spouses, entered as fiancé(e), adjustments.
+
+[^ 22]Includes the following categories: Immediate Relative AR-6 Children, Amerasian, First Preference: A-16 Unmarried Amerasian sons/daughters of U.S. citizens; Third Preference A-36 Married Amerasian sons/daughters of U.S. citizens. SeeINA 204(f). Note that this program does not have a specific sunset date and it is likely that all potential applicants have already applied.
+
+[^ 23]Includes the following categories: IW-6 Widows or widowers of U.S. citizens; IW-7 Children of IW-6.
+
+[^ 24]Employment-sponsored 1st preference applicants, including the following categories: E-16 Immigrants with extraordinary ability; E-17 Outstanding professors or researchers; E-18 Certain Multinational executives or managers; E-19 Spouses of E-11, E-12, E-13, E-16, E-17, or E18; E-10 Children of E-11, E-12, E-13, E-16, E-17, or E-18.
+
+[^ 25]Employment-sponsored 2nd preference applicants, including the following categories: E-26 Professionals holding advanced degrees; ES-6 Soviet scientists; E-27 Spouses of E-21 or E-26; E-28 Children of E-21 or E-26.
+
+[^ 26]Employment-sponsored 3rd preference applicants, including the following categories: EX-6 Schedule - A worker; EX-7 Spouses of EX-6; EX-8 Children of EX-6; E-36 Skilled workers; E-37 Professionals with baccalaureate degrees; E-39 Spouses of E-36 or E-37; E-30 Children of E36 or E-37; EW-8 Other workers; EW-0 Children of EW-8; EW-9 Spouses of EW-8; EC-6 Chinese Student Protection Act (CSPA) principals; EC-7 Spouses of EC-6; EC-8 Children of EC-6.
+
+[^ 27]Employment-sponsored 5th preference applicants, including the following categories: C-56 Employment creation, not in targeted area, adjustments, conditional; E-56 Employment creation; I-56 Employment creation, targeted area, pilot program, adjustments, conditional; T-56 Employment creation, targeted area, conditional; R-56 Investor pilot program, not targeted, conditional; C-57 Spouses of C-51 or C-56, conditional; E-57 Spouses of E-51 or E-56; I-57 Spouses of I-51 or I-56, conditional; T-57 Spouses of T-51 or T-56, conditional; R-57 Spouses of R-51 or R-56, conditional; C-58 Children of C-51 or C-56, conditional; E-58 Children of E-51 or E-56; I-58 Children of I-51 or I-56, conditional; T-58 Children of T-51 or T-56, conditional; R-58 Children of R-51 or R-56, conditional.
+
+[^ 28]Includes the following categories: SD-6 Ministers; SD-7 Spouses of SD-6; SD-8 Children of SD-6; SR-6 Religious workers; SR-7 Spouses of SR-6; SR-8 Children of SR-6.
+
+[^ 29]Includes the following categories: SE-6 Employees of U.S. government abroad, adjustments; SE-7 Spouses of SE-6; SE-8 Children of SE-6. Note that this program does not have a specific sunset date and it is likely that all potential applicants have already applied.
+
+[^ 30]Includes the following categories: SF-6 Former employees of the Panama Canal Company or Canal Zone Government; SF-7 Spouses or children of SF-6; SG-6 Former U.S. government employees in the Panama Canal Zone; SG-7 Spouses or children of SG-6; SH-6 Former employees of the Panama Canal Company or Canal Zone government, employed on April 1, 1979; SH-7 Spouses or children of SH-6. Note that this program does not have a specific sunset date it is likely that all potential applicants have already applied.
+
+[^ 31]Includes the following categories: SJ-6 Foreign medical school graduate who was licensed to practice in the United States on Jan. 9, 1978; SJ-7 Spouses or children of SJ-6. Note that this program does not have a specific sunset date and it is likely that all potential applicants have already applied.
+
+[^ 32]Includes the following categories: SK-6 Retired employees of international organizations; SK-7 Spouses of SK-1 or SK-6; SK-8 Certain unmarried children of SK-6; SK-9 Certain surviving spouses of deceased international organization employees.
+
+[^ 33]Also known as the Six and Six Program, includes the following categories: SM-6 U.S. armed forces personnel, service (12 years) after 10/1/91; SM-9 U.S. armed forces personnel, service (12 years) by 10/91; SM-7 Spouses of SM-1 or SM-6; SM-0 Spouses or children of SM-4 or SM-9; SM-8 Children of SM-1 or SM-6.
+
+[^ 34]Includes the following categories: BC-6 Broadcast (IBCG of BBG) employees; BC-7 Spouses of BC-1 or BC-6; BC-8 Children of BC-6.
+
+[^ 35]As described in8 CFR 101.3, includes the category NA-3.
+
+[^ 36]Includes the following categories: DV-1 Diversity immigrant; DV-2 Spouses of DV-1; DV-3 Children of DV-1.
+
+[^ 37]Includes the following categories: W-16 Previously granted temporary resident status (legalization) who entered United States without inspection before Jan. 1, 1982; W-26 Previously granted temporary resident status (legalization) who entered United States as a nonimmigrant and overstayed visa before Jan. 1, 1982.
+
+[^ 38]S-nonimmigrants applying for adjustment of status may apply for a waiver of the public charge ground of inadmissibility using Inter-Agency Alien Witness and Informant Record (Form I-854). See Chapter 8, Waivers of Inadmissibility Based on Public Charge Ground [8 USCIS-PM G.8].
+
+[^ 39]See8 CFR 212.23(a)where DHS has codified this list of exemptions.
+
+[^ 40]SeeINA 208. See8 CFR 208.
+
+[^ 41]SeeINA 207andINA 209. See8 CFR 209.2.
+
+[^ 42]See Sections 101(e) and 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act of 1988,Pub. L. 100-202  (PDF), 101 Stat. 1329-183 (December 22, 1987), as amended.
+
+[^ 43]See Section 1059(a)(2) of the National Defense Authorization Act for Fiscal Year 2006,Pub. L. 109–163  (PDF), 119 Stat. 3136, 3444 (January 6, 2006), as amended, and Section 602(b), Title VI of the Omnibus Appropriations Act, 2009,Pub. L. 111-8  (PDF), (March 11, 2009), as amended, and Section 1244(g) of the National Defense Authorization Act for Fiscal Year 2008,Pub. L. 110-181  (PDF), 122 Stat. 3, 396 (January 28, 2008), as amended.
+
+[^ 44]See Section 202 of the Immigration Reform and Control Act of 1986 (IRCA),Pub. L. 99-603  (PDF), 100 Stat. 3359, 3404 (November 6, 1986), as amended.
+
+[^ 45]See Cuban Adjustment Act,Pub. L. 89-732  (PDF)(November 2, 1966), as amended.
+
+[^ 46]See Sections 202(a) and 203 of the Nicaraguan Adjustment and Central American Relief Act,Pub. L. 105-100  (PDF), 111 Stat. 2160, 2193 (November 19, 1997), as amended.
+
+[^ 47]See Section 902 of the Haitian Refugee Immigration Fairness Act of 1998,Pub. L. 105-277  (PDF), 112 Stat. 2681, 2681-538 (October 21, 1998), as amended.
+
+[^ 48]See Section 599E of the Foreign Operations, Export Financing, and Related Programs Appropriations Act of 1990,Pub. L. 101-167  (PDF), 103 Stat. 1195, 1263 (November 21, 1989), as amended.
+
+[^ 49]SeeINA 245(h).
+
+[^ 50]Registry is a section of immigration law that enables certain aliens who have been present in the United States since January 1, 1972, the ability to apply for lawful permanent residence even if currently in the United States unlawfully. SeeINA 249. See8 CFR 249.
+
+[^ 51]See8 CFR 244.3.INA 244(c)(2)(ii)authorizes DHS to waive anyINA 212(a)ground, except for those that Congress specifically noted could not be waived.
+
+[^ 52]SeeINA 101(a)(15)(A)(i),INA 101(a)(15)(A)(ii), andINA 102. See22 CFR 41.21(d). SeeINA 101(a)(15)(G)(i),INA 101(a)(15)(G)(ii),INA 101(a)(15)(G)(iii), andINA 101(a)(15)(G)(iv).
+
+[^ 53]SeeINA 245(l). If the applicant is adjusting based on an employment-based petition where the petition is filed by either a qualifying relative or an entity in which such relative has a significant ownership interest (5 percent or more), and the applicant, at both the time of filing and adjudication of the Application to Register Permanent Residence or Adjust Status (Form I-485), is still in valid T nonimmigrant status, the applicant is not subject toINA 212(a)(4)but is still required to file an Affidavit of Support Under Section 213A of the INA (Form I–864). See8 CFR 213a.2(b)(2).
+
+[^ 54]SeeINA 101(a)(15)(U)andINA 212(a)(4)(E)(ii). See Section 804 of the Violence Against Women Reauthorization Act of 2013,Pub. L. 113-4  (PDF), 127 Stat. 54, 111 (March 7, 2013). If the applicant is adjusting based on an employment-based petition where the petition is filed by either a qualifying relative or an entity in which such relative has a significant ownership interest (5 percent or more), and the applicant, at both the time of filing and adjudication of theForm I-485, is still in valid U nonimmigrant status, the applicant is not subject toINA 212(a)(4)but is still required to fileForm I–864. See8 CFR 213a.2(b)(2).
+
+[^ 55]SeeINA 212(a)(4)(E)(i).
+
+[^ 56]SeeINA 212(a)(4)(E)(iii). See Section 804 of the Violence Against Women Reauthorization Act of 2013,Pub. L. 113-4  (PDF), 127 Stat. 54, 111 (March 7, 2013). See Section 431(c) ofPub. L. 104-193  (PDF), 110 Stat. 2105, 2274 (August 22, 1996). See8 U.S.C. 1641(c).
+
+[^ 57]See Section 1703 of the National Defense Authorization Act,Pub. L. 108-136  (PDF), 117 Stat. 1392 (November 24, 2003) (posthumous benefits to surviving spouses, children, and parents).
+
+[^ 58]SeeINA 289.
+
+[^ 59]SeePub. L. 97-429  (PDF)(January 8, 1983).
+
+[^ 60]See Section 586 ofPub. L. 106-429  (PDF), 114 Stat. 1900, 1900A-57 (November 6, 2000) under8 CFR 245.21.
+
+[^ 61]Includes certain Polish and Hungarian parolees who were paroled into the United States from November 1, 1989 to December 31, 1991. See Section 646(b) of IIRIRA, Division C ofPub. L. 104-208  (PDF), 110 Stat. 3009-546, 3009-709 (September 30, 1996).
+
+[^ 62]SeePub. L. 106-378  (PDF)(October 27, 2000).
+
+[^ 63]See Section 7611 of the National Defense Authorization Act for Fiscal Year 2020,Pub. L. 116-92  (PDF), 113 Stat. 1198, 2309 (December 20, 2019) (Liberian Refugee Immigration Fairness), later extended by Section 901 of Division O, Title IX of the Consolidated Appropriations Act of 2021,Pub. L. 116-260  (PDF), 134 Stat. 1182, 2155 (December 27, 2020) (Adjustment of Status for Liberian Nationals Extension).
+
+[^ 64]For the most comprehensive list and description of the exemptions, see8 CFR 212.23(a).
+
+[^ 65]Relatives include spouse, parents, children, adult sons or daughters, brothers, and sisters. See8 CFR 213a.1. An affidavit of support under this section is not required, however, if the relative is a brother or sister of the intending immigrant, unless the brother or sister is a citizen. See8 CFR 213a.2(a)(2)(i)(C).
+
+[^ 66]Significant ownership interest means an ownership interest of 5 percent or more in a for-profit entity that filed an immigrant visa petition to accord a prospective employee an immigrant status underINA 203(b). See8 CFR 213a.1.
+
+[^ 67]SeeINA 212(a)(4)(E).
+
+[^ 68]See8 CFR 212.23(b).
+
+[^ 69]SeeINA 212(a)(4)(E)(iii). The list of “qualified aliens” included in this exemption is described in8 U.S.C. 1641(c). See8 CFR 212.23(b).
+
+H2: Resources
+
+10 U.S.C. 504(b)- Citizenship or residency
+
+15 U.S.C. 1681- Congressional findings and statement of purpose
+
+21 U.S.C. 802- Definitions
+
+21 U.S.C. 841- Prohibited acts A
+
+22 CFR 40.51- Labor certification
+
+29 CFR 570- Child labor regulations, orders and statements of interpretation
+
+29 U.S.C. 213(c)- Child labor requirements
+
+31 U.S.C. 9304-9308- Surety corporations
+
+42 CFR 34.4- Medical notifications
+
+42 U.S.C. 1382c                                           (PDF)- Definitions
+
+42 U.S.C. 413- Quarter and quarter of coverage
+
+42 U.S.C. 416(l)- Retirement age
+
+7 CFR 273- Certification of eligible households
+
+8 CFR 1.2- Definitions
+
+8 CFR 1.3- Lawfully present aliens for purposes of applying for Social Security benefits
+
+8 CFR 1003.14- Jurisdiction and commencement of proceedings
+
+8 CFR 1003.1- Organization, jurisdiction, and powers of the Board of Immigration Appeals
+
+8 CFR 103.6- Immigration bonds
+
+8 CFR 204.5- Petitions for employment-based immigrants
+
+8 CFR 212.4- Applications for the exercise of discretion under section 212(d)(1) and 212(d)(3)
+
+8 CFR 213a- Affidavits of support on behalf of immigrants
+
+8 CFR 235- Inspection of persons applying for admission
+
+8 CFR 245.11- Adjustment of aliens in S nonimmigrant classification
+
+8 CFR 292- Representation and appearances
+
+8 U.S.C. 1601-1646- Restricting welfare and public benefits for aliens
+
+8 U.S.C. 1611                                           (PDF)- Aliens who are not qualified aliens ineligible for Federal public benefits
+
+8 U.S.C. 1612                                           (PDF)- Limited eligibility of qualified aliens for certain Federal programs
+
+8 U.S.C. 1613                                           (PDF)- Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
+
+8 U.S.C. 1641                                           (PDF)- Definitions
+
+Final Specification of Community Programs Necessary For Protection Of Life Or Safety Under Welfare Reform Legislation,66 FR 3613 (Jan. 16, 2001) (Final rule)
+
+INA 101- Definitions
+
+INA 101(a)(15)- Nonimmigrant classifications
+
+INA 201- Worldwide level of immigration
+
+INA 203- Allocation of immigrant visas
+
+INA 208- Asylum
+
+INA 212(a)(4), 8 CFR 212.20-212.23 - Public charge inadmissibility
+
+INA 212(d)- Temporary admission of nonimmigrants
+
+INA 213,8 CFR 213.1- Admission of aliens on giving bond or undertaking; return upon permanent departure; adjustment of status of aliens on submission of a public charge bond
+
+INA 213A,8 CFR 213a- Requirements for sponsor's declaration of financial support
+
+INA 235- Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing
+
+INA 237(a)(5)- Public charge (deportable aliens)
+
+INA 239,8 CFR 239- Initiation of removal proceedings
+
+INA 245(j)- Adjustment to permanent resident status
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+INA 248,8 CFR 248- Change of nonimmigrant classification
+
+INA 289- Application to American Indians born in Canada
+
+Pub. L. 104-193                                           (PDF)- Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996
+
+Pub. L. 104-208                                        (PDF)- Illegal Immigration Reform and Immigrant Responsibility Act of 1996
+
+Pub. L. 106-395                                           (PDF)- Child Citizenship Act of 2000
+
+Pub. L. 111-293                                           (PDF)- Help Haitian Adoptees Immediately to Integrate Act of 2010
+
+Pub. L. 111-8                                            (PDF)- Section 602(b), Title VI of the Afghan Allies Protection Act of 2009
+
+Pub. L. 113-4                                           (PDF)- 127 Stat 54 of the Violence Against Women Reauthorization Act of 2013
+
+Pub. L. 89-732                                        (PDF)- Cuban Refugees Adjustment of Status
+
+Section 11,26 Stat 1084                        (PDF)of the Immigration Act of 1891
+
+Section 212(a)(15),66 Stat 163                                           (PDF), 183 of the Immigration and Nationality Act of 1952
+
+Sections 1-2,22 Stat 214                        (PDF)of the Immigration Act of 1882
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-130, Petition for Alien Relative
+
+I-134, Declaration of Financial Support
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-601, Application for Waiver of Grounds of Inadmissibility
+
+I-693, Report of Medical Examination and Vaccination Record
+
+I-864, Affidavit of Support Under Section 213A of the INA
+
+I-864A, Contract Between Sponsor and Household Member
+
+I-864EZ, Affidavit of Support Under Section 213A of the INA
+
+How to Use the USCIS Policy Manual Website
+
+Public Charge Inadmissibility, USCIS National Engagement (Sept. 29, 2022) Power Point Presentation                   (PDF, 1.24 MB)
+
+H2: Appendices
+
+Appendix: Applicability of INA 212(a)(4) to Employment-Based Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Family-Based Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Other Applicants
+
+Appendix: Applicability of INA 212(a)(4) to Refugee, Asylee, and Parolee Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Special Immigrant Adjustment of Status Applications
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating the USCIS Policy Manual to help applicants for adjustment of status more easily identify whether they are subject to the public charge ground of inadmissibility under section 212(a)(4) of the Immigration and Nationality Act (INA).
+
+8 USCIS-PM G.3-Chapter 3 - Applicability
+
+This technical update incorporates into Volume 8 the policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced December 19, 2022, addressing the public charge ground of inadmissibility under section 212(a)(4) of the Immigration and Nationality Act (INA), as implemented by the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF)(Sep. 9, 2022).
+
+This guidance became effective December 23, 2022, and applies to adjustment of status applications postmarked (or filed electronically, if applicable) on or after that date. For applications postmarked (or submitted electronically, if applicable) before December 23, 2022, USCIS will continue to apply the public charge ground of inadmissibility consistent with the statute and the1999 Interim Field Guidance.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address the public charge ground of inadmissibility under section 212(a)(4) of the Immigration and Nationality Act (INA), as implemented by the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF)(Sep. 9, 2022).
+
+The new final rule and policy guidance become effective December 23, 2022, and apply to adjustment of status applications postmarked (or filed electronically, if applicable) on or after that date. For applications postmarked (or submitted electronically, if applicable) before December 23, 2022, USCIS will continue to apply the public charge ground of inadmissibility consistent with the statute and the1999 Interim Field Guidance.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+This technical update to Volume 8 alerts readers to the September 9, 2022 publication of the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF), and clarifies that USCIS will continue to apply the 1999 Interim Field Guidance until the final rule goes into effect on December 23, 2022. For more information about how USCIS is applying the public charge ground of inadmissibility, see thePublic Charge Resourceswebpage.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+USCIS is administering the public charge inadmissibility statute (section 212(a)(4) of the Immigration and Nationality Act) consistent with the 1999 Interim Field Guidance to determine whether a noncitizen is inadmissible as likely at any time to become a public charge. The 1999 Interim Field Guidance is the policy that was in place before the 2019 Public Charge Final Rule was implemented. The 2019 Public Charge Final Rule is no longer in effect. For more information about how USCIS is applying the public charge ground of inadmissibility, see thePublic Charge Resourceswebpage.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update removes the guidance in Volume 2, Part A, Chapter 4, Volume 8, Part G, and Volume 12, Part D, Chapter 2 relating to the administration of the public charge ground of inadmissibility under theInadmissibility on Public Charge Groundsfinal rule, 84 FR 41292 (Aug. 14, 2019); as amended byInadmissibility on Public Charge Grounds; Correction, 84 FR 52357 (Oct. 2, 2019) ( “Public Charge Final Rule”), which was implemented on Feb. 24, 2020. On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. On Nov. 3, 2020, the U.S. Court of Appeals for the Seventh Circuit issued an administrative stay and, on Nov. 19, 2020, a stay pending appeal of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted its stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update removes the WA Food Assistance Program for Legal Immigrants from the list of examples of state, local, and tribal cash assistance programs that are considered income maintenance for purposes of the public charge inadmissibility determination.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+This update incorporates into Volumes 2, 8, and 12 policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced February 5, 2020, implementing the Inadmissibility of Public Charge Grounds Final Rule. This guidance is in effect as of February 24, 2020 and applies nationwide to all applications and petitions postmarked on or after that date. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Final Rule. For more information about the classes of [noncitizens] who are exempt from the Final Rule, see theappendicesrelated to applicability. For information on related litigation affecting implementation, see theUSCIS webpageon the injunction.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual to address the final rule on the public charge ground of inadmissibility. This policy guidance is effective on February 24, 2020, and will apply to all applicants and petitioners filing applications and petitions for adjustment of status, extension of stay, and change of status, except for applicants and petitioners in the State of Illinois, whose cases will be adjudicated under prior policy, including the1999 Interim Field Guidance                   (PDF)andAFM Ch. 61.1                  (PDF). For additional information, seePublic Charge Inadmissibility Determinations in Illinois. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Inadmissibility on Public Charge Grounds final rule. For more information about the classes of [noncitizens] who are exempt from the final rule, see theappendicesrelated to applicability.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
