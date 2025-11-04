@@ -10,7 +10,7 @@ class UscisBodySpider(CrawlSpider):
     start_urls = ["https://www.uscis.gov/"]
 
     custom_settings = {
-        'USER_AGENT': 'Crawler/1.0 (contact@email.com)',
+        'USER_AGENT': 'Crawler/1.0 (contact@email.com)',    
         'ROBOTSTXT_OBEY': True,
         'DOWNLOAD_DELAY': 10, 
         'CONCURRENT_REQUESTS_PER_DOMAIN': 1,
