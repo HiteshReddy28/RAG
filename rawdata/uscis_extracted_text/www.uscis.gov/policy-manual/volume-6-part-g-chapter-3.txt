@@ -1,0 +1,601 @@
+H1: Chapter 3 - Immigrant Petition Adjudication
+
+- Guidance
+
+- Resources (19)
+
+- Appendices (1)
+
+- Updates (11)
+
+An immigrant investor must file an initial immigrant petition, either Immigrant Petition by Standalone Investor (Form I-526) or Immigrant Petition by Regional Center Investor (Form I-526E), and supporting documentation to receive employment-based 5th preference (EB-5) immigrant classification.[1]Upon adjustment of status or admission to the United States, the immigrant investor will be a conditional permanent resident (CPR).[2]
+
+H2: A. Petitions Associated with Regional Centers
+
+H3: 1. Initial Filing
+
+Each regional center investor must demonstrate that they invested, or are actively in the process of investing, lawfully obtained capital in a new commercial enterprise located within a designated regional center in the United States.[3]The investor must also demonstrate that this investment will create at least 10 direct or indirect full-time jobs for qualifying employees.[4]
+
+For petitions filed on or after May 14, 2022, the investor can only fileForm I-526Eafter the regional center files the Application for Approval of an Investment in a Commercial Enterprise (Form I-956F) (project application).[5]The investor may file Form I-526E while the project application remains pending. However, USCIS does not make a final decision on a regional center investor’s immigrant visa petition until USCIS makes a final decision on the regional center’s associated project application.
+
+To show that a regional center investor has invested, or is actively in the process of investing, in a new commercial enterprise located within a regional center, the investor should submit a receipt notice documenting that the regional center has filed a project application and evidence of the investment.[6]
+
+H3: 2. Previous Determinations and Amendments
+
+When adjudicatingForm I-526petitions, USCIS generally defers to prior determinations on regional center filings and reviews amendments according to the relevant law and policy at the time of the filing date.
+
+Petitions Filed Before May 14, 2022
+
+If the regional center requested to expand its geographic area, the instructions for Application for Regional Center Designation Under the Immigrant Investor Program (Form I-924)[7]required that a Form I-924 amendment be filed, and approved, to expand the regional center’s geographic area. The Form I-924 amendment must have been approved before aForm I-526petitioner may demonstrate eligibility at the time of filing their petition based on an investment in the expanded area.[8]
+
+There are distinct eligibility requirements at each stage of the EB-5 immigration process. Where USCIS has previously evaluated and approved certain aspects of an investment, USCIS generally defers to that favorable determination at a later stage in the process. This deference policy promotes predictability for immigrant investors, new commercial enterprises, and their employees. Deference also conserves agency resources, which should not be used to duplicate previous efforts.
+
+As a general matter, USCIS does not reexamine determinations made earlier in the EB-5 process, and presumes that such earlier determinations were properly decided. When USCIS has previously concluded that an economic methodology is reasonable to project future job creation as applied to the facts of a particular project, USCIS defers to this determination for all related adjudications directly linked to the specific project for which the economic methodology was previously approved.
+
+For example, if USCIS approvedForm I-924orForm I-526presenting a comprehensive business plan[9]and a specific economic methodology, USCIS will defer to the earlier finding that the methodology was reasonable in subsequent adjudications of Form I-526 presenting the same related facts and methodology. However, USCIS still conducts a de novo review of each prospective immigrant investor’s lawful source of funds and other individualized eligibility criteria.
+
+Conversely, USCIS does not defer to a previously favorable decision in later proceedings when, for example, the underlying facts upon which a favorable decision was made have materially changed, there is evidence of fraud or willful misrepresentation, or the previously favorable decision is determined to be legally deficient. A change is material if it would have a natural tendency to influence, or is predictably capable of affecting, the decision.[10]
+
+When a new filing involves a different project from a previous approval, or the same previously approved project with material changes to the project plan, USCIS does not defer to the previous adjudication.
+
+Since USCIS presumes that prior determinations were properly decided, USCIS does not consider a prior favorable determination to be legally deficient for purposes of according deference unless the prior determination involved an objective mistake of fact or an objective mistake of law evidencing ineligibility for the benefit sought, but excluding those subjective evaluations related to evaluating eligibility. Unless there is reason to believe that a prior adjudication involved an objective mistake of fact or law, officers should not reexamine determinations made earlier in the EB-5 process. Absent a material change in facts, fraud, or willful misrepresentation, officers should not re-adjudicate prior agency determinations that are subjective, such as whether the business plan is comprehensive and credible or whether an economic methodology estimating job creation is reasonable.
+
+Petitions Filed On or After May 14, 2022
+
+The approval of the regional center’sForm I-956Fproject application[11]is binding for purposes of the adjudication of a related regional center investor’s petitions seeking benefits based on investment in that offering, unless:
+
+- The applicant engaged in fraud, misrepresentation, or criminal misuse;
+
+- Such approval would threaten public safety or national security;
+
+- There has been a material change that affects eligibility;
+
+- The discovery of other evidence affecting program eligibility was not disclosed by the applicant during the adjudication process; or
+
+- The previous adjudication involved a material mistake of law or fact.[12]
+
+In addition, upon approval of a timely filed amendment to an approved project application, any changes reflected in the amendment may be incorporated into and considered in the adjudication of a related investor’s petition.[13]
+
+H2: B. Standalone Petitions
+
+An immigrant investor not associated with a regional center must, together with theForm I-526petition, demonstrate that they have invested, or are actively in the process of investing, lawfully obtained capital in a new commercial enterprise located within the United States that will create at least 10 direct full-time jobs for qualifying employees.[14]For petitions filed on or after March 15, 2022, an immigrant investor seeking to pool their investment with one or more additional immigrant investors seeking EB-5 classification must file for such classification in association with a regional center.[15]
+
+H2: C. Material Change
+
+H3: 1. In General
+
+A petitioner must establish eligibility at the time of filing. USCIS does not approve petitions if, after filing, the immigrant investor becomes eligible under a new set of facts or circumstances. Changes that are considered material that occur after the filing of an immigrant investor petition result in the investor’s ineligibility if the investor has not obtained CPR status.[16]
+
+If material changes occur after the approval of the immigrant petition, but before the investor has obtained CPR status, such changes would generally constitute good and sufficient cause to issue a notice of intent to revoke and, if not overcome, would generally constitute good cause to revoke the approval of the petition. A change is material if the changed circumstances would have a natural tendency to influence or are predictably capable of affecting the decision.[17]
+
+Changes that occur in accordance with a business plan and other supporting documents as filed will generally not be considered material. For example, if at the time of filing the immigrant petition no jobs have yet been created, but after approval of the immigrant petition and before the investor has obtained CPR status, the investment in the new commercial enterprise results in the creation of 10 jobs in accordance with the investor’s business plan as filed, such a change would generally not be considered material.
+
+If the organizational documents for a new commercial enterprise contain a liquidation provision that does not otherwise constitute an impermissible debt arrangement, the documents may generally be amended to remove such a provision in order to allow the new commercial enterprise to continue to operate through the regional center investor’s period of CPR status. Such an amendment would generally not be considered a material change because facts related to the immigrant investor’s eligibility would not change.
+
+In general, if, at the time of adjudication, the investor is asserting eligibility under a materially different set of facts that did not exist when they filed the immigrant petition, the investor must file a new immigrant petition.
+
+H3: 2. Material Changes to Regional Center Project Applications for Petitions Filed on or After March 15, 2022
+
+In general, an approvedForm I-956Fproject application is binding in the adjudication of associated petitions unless there has been a material change that affects eligibility.[18]However, a regional center may submit a timely filed amendment to an approved project application reflecting such changes and, if approved, those changes may be incorporated into and considered in determining eligibility when adjudicating the related investor petitions.[19]
+
+H2: D. Decision
+
+H3: 1. Approval
+
+If the petitioner properly filed the petition and the petitioner has met the required eligibility standards, the officer approves the petition.
+
+After a petition has been approved and an immigrant visa is available, an immigrant investor may apply for an immigrant visa with U.S. Department of State or, if eligible, adjust status to CPR status if in the United States.[20]
+
+H3: 2. Denial
+
+If the petitioner has not established eligibility, the officer denies the petition.
+
+The officer should write the denial in clear and comprehensive language and cover all grounds for denial.[21]In the denial, the officer should refer to the controlling statute or regulations and to any relevant precedent or adopted decisions. The decision must include information about the petitioner’s right to appeal to the Administrative Appeals Office and the opportunity to file a motion to reopen or reconsider.
+
+USCIS may deny a petition if USCIS determines, in its discretion, that it was predicated on or involved fraud, deceit, intentional material misrepresentation, or criminal misuse[22]or that the approval of such petition is contrary to the national interest of the United States for reasons relating to threats to public safety or national security.[23]
+
+H3: 3. Revocation
+
+USCIS, in its discretion, may revoke the approval of any petition for good and sufficient cause.[24]A petition may also be withdrawn upon a written request for withdrawal of the petition filed by the petitioner.[25]
+
+As of May 14, 2022, USCIS may also revoke the approval of a petition on the following bases:
+
+- USCIS has reason to believe the petitioner was a knowing participant in the conduct that led to the termination of a regional center, new commercial enterprise or job-creating entity;[26]
+
+- USCIS determines, in its discretion, that approval of the petition is contrary to the national interest of the United States for reasons relating to threats to public safety or national security;[27]or
+
+- USCIS determines, in its discretion, that the petition was predicated on or involved fraud, deceit, intentional material misrepresentation, or criminal misuse.[28]
+
+H2: E. Good Faith Investors Following Program Noncompliance by a Regional Center, New Commercial Enterprise, or Job-Creating Entity
+
+Following the termination or debarment from the program of a regional center, new commercial enterprise, or job creating entity, investors with a pending or approved petition, including petitions filed prior to enactment of the EB-5 Reform and Integrity Act of 2022, may retain eligibility under certain circumstances.
+
+In the case of the termination of a regional center, the investor may retain eligibility if their new commercial enterprise associates with an approved new regional center (regardless of its approved geographical boundaries) or if the investor makes a qualifying investment in another new commercial enterprise.[29]
+
+In the case of debarment of a new commercial enterprise or job-creating entity, the investor may retain eligibility if they associate with a new commercial enterprise in good standing and invest additional capital solely to the extent necessary to satisfy remaining job creation requirements.[30]The petitioner must generally file an amendment to their petition or otherwise notify USCIS that they continue to meet applicable eligibility requirements notwithstanding termination or debarment, as applicable, no later than 180 days after notification of termination or debarment.[31]
+
+In these circumstances, investors may amend their petitions to demonstrate that they meet applicable eligibility requirements. For purposes of determining eligibility, USCIS will not consider changes to the business plan underlying the amendment as a material change. In addition, the investor may include any funds obtained or recovered by the investor, directly or indirectly, from claims against third parties, including insurance proceeds, or any additional investment capital provided by the investor, as their investment capital.[32]
+
+Petitions that continue to meet applicable eligibility requirements in these circumstances, including following an amendment, retain the immigrant visa priority date related to the original petition and prevent age-out of derivative beneficiaries. USCIS may hold these petitions in abeyance and extend any applicable deadlines.[33]
+
+USCIS may not approve an investor petition or remove the conditions of a conditional resident investor if, after providing notice and an opportunity to respond, it has reason to believe that the investor was a knowing participant in the conduct that led to the termination or debarment of a regional center, new commercial enterprise, or job-creating entity.[34]
+
+Special Considerations for Investors Who Filed Their Form I-526 Petitions Before March 15, 2022
+
+USCIS recognizes that there are distinct considerations that may apply to investors who filed their underlyingForm I-526prior to March 15, 2022, for purposes of retaining eligibility underINA 203(b)(5)(M). In general, these investors may continue to rely on direct and indirect job creation despite termination of their associated regional center. Specifically, officers may generally determine, in their discretion and on a case-by-case basis, that these investors continue to be eligible for classification notwithstanding termination of their associated regional center.
+
+For example, where an investor’s capital remains invested and at-risk with their new commercial enterprise and the requisite jobs have been or will be created in accordance with their existing business plan, termination of their associated regional center for failure to pay the EB-5 Integrity Fund fee or for reasons related to a different new commercial enterprise would generally not, by itself, negatively impact the investor’s eligibility.
+
+In other circumstances where an investor’s eligibility is impacted, such as where USCIS terminates or debars a regional center or debars a new commercial enterprise for misappropriating investor capital, the investor may seek to retain eligibility by reassociating with another regional center or making an investment in another new commercial enterprise.
+
+USCIS generally reviews potentially impacted petitions in the normal course of adjudication and issues any necessary notice to the investor at that time. Until a new form is developed to standardize the filing of amendments to Form I-526 petitions filed before March 15, 2022, the investor may amend their petition for purposes of meeting applicable eligibility requirements by submitting new documentation within 180 days of USCIS notifying them of the termination or debarment.[35]
+
+The new documentation when making a qualifying investment or reassociating with another new commercial enterprise may include evidence such as a subscription agreement, private placement memorandum, business plan, and economic impact analysis. If the investor’s new commercial enterprise is reassociating with a new regional center, the investor may include a new regional center affiliation agreement documenting the change and updated offering documents as applicable.
+
+If the investor chooses to make a qualifying investment in another new commercial enterprise following regional center termination, the investment amount required is the amount required by statute at the time the investor initially filed the Form I-526.[36]
+
+H2: Footnotes
+
+[^ 1]SeeINA 203(b)(5)andINA 204(a)(1)(H). See8 CFR 103.2(b)and8 CFR 204.6(a)  (PDF). For information on EB-5 eligibility, see Chapter 2, Immigrant Petition Eligibility Requirements [6 USCIS-PM G.2].
+
+[^ 2]SeeINA 216A(a). For information regarding removal of the conditional basis of the investor’s permanent resident status, see Chapter 7, Removal of Conditions [6 USCIS-PM G.7].
+
+[^ 3]SeeINA 203(b)(5)(A)(i).
+
+[^ 4]SeeINA 203(b)(5)(A)(ii).
+
+[^ 5]SeeINA 203(b)(5)(F)(i)andINA 204(a)(1)(H)(i).
+
+[^ 6]For information regarding evidence to demonstrate an investment in a new commercial enterprise, see Chapter 2, Immigrant Petition Eligibility Requirements, Section C, New Commercial Enterprise, Subsection 4, Investment in New Commercial Enterprise [6 USCIS-PM G.2(C)(4)].
+
+[^ 7]On May 13, 2022, USCIS published the new Application for Regional Center Designation (Form I-956), replacing the Form I-924. This new form aligns with the new regional center requirements in the EB-5 Reform and Integrity Act of 2022, Division BB of the Consolidated Appropriations Act of 2022,Pub. L. 117-103  (PDF), 136 Stat. 49, 1070 (March 15, 2022).
+
+[^ 8]If the regional center’s geographic area expansion request was submitted either through aForm I-924amendment or investor petition filed before February 22, 2017, and the request was ultimately approved, USCIS continues to adjudicate additional investor petitions associated with investments in that area under prior policy guidance issued on May 30, 2013. SeeEB-5 Adjudications Policy  (PDF, 829.48 KB), PM-602-0083, issued May 30, 2013.
+
+[^ 9]For a discussion of what constitutes a comprehensive business plan, see Chapter 2, Immigrant Petition Eligibility Requirements, Section B, Comprehensive Business Plan [6 USCIS-PM G.2(B)]. SeeMatter of Ho  (PDF), 22 I&N Dec. 206 (Assoc. Comm. 1998).
+
+[^ 10]SeeKungys v. United States, 485 U.S. 759, 770-72 (1988).
+
+[^ 11]For more information on the Form I-956F project application, see Chapter 5, Project Applications [6 USCIS-PM G.5].
+
+[^ 12]SeeINA 203(b)(5)(F)(ii).
+
+[^ 13]SeeINA 203(b)(5)(F)(iii)(II).
+
+[^ 14]For discussion of eligibility and evidentiary requirements for standalone petitioners, see Chapter 2, Immigrant Petition Eligibility Requirements, Section D, Creation of Jobs [6 USCIS-PM G.2(D)].
+
+[^ 15]SeeINA 204(a)(1)(H)(i).
+
+[^ 16]SeeMatter of Izummi  (PDF), 22 I&N Dec. 169, 176 (Assoc. Comm. 1998). See8 CFR 103.2(b)(1).
+
+[^ 17]SeeKungys v. United States, 485 U.S. 759, 770-72 (1988).
+
+[^ 18]SeeINA 203(b)(5)(F)(ii)(III).
+
+[^ 19]SeeINA 203(b)(5)(F)(iii)(II).
+
+[^ 20]See Volume 7, Adjustment of Status, Part A, Adjustment of Status Policies and Procedures [7 USCIS-PM A]. For information on concurrent filing of the adjustment of status application either at the time of filing the immigrant visa petition or while the petition is pending, see Volume 7, Adjustment of Status, Part A, Adjustment of Status Policies and Procedures, Chapter 3, Filing Instructions, Section C, Concurrent Filings [7 USCIS-PM A.3(C)]. See Chapter 7, Removal of Conditions [6 USCIS-PM G.7] for the process of removing conditions on residence.
+
+[^ 21]See8 CFR 103.3(a)(1)(i).
+
+[^ 22]SeeINA 203(b)(5)(O)(i). For more information on discretionary determinations, see Chapter 8, Sanctions and Discretionary Determinations, Section B, Discretionary Determinations [6 USCIS-PM G.8(B)].
+
+[^ 23]SeeINA 203(b)(5)(N)(i). For more information on discretionary determinations, see Chapter 8, Sanctions and Discretionary Determinations, Section B, Discretionary Determinations [6 USCIS-PM G.8(B)].
+
+[^ 24]SeeINA 205.
+
+[^ 25]See8 CFR 205.1(a)(3)(iii)(C). An employment-based preference petition is automatically revoked upon written notice of withdrawal filed by the petitioner less than 180 days after approval unless an associated adjustment of status application has been pending for 180 days or more.
+
+[^ 26]SeeINA 203(b)(5)(M)(vi).
+
+[^ 27]SeeINA 203(b)(5)(N). For more information on discretionary determinations, see Chapter 8, Sanctions and Discretionary Determinations, Section B, Discretionary Determinations [6 USCIS-PM G.8(B)].
+
+[^ 28]SeeINA 203(b)(5)(O)(i). For more information on discretionary determinations, see Chapter 8, Sanctions and Discretionary Determinations, Section B, Discretionary Determinations [6 USCIS-PM G.8(B)].
+
+[^ 29]SeeINA 203(b)(5)(M)(ii)(I).
+
+[^ 30]SeeINA 203(b)(5)(M)(ii)(II).
+
+[^ 31]SeeINA 203(b)(5)(M)(iii).
+
+[^ 32]SeeINA 203(b)(5)(M)(iii).
+
+[^ 33]SeeINA 203(b)(5)(M)(v)(I).
+
+[^ 34]SeeINA 203(b)(5)(M)(vi).
+
+[^ 35]SeeINA 203(b)(5)(M)(iii)(I).
+
+[^ 36]For more information on the impact of sanctions, see Chapter 4, Regional Center Applications, Section H, Terminations, Suspensions, and Other Sanctions [6 USCIS-PM G.4(H)] and Chapter 8, Sanctions and Discretionary Determinations [6 USCIS-PM G.8].
+
+H2: Resources
+
+INA 201- Worldwide level of immigration
+
+INA 202- Numerical limitations on individual foreign states
+
+INA 203- Allocation of immigrant visas
+
+INA 203(b)(5),8 CFR 204.6                    (PDF)- Employment creation immigrants
+
+INA 204(a)(1)(H)- Procedure for granting immigrant status
+
+INA 204,8 CFR 204- Procedure for granting immigrant status
+
+INA 216A,8 CFR 216.6- Conditional permanent resident status for certain alien entrepreneurs, spouses, and children
+
+Pub. L. 117-103                    (PDF)- Consolidated Appropriations Act of 2022 - Division BB - EB–5 Reform and Integrity Act of 2022
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-290B, Notice of Appeal or Motion
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-526, Immigrant Petition by Standalone Investor
+
+I-526E, Immigrant Petition by Regional Center Investor
+
+I-956, Application for Regional Center Designation
+
+I-956F, Application for Approval of an Investment in a Commercial Enterprise
+
+I-956G, Regional Center Annual Statement
+
+I-956H, Bona Fides of Persons Involved with Regional Center Program
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+The content in this appendix reflects USCIS policy as it existed before the EB-5 Reform and Integrity Act of 2022, Division BB of the Consolidated Appropriations Act of 2022,Pub.L. 117-103              (PDF), 136 Stat. 49, 1070 (March 15, 2022) for reference. For current USCIS policy on regional centers, see Chapter 4, Regional Center Applications [6 USCIS-PM G.4], Chapter 5, Project Applications [6 USCIS-PM G.5], and Chapter 6, Direct and Third Party Promoters [6 USCIS-PM G.6].
+
+The goal of the Regional Center Program is to stimulate economic growth in a specified geographic area. The regional center model can offer an immigrant investor already defined investment opportunities, thereby reducing the immigrant investor’s responsibility to identify acceptable investment vehicles. If the new commercial enterprise is located within the geographic area, and falls within the economic scope of the defined regional center, reasonable methodologies can be used to demonstrate indirect job creation.[1]A regional center can be associated with one or more new commercial enterprises.
+
+A regional center seeking to participate in the Regional Center Program must submit a proposal using the Application For Regional Center Under the Immigrant Investor Program (Form I-924).
+
+USCIS may designate a regional center based on a general proposal for the promotion of economic growth, including increased export sales, improved regional productivity, job creation, or increased domestic capital investment. The statute further provides that a regional center shall have jurisdiction over a limited geographic area, which shall be described in the proposal and consistent with the purpose of concentrating pooled investment in defined economic zones.
+
+In addition, the establishment of a regional center may be based on general predictions, contained in the proposal, concerning the kinds of commercial enterprises that will receive capital from immigrant investors, the jobs that will be created directly or indirectly as a result of such capital investments, and the other positive economic effects such capital investments will have on the area.[2]
+
+The regulations state that the proposal must:
+
+- Clearly describe how the regional center focuses on a geographical region of the United States and how it will promote economic growth through increased export sales, improved regional productivity, job creation, and increased domestic capital investment;
+
+- Provide in verifiable detail how jobs will be created directly or indirectly;
+
+- Provide a detailed statement regarding the amounts and sources of capital which have been already committed to the regional center;
+
+- Provide a description of the promotional efforts taken and planned by the sponsors of the regional center;
+
+- Include a detailed prediction[3]how the regional center will have a positive impact on the regional or national economy based on factors such as increased household earnings, greater demand for business services, utilities, maintenance and repair, and construction both within and without the regional center; and
+
+- Be supported by economically or statistically valid forecasting tools, including, but not limited to, feasibility studies, analyses of foreign and domestic markets for the goods or services to be exported, or multiplier tables.[4]
+
+Clearly describe how the regional center focuses on a geographical region of the United States and how it will promote economic growth through increased export sales, improved regional productivity, job creation, and increased domestic capital investment;
+
+Provide in verifiable detail how jobs will be created directly or indirectly;
+
+Provide a detailed statement regarding the amounts and sources of capital which have been already committed to the regional center;
+
+Provide a description of the promotional efforts taken and planned by the sponsors of the regional center;
+
+Include a detailed prediction[3]how the regional center will have a positive impact on the regional or national economy based on factors such as increased household earnings, greater demand for business services, utilities, maintenance and repair, and construction both within and without the regional center; and
+
+Be supported by economically or statistically valid forecasting tools, including, but not limited to, feasibility studies, analyses of foreign and domestic markets for the goods or services to be exported, or multiplier tables.[4]
+
+The level of verifiable detail required for a Form I-924 to be approved and provided deference may vary depending on the nature of the application filing.[5]
+
+H2: A. Regional Center Application Proposals
+
+The regional center proposal must include a management and operational plan to administer, oversee, and manage the proposed regional center, including but not limited to how the regional center:
+
+- Will be promoted to attract immigrant investors, including a description of the budget for promotional activities;
+
+- Will identify, assess, and evaluate proposed immigrant investor projects and enterprises;
+
+- Characterizes the structure of the investment capital it will sponsor; for example, whether the investment capital to be sought for job-creating companies will consist solely of immigrant investor capital or a combination of immigrant investor capital and domestic capital, and how the distribution of the investment capital will be structured (for example, loans to developers or venture capital); and
+
+- Will oversee all investment activities affiliated with, through, or under the sponsorship of the proposed regional center.
+
+Will be promoted to attract immigrant investors, including a description of the budget for promotional activities;
+
+Will identify, assess, and evaluate proposed immigrant investor projects and enterprises;
+
+Characterizes the structure of the investment capital it will sponsor; for example, whether the investment capital to be sought for job-creating companies will consist solely of immigrant investor capital or a combination of immigrant investor capital and domestic capital, and how the distribution of the investment capital will be structured (for example, loans to developers or venture capital); and
+
+Will oversee all investment activities affiliated with, through, or under the sponsorship of the proposed regional center.
+
+Geographic Area
+
+An officer reviews the proposed geographic boundaries of a new regional center to determine if they are acceptable. USCIS considers geographic boundaries acceptable if the regional center applicant can establish by a preponderance of the evidence that the proposed economic activity will promote economic growth in the proposed area.[6]The determination is fact-specific, and the law does not require any particular form of evidence, such as a county-by-county analysis.
+
+In addition, a regional center’s geographic area must be limited, contiguous, and consistent with the purpose of concentrating pooled investment in defined economic zones.[7]To demonstrate that the proposed geographic area is limited, the regional center applicant should submit evidence demonstrating the linkages between proposed economic activities within the proposed area based on different variables. Examples of variables to demonstrate linkages between economic activities can include but are not limited to:
+
+- Regional connectivity;
+
+- The labor pool and supply chain; and
+
+- Interdependence between projects.
+
+Regional connectivity;
+
+The labor pool and supply chain; and
+
+Interdependence between projects.
+
+Moreover, in assessing the likelihood that the proposed economic activity will promote economic growth in the proposed geographic area, an officer reviews the impact of the activity relative to relevant economic conditions. The size of the proposed area should be limited and consistent with the scope and scale of the proposed economic activity, as the regional center applicant is required to focus on a geographical region of the United States.[8]The regional center applicant must present an economic analysis of its proposed economic activity in the proposed geographic area that is supported by economically or statistically valid forecasting tools.[9]The Form I-924 instructions provide further information regarding the requirements of the economic analysis.
+
+H2: B. Types of Regional Center Projects
+
+An actual project refers to a specific project proposal that is supported by aMatter of Ho (PDF)compliant business plan.[10]
+
+A hypothetical project refers to a project proposal that is not supported by aMatter of Ho (PDF)compliant business plan.
+
+The term exemplar refers to a sample Immigrant Petition by Alien Investor (Form I-526), filed with Form I-924 for an actual project. This type of regional center proposal contains copies of the commercial enterprise’s organizational and transactional documents, which USCIS reviews to determine if they are in compliance with established eligibility requirements.
+
+H3: 1. Hypothetical Projects
+
+If the Form I-924 projects are hypothetical projects, general proposals and general predictions may be sufficient to determine that the proposed regional center will more likely than not promote economic growth, improved regional productivity, job creation, and increased domestic capital investment. A regional center applicant seeking review of a hypothetical project should clarify in the Form I-924 submission that the project is hypothetical. General proposals and predictions may include a description of the project parameters, such as:
+
+- Proposed project activities, industries, locations, and timelines;
+
+- A general market analysis of the proposed job creating activities and explanation regarding how the proposed project activities are likely to promote economic growth and create jobs; and
+
+- A description, along with supporting evidence, of the regional center principals’ relevant experience and expertise.
+
+Proposed project activities, industries, locations, and timelines;
+
+A general market analysis of the proposed job creating activities and explanation regarding how the proposed project activities are likely to promote economic growth and create jobs; and
+
+A description, along with supporting evidence, of the regional center principals’ relevant experience and expertise.
+
+While hypothetical project submissions are sufficient for regional center designation, previous determinations based on hypothetical projects will not receive deference. Actual projects will receive a de novo officer review during subsequent filings (for example, through the adjudication of an amended Form I-924 application, including the actual project details or the first Form I-526 immigrant investor petition).
+
+Organizational and transactional supporting documents are not required for a hypothetical project. If a regional center applicant desires a compliance review of organizational and transactional documents, the application must include an actual project with aMatter of Ho (PDF)compliant business plan and an exemplar immigrant investor petition.
+
+H3: 2. Actual Projects
+
+Applications for regional center designation based on actual projects may require more details than a hypothetical project to demonstrate that the proposal contains verifiable details and is supported by economically or statistically sound forecasting tools. A regional center applicant seeking review of an actual project should clarify in the Form I-924 submission that the project is actual.
+
+Actual projects require aMatter of Ho (PDF)compliant comprehensive business plan that provides verifiable detail on how jobs will be created. Absent fraud, willful misrepresentation, or a legal deficiency,[11]USCIS defers to prior determinations based on actual projects when evaluating subsequent filings under the project involving the same material facts and issues.
+
+Organizational and transactional documents for the new commercial enterprise are not required. If a regional center applicant desires review of organizational and transactional documents for program compliance, the regional center application must be accompanied by an exemplar Form I-526 immigrant investor petition.
+
+If regional center applicants opt not to file a Form I-924 amendment, the investor should identify his or her Form I-526 immigrant investor petition as an actual project being presented for the first time. Additionally, the immigrant petition should contain an affirmative statement signed by a regional center principal confirming that the regional center is aware of the specific project being presented for the first time as part of the immigrant investor petition.
+
+In cases where the regional center application is filed based on actual projects that do not contain sufficient verifiable detail, USCIS may approve the projects as hypothetical projects if they contain the requisite general proposals and predictions. The projects approved as hypotheticals, however, do not receive deference in subsequent filings.
+
+In cases where some projects are approvable as actual projects, and others are not approvable or only approvable as hypothetical projects, the approval notice should identify which projects have been approved as actual projects and will be accorded deference. The approval notice should also identify projects that have been approved as hypothetical projects but will not be accorded deference.
+
+H3: 3. Exemplar Filings
+
+Regional center applications, based on actual projects, including a Form I-526 immigrant investor exemplar petition, require more details than a hypothetical or actual project submitted without an exemplar. A regional center applicant seeking review of an exemplar should state that the project is an actual project with a Form I-526 exemplar.
+
+Exemplar filings require aMatter of Ho (PDF)compliant comprehensive business plan that provides verifiable detail on how jobs will be created, as well as organizational and transactional documents for the new commercial enterprise.
+
+Absent fraud, willful misrepresentation, or a legal deficiency, officer determinations based on exemplar filings are accorded deference in subsequent filings under the project with the same material facts and issues.
+
+While an amended Form I-924 is not required to perfect a hypothetical project once the actual project details are available, some applicants may choose to file an amended Form I-924 application with a Form I-526 exemplar to obtain a favorable determination. These exemplar filings are accorded deference in subsequent related filings, absent material change, fraud, willful misrepresentation, or a legally deficient determination.
+
+H2: C. Regional Center Annual Reporting
+
+Designated regional centers must file a Supplement to Form I-924 (Form I-924A) annually that demonstrates continued eligibility for designation as a regional center in the EB-5 Program.[12]The regional center must file the form within 90 days of the end of the fiscal year (between October 1 and December 29). The Form I-924A instructions specifically list required information that must be submitted.[13]
+
+If the regional center fails to file the required annual report, USCIS issues a Notice of Intent to Terminate (NOIT) to the regional center for failing to provide the required information. This may ultimately result in the termination of the regional center’s designation if the regional center fails to respond or does not file a response which adequately demonstrates continued eligibility.
+
+H2: D. Regional Center Amendments
+
+Because businesses’ strategies constantly evolve, with new opportunities identified and existing plans improved, a regional center may amend a previously approved designation. The Form I-924 instructions provide information regarding the submission of regional center amendment requests.[14]
+
+To improve processing efficiencies and predictability in subsequent filings, many regional centers may seek to amend the Form I-924 approval to reflect changes in economic analysis and job creation estimates. Such amendments, however, are not required in order for individual investors to proceed with filing the immigrant petitions or petitions to remove conditions on residence based on the additional jobs created, or to be created, in additional industries.
+
+Formal amendments to an approved regional center’s designation are not required when a regional center changes its industries of focus, business plans, or economic methodologies; however, a regional center may find it advantageous to seek USCIS approval of such changes before they are adjudicated in individual immigrant investor petitions.
+
+Requests to Change Geographic Area
+
+When a regional center requests to expand its geographic area, the proposed geographic area must be limited, contiguous, and consistent with the purpose of concentrating pooled investment in defined economic zones.[15]​
+
+Any requests for geographic area expansion made on or after February 22, 2017 are adjudicated under the current guidance in the Form I-924 instructions which requires that a Form I-924 amendment must be filed, and approved, to expand the regional center’s geographic area. The Form I-924 amendment must be approved before an I-526 petitioner may demonstrate eligibility at the time of filing his or her petition based on an investment in the expanded area.
+
+If the regional center’s geographic area expansion request was submitted either through a Form I-924 amendment or Form I-526 petition filed prior to February 22, 2017, and the request is ultimately approved, USCIS will continue to adjudicate additional Form I-526 petitions associated with investments in that area under prior policy guidance issued on May 30, 2013.[16]That policy did not require a formal amendment to expand a regional center’s geographic area, and permitted concurrent filing of the Form I-526 prior to approval of the geographic area amendment.
+
+H2: E. Termination of a Regional Center Designation
+
+USCIS issues a NOIT if:
+
+- USCIS determines that a regional center no longer serves the purpose of promoting economic growth, including increased export sales, improved regional productivity, job creation, and increased domestic capital investment; or
+
+- The regional center fails to submit required information to USCIS.[17]
+
+USCIS determines that a regional center no longer serves the purpose of promoting economic growth, including increased export sales, improved regional productivity, job creation, and increased domestic capital investment; or
+
+The regional center fails to submit required information to USCIS.[17]
+
+The NOIT will provide the grounds for termination and provide at least 30 days from receipt of the NOIT for the regional center to respond to the allegations in the NOIT. The regional center may offer evidence to contest the allegations in the NOIT. If the regional center overcomes the allegations in the NOIT, USCIS issues a Notice of Reaffirmation that affirms the regional center’s designation.
+
+If the regional center fails to overcome the allegations in the NOIT, USCIS terminates the regional center’s participation in the Regional Center Program. In this case, USCIS notifies the regional center of the termination, the reasons for termination, and the right to file a motion, appeal, or both. The regional center may appeal the decision to USCIS’ Administrative Appeals Office within 30 days after service of notice (33 days, if the notice was mailed).[18]
+
+H2: Footnotes
+
+[^ 1]For a definition of indirect jobs, see Chapter 2, Eligibility Requirements, Section D, Creation of Jobs, Subsection 4, Measuring Job Creation [6 USCIS-PM G.2(D)(4)].
+
+[^ 2]See Section 610(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993, Pub. L. 102-395, 106 Stat. 1828, 1874 (October 6, 1992), as amended.
+
+[^ 3]An applicant can submit a general prediction which addresses the prospective impact of the capital investment projects sponsored by the regional center, regionally or nationally. See Form I-924 instructions.
+
+[^ 4]See 8 CFR 204.6(m)(3).
+
+[^ 5]For more information about the types of regional center projects, see Section B, Types of Regional Center Projects [6 USCIS-PM G.3(B)].
+
+[^ 6]See Section 610(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act of 1993, Pub. L. 102-395, 106 Stat. 1828, 1874 (October 6, 1992), as amended. See 8 CFR 204.6(m)(3)(i) (requiring a clear description of how the regional center focuses on a geographical region of the United States and how it will promote economic growth).
+
+[^ 7]See Section 610(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act of 1993, Pub. L. 102-395, 106 Stat. 1828, 1874 (October 6, 1992), as amended.
+
+[^ 8]See Section 610(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act of 1993, Pub. L. 102-395, 106 Stat. 1828, 1874 (October 6, 1992), as amended. See 8 CFR 204.6(m)(3)(i).
+
+[^ 9]See 8 CFR 204.6(m)(3).
+
+[^ 10]See Chapter 2, Eligibility Requirements, Section B, Comprehensive Business Plan [6 USCIS-PM G.2(B)].
+
+[^ 11]Legal deficiency includes objective mistakes of law or fact made as part of the USCIS adjudication.
+
+[^ 12]See 8 CFR 204.6(m)(6).
+
+[^ 13]See Form I-924A instructions.
+
+[^ 14]See Form I-924 instructions.
+
+[^ 15]For a discussion of an officer’s review of a regional center’s proposed geographic area, see Section A, Regional Center Application Proposals [6 USCIS-PM G.3(A)].
+
+[^ 16]See EB-5 Adjudication Policy Memo, PM-602-0083, issued May 30, 2013.
+
+[^ 17]See 8 CFR 204.6(m)(6).
+
+[^ 18]See 8 CFR 103.3. See 8 CFR 204.6(m)(6).
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address the new provisions added to the Immigration and Nationality Act (INA) by the EB-5 Reform and Integrity Act of 2022 (RIA) relating to the consequences to regional centers, new commercial enterprises, job creating entities, and investors for noncompliance in the EB-5 program.
+
+6 USCIS-PM G.3-Chapter 3 - Immigrant Petition Adjudication
+
+6 USCIS-PM G.4-Chapter 4 - Regional Center Applications
+
+6 USCIS-PM G.5-Chapter 5 - Project Applications
+
+6 USCIS-PM G.8-Chapter 8 - Sanctions and Discretionary Determinations
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to continue to incorporate statutory reforms of the Regional Center Program as they relate to regional center designation and other requirements for immigrant investors.
+
+6 USCIS-PM G-Part G - Investors
+
+This technical update to Volume 6 alerts readers to the passage of the EB-5 Reform and Integrity Act of 2022, which authorizes an EB-5 Immigrant Investor Regional Center Program and includes various implementation effective dates for the program. The alert boxes refer readers to uscis.gov for the latest information on the implementation of that law. In addition, this update reserves and moves all of the content in Chapter 3 (Regional Center Designation, Reporting, Amendments, and Termination) to an appendix (Regional Center Program Prior to March 15, 2022) as Congress repealed that program.
+
+6 USCIS-PM G.1-Chapter 1 - Purpose and Background
+
+6 USCIS-PM G.2-Chapter 2 - Immigrant Petition Eligibility Requirements
+
+6 USCIS-PM G.3-Chapter 3 - Immigrant Petition Adjudication
+
+6 USCIS-PM G.4-Chapter 4 - Regional Center Applications
+
+6 USCIS-PM G.5-Chapter 5 - Project Applications
+
+This technical update explains that on June 22, 2021, the U.S. District Court for the Northern District of California, inBehring Regional Center LLC v. Wolf, 20-cv-09263-JSC, vacated theEB-5 Immigrant Investor Program Modernization Final Rule                             (PDF). While USCIS considers this decision, USCIS will apply the EB-5 regulations and policies that were in effect before the rule was finalized on November 21, 2019.
+
+6 USCIS-PM G.1-Chapter 1 - Purpose and Background
+
+6 USCIS-PM G.2-Chapter 2 - Immigrant Petition Eligibility Requirements
+
+6 USCIS-PM G.3-Chapter 3 - Immigrant Petition Adjudication
+
+6 USCIS-PM G.4-Chapter 4 - Regional Center Applications
+
+6 USCIS-PM G.5-Chapter 5 - Project Applications
+
+7 USCIS-PM A.6-Chapter 6 - Adjudicative Review
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating guidance in the USCIS Policy Manual regarding a regional center’s geographic area, requests to expand the geographic area, and how such requests impact the filing of Form I-526, Immigrant Petition by Alien Entrepreneur.
+
+6 USCIS-PM G-Part G - Investors
+
+U.S. Citizenship and Immigration Services (USCIS) is updating the USCIS Policy Manual to provide further guidance regarding the job creation and capital at risk requirements for Form I-526, Immigrant Petition by Alien Entrepreneur, and Form I-829, Petition by Entrepreneur to Remove Conditions on Permanent Resident Status.
+
+6 USCIS-PM G-Part G - Investors
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance regarding the eligibility requirements for regional centers and immigrant investors.
+
+6 USCIS-PM G-Part G - Investors

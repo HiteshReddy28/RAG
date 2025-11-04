@@ -1,0 +1,1689 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+      
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+    <nav aria-labelledby="block-uscis-design-mainnavigation-menu" id="block-uscis-design-mainnavigation">
+            
+  <div class="visually-hidden" id="block-uscis-design-mainnavigation-menu">Main navigation</div>
+  
+
+        
+<a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+
+      <ul class="menu--main leftnav-menu" data-level="0">
+          <li class="menu__item-title leftnav-menu__item leftnav-menu__item--0 has-sub-items" data-id="id12916"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central" class="leftnav-menu__link leftnav-menu__title" data-drupal-link-system-path="node/41488">I-9 Central</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for I-9 Central" aria-controls="id12916" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="id12916"><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id36246"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-related-news" class="leftnav-menu__link" data-drupal-link-system-path="node/42097">Form I-9 Related News</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id12966"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/completing-form-i-9" class="leftnav-menu__link" data-drupal-link-system-path="node/41447">Completing Form I-9</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Completing Form I-9" aria-controls="id12966" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id12966"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34277"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/completing-form-i-9/completing-supplement-b-reverification-and-rehires-formerly-section-3" class="leftnav-menu__link" data-drupal-link-system-path="node/41412">Completing Supplement B, Reverification and Rehires (formerly Section 3)</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34271"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/completing-form-i-9/completing-section-1-employee-information-and-attestation" class="leftnav-menu__link" data-drupal-link-system-path="node/41765">Completing Section 1, Employee Information and Attestation</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34274"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/completing-form-i-9/completing-section-2-employer-review-and-attestation" class="leftnav-menu__link" data-drupal-link-system-path="node/41670">Completing Section 2, Employer Review and Attestation</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41135"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/completing-form-i-9/exceptions" class="leftnav-menu__link" data-drupal-link-system-path="node/94794">Exceptions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13211"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/completing-form-i-9/retention-and-storage" class="leftnav-menu__link" data-drupal-link-system-path="node/41577">Retention and Storage</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13265"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/completing-form-i-9/self-audits-and-correcting-mistakes" class="leftnav-menu__link" data-drupal-link-system-path="node/41550">Self-Audits and Correcting Mistakes</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13496"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/completing-form-i-9/special-rules-for-e-verify-users" class="leftnav-menu__link" data-drupal-link-system-path="node/42009">Special Rules for E-Verify Users</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13423"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-acceptable-documents" class="leftnav-menu__link" data-drupal-link-system-path="node/41814">Form I-9 Acceptable Documents</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Form I-9 Acceptable Documents" aria-controls="id13423" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13423"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13426"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-acceptable-documents/receipts" class="leftnav-menu__link" data-drupal-link-system-path="node/41575">Receipts</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id35440"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-acceptable-documents/who-is-issued-this-document" class="leftnav-menu__link" data-drupal-link-system-path="node/41570">Who is Issued This Document?</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13421"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-acceptable-documents/combination-documents" class="leftnav-menu__link" data-drupal-link-system-path="node/42020">Combination Documents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25758"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-acceptable-documents/employment-authorization-extensions" class="leftnav-menu__link" data-drupal-link-system-path="node/76500">Employment Authorization Extensions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13422"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-acceptable-documents/examining-documents" class="leftnav-menu__link" data-drupal-link-system-path="node/41692">Examining Documents</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id41136"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/special-employment-categories" class="leftnav-menu__link" data-drupal-link-system-path="node/94795">Special Employment Categories</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Special Employment Categories" aria-controls="id41136" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id41136"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41494"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/special-employment-categories/guidance-for-certain-afghan-nationals-to-maintain-parole-and-employment-authorization-for-up-to-two" class="leftnav-menu__link" data-drupal-link-system-path="node/96350">Afghan Employees with Parole</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id42153"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/special-employment-categories/ukrainian-parolees-and-their-immediate-family-members" class="leftnav-menu__link" data-drupal-link-system-path="node/97114">Ukrainian Employees with Parole</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id41465"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/remote-examination-of-documents" class="leftnav-menu__link" data-drupal-link-system-path="node/96227">Remote Examination of Documents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13213"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/employee-rights-and-resources/employee-rights" class="leftnav-menu__link" data-drupal-link-system-path="node/42035">Employee Rights and Resources</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Employee Rights and Resources" aria-controls="id13213" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13213"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13215"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/employee-rights-and-resources/preventing-discrimination" class="leftnav-menu__link" data-drupal-link-system-path="node/41895">Preventing Discrimination</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13214"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/employee-rights-and-resources/filing-a-discrimination-claim" class="leftnav-menu__link" data-drupal-link-system-path="node/42211">Filing a Discrimination Claim</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13497"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-resources/statutes-and-regulations" class="leftnav-menu__link" data-drupal-link-system-path="node/41597">Legal Requirements and Enforcement</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Legal Requirements and Enforcement" aria-controls="id13497" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13497"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13210"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/legal-requirements-and-enforcement/inspections" class="leftnav-menu__link" data-drupal-link-system-path="node/41354">Form I-9 Inspections</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12970"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/legal-requirements-and-enforcement/penalties" class="leftnav-menu__link" data-drupal-link-system-path="node/41967">Penalties</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items leftnav-menu__active-trail" data-id="id34474"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-resources" class="leftnav-menu__link" data-drupal-link-system-path="node/89065">Form I-9 Resources</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Form I-9 Resources" aria-controls="id34474" aria-expanded="true" role="button"><i class="fas fa-chevron-up"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2" data-level="2" id="id34474"><li class="leftnav-menu__item leftnav-menu__item--2 leftnav-menu__active-trail" data-id="id534"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/eadautoextend" class="leftnav-menu__link" data-drupal-link-system-path="node/56451">EAD Automatic Extension</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34247"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274" class="leftnav-menu__link" data-drupal-link-system-path="node/59502">Handbook for Employers M-274</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34048"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-resources/employment-eligibility-webinars" class="leftnav-menu__link" data-drupal-link-system-path="node/81935">Employment Eligibility Webinars</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12969"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-resources/questions-and-answers" class="leftnav-menu__link" data-drupal-link-system-path="node/42186">I-9 Central Questions &amp; Answers</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41636"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-and-e-verify-guidance-for-those-affected-by-emergencies-and-unforeseen-circumstances" class="leftnav-menu__link" data-drupal-link-system-path="node/96705">Emergencies and Unforeseen Circumstances</a></div></div></li></ul></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id41208"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-related-news/policy-related-news-archive" class="leftnav-menu__link" data-drupal-link-system-path="node/95098">Policy &amp; Related News Archive</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id12967"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/i-9-central/form-i-9-contact-us" class="leftnav-menu__link" data-drupal-link-system-path="node/41338">Form I-9 Contact Us</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id407"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="https://www.e-verify.gov" class="leftnav-menu__link" data-drupal-link-system-path="node/67490">E-Verify</a></div></div></li></ul></li>    
+    </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                            <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/i-9-central">I-9 Central</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/i-9-central/form-i-9-resources">Form I-9 Resources</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/eadautoextend">EAD Automatic Extension</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Automatic Employment Authorization Document (EAD) Extension (Arabic)</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-article">
+      <div class="container container--main" lang="ar" dir="rtl">
+                
+
+                        
+            <h1 class="page-title js-page-title">
+              (EAD) "التمديد التلقائي لـ "وثيقة ترخيص العمل            </h1>
+          
+              
+                    
+          <div class="translations-section">
+      <div class="views-element-container">
+
+<div class="container container--views content-translations-links default content-translations-links-default js-view-dom-id-dfd9817b0908bc7e651d3f892dfb639ddaf155dba80d94a1cf4f05bb07518bca hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+      <div class="translations popup-root" dir="ltr">  <ul class="translation-links">
+          <li class="translation-link translation-link--en">
+        <a href="https://www.uscis.gov/eadautoextend" lang="en" dir="ltr">English</a>
+      </li>
+      </ul>
+
+        <ul class="translation-links view--link">      <li class="translation-link popup-content__menu-item">
+            
+      <span class="lang-text lang-text--plain popup-content__menu-item__text" lang="ar" dir="rtl">لعربية</span>
+  </li>
+      <li class="translation-link popup-content__menu-item">
+            
+      <a href="/working-in-the-united-states/information-for-employers-and-employees/automatic-employment-authorization-document-ead-extension/automatic-employment-authorization-document-ead-extension-chinese" class="lang-link" lang="zh">中文</a>
+  </li>
+</ul>
+      <a href="#language-toggle" class="language-toggle js-popup-toggle" data-ind-down="fa-chevron-down" data-ind-up="fa-chevron-up">
+      <i class="fal fa-globe" role="presentation"></i>
+      <i class="fas fa-chevron-down"></i>
+      <span class="visually-hidden">View additional languages</span>
+    </a>
+    <div class="translation-links-dropdown hidden js-popup-content popup-content">
+      <ul class="popup-content__menu-items">          <li class="translation-link popup-content__menu-item">
+            
+      <a href="/working-in-the-united-states/information-for-employers-and-employees/automatic-employment-authorization-document-ead-extension-creole" class="lang-link" lang="ht">Creole</a>
+  </li>
+          <li class="translation-link popup-content__menu-item">
+            
+      <a href="/working-in-the-united-states/information-for-employers-and-employees/automatic-employment-authorization-document-ead-extension-french" class="lang-link" lang="fr">Français</a>
+  </li>
+          <li class="translation-link popup-content__menu-item">
+            
+      <a href="/working-in-the-united-states/information-for-employers-and-employees/automatic-employment-authorization-document-ead-extension-portuguese" class="lang-link" lang="pt">Português</a>
+  </li>
+</ul>
+    </div>
+  
+</div>
+
+  
+  
+  
+  
+</div>
+</div>
+
+    </div>
+  
+  <div lang="ar" dir="rtl">
+                      <div class="clearfix text-formatted field field--name-body field__item"><div style="font-size:1.25rem;" dir="rtl" lang="ar">
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p dir="RTL"><strong>تنبيه:</strong> إذا قمت بتقديم النموذج I-765 بناء على منح وضع محمي المؤقت (TPS) أو طلب TPS معلق، فيرجى الاطلاع على قسم الوضع المحمي المؤقت (TPS) أدناه للحصول على مزيد من المعلومات عن المتطلبات الخاصة بـ TPS لتمديد EAD.</p>
+          </div>
+      </div>
+</div>
+<p dir="RTL">إذا قمت بتقديم النموذج I-765، طلب حصول على إذن عمل لتجديد وثيقة تصريح العمل (EAD) المنتهية الصلاحية، فقد تكون مؤهلا للحصول على تمديد تلقائي لتاريخ انتهاء الصلاحية المطبوع على وثيقة تصريح العمل الخاصة بك أثناء انتظار طلبك. أنت مؤهل للحصول على هذا التمديد التلقائي إذا:</p><ul><li dir="RTL">يحتوي إشعار إيصال النموذج I-797C، المسمى إشعار بإجراء، الذي تلقيته لطلب تجديد النموذج I-765 المعلق الخاص بك على "تاريخ الاستلام" قبل تاريخ "انتهاء صلاحية البطاقة" الموضح على وجه وثيقة تصريح العمل (EAD)  الخاصة بك،</li><li dir="RTL">كان النموذج I-797C، إشعار الإجراء، إشعار الإيصال يحتوي على "تاريخ الاستلام" في 4 مايو/أيار 2022 أو بعده، وفي 30 سبتمبر/أيلول 2025 أو قبله،</li><li dir="RTL">كان طلب التجديد الخاص بك يندرج ضمن فئة مؤهلة للتمديد التلقائي (انظر قائمة الفئات أدناه)، <strong>وكذلك</strong></li><li dir="RTL">كانت تتطابق الفئة الموجودة في تصريح العمل الحالي الخاص بك مع "فئة الأهلية" أو "الفئة المطلوبة" المدرجة في نموذج I-797C، إشعار الإجراء، إشعار الإيصال. (يسرد الجدول أدناه استثناءات لفئات معينة.)</li></ul><p dir="RTL">إذا كانت جميع العوامل المذكورة أعلاه صحيحة، <strong>فلن</strong> تنتهي صلاحية تصريح العمل الخاص بك في التاريخ المطبوع على تصريح العمل الخاص بك لأنك حصلت على تمديد تلقائي. لتحديد <strong>تاريخ انتهاء صلاحية تصريح العمل الفعلي</strong> الخاص بك، يرجى الاطلاع على "حاسبة أهلية التمديد التلقائي" أدناه.</p><div class="content-accordion"><div class="accordion__header" tabindex="0"><strong>الفئات المؤهلة لتمديدات EAD التلقائية</strong></div><div class="accordion__panel"><table><tbody><tr><td><strong>"الفئة المطلوبة" أو "فئة الأهلية" في نموذج </strong>I-797C<strong> الخاص بك، إشعار الإجراء، إشعار الإيصال لطلب تجديد نموذج </strong>I-765<strong> الخاص بك</strong></td><td><strong>وصف</strong></td><td><strong>مدة التمديد</strong></td></tr><tr><td>A03</td><td>لاجئ</td><td>حتى 540 يوما</td></tr><tr><td>A05</td><td>طالب لجوء</td><td>حتى 540 يوما</td></tr><tr><td>A07</td><td>N-8 أو N-9</td><td>حتى 540 يوما</td></tr><tr><td>A08</td><td>مواطن من ميكرونيزيا أو جزر مارشال أو بالاو</td><td>حتى 540 يوما</td></tr><tr><td>A10</td><td>تم منحه حق حجب الترحيل أو الإبعاد</td><td>حتى 540 يوما</td></tr><tr><td>A12</td><td>  (TPS)تم منحه حق الوضع المحمي المؤقت </td><td>حتى 540 يوما، (راجع قسم TPS أدناه لمزيد من المعلومات)</td></tr><tr><td>A17</td><td>زوج/زوجة غير مهاجر من الفئة E يحمل وثيقة I-94 سارية المفعول تُظهر حالة غير مهاجر من الفئة E(بما في ذلك E-1S وE-2S وE-3S) وضع غير مهاجر</td><td><p class="text-align-center" dir="RTL">حتى 540 يوما، أو تاريخ انتهاء الصلاحية على</p><p>I-94، أيهما أقرب</p></td></tr><tr><td>A18</td><td>زوج/زوجة غير مهاجر من الفئة L-1 يحمل وثيقة I-94 سارية المفعول تُظهر حالة غير مهاجر من الفئة L-2 (بما في ذلك L-2S) وضع غير مهاجر</td><td><p class="text-align-center" dir="RTL">حتى 540 يوما، أو تاريخ انتهاء الصلاحية على</p><p>I-94، أيهما أقرب</p></td></tr><tr><td>C08</td><td>طلب اللجوء معلق</td><td>حتى 540 يوما</td></tr><tr><td>C09</td><td>في انتظار تعديل الحالة بموجب القسم 245 من القانون</td><td>حتى 540 يوما</td></tr><tr><td>C10</td><td>تعليق طلبات الترحيل (المقدمة قبل 1 ابريل/نيسان 1997)</td><td>حتى 540 يوما</td></tr><tr><td>C16</td><td>إنشاء سجل (تعديل على أساس الإقامة المستمرة منذ 1 يناير/كانون الثاني 1972)</td><td>حتى 540 يوما</td></tr><tr><td>C19</td><td>قررت دائرة خدمات المواطنة والهجرة الأمريكية أن مقدم الطلب مؤهل ظاهريا للحصول على وضع الحماية المؤقتة ويمكنه الحصول على EAD كـ "ميزة علاج مؤقتة"</td><td>حتى 540 يوما (راجع قسم TPS أدناه لمزيد من المعلومات)</td></tr><tr><td>C20</td><td>التسوية القانونية بموجب القسم 210 في انتظار (I-700)</td><td>حتى 540 يوما</td></tr><tr><td>C22</td><td>إضفاء الشرعية على القسم 245A في انتظار (I-687)</td><td>حتى 540 يوما</td></tr><tr><td>C24</td><td> تشريع وفق LIFE</td><td>حتى 540 يوما</td></tr><tr><td>C26</td><td>أزواج بعض غير المهاجرين الرئيسيين من حاملي تأشيرةH-1B الذين يحملون تأشيرة I-94 سارية المفعول تُظهر حالة غير المهاجرين من حاملي تأشيرة  H-4</td><td><p class="text-align-center" dir="RTL">حتى 540 يوما، أو تاريخ انتهاء الصلاحية على</p><p>I-94، أيهما أقرب</p></td></tr><tr><td>C31</td><td>حاملوVAWA المتقدمون بطلبات بأنفسهم </td><td>حتى 540 يوما</td></tr></tbody></table></div><div class="accordion__header" tabindex="0"><strong>حاسبة تأهل التمديد التلقائي</strong></div><div class="accordion__panel"><p dir="RTL">للتأكد من أنك تستوفي متطلبات الأهلية لتمديد وثيقة تصريح العمل (EAD)  التلقائي، استخدم الآلة الحاسبة أدناه. ستحدد الآلة الحاسبة أيضا تاريخ انتهاء صلاحية تصريح العمل التلقائي الممتد الخاص بك. ملاحظة: هذه الآلة الحاسبة متاحة باللغتين الإنجليزية والإسبانية فقط.</p><p dir="RTL">ستحتاج إلى وثيقة تصريح العمل (EAD) الحالي (منتهي الصلاحية أو غير منتهي الصلاحية) والنموذج I-797C، إشعار الإجراء، إشعار استلام النموذج I-765 الخاص بك لاستخدام الآلة الحاسبة. إذا كنت تقدم الطلب بموجب رموز فئة تصريح العمل A17 أو A18 أو C26، فستحتاج أيضا إلى النموذج I-94 غير منتهي الصلاحية.</p><div data-entity-type="webform" data-entity-uuid="3a519d6c-46c5-45cc-95b7-c6f6d075a585" data-embed-button="webform_embed" data-entity-embed-display="entity_reference:entity_reference_entity_view" data-entity-embed-display-settings='{"view_mode":"default"}' data-langcode="en" class="embedded-entity"><form class="webform-submission-form webform-submission-add-form webform-submission-ead-auto-extension-tfr-form webform-submission-ead-auto-extension-tfr-add-form webform-submission-ead-auto-extension-tfr-node-94090-form webform-submission-ead-auto-extension-tfr-node-94090-add-form js-webform-details-toggle webform-details-toggle usa-form" data-drupal-selector="webform-submission-ead-auto-extension-tfr-node-94090-add-form" action="/working-in-the-united-states/information-for-employers-and-employees/automatic-employment-authorization-document-ead-extension-arabic" method="post" id="webform-submission-ead-auto-extension-tfr-node-94090-add-form" accept-charset="UTF-8">
+  
+  <div class="usa-form-group js-form-item form-item js-form-type-select form-item-eligibility-category-code js-form-item-eligibility-category-code">
+        <label for="edit-eligibility-category-code" class="usa-input--required js-form-required form-required form-label"><span class="form-label__title">Which Eligibility Category Code is listed on your Form I-797C, Receipt Notice?</span></label>
+          <div class="select-wrapper" data-select-name="eligibility_category_code"><select data-drupal-selector="edit-eligibility-category-code" data-msg-required="Which Eligibility Category Code is listed on your Form I-797C, Receipt Notice? field is required." id="edit-eligibility-category-code" name="eligibility_category_code" class="form-select required form-select-single" required="required" aria-required="true" data-label="Which Eligibility Category Code is listed on your Form I-797C, Receipt Notice?" data-width="100%"><option value selected>- Select -</option><option value="A03">A03 (Refugee)</option><option value="A05">A05 (Asylee)</option><option value="A07">A07 (N-8 or N-9)</option><option value="A08">A08 (Citizen of Micronesia, Marshall Islands, or Palau)</option><option value="A10">A10 (Withholding of Deportation or Removal Granted)</option><option value="A12">A12 (Temporary Protected Status (TPS) Granted)</option><option value="A17">A17 (Spouse of principal E nonimmigrant with an unexpired I-94 showing E (including E-1S, E-2S and E-3S) nonimmigrant status)</option><option value="A18">A18 (Spouse of principal L-1 Nonimmigrant with an unexpired I-94 showing L-2 (including L-2S) nonimmigrant status)</option><option value="C08">C08 (Asylum Application Pending)</option><option value="C09">C09 (Pending Adjustment of Status under Section 245 of the Act)</option><option value="C10">C10 (Suspension of Deportation Applicants (filed before April 1, 1997), Cancellation of Removal Applicants, Special Rule Cancellation of Removal Applicants Under NACARA)</option><option value="C16">C16 (Creation of Record (Adjustment Based on Continuous Residence Since January 1, 1972))</option><option value="C19">C19 (Pending initial application for TPS where USCIS determines applicant is prima facie eligible for TPS and can receive an EAD as a "temporary treatment benefit")</option><option value="C20">C20 (Section 210 Legalization (pending I-700))</option><option value="C22">C22 (Section 245A Legalization (pending I-687))</option><option value="C24">C24 (LIFE Legalization)</option><option value="C26">C26 (Spouses of certain H-1B principal nonimmigrants with an unexpired I-94 showing H-4 nonimmigrant status)</option><option value="C31">C31 (VAWA Self-Petitioners)</option><option value="NA01">Another category</option></select></div>
+      </div>
+<div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"NA01"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-not-eligible-category-code">
+          
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p>Your category is not eligible for the up to 540-day automatic extension.</p>
+          </div>
+      </div>
+</div>
+
+      </div>
+</div><fieldset style="display: none" data-drupal-selector="edit-eligibility-category-code-match" id="edit-eligibility-category-code-match--wrapper" class="radios--wrapper fieldgroup form-composite webform-composite-visible-title js-webform-type-radios webform-type-radios usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-drupal-states='{"invisible":[{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"empty":true}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A12"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A17"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A18"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"C19"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"C26"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"NA01"}}]}'>
+      <legend id="edit-eligibility-category-code-match--wrapper-legend" class="usa-legend">
+    <span class="fieldset-legend">Does the Eligibility Category Code on your Form I-797C, Receipt Notice match the Category on your expired or expiring EAD?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-eligibility-category-code-match" class="js-webform-radios webform-options-display-one-column form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-eligibility-category-code-match js-form-item-eligibility-category-code-match">
+          <input style="display: none" data-drupal-selector="edit-eligibility-category-code-match-yes" type="radio" id="edit-eligibility-category-code-match-yes" name="eligibility_category_code_match" value="yes" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-eligibility-category-code-match-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-eligibility-category-code-match js-form-item-eligibility-category-code-match">
+          <input style="display: none" data-drupal-selector="edit-eligibility-category-code-match-no" type="radio" id="edit-eligibility-category-code-match-no" name="eligibility_category_code_match" value="no" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-eligibility-category-code-match-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code_match\u0022]":{"value":"no"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-not-eligible-auto-extension">
+          
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p>You are not eligible for the up to 540-day automatic extension. Applicants must renew their EAD under the same classification to be eligible.</p>
+          </div>
+      </div>
+</div>
+
+      </div>
+</div><fieldset data-drupal-selector="edit-notice-action-received-after" class="js-webform-states-hidden radios--wrapper fieldgroup form-composite webform-composite-visible-title js-webform-type-radios webform-type-radios usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" id="edit-notice-action-received-after--wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code_match\u0022]":{"value":"yes"}}}'>
+      <legend id="edit-notice-action-received-after--wrapper-legend" class="usa-legend">
+    <span class="fieldset-legend">Does your Form I-797C, Notice of Action, have a "Received Date" on or after May 4, 2022?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-notice-action-received-after" class="js-webform-radios webform-options-display-one-column form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-notice-action-received-after js-form-item-notice-action-received-after">
+          <input data-drupal-selector="edit-notice-action-received-after-yes" type="radio" id="edit-notice-action-received-after-yes" name="notice_action_received_after" value="yes" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-notice-action-received-after-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-notice-action-received-after js-form-item-notice-action-received-after">
+          <input data-drupal-selector="edit-notice-action-received-after-no" type="radio" id="edit-notice-action-received-after-no" name="notice_action_received_after" value="no" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-notice-action-received-after-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022notice_action_received_after\u0022]":{"value":"no"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-received-date-not-eligible-extension">
+          
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p>You are not eligible for the up to 540-day automatic extension.</p>
+          </div>
+      </div>
+</div>
+
+      </div>
+</div><fieldset data-drupal-selector="edit-spouse-category-match" class="js-webform-states-hidden radios--wrapper fieldgroup form-composite webform-composite-visible-title js-webform-type-radios webform-type-radios usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" id="edit-spouse-category-match--wrapper" data-drupal-states='{"visible":[{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A17"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A18"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"C26"}}]}'>
+      <legend id="edit-spouse-category-match--wrapper-legend" class="usa-legend">
+    <span class="fieldset-legend">Does the Eligibility Category Code on your Form I-797C, Receipt Notice match the Category on your expired or expiring EAD?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-spouse-category-match" class="js-webform-radios webform-options-display-one-column form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-spouse-category-match js-form-item-spouse-category-match">
+          <input data-drupal-selector="edit-spouse-category-match-yes" type="radio" id="edit-spouse-category-match-yes" name="spouse_category_match" value="yes" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-spouse-category-match-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-spouse-category-match js-form-item-spouse-category-match">
+          <input data-drupal-selector="edit-spouse-category-match-no" type="radio" id="edit-spouse-category-match-no" name="spouse_category_match" value="no" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-spouse-category-match-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022spouse_category_match\u0022]":{"value":"no"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-spouse-not-eligible-auto-extension">
+          
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p>You are not eligible for the up to 540-day automatic extension. Applicants must renew their EAD under the same classification to be eligible.</p>
+          </div>
+      </div>
+</div>
+
+      </div>
+</div><fieldset data-drupal-selector="edit-spouse-i797c-received-date" class="js-webform-states-hidden radios--wrapper fieldgroup form-composite webform-composite-visible-title js-webform-type-radios webform-type-radios usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" id="edit-spouse-i797c-received-date--wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022spouse_category_match\u0022]":{"value":"yes"}}}'>
+      <legend id="edit-spouse-i797c-received-date--wrapper-legend" class="usa-legend">
+    <span class="fieldset-legend">Does your Form I-797C, Notice of Action, have a "Received Date" on or after May 4, 2022?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-spouse-i797c-received-date" class="js-webform-radios webform-options-display-one-column form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-spouse-i797c-received-date js-form-item-spouse-i797c-received-date">
+          <input data-drupal-selector="edit-spouse-i797c-received-date-yes" type="radio" id="edit-spouse-i797c-received-date-yes" name="spouse_i797c_received_date" value="yes" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-spouse-i797c-received-date-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-spouse-i797c-received-date js-form-item-spouse-i797c-received-date">
+          <input data-drupal-selector="edit-spouse-i797c-received-date-no" type="radio" id="edit-spouse-i797c-received-date-no" name="spouse_i797c_received_date" value="no" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-spouse-i797c-received-date-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022spouse_i797c_received_date\u0022]":{"value":"no"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-spouse-received-date-not-eligible-extension">
+          
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p>You are not eligible for the up to 540-day automatic extension.</p>
+          </div>
+      </div>
+</div>
+
+      </div>
+</div><fieldset data-drupal-selector="edit-tps-ead-category" class="js-webform-states-hidden radios--wrapper fieldgroup form-composite webform-composite-visible-title js-webform-type-radios webform-type-radios usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" id="edit-tps-ead-category--wrapper" data-drupal-states='{"visible":[{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A12"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"C19"}}]}'>
+      <legend id="edit-tps-ead-category--wrapper-legend" class="usa-legend">
+    <span class="fieldset-legend">Is the Category on your expired or expiring EAD A12 or C19?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-tps-ead-category" class="js-webform-radios webform-options-display-one-column form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-tps-ead-category js-form-item-tps-ead-category">
+          <input data-drupal-selector="edit-tps-ead-category-yes" type="radio" id="edit-tps-ead-category-yes" name="tps_ead_category" value="yes" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-tps-ead-category-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-tps-ead-category js-form-item-tps-ead-category">
+          <input data-drupal-selector="edit-tps-ead-category-no" type="radio" id="edit-tps-ead-category-no" name="tps_ead_category" value="no" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-tps-ead-category-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022tps_ead_category\u0022]":{"value":"no"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-tps-not-eligible-auto-extension">
+          
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p>You are not eligible for the up to 540-day automatic extension. Applicants must renew their EAD under the same classification to be eligible.</p>
+          </div>
+      </div>
+</div>
+
+      </div>
+</div><fieldset data-drupal-selector="edit-tps-i797c-received-date" class="js-webform-states-hidden radios--wrapper fieldgroup form-composite webform-composite-visible-title js-webform-type-radios webform-type-radios usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" id="edit-tps-i797c-received-date--wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022tps_ead_category\u0022]":{"value":"yes"}}}'>
+      <legend id="edit-tps-i797c-received-date--wrapper-legend" class="usa-legend">
+    <span class="fieldset-legend">Does your Form I-797C, Notice of Action, have a "Received Date" on or after May 4, 2022?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-tps-i797c-received-date" class="js-webform-radios webform-options-display-one-column form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-tps-i797c-received-date js-form-item-tps-i797c-received-date">
+          <input data-drupal-selector="edit-tps-i797c-received-date-yes" type="radio" id="edit-tps-i797c-received-date-yes" name="tps_i797c_received_date" value="yes" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-tps-i797c-received-date-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-tps-i797c-received-date js-form-item-tps-i797c-received-date">
+          <input data-drupal-selector="edit-tps-i797c-received-date-no" type="radio" id="edit-tps-i797c-received-date-no" name="tps_i797c_received_date" value="no" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-tps-i797c-received-date-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022tps_i797c_received_date\u0022]":{"value":"no"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-tps-received-date-not-eligible-extension">
+          
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p>You are not eligible for the up to 540-day automatic extension.</p>
+          </div>
+      </div>
+</div>
+
+      </div>
+</div><div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022tps_i797c_received_date\u0022]":{"value":"yes"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-tps-i797c-country-re-registration-hyperlink">
+          <p>Does your Form I-797C, Notice of Action, have a "Received Date" that is during the re-registration period for your country? (Find re-registration dates on your country's page of the <a href="/humanitarian/temporary-protected-status">USCIS Temporary Protected Status</a> website.)</p>
+      </div>
+</div><fieldset data-drupal-selector="edit-tps-i797c-country-re-registration" class="js-webform-states-hidden radios--wrapper fieldgroup form-composite webform-composite-visible-title js-webform-type-radios webform-type-radios usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" id="edit-tps-i797c-country-re-registration--wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022tps_i797c_received_date\u0022]":{"value":"yes"}}}'>
+      <legend id="edit-tps-i797c-country-re-registration--wrapper-legend" class="usa-legend">
+    <span class="fieldset-legend">Does your Form I-797C, Notice of Action, have a "Received Date" that is during the re-registration period for your country?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-tps-i797c-country-re-registration" class="js-webform-radios webform-options-display-one-column form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-tps-i797c-country-re-registration js-form-item-tps-i797c-country-re-registration">
+          <input data-drupal-selector="edit-tps-i797c-country-re-registration-yes" type="radio" id="edit-tps-i797c-country-re-registration-yes" name="tps_i797c_country_re_registration" value="yes" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-tps-i797c-country-re-registration-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-tps-i797c-country-re-registration js-form-item-tps-i797c-country-re-registration">
+          <input data-drupal-selector="edit-tps-i797c-country-re-registration-no" type="radio" id="edit-tps-i797c-country-re-registration-no" name="tps_i797c_country_re_registration" value="no" class="form-radio usa-radio__input">
+          <label class="option form-label" for="edit-tps-i797c-country-re-registration-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022tps_i797c_country_re_registration\u0022]":{"value":"no"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-tps-received-date-not-eligible-540">
+          
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p>You are not eligible for the up to 540-day automatic extension.</p>
+          </div>
+      </div>
+</div>
+
+      </div>
+</div><div class="yes-date-block js-webform-states-hidden js-form-wrapper form-wrapper" data-drupal-selector="edit-yes-response" data-drupal-states='{"visible":[{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022notice_action_received_after\u0022]":{"value":"yes"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022spouse_i797c_received_date\u0022]":{"value":"yes"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022tps_i797c_country_re_registration\u0022]":{"value":"yes"}}]}' id="edit-yes-response"><div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022notice_action_received_after\u0022]":{"value":"yes"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-yes-info">
+          <p>If the "Card Expires" date on the EAD is after the "Received Date" on the Notice of Action, enter the "Card Expires" date from the EAD. </p>
+      </div>
+</div><div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022spouse_i797c_received_date\u0022]":{"value":"yes"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-spouse-yes-info">
+          <p>If the "Card Expires" date on the EAD is after the "Received Date" on the Notice of Action, enter the "Card Expires" date from the EAD. </p>
+      </div>
+</div><div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022tps_i797c_country_re_registration\u0022]":{"value":"yes"}}}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-tps-yes-info">
+          <p>Enter the "Card Expires" date from your EAD.</p>
+      </div>
+</div><div class="date-grouping js-form-wrapper form-wrapper" data-drupal-selector="edit-yes-container" id="edit-yes-container"><div class="usa-form-group js-form-item form-item js-form-type-number form-item-yes-month js-form-item-yes-month">
+        <label for="edit-yes-month" class="form-label"><span class="form-label__title">Month</span></label>
+          <input class="input-yes-month form-number usa-input" aria-describedby="edit-yes-month--description" data-drupal-selector="edit-yes-month" data-msg-max="The value in Month has to be less than 12." data-msg-min="The value in Month has to be greater than 1." type="number" id="edit-yes-month" name="yes_month" value step="any" min="1" max="12" placeholder="MM">
+          <div class="description">
+      <div id="edit-yes-month--description" class="webform-element-description">MM</div>
+
+    </div>
+  </div>
+<div class="usa-form-group js-form-item form-item js-form-type-number form-item-yes-day js-form-item-yes-day">
+        <label for="edit-yes-day" class="form-label"><span class="form-label__title">Day</span></label>
+          <input class="input-yes-day form-number usa-input" aria-describedby="edit-yes-day--description" data-drupal-selector="edit-yes-day" data-msg-max="The value in Day has to be less than 31." data-msg-min="The value in Day has to be greater than 1." type="number" id="edit-yes-day" name="yes_day" value step="any" min="1" max="31" placeholder="DD">
+          <div class="description">
+      <div id="edit-yes-day--description" class="webform-element-description">DD</div>
+
+    </div>
+  </div>
+<div class="usa-form-group js-form-item form-item js-form-type-number form-item-yes-year js-form-item-yes-year">
+        <label for="edit-yes-year" class="form-label"><span class="form-label__title">Year</span></label>
+          <input class="input-yes-year form-number usa-input" aria-describedby="edit-yes-year--description" maxlength="4" data-drupal-selector="edit-yes-year" data-msg-maxlength="Year field has a maximum length of 4." type="number" id="edit-yes-year" name="yes_year" value step="any" placeholder="YYYY">
+          <div class="description">
+      <div id="edit-yes-year--description" class="webform-element-description">YYYY</div>
+
+    </div>
+  </div>
+</div>
+</div>
+<div class="response-block clearfix js-form-wrapper form-wrapper" style="display: none" data-drupal-selector="edit-response-container" id="edit-response-container"><div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"invisible":[{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A12"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A17"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A18"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"C19"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"C26"}}]}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-processed-text">
+          <p><strong>Employment authorization extended through:</strong></p><div class="resp-date" aria-live="assertive" id="filing-date"> </div>
+      </div>
+</div><div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":[{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A17"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A18"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"C26"}}]}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-processed-text-spouse">
+          <p><strong>Compare the I-94 date to the date below. Employment authorization is extended through whichever date is earlier.</strong></p><div class="resp-date" aria-live="assertive" id="filing-date"> </div>
+      </div>
+</div><div class="js-webform-states-hidden js-form-wrapper" data-drupal-states='{"visible":[{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"A12"}},"or",{".webform-submission-ead-auto-extension-tfr-node-94090-add-form :input[name=\u0022eligibility_category_code\u0022]":{"value":"C19"}}]}'><div class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label" id="edit-processed-text-tps">
+          <p><strong>Compare the date below to the "TPS Designated Through" date listed on your country's page of the TPS website. Employment authorization is extended through whichever date is earlier.</strong></p><div class="resp-date" aria-live="assertive" id="filing-date"> </div>
+      </div>
+</div></div>
+<div id="edit-date-calc-logic" class="usa-form-group js-form-item form-item js-form-type-processed-text form-item- js-form-item- form-no-label">
+          <div class="clearfix error error--msg validation-msg" style="display:none;" aria-atomic="true" data-invalid="Error: invalid date" id="date-alert-msg" role="alert"> </div><div><script src="/profiles/uscisd8_gov/themes/custom/uscis_design/js/date-calculator.min.js">
+      </script></div>
+      </div>
+<input autocomplete="off" data-drupal-selector="form-ik1txl6mola4rew8jke2bno8utjhtozbbhxxt6pxquc" type="hidden" name="form_build_id" value="form-iK1TXl6MOLA4reW8JKE2bnO8uTJHTOZBbhXXt6pxquc"><input data-drupal-selector="edit-webform-submission-ead-auto-extension-tfr-node-94090-add-form" type="hidden" name="form_id" value="webform_submission_ead_auto_extension_tfr_node_94090_add_form">
+
+  
+</form>
+</div>
+<p dir="RTL">كيف تعمل الآلة الحاسبة:</p><p dir="RTL">يبدأ التمديد التلقائي في اليوم التالي لتاريخ "انتهاء صلاحية البطاقة" الموجود على واجهة الـ EAD ويستمر عموما لمدة تصل إلى 540 يوما. وينتهي التمديد عندما يتلقى مقدم الطلب قرارا نهائيا بشأن طلب التجديد أو عندما تنتهي فترة 540 يوما، أيهما يأتي أولا.</p><p dir="RTL">بالنسبة للـ EADs منتهية الصلاحية أو التي على وشك الانتهاء برموز الفئة A17 وA18 وC26، لحساب تاريخ انتهاء الصلاحية الجديد:</p><ol><li dir="RTL">أضف 540 يوما إلى تاريخ "انتهاء صلاحية البطاقة" EAD.</li><li dir="RTL">قارن تاريخ التمديد التلقائي لمدة 540 يوما بتاريخ انتهاء صلاحية النموذج I-94.</li><li dir="RTL">أيهما يأتي أولا هو تاريخ انتهاء صلاحية الـ EAD الممتد تلقائيا.</li></ol><p dir="RTL"><strong>إخلاء مسؤولية:</strong> تهدف هذه الآلة الحاسبة إلى مساعدة الأفراد في تحديد تاريخ انتهاء صلاحية تصريح العمل الجديد للشخص المؤهل لتمديد تلقائي لتصريح العمل المنتهي الصلاحية الخاص به بناء على <a href="https://www.uscis.gov/newsroom/news-releases/uscis-increases-automatic-extension-of-certain-employment-authorization-documents-to-improve-access">قاعدة نهائية مؤقتة</a> والتي تعدّل كودة الأحكام الفدرالية رقم 8 CFR 274a.13(d). لا تحل الآلة الحاسبة محل المتطلب القانوني لصاحب العمل للتحقق من أهلية التوظيف لموظفيه الجدد أو الحاليين وفقا للنموذج I-9، عملية التحقق من أهلية التوظيف. يجب على الهيئات الحكومية التي تصدر مزايا/تراخيص عامة والمسجلة لاستخدام SAVE أن تستخدم SAVE للتحقق من فترات صلاحية تصريح العمل، بما في ذلك أي تمديدات تلقائية.</p></div><div class="accordion__header" tabindex="0"><strong>إثبات تمديد مستند تصريح العمل EAD التلقائي</strong></div><div class="accordion__panel"><p dir="RTL">قد يطلب صاحب العمل أو الوكالة الحكومية إثباتا بأن وثيقة تصريح العمل (EAD) قد تم تمديده تلقائيا. المتقدمون للتجديد المؤهلون للتمديد التلقائي لتصريح العمل مسؤولون عن تقديم المستندات التي تثبت استمرارهم في الحصول على تصريح عمل.</p><p dir="RTL">تصريح العمل الذي تجاوز تاريخ "انتهاء صلاحية البطاقة" الموجود على الواجهة الأمامية <strong>لا يزال ساريا</strong> عند تقديمه مع نموذج I-797C، إشعار الإجراء، إشعار الإيصال الذي يمدد فترة صلاحيته. لإثبات أن تاريخ "انتهاء صلاحية البطاقة" الموضح على تصريح العمل الخاص بك قد تم تمديده تلقائيا، يجب عليك تقديم:</p><ol><li dir="RTL">تصريح العمل الحالي الخاص بك (منتهي الصلاحية أو غير منتهي الصلاحية) مع فئة مؤهلة للتمديد التلقائي.</li></ol><ul><li dir="RTL"><u>ملاحظة</u>: إذا كان الرمز الموجود على تصريح العمل الخاص بك هو A17 أو A18 أو C26، فيجب عليك أيضا إظهار نموذج I-94 غير منتهي الصلاحية.</li></ul><p dir="RTL"><strong>وكذلك</strong></p><ol><li dir="RTL">سيوضح إشعار إيصال نموذج I-797C، إشعار الإجراء، أنك تقدمت في الوقت المناسب لتجديد تصريح العمل الخاص بك في نفس الفئة المؤهلة للتمديد التلقائي. يجب أن يكون إشعار الاستلام:</li></ol><ul><li dir="RTL">مؤرخا بـ "تاريخ الاستلام" في أو بعد 4 مايو/أيار 2022 حتى 30 سبتمبر/أيلول 2025، و</li><li dir="RTL">يشير إلى التمديد لمدة 180 يوما أو 540 يوما.</li></ul><p dir="RTL"><strong>ملاحظة</strong>: إذا قمت بتقديم النموذج I-765 بناء على منح TPS أو طلب TPS معلق، فيرجى الاطلاع على قسم الحالة المحمية المؤقتة (TPS) أدناه لمزيد من المعلومات عن متطلبات TPS الخاصة بتمديد EAD.</p><p dir="RTL">يُعد تنوع المستندات هذا دليلا مقبولا على التمديد التلقائي لمدة تصل إلى 540 يوما بموجب <a href="https://www.federalregister.gov/documents/2022/05/04/2022-09539/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation">القاعدة النهائية المؤقتة لشهر مايو/أيار 2022</a> أو <a href="https://www.federalregister.gov/public-inspection/2024-07345/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation">القاعدة النهائية المؤقتة لشهر ابريل/نيسان 2024</a>.</p><p dir="RTL">للتأكد من أنك تستوفي متطلبات الأهلية للتمديد التلقائي EAD وتحديد تاريخ انتهاء صلاحية EAD الممتد تلقائيا، راجع قسم حاسبة تأهّل التمديد التلقائي أعلاه.</p><p dir="RTL"><strong>المتقدمون الذين قدموا طلب تجديد النموذج I-765 بين 27 اكتوبر/تشرين الاول 2023 و8 ابريل/نيسان 2024:</strong> إذا قدمت طلب تجديد النموذج I-765 الخاص بك خلال هذا الإطار الزمني، فقد يكون لديك إشعار إيصال نموذج I-797C، إشعار الإجراء، الذي يشير إلى تمديد تلقائي لمدة 180 يوما. ومع ذلك، فإن هذه الملفات مؤهلة أيضا للتمديد التلقائي لمدة تصل إلى 540 يوما. لن نصدر إشعارات محدثة للنموذج I-797C لهذه الملفات. يجب على الأفراد الرجوع إلى صفحة الويب هذه لتأكيد متطلبات الأهلية للتمديد التلقائي لمدة تصل إلى 540 يوما.</p><p dir="RTL"> </p><p dir="RTL">يمكنك إحالة صاحب عملك إلى هذا الموقع إذا كان لديه أي أسئلة. يمكن للوكالات الحكومية التي تصدر مزايا أو تراخيص تعتمد على طلبات EAD كوثائق هوية الرجوع إلى صفحة الويب هذه أيضا.</p></div><div class="accordion__header" tabindex="0"><strong>قواعد نهائية مؤقتة لتصاريح العمل</strong></div><div class="accordion__panel"><p dir="RTL">في 4 ابريل/نيسان 2024، <a href="https://www.uscis.gov/newsroom/news-releases/uscis-increases-automatic-extension-of-certain-employment-authorization-documents-to-improve-access">نشرت</a> دائرة خدمات المواطنة والهجرة الأمريكية قاعدة نهائية مؤقتة زادت من فترة التمديد التلقائي لتصاريح العمل أو تصاريح العمل المتاحة لبعض المتقدمين لتجديد تصاريح العمل من 180 يوما إلى ما يصل إلى 540 يوما.</p><p dir="RTL"> </p><p dir="RTL">تنطبق هذه القاعدة النهائية المؤقتة على فئتين من المتقدمين لتجديد تصاريح العمل:</p><ul><li dir="RTL">المتقدمون الذين قدموا طلباتهم في الوقت المناسب وبشكل صحيح على النموذج I-765 في أو بعد 27 اكتوبر/تشرين الاول 2023، إذا كان الطلب لا يزال معلقا في 8 ابريل/نيسان 2024، و</li><li dir="RTL">المتقدمون الذين قدموا طلباتهم في الوقت المناسب وبشكل صحيح على النموذج I-765 من 8 ابريل/نيسان 2024 حتى 30 سبتمبر/أيلول 2025.</li></ul><p dir="RTL">في السابق، في مايو/أيار 2022، <a href="https://www.federalregister.gov/documents/2022/05/04/2022-09539/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation">نشرت</a> دائرة خدمات المواطنة والهجرة الأمريكية قاعدة نهائية مؤقتة زادت من فترة تمديد تصريح العمل التلقائي لبعض المتقدمين لتجديد تصريح العمل من 180 يوما إلى 540 يوما. وكما أُعلن في سنة 2022، كانت هذه القاعدة النهائية المؤقتة قابلة للتطبيق على الطلبات المقدمة خلال فترة محدودة انتهت في 26 اكتوبر/تشرين الاول 2023.</p><p dir="RTL">نظرا لأن القاعدة النهائية المؤقتة لسنة 2024 توفر تمديدا تلقائيا لمدة 540 يوما لأولئك الذين قدموا طلباتهم بعد انتهاء فترة التقديم بموجب القاعدة النهائية المؤقتة لعام 2022، <strong>فلا توجد فجوة في زيادة التمديد التلقائي لمدة 540 يوما لطلبات التجديد المؤهلة المقدمة في الوقت المناسب في 4 مايو/أيار 2022 أو بعده حتى سبتمبر/أيلول 2025.</strong> لذلك، ولراحة الجمهور، نقوم بدمج فترات تقديم الطلبات للقاعدتين النهائيتين المؤقتتين في هذا التوجيه.</p><p dir="RTL">إذا تلقيت تمديدا تلقائيا لمدة تصل إلى 540 يوما بموجب القاعدة النهائية المؤقتة لسنة 2024 أو القاعدة النهائية المؤقتة لسنة 2022، فسوف ينتهي التمديد التلقائي بشكل عام عندما نتخذ قرارا بشأن طلب تجديد EAD الخاص بك، أو في نهاية فترة 540 يوما، أيهما يأتي أولا.</p></div><div class="accordion__header" tabindex="0"><strong>الحالة المحمية المؤقتة (TPS)</strong></div><div class="accordion__panel"><p dir="RTL">إذا كان لديك تصريح إقامة مؤقت، EAD قائم على TPS وتحتفظ بوضع TPS، فقد تتلقى تمديدا تلقائيا لمدة تصل إلى 540 يوما لتصريح الإقامة المؤقت الخاص بك من خلال هذا التمديد التلقائي لتصريح الإقامة المؤقت.</p><p dir="RTL">أنت مؤهل لهذا التمديد التلقائي إذا:</p><ul><li dir="RTL">قدمت نموذج التجديد I-765 الخاص بك خلال فترة إعادة تسجيل TPS الموضحة في إشعار السجل الفيدرالي المعمول به لبلدك،</li><li dir="RTL">نموذج I-797C، إشعار الإجراء، الذي يشير إلى استلام نموذج I-765 الخاص بك يحتوي على "تاريخ استلام" من 4 مايو/أيار 2022 حتى 30 سبتمبر/أيلول 2025،</li><li dir="RTL">نموذج I-765 الخاص بك ضمن الفئة A12 أو C19، و</li><li dir="RTL">الفئة الموجودة في تصريح الإقامة المؤقت الحالي، EAD الخاص بك هي A12 أو C19. لا يلزم أن تتطابق الفئات الموجودة في طلب التجديد الخاص بك وتصريح الإقامة المؤقت منتهي الصلاحية. (على سبيل المثال، ستظل مؤهلا للتمديد التلقائي إذا كان تصريح العمل منتهي الصلاحية الخاص بك يبدي C19 وطلب التجديد الخاص بك يبدي A12.)</li></ul><p dir="RTL">إذا كنت تستوفي المعايير المذكورة أعلاه، فإن تاريخ انتهاء الصلاحية الجديد لتصريح العمل منتهي الصلاحية الخاص بك يصل إلى 540 يوما بعد تاريخ "انتهاء صلاحية البطاقة" الموضح في تصريح العمل الخاص بك (استخدم الآلة الحاسبة أعلاه لحساب التاريخ). سيعمل تصريح العمل منتهي الصلاحية الخاص بك والنموذج I-797C، إشعار الإجراء، إشعار الاستلام، كدليل مقبول على الهوية وترخيص العمل خلال فترة التمديد التلقائي.</p><p dir="RTL">يمكن أيضا تمديد تأشيرات العمل القائمة على TPS تلقائيا من خلال نشر إشعار في السجل الفيدرالي أو إشعار فردي بتمديد تأشيرات العمل التلقائي. قد تتلقى تمديدا تلقائيا لتصريح العمل لمدة تصل إلى 540 يوما بالإضافة إلى تمديد من خلال نشر إشعار في السجل الفيدرالي إذا كنت تستوفي متطلبات الأهلية لكلا التمديدين. استخدم الآلة الحاسبة أعلاه وتحقق من صفحة بلدك على موقع خدمات المواطنة والهجرة الأمريكية USCIS الوضع المحمي المؤقت، <a href="https://www.uscis.gov/humanitarian/temporary-protected-status">USCIS Temporary Protected Status</a> لمعرفة ما إذا كانت تأشيرات العمل القائمة على TPS الخاصة ببلدك قد تم تمديدها تلقائيا. سيتم تمديد تصريح العمل الخاص بك حتى تاريخ لاحق من التاريخين.</p><p dir="RTL">لمزيد من المعلومات عن TPS، بما في ذلك فترات إعادة التسجيل في بلدك وأي تمديدات منشورة في السجل الفيدرالي، تفضل بزيارة صفحة خدمات المواطنة والهجرة الأمريكية USCIS الوضع المحمي المؤقت، <a href="https://www.uscis.gov/humanitarian/temporary-protected-status">USCIS Temporary Protection Status</a>.</p></div><div class="accordion__header" tabindex="0"><strong>الطلاب الدوليون من الفئة F-1</strong></div><div class="accordion__panel"><p dir="RTL"><strong>لا يحق</strong> للطلاب من الفئة F-1 الذين لديهم طلب تمديد تدريب عملي اختياري (OPT) معلق في STEM (الطلاب الذين يتلقون العلوم والتكنولوجيا والهندسة والرياضيات، "ستيم") الحصول على <a href="https://www.uscis.gov/newsroom/news-releases/uscis-increases-automatic-extension-period-of-work-permits-for-certain-applicants">الزيادة المؤقتة</a> لفترة التمديد التلقائي بموجب <a href="https://www.federalregister.gov/documents/2022/05/04/2022-09539/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation">القاعدة النهائية المؤقتة لسنة 2022</a> أو <a href="https://www.federalregister.gov/public-inspection/2024-07345/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation">القاعدة النهائية المؤقتة لسنة 2024</a>. لا تنطبق الزيادة المؤقتة لفترة التمديد التلقائي بموجب حكم اللائحة الفدرالية 8 CFR 274a.13(d) إلا على الفئات المدرجة في الرسم البياني أعلاه.</p><p dir="RTL">إذا قدمت طلب تمديد التدريب العملي الاختياري في STEM في الوقت المحدد وانتهت فترة التدريب العملي الاختياري أثناء انتظار طلب التمديد الخاص بك، فسوف نقوم تلقائيا بتمديد تصريح العمل الخاص بك لمدة 180 يوما. سينتهي هذا التمديد التلقائي لمدة 180 يوما عندما تحكم USCIS على طلب تمديد التدريب العملي الاختياري في STEM الخاص بك.</p><p dir="RTL">يمكنك العثور على معلومات إضافية حول تقديم طلب تمديد التدريب العملي الاختياري لطلاب العلوم والتكنولوجيا والهندسة والرياضيات (STEM OPT) على صفحة تمديد التدريب العملي الاختياري لطلاب العلوم والتكنولوجيا والهندسة والرياضيات (STEM OPT، تمديد تدريب عملي اختياري معلق في ستيم).</p></div><div class="accordion__header" tabindex="0"><strong>الإرشاد والدعم</strong></div><div class="accordion__panel"><p dir="RTL">للحصول على إرشادات حول استكمال <a href="https://www.uscis.gov/i-9">النموذج I-9</a> مع تمديد تلقائي لتصريح العمل، يرجى زيارة <a href="https://www.uscis.gov/i-9-central">I-9 Central</a>، وتحديدا <a href="https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/50-automatic-extensions-of-employment-authorization-andor-employment-authorization-documents-eads-in">الفصل 5 من دليل أصحاب العمل</a>، "التمديد التلقائي لتصريح العمل و/أو مستندات تصريح العمل (EADs) في ظروف معينة".</p><p dir="RTL">للحصول على المساعدة في تحديد الأهلية لتمديد تصريح العمل التلقائي بموجب القاعدة النهائية المؤقتة لسنة 2022 أو 2024، يرجى الاتصال بمركز اتصال النموذج I-9 على أرقام الهواتف أدناه.</p><p dir="RTL">لأصحاب العمل: 888-464-4218</p><p dir="RTL">للموظفين: 888-897-7781</p><p dir="RTL">يمكنك العثور على موارد إضافية في صفحة <a href="https://www.uscis.gov/i-9-central/form-i-9-contact-us">اتصل بنا الخاصة بالنموذج I-9</a>.</p><p dir="RTL">إذا كانت لديك أسئلة بخصوص طلب معلق للحصول على تصريح عمل أو تصريح عمل، فيرجى الاطلاع على صفحة <a href="https://www.uscis.gov/about-us/contact-us">اتصل بنا</a> للحصول على معلومات عن متى وكيف يمكنك الاتصال بنا.</p></div></div></div></div>
+      
+      </div>
+
+                </div>
+  
+  
+    
+              <div class="reviewed-date">
+    <div class="reviewed-date__label">Last Reviewed/Updated:</div>
+                <div class="field field--name-field-display-date field__item"><time datetime="2024-08-21T14:04:34Z" class="datetime">08/21/2024</time>
+</div>
+      
+  </div>
+
+      </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/working-in-the-united-states/information-for-employers-and-employees/automatic-employment-authorization-document-ead-extension-arabic" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="94090" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="94090" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="94090" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-y-845rx09q0sxe5rnwsstu-9cchb3egd2rgutpkt7tw" type="hidden" name="form_build_id" value="form-y-845RX09Q0sxE5rNWSsTU_9cchb3egD2rgutPKt7Tw"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="94090" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_PbsHvQ7t6cS8oDmXvd_0rnCTIox5tYaI--oGh8irbAM.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJyFUUFywyAM_JANPbQz_Y1GBpnIweAi7CS_rzxJM3VrtxdA2kWrldCPnKAn8h26M9C1UvLk7a9MgyJUgdNAruZiBzHoXC6ec4IToacCnheoGU6v0PN154OywGF0c0TNQKLLAan25Rtxj6RdlYQRIqczlBwJ3l7eD2T7XBwBJeyUVkjhHdJUaGG6wEgiGAg63NOtBZNoU3fTcaLSuDN5Xu08x2GfL9OXnNb5NS4ypSrsCRaM7O8lho-Zys26xdxfhntq1NvqyvoyTxjNI2xCzkH7rxhs0ONnbHDA6zY5NrM4FvAkHJINMXcYW6k3rRe2mFBUj63L45STNrpF18HIBuzJh7zAQw51E7fKTmzM6Ntn2Dqfmgt1uoDRPm6jSqMWMZ4qchQjuNC_pJqDCh3SHks7xPO0jlsO8bv9X_B6fCVhd4P2T3Rd5ydh5FP5"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_zmbReOMuD250nMjzCwSEtqghGjycWz_KpgzMgqT9dwc.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJyFUUFywyAM_JANPbQz_Y1GBpnIweAi7CS_rzxJM3VrtxdA2kWrldCPnKAn8h26M9C1UvLk7a9MgyJUgdNAruZiBzHoXC6ec4IToacCnheoGU6v0PN154OywGF0c0TNQKLLAan25Rtxj6RdlYQRIqczlBwJ3l7eD2T7XBwBJeyUVkjhHdJUaGG6wEgiGAg63NOtBZNoU3fTcaLSuDN5Xu08x2GfL9OXnNb5NS4ypSrsCRaM7O8lho-Zys26xdxfhntq1NvqyvoyTxjNI2xCzkH7rxhs0ONnbHDA6zY5NrM4FvAkHJINMXcYW6k3rRe2mFBUj63L45STNrpF18HIBuzJh7zAQw51E7fKTmzM6Ntn2Dqfmgt1uoDRPm6jSqMWMZ4qchQjuNC_pJqDCh3SHks7xPO0jlsO8bv9X_B6fCVhd4P2T3Rd5ydh5FP5"></script>
+
+  </body>

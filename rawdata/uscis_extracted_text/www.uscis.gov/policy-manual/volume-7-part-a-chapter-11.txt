@@ -1,0 +1,216 @@
+H1: Chapter 11 - Decision Procedures
+
+- Guidance
+
+- Resources (8)
+
+- Appendices (0)
+
+- Updates (7)
+
+H2: A. Approvals​
+
+If the adjustment application is properly filed, the applicant meets all eligibility requirements, a visa number is immediately available, and the applicant is admissible to the United States, then an officer may approve the application.
+
+H3: 1. Effective Date of Permanent Residence
+
+For the majority of adjustment cases, the effective date of permanent residence is the date the adjustment application is approved. Certain sections of law, however, allow for the date of admission to roll back to an earlier date.
+
+H3: 2. Class of Admission
+
+Each approved case is given a class of admission (COA) that identifies the section of law the applicant used to adjust status to a lawful permanent resident. For abbreviation purposes, a symbol or code represents that classification.
+
+Written notice of approval is mailed to the applicant and attorney or authorized representative, as applicable. Upon approval, the officer must confirm that the information is up-to-date and accurate in the relevant systems to ensure accurate statistical reporting and card production. In cases where an officer approved both the underlying petition and adjustment application, the officer should verify that the underlying petition shows as being approved in the system before approving the adjustment application.
+
+If the officer determines that the case is approvable during the interview and the applicant anticipates immediate emergency travel, the officer may place a stamp as proof of temporary permanent resident status in the applicant’s passport, per local office guidelines. The stamp must have a dry seal affixed to be valid for travel.
+
+H2: B. Notices of Intent to Deny
+
+If an officer is basing a decision in whole or in part on information of which the applicant is unaware or could not reasonably be expected to be aware, the officer must issue a Notice of Intent to Deny (NOID).[1]The NOID provides the applicant an opportunity to review and respond to the information, unless the information is classified.[2]
+
+H2: C. Denials
+
+An adjustment application must be denied for ineligibility. The application may also be denied for discretionary reasons, if applicable. Upon denial of a case, the officer must update ICMS and CLAIMS, and issue a notice of denial. Automatic denial notices are not issued by the systems.
+
+TABLE:
+Basis of Denial | Denial Notice Should …
+Ineligibility | Explain what eligibility requirements are not met and why they are not met
+Discretionary Reasons(if applicable) | Explain the positive and negative factors considered, the relative weight given to each factor individually and collectively, and why the negative factors outweigh the positive factors
+
+Discretionary Reasons
+
+(if applicable)
+
+Explain the positive and negative factors considered, the relative weight given to each factor individually and collectively, and why the negative factors outweigh the positive factors
+
+In addition, a denial notice should:
+
+- Provide the reasons for the denial in clear language that the applicant can understand;​
+
+- Cite to the relevant sections of law, regulations, and precedent decisions (if any); and
+
+- Explain that there is no right to appeal the denial but that the applicant may file a motion to reopen or reconsider.
+
+With rare exception, there is no appeal from the denial of adjustment of status.[3]USCIS, however, may certify the case for review by the Administrative Appeals Office (AAO).[4]The applicant also may renew the adjustment application in any subsequent removal proceedings.[5]
+
+H2: Footnotes
+
+[^ 1]For example, investigative reports, information from informants, school records, or employment records not provided by the applicant.
+
+[^ 2]See8 CFR 103.2(b)(16)(iv).
+
+[^ 3]See8 CFR 245.2(a)(5)(ii). However, see8 CFR 245.3providing the right of appeal for applicants under Section 13 of the Act of September 11, 1957,Pub. L. 85-316  (PDF), and8 CFR 245.23(i)providing the right of appeal for applicants based on T nonimmigrant status.
+
+[^ 4]See8 CFR 103.4(a)(4) and 8 CFR 103.4(a)(5). Certification to the AAO may be appropriate when a case involves complex legal issues or unique facts. An officer may consult through appropriate supervisory channels with the Office of the Chief Counsel for guidance on certifying a decision to the AAO.
+
+[^ 5]SeeINA 240A.
+
+H2: Resources
+
+8 CFR 208.24- Termination of Asylum
+
+INA 209,8 CFR 209- Adjustment of status of refugees and asylees
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is revising its policy guidance in the USCIS Policy Manual to align with the Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements Final Rule, published in the Federal Register on August 3, 2020. This guidance becomes effective October 2, 2020. For information regarding implementation, seeAppendix: 2020 Fee Rule Litigation Summary.
+
+1 USCIS-PM A-Part A - Public Services
+
+1 USCIS-PM B-Part B - Submission of Benefit Requests
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+11 USCIS-PM A-Part A - Secure Identity Documents Policies and Procedures
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to remove references to Biographic Information (Form G-325A).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM L-Part L - Refugee Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+7 USCIS-PM O-Part O - Registration
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance addressing the general policies and procedures of adjustment of status as well as adjustment under section 245(a) of the Immigration and Nationality Act (INA).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment

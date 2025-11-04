@@ -1,0 +1,1339 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+      
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+    <nav aria-labelledby="block-uscis-design-mainnavigation-menu" id="block-uscis-design-mainnavigation">
+            
+  <div class="visually-hidden" id="block-uscis-design-mainnavigation-menu">Main navigation</div>
+  
+
+        
+<a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+
+      <ul class="menu--main leftnav-menu" data-level="0">
+          <li class="menu__item-title leftnav-menu__item leftnav-menu__item--0 has-sub-items" data-id="id12902"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/about-us" class="leftnav-menu__link leftnav-menu__title" data-drupal-link-system-path="node/41972">About Us</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for About Us" aria-controls="id12902" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="id12902"><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id34213"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/organization" class="leftnav-menu__link" data-drupal-link-system-path="node/88552">Organization</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Organization" aria-controls="id34213" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id34213"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12950"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/mission-and-core-values/what-we-do" class="leftnav-menu__link" data-drupal-link-system-path="node/42254">What We Do</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12945"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/leadership" class="leftnav-menu__link" data-drupal-link-system-path="node/41601">Leadership</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id12940"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices" class="leftnav-menu__link" data-drupal-link-system-path="node/42081">Directorates and Program Offices</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Directorates and Program Offices" aria-controls="id12940" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id12940"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13430"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/the-administrative-appeals-office-aao" class="leftnav-menu__link" data-drupal-link-system-path="node/41836">Administrative Appeals Office (AAO)</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41151"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/office-of-performance-and-quality" class="leftnav-menu__link" data-drupal-link-system-path="node/94932">Office of Performance and Quality</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25571"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/external-affairs-directorate" class="leftnav-menu__link" data-drupal-link-system-path="node/64644">External Affairs Directorate</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13432"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/field-operations-directorate" class="leftnav-menu__link" data-drupal-link-system-path="node/41990">Field Operations Directorate</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13433"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/fraud-detection-and-national-security-directorate" class="leftnav-menu__link" data-drupal-link-system-path="node/41392">Fraud Detection and National Security Directorate</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13440"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/immigration-records-and-identity-services-directorate" class="leftnav-menu__link" data-drupal-link-system-path="node/42060">Immigration Records and Identity Services Directorate</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25566"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/management-directorate" class="leftnav-menu__link" data-drupal-link-system-path="node/71380">Management Directorate</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id34120"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/office-of-investigations" class="leftnav-menu__link" data-drupal-link-system-path="node/71529">Office of Investigations</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id16818"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/office-of-privacy" class="leftnav-menu__link" data-drupal-link-system-path="node/46543">Office of Privacy</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25580"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/office-of-the-chief-counsel" class="leftnav-menu__link" data-drupal-link-system-path="node/77911">Office of the Chief Counsel</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25583"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/office-of-the-executive-secretariat" class="leftnav-menu__link" data-drupal-link-system-path="node/77905">Office of the Executive Secretariat</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id42026"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/refugee-asylum-and-international-operations-directorate-raio" class="leftnav-menu__link" data-drupal-link-system-path="node/98309">Refugee, Asylum and International Operations Directorate (RAIO)</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id17427"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/organization/directorates-and-program-offices/service-center-operations-directorate" class="leftnav-menu__link" data-drupal-link-system-path="node/48237">Service Center Operations Directorate</a></div></div></li></ul></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items leftnav-menu__active-trail" data-id="id41484"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history" class="leftnav-menu__link" data-drupal-link-system-path="node/96327">Our History</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Our History" aria-controls="id41484" aria-expanded="true" role="button"><i class="fas fa-chevron-up"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2" data-level="2" id="id41484"><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id13501"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/about-the-history-office-and-library" class="leftnav-menu__link" data-drupal-link-system-path="node/41635">About the History Office and Library</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for About the History Office and Library" aria-controls="id13501" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id13501"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id42034"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/about-the-history-office-and-library/uscis-history-office-and-library-internship-program" class="leftnav-menu__link" data-drupal-link-system-path="node/98585">USCIS History Office and Library Internship Program</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items leftnav-menu__active-trail" data-id="id41485"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/explore-agency-history" class="leftnav-menu__link" data-drupal-link-system-path="node/96325">Explore Agency History</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Explore Agency History" aria-controls="id41485" aria-expanded="true" role="button"><i class="fas fa-chevron-up"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id41485"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41487"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/explore-agency-history/history-of-women-in-federal-immigration-and-naturalization-service" class="leftnav-menu__link" data-drupal-link-system-path="node/93728">History of Women in Federal Immigration and Naturalization Service</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41488"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/explore-agency-history/organizational-timeline" class="leftnav-menu__link" data-drupal-link-system-path="node/43451">Organizational Timeline</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3 leftnav-menu__active-trail" data-id="id13502"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/explore-agency-history/overview-of-agency-history" class="leftnav-menu__link" data-drupal-link-system-path="node/42286">Overview of Agency History</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25846"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/explore-agency-history/commissioners-and-directors" class="leftnav-menu__link" data-drupal-link-system-path="node/45701">Commissioners and Directors</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41489"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/stories-from-the-archives" class="leftnav-menu__link" data-drupal-link-system-path="node/67540">Stories from the Archives</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id13060"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/research-guides" class="leftnav-menu__link" data-drupal-link-system-path="node/42288">Research Guides</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Research Guides" aria-controls="id13060" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id13060"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13254"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/research-guides/researching-topics-and-events" class="leftnav-menu__link" data-drupal-link-system-path="node/41756">Topics and Events</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13253"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/our-history/research-guides/researching-individuals" class="leftnav-menu__link" data-drupal-link-system-path="node/42249">Individuals</a></div></div></li></ul></li></ul></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id12943"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office" class="leftnav-menu__link" data-drupal-link-system-path="node/41931">Find a USCIS Office</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Find a USCIS Office" aria-controls="id12943" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id12943"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id42148"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/application-support-centers" class="leftnav-menu__link" data-drupal-link-system-path="node/99408">Application Support Centers</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id42149"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/if-you-feel-sick-do-not-come-to-your-uscis-appointment-please-cancel-and-reschedule-it" class="leftnav-menu__link" data-drupal-link-system-path="node/47754">If You Feel Sick, Do Not Come to Your USCIS Appointment; Please Cancel and Reschedule It</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13405"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/field-offices" class="leftnav-menu__link" data-drupal-link-system-path="node/60830">Field Offices</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id13407"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-immigration-offices" class="leftnav-menu__link" data-drupal-link-system-path="node/41934">International Offices</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for International Offices" aria-controls="id13407" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id13407"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41869"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/turkey-uscis-ankara-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/97682">Ankara</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id17702"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/china-uscis-beijing-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/43780">Beijing</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id42069"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/bangladesh-uscis-dhaka-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/98772">Dhaka</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id17703"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/china-uscis-guangzhou-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/43908">Guangzhou</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id35889"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/guatemala-uscis-guatemala-city-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/44812">Guatemala City</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41600"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/havana-uscis-havana-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/96328">Havana</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id17711"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/mexico-uscis-mexico-city-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/45610">Mexico City</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id17734"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/kenya-uscis-nairobi-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/45569">Nairobi</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id36280"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/india-uscis-new-delhi-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/43404">New Delhi</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41896"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/qatar-uscis-doha-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/97659">Doha</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id42003"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/ecuador-uscis-quito-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/98367">Quito</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id17714"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/el-salvador-uscis-san-salvador-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/44668">San Salvador</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41871"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/find-a-uscis-office/international-offices/honduras-uscis-tegucigalpa-field-office" class="leftnav-menu__link" data-drupal-link-system-path="node/97441">Tegucigalpa</a></div></div></li></ul></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id12936"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/budget-planning-and-performance" class="leftnav-menu__link" data-drupal-link-system-path="node/42021">Budget, Planning and Performance</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id12939"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/contact-us" class="leftnav-menu__link" data-drupal-link-system-path="node/41573">Contact Us</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Contact Us" aria-controls="id12939" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id12939"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25558"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/contactcenter" class="leftnav-menu__link" data-drupal-link-system-path="node/44792">USCIS Contact Center</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id13049"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/disability-accommodations-for-the-public" class="leftnav-menu__link" data-drupal-link-system-path="node/42223">Disability Accommodations for the Public</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id20523"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/careers-at-uscis" class="leftnav-menu__link" data-drupal-link-system-path="node/41381">Careers</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Careers" aria-controls="id20523" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id20523"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id42160"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/join" class="leftnav-menu__link" data-drupal-link-system-path="node/99916">Join USCIS</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34102"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/careers/career-opportunities" class="leftnav-menu__link" data-drupal-link-system-path="node/82400">Career Opportunities</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id20530"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/careers/how-to-apply" class="leftnav-menu__link" data-drupal-link-system-path="node/45527">How to Apply</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id20532"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/careers/special-hiring-programs" class="leftnav-menu__link" data-drupal-link-system-path="node/42233">Special Hiring Programs</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id20537"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/careers/benefits" class="leftnav-menu__link" data-drupal-link-system-path="node/41721">Benefits</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25552"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/careers/training" class="leftnav-menu__link" data-drupal-link-system-path="node/41684">Training</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id12946"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/new-employee-information-and-forms/new-employee-information-and-forms" class="leftnav-menu__link" data-drupal-link-system-path="node/41896">New Employee Information and Forms</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id25181"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/affirmative-action-plan-for-the-recruitment-hiring-advancement-and-retention-of-persons-with" class="leftnav-menu__link" data-drupal-link-system-path="node/67431">Equal Employment Opportunity</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Equal Employment Opportunity" aria-controls="id25181" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id25181"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12923"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" class="leftnav-menu__link" data-drupal-link-system-path="node/42220">No FEAR Act</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id39763"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/equal-employment-opportunity/uscis-notification-of-violation" class="leftnav-menu__link" data-drupal-link-system-path="node/92982">USCIS Notification of Violation</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25555"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/equal-employment-opportunity/uscis-how-do-i-file-an-equal-employment-opportunity-complaint" class="leftnav-menu__link" data-drupal-link-system-path="node/43525">How Do I File An Equal Employment Opportunity Complaint?</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id20342"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/uscis-contracting" class="leftnav-menu__link" data-drupal-link-system-path="node/66441">USCIS Contracting</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for USCIS Contracting" aria-controls="id20342" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id20342"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34126"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/uscis-contracting/uscis-contracting-opportunities" class="leftnav-menu__link" data-drupal-link-system-path="node/66884">USCIS Contracting Opportunities</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25648"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/about-us/uscis-contracting/uscis-vendor-engagement" class="leftnav-menu__link" data-drupal-link-system-path="node/66887">Vendor Engagement</a></div></div></li></ul></li></ul></li>    
+    </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                            <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/about-us">About Us</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/about-us/our-history">Our History</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/about-us/our-history/explore-agency-history">Explore Agency History</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/about-us/our-history/explore-agency-history/overview-of-agency-history">Overview of Agency History</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Military Naturalization During WWII</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-article">
+      <div class="container container--main" lang="en">
+                
+
+                        
+            <h1 class="page-title js-page-title">
+              <span>Military Naturalization During WWII</span>
+            </h1>
+          
+              
+                    
+      
+  <div lang="en">
+                      <div class="clearfix text-formatted field field--name-body field__item"><figure class="align-left">
+<article class="media media--type-image media--view-mode-default">
+  
+                      <div class="field field--name-field-media-image field__item">  <img loading="lazy" src="/sites/default/files/images/article-history/Hazard_Swearing-in_Edited%402x.png" width="360" height="482" alt="Henry B. Hazard, designated representative of the Immigration and Naturalization Service, swears in Lt. Steve Pissanos, Plainfield, N.J. as a citizen of the United States in London, England. Lt Pissanos was the first person to receive citizenship in the European Theatre of Operations (May 3, 1943)." class="image">
+
+</div>
+      
+  </article>
+
+<figcaption>Henry B. Hazard, designated representative of the Immigration and Naturalization Service, swears in Lt. Steve Pissanos, Plainfield, N.J., as a citizen of the United States in London, England. Lt. Pissanos was the first person to receive citizenship in the European Theater of Operations (May 3, 1943).</figcaption>
+</figure>
+<p><br>After the United States entered World War II, Congress acted to provide for the expedited naturalization of aliens serving honorably in the U.S. Armed Forces.</p><p>The Second War Powers Act of 1942 (56 Stat. 182, 186) exempted alien service members from naturalization requirements related to age, race, residence, any educational tests, fees, filing a declaration of intention, and enemy alien status. Later, a 1944 statute (58 Stat. 885) also eliminated the requirement for proof of lawful entry to the U.S.</p><p>Alien service members who wished to naturalize still needed to show that they had served honorably, had good moral character, were attached to the principals of the Constitution, and had a favorable disposition toward the good order and happiness of the United States. No member of the military was forced to naturalize and service members did not “automatically” gain citizenship upon joining the Armed Forces.  To become a citizen, a naturalizing service member needed to file a petition for naturalization and swear the required Oath of Allegiance.</p><p>During the War the Immigration and Naturalization Service (INS) oversaw the campaign to naturalize members of U.S. Armed Forces. Stateside, the INS worked with the military to identify alien soldiers who wished to naturalize, helped soldiers complete the required petition, and organized swearing ceremonies. In many cases INS officials traveled to military camps to process large groups of soldier petitions. Because petitioners needed to swear the Oath of Allegiance in open court, a naturalization judge would then open a session of court at the camp and swear in the soldiers onsite.</p><p>The Second War Powers Act of 1942 also authorized the first overseas naturalizations in the nation’s history. Under its provisions, the Commissioner of Immigration and Naturalization could authorize designated representatives to naturalize members of the Armed Forces serving outside of the U.S. This eliminated the need for soldiers stationed overseas to swear the oath in open court and, for the first time, allowed administrative officials to perform naturalizations. The Commissioner designated representatives from the Department of State and U.S. District Attorney’s Office, but INS officials conducted the majority of overseas naturalizations.</p><p>On December 4, 1942, INS Assistant Commissioner Thomas B. Shoemaker (who served as INS’s first designated representative for overseas naturalization) naturalized James A. Finnell Hoey in the Panama Canal Zone, making Hoey the first person to receive U.S. citizenship abroad. Over the next year Shoemaker went on to naturalize 289 service members overseas.</p><p>Over the course of the war, Henry B. Hazard, INS Director of Research and Educational Services, performed more overseas naturalizations than any other INS official—by a wide margin. Between February, 1943 and early 1945, Hazard traveled nearly 100,000 miles and visited six continents in order to naturalize 6,574 service members. This made him responsible for the vast majority of INS’s overseas naturalization (INS agency officials performed a total of 7,178 overseas naturalizations) and nearly half of <em><u>all</u> </em>overseas naturalizations during WWII (all designated government officials performed a total of13,587 overseas naturalizations)<strong><sup>1</sup></strong>. On April 3, 1946, the War Department recognized Hazard’s wartime service by awarding him the Medal of Freedom.</p><p>Hazard chronicled his wartime experiences in a series of articles for the Immigration and Naturalization Service periodical <em>Monthly Review</em>, including summaries of his <a href="/sites/default/files/document/newsletters/INSMRev1944.2.pdf" data-entity-type="media" data-entity-uuid="ba1e6961-d4cb-4b1d-8e86-7aa487af8df2" data-entity-substitution="media">earliest overseas naturalization trips </a>, <a href="/sites/default/files/document/newsletters/INSMRev1945.3.pdf" data-entity-type="media" data-entity-uuid="d42ed9b0-fc0f-4343-8237-67c0a037a2bc" data-entity-substitution="media">his work in the Pacific Theater </a>, and a <a href="/sites/default/files/document/newsletters/INSMRev1948.12.pdf" data-entity-type="media" data-entity-uuid="0a107e03-2c2d-4a0e-ab3c-3ed340b05a75" data-entity-substitution="media">postwar reflection </a>.  In October 1948, the <em>Monthly Review</em> also published INS <a href="/sites/default/files/document/newsletters/INSMRev1948.10.pdf" data-entity-type="media" data-entity-uuid="8ca6c3b3-19c1-4925-b217-a94e00a0e71b" data-entity-substitution="media">Commissioner Watson B. Miller’s summary report on the Foreign Born in the U.S. military during WWII </a>.</p><p>*Full text issues of the <em>Immigration and Naturalization Service Monthly Review </em>are available through the USCIS History Library’s <a href="https://eosfcweb01.eosfc-intl.net/U95007/OPAC/Index.aspx">online catalog</a>.<br><br><strong><sup>1 </sup></strong>Overseas naturalizations for members of the U.S. armed forces continued in 1946 and 1947. Including naturalizations performed during those years brings the total to 21,011. In calculating overseas naturalization performed <em>during </em>WWII INS usually used the total from 1942-1945 (13,587).</p><div><div id="edn1"><p> </p></div></div><p> </p><p> </p><table style="border-color:currentColor;border-image:none;width:520px;" align="center"><tbody><tr><td style="border-color:currentColor;border-image:none;"><a href="/about-us/our-history/explore-agency-history/overview-of-agency-history/world-war-ii" data-entity-type="node" data-entity-uuid="0f1ef3ae-98c8-4283-9663-e0984756ec11" data-entity-substitution="canonical">&lt;&lt; Back to World War II</a></td><td style="border-color:currentColor;border-image:none;vertical-align:top;"><p class="text-align-right"> </p></td></tr></tbody></table><p> </p></div>
+      
+      </div>
+
+                </div>
+  
+  
+    
+              <div class="reviewed-date">
+    <div class="reviewed-date__label">Last Reviewed/Updated:</div>
+                <div class="field field--name-field-display-date field__item"><time datetime="2025-01-28T08:00:00Z" class="datetime">01/28/2025</time>
+</div>
+      
+  </div>
+
+      </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/about-us/our-history/explore-agency-history/overview-of-agency-history/military-naturalization-during-wwii" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="44101" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="44101" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="44101" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-edczbcthtbhfhgmjknuno3bptoqxj6e1wzjp4oeu1xk" type="hidden" name="form_build_id" value="form-edCZbcthtBHfhGMjKnuNO3bpTOqXJ6E1wZjP4OeU1xk"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="44101" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_0pX_SnfPDMf7vwrzbDcQ_nJ4OxbrxKFiBZO-ck0gvU4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_AsKNwrz_GL8MOvSFwxCjaawni6tz6q3D931E8dkUKrI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+
+  </body>

@@ -1,0 +1,241 @@
+H1: Chapter 3 - Rescission Process
+
+- Guidance
+
+- Resources (17)
+
+- Appendices (0)
+
+- Updates (7)
+
+In order to rescind a person’s adjustment to lawful permanent resident (LPR) status, USCIS must serve the person through personal service[1]a Notice of Intent to Rescind (NOIR) within 5 years of the date of his or her adjustment.[2]Once the NOIR has been served, rescission action may proceed even beyond the 5-year time limit (in other words, the serving of the NOIR “stops the clock”). In the case of a person whose adjustment contained a “rollback” provision (for example, a Cuban who adjusted under the Cuban Adjustment Act), the 5-year time period is calculated from the actual date on which the adjustment was granted, not on the date to which the adjustment was rolled back.[3]
+
+H2: A. Jurisdiction
+
+In general, any USCIS field office has jurisdiction over the initiation of rescission of adjustment of status proceedings if it appears that the alien was not, in fact, eligible for the adjustment at the time of approval for LPR status.[4]However, if an alien adjusted status after a USCIS grant of suspension of deportation or special rule cancellation of removal pursuant to Section 203 of the Nicaraguan Adjustment and Central American Relief Act (NACARA),[5]the asylum office that issued the grant initiates rescission proceedings and coordinates with the asylum office that has jurisdiction over the place of residence to determine next steps in the rescission process.[6]As a matter of policy, USCIS does not initiate rescission proceedings if adjustment was granted by an immigration judge.
+
+H2: B. Rescission of Adjustment of a Conditional Permanent Resident
+
+With regards to conditional permanent residents (CPRs), the period of time that he or she is in CPR status counts as part of the 5-year limitation underINA 246. However, USCIS generally does not use the rescission authority ofINA 246for those who are CPRs.
+
+H3: 1. Certain Spouses and Sons and Daughters Defined in INA 216
+
+If USCIS determines that a person’s CPR status should be terminated for the reasons set forth inINA 216, then USCIS generally does not use the rescission authority ofINA 246.
+
+In general, USCIS terminates a person’s CPR status if USCIS determines, before the second anniversary of obtaining CPR status, that the qualifying marriage was improper because:
+
+- The qualifying marriage was entered into for the purpose of procuring a person’s admission as an immigrant;[7]
+
+- The qualifying marriage has been judicially annulled or terminated, other than through the death of a spouse;[8]or
+
+- A fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for filing of a petition underINA 204(a)orINA 214(d) or (p)with respect to the alien.[9]
+
+In general, USCIS also terminates CPR status if:
+
+- The CPR does not file a Petition to Remove Conditions on Residence (Form I-751) which requests the removal of the conditions on his or her permanent resident status.[10]
+
+- The CPR and petitioning spouse fail to appear for their interview in connection with a jointly filedForm I-751, or the CPR fails to appear for his or her interview in connection withForm I-751filed based on hardship waiver;[11]or
+
+- USCIS makes an adverse determination and deniesForm I-751.[12]
+
+If USCIS discovers the CPR was not eligible for adjustment of status, but the person’s CPR status should not be terminated pursuant toINA 216, then USCIS may use the rescission authority ofINA 246.
+
+H3: 2. Certain Entrepreneurs, Spouses, and Children Defined in INA 216A [Reserved]
+
+[Reserved]
+
+H2: C. Deportability Based on Events Arising After Adjustment
+
+If a person becomes removable as a result of an event that occurred after adjustment of status to lawful permanent residence, he or she is not subject to rescission as a result of the event. However, the officer may refer the case for possible initiation of removal proceedings if the person is deemed removable.[13]
+
+H2: D. Rescission of Adjustment After Naturalization
+
+In general, naturalization is revoked before the rescission of adjustment of status.[14]
+
+H2: Footnotes
+
+[^ 1]See8 CFR 103.8(a)(2).
+
+[^ 2]See8 CFR 246.1.
+
+[^ 3]SeeMatter of Carrillo-Gutierrez  (PDF), 16 I&N Dec. 429 (BIA 1977).
+
+[^ 4]See8 CFR 246.1, which does not limit the jurisdiction of USCIS field offices to initiate rescission proceedings for persons residing outside of a USCIS field office’s district.
+
+[^ 5]See Title II ofPub. L. 105-100  (PDF), 111 Stat. 2160, 2196 (November 19, 1997).
+
+[^ 6]The applicant’s residence refers to the applicant’s principal, actual dwelling place in fact, without regard to intent. SeeINA 101(a)(33).
+
+[^ 7]SeeINA 216(b)(1)(A)(i). See8 CFR 216.3.
+
+[^ 8]SeeINA 216(b)(1)(A)(ii).
+
+[^ 9]SeeINA 216(b)(1)(B). See8 CFR 216.3.
+
+[^ 10]SeeINA 216(c)(2)(A)(i)andINA 216(c)(4). See8 CFR 216.4(a)(6).
+
+[^ 11]SeeINA 216(c)(2)(A)(ii). See8 CFR 216.4(b)(3)and8 CFR 216.5(d).
+
+[^ 12]SeeINA 216(c)(3)(C). See8 CFR 216.4(d)(2)and8 CFR 216.5(f).
+
+[^ 13]SeeIssuance of Notices to Appear (NTAs) in Cases Involving Inadmissible and Deportable Aliens, PM-602-0187, issued February 28, 2025.
+
+[^ 14]INA 246(b)provides that a person whose adjustment of status has been rescinded is subject to revocation of naturalization underINA 340. For additional information, see Volume 12, Citizenship and Naturalization, Part L, Revocation of Naturalization [12 USCIS-PM L].
+
+H2: Resources
+
+8 CFR 208.24- Termination of Asylum
+
+8 CFR 240.70- Decision by the Service
+
+8 CFR 246- Rescission of adjustment of status
+
+INA 204(a)- Procedure for granting immigrant status; petitioning procedure
+
+INA 204(c)- Procedure for granting immigrant status; limitation on orphan petitions approved for a single petitioner; prohibition against approval in cases of marriage entered into in order to evade immigration laws; restriction on future entry of aliens involved with marriage fraud
+
+INA 214(d)- Admission of nonimmigrants; issuance of visa to fiancée or fiancé of citizen
+
+INA 214(p),8 CFR 214.14- Admission of nonimmigrants; requirements applicable to section 1101(a)(15)(U) visas
+
+INA 216,8 CFR 216- Conditional permanent resident status for certain alien spouses and sons and daughters
+
+INA 216A,8 CFR 216.6- Conditional permanent resident status for certain alien entrepreneurs, spouses, and children
+
+INA 246- Rescission of adjustment of status; effect upon naturalized citizen
+
+INA 340- Revocation of naturalization
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+G-325A, Biographic Information
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update revises references in the Policy Manual to refer to the memorandumIssuance of Notices to Appear(NTAs) in Cases Involving Inadmissible and Deportable Aliens, issued on February 28, 2025.
+
+1 USCIS-PM E.8-Chapter 8 - Discretionary Analysis
+
+7 USCIS-PM A.10-Chapter 10 - Legal Analysis and Use of Discretion
+
+7 USCIS-PM B.7-Chapter 7 - Other Barred Adjustment Applicants
+
+7 USCIS-PM Q.2-Chapter 2 - Eligibility
+
+7 USCIS-PM Q.3-Chapter 3 - Rescission Process
+
+7 USCIS-PM Q.5-Chapter 5 - Adjudication Procedures
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to clarify guidance regarding jurisdiction over rescission of lawful permanent resident (LPR) status.
+
+7 USCIS-PM Q.3-Chapter 3 - Rescission Process
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update is part of an initiative to move existing policy guidance from the Adjudicator’s Field Manual (AFM) into the Policy Manual. This update does not make major substantive changes but consolidates and incorporates existing AFM guidance into the Policy Manual, streamlining USCIS’ immigration policy while removing obsolete information. This guidance replaces Chapters 22.3 and 26 of the AFM, related appendices, and policy memoranda.
+
+6 USCIS-PM H-Part H - Designated and Special Immigrants
+
+7 USCIS-PM Q-Part Q - Rescission of Lawful Permanent Residence
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

@@ -1,0 +1,235 @@
+H1: Chapter 6 - Validity of an Approved Waiver
+
+- Guidance
+
+- Resources (15)
+
+- Appendices (0)
+
+- Updates (5)
+
+H2: A. Extent of Waiver Validity
+
+In general, an approved waiver is only valid for the grounds of inadmissibility specified in the application. Furthermore, a waiver is only valid for those crimes, events, incidents, or conditions specified in the waiver application. If an alien is later found inadmissible for a separate crime, event, incident or condition not already included in the approved waiver application, the alien is required to file another waiver application.
+
+H2: B. Length of Waiver Validity
+
+A waiver’s validity depends on the underlying immigration benefit connected to the approved waiver.
+
+H3: 1. Certain Nonimmigrants[1]
+
+An inadmissible applicant seeking to enter the United States as a nonimmigrant generally needs to obtain advance permission to enter the United States as a nonimmigrant.[2]Advance permission to enter as a nonimmigrant[3]despite inadmissibility is referred to as a nonimmigrant waiver. Customs and Border Protection (CBP) generally adjudicates this waiver, which is temporary if approved.[4]This temporary permission does not ordinarily carry over to other benefit categories, such as other nonimmigrant categories, immigrant categories, visas, or adjustment of status.
+
+H3: 2. Temporary Protected Status Holders[5]
+
+An applicant seeking temporary protected status (TPS) status in the United States may be inadmissible. In most cases, a waiver is available to a TPS applicant in connection with his or her TPS application. If USCIS approves a TPS applicant’s waiver, the waiver is temporary and lasts for the duration of TPS only.[6]
+
+H3: 3. Refugees
+
+An inadmissible refugee must apply for a waiver before seeking admission to the United States.[7]A waiver granted to a refugee for admission to the United States is valid for purposes of seeking adjustment of status as a refugee.[8]In this case, the applicant does not have to file another waiver for the specific inadmissibility ground previously waived.[9]
+
+There is an exception, however, for medical waivers. If USCIS grants the refugee a waiver for purposes of admission to the United States because of a Class A condition, then the refugee is required to submit to another medical examination. If the second examination reveals a Class A condition, the refugee must file another waiver when seeking adjustment of status.[10]
+
+H3: 4. Lawful Permanent Residents
+
+An inadmissible applicant seeking lawful permanent resident (LPR) status requires a waiver. As previously explained, the availability of a waiver depends on the specific category under which an applicant seeks LPR status.
+
+A waiver granted in connection with any application for LPR status[11]permanently waives the ground of inadmissibility for purposes of any future immigration benefits application, including immigrant and nonimmigrant benefits. The waiver remains valid even if the LPR later abandons or otherwise loses LPR status.[12]
+
+This rule, however, does not apply to conditional residents or conditional grants issued to K-1 and K-2 nonimmigrants.[13]
+
+H3: 5. Conditional Permanent Residents[14]
+
+For most conditional permanent residents,[15]the waiver becomes valid indefinitely when the conditions are removed from the permanent resident status. This is the case even if the LPR later abandons or otherwise loses LPR status.
+
+For certain criminal waivers[16]and a waiver of fraud or willful misrepresentation,[17]the validity of a waiver automatically ends if USCIS terminates conditional residency. There is no need for a separate termination notice and the applicant cannot appeal this waiver termination. If the immigration judge determines during removal proceedings that USCIS incorrectly terminated the conditional residence, the waiver becomes effective again.[18]
+
+H3: 6. K-1 and K-2 Nonimmigrants
+
+If the applicant seeks a waiver to obtain a fiancé(e) visa (K-1 or K-2), the waiver’s approval is conditioned upon the K-1 nonimmigrant marrying the U.S. citizen who filed the fiancé(e) petition.[19]If the K-1 nonimmigrant marries the petitioner, the approved waiver becomes valid indefinitely for any future immigration benefits application, whether immigrant or nonimmigrant.
+
+The waiver remains valid even if the K nonimmigrant does not ultimately adjust status to an LPR or if the K nonimmigrant later abandons or otherwise loses LPR status.[20]
+
+If the K-1 nonimmigrant does not marry the petitioner, the K-1 and K-2 (if applicable) remain inadmissible for any application or any benefit other than the proposed marriage between the K-1 and the K nonimmigrant visa petitioner.[21]
+
+H3: 7. Inter-country Convention Adoptees
+
+An approved waiver in conjunction with the provisional approval of a Petition to Classify Convention Adoptee as an Immediate Relative (Form I-800) is conditioned upon the issuance of an immigrant or nonimmigrant visa for the child's admission to the United States and final approval of that Form I-800. If Form I-800 or the immigrant or nonimmigrant visa application is ultimately denied, the waiver is void.[22]
+
+H2: Footnotes
+
+[^ 1]Except for K, T, U, and V nonimmigrants.
+
+[^ 2]The application is filed on Application for Advance Permission to Enter as Nonimmigrant (Form I-192).
+
+[^ 3]SeeINA 212(d)(3)(A).
+
+[^ 4]For more information on when an applicant should file this waiver with CBP and when with USCIS, see Application for Advance Permission to Enter as a Nonimmigrant (Form I-192).
+
+[^ 5]SeeINA 244(c).
+
+[^ 6]SeeINA 244(a)andINA 244(c). See8 CFR 244.3and8 CFR 244.13. See Instructions for Application for Waiver of Grounds of Inadmissibility (Form I-601). If the applicant obtains a waiver in connection with an Application for Temporary Protected Status (Form I-821), the waiver is only valid for the TPS application. If granted, the waiver applies to subsequent TPS re-registration applications, but not to any other immigration benefit requests.
+
+[^ 7]SeeINA 207(c)(3).
+
+[^ 8]SeeINA 209.
+
+[^ 9]If the refugee is seeking adjustment of status on a basis other thanINA 209, the refugee must apply for a new waiver as required by that particular benefit.
+
+[^ 10]Refugees seek adjustment of status underINA 209. For more information on Class A conditions, see Volume 8, Admissibility, Part B, Health-Related Grounds of Inadmissibility [8 USCIS-PM B].
+
+[^ 11]This includes applications for an immigrant visa, fiancé(e) visa, legalization, and adjustment of status.
+
+[^ 12]See8 CFR 212.7(a)(4)(ii).
+
+[^ 13]See8 CFR 212.7(a)(4)(ii). For K-1 and K-2 nonimmigrants granted a waiver, see ​Subsection 6, K-1 and K-2 Nonimmigrants​ [​9 USCIS-PM ​A.6(​B)(6)​].
+
+[^ 14]SeeINA 216. See8 CFR 212.7(a)(4)(iv).
+
+[^ 15]Aliens lawfully admitted for permanent residence on a conditional basis. SeeINA 216.
+
+[^ 16]SeeINA 212(h).
+
+[^ 17]SeeINA 212(i).
+
+[^ 18]See8 CFR 212.7(a)(4)(iv).
+
+[^ 19]See8 CFR 212.7(a)(4)(iii).
+
+[^ 20]See8 CFR 212.7(a)(4)(ii).
+
+[^ 21]See8 CFR 212.7(a)(4)(iii).
+
+[^ 22]See8 CFR 204.313(g).
+
+H2: Resources
+
+8 CFR 212.7- Waiver of certain grounds of inadmissibility
+
+INA 207,8 CFR 207- Annual admission of refugees and admission of emergency situation refugees
+
+INA 209,8 CFR 209- Adjustment of status of refugees and asylees
+
+INA 210,8 CFR 210- Special agricultural workers
+
+INA 211,8 CFR 211- Admission of immigrants into the United States
+
+INA 212,8 CFR 212- Excludable aliens
+
+INA 214,8 CFR 214- Admission of nonimmigrants
+
+INA 244,8 CFR 244- Temporary protected status
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+INA 245A,8 CFR 245a- Adjustment of status of certain entrants before January 1, 1982 to that of person admitted for lawful residence
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-192, Application for Advance Permission to Enter as a Nonimmigrant
+
+I-601A, Application for Provisional Unlawful Presence Waiver
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance to address the general policies and procedures applicable to the adjudication of waivers of inadmissibility.
+
+9 USCIS-PM A-Part A - Waiver Policies and Procedures

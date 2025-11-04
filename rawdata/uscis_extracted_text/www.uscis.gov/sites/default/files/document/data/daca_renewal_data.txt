@@ -1,0 +1,83 @@
+"Approximate Active DACA Recipients as of September 4, 2017 by Month Validity Expires",,,,
+
+"and Status of Associated Renewal as of September 7, 2017 ( If Submitted)",,,,
+
+Month/Year Current DACA Expires,DACA Renewal Status (If Submitted),,,
+
+,Renewal Granted,Renewal Pending,No Renewal Pending,Grand Total
+
+"March 5, 2018 and Before",910,"56,700","96,600","154,200"
+
+17-Sep,210,"6,100","4,000","10,300"
+
+17-Oct,150,"8,000","6,400","14,600"
+
+17-Nov,100,"8,200","6,800","15,100"
+
+17-Dec,340,"24,900","27,500","52,800"
+
+18-Jan,100,"8,700","34,200","43,000"
+
+18-Feb,20,900,"16,900","17,800"
+
+18-Mar,,,700,700
+
+,,,,
+
+"March 6, 2018  and After",0,430,"535,100","535,600"
+
+18-Mar,,120,"13,000","13,200"
+
+18-Apr,,30,"5,400","5,400"
+
+18-May,,40,"14,000","14,000"
+
+18-Jun,,10,"9,100","9,100"
+
+18-Jul,,10,"3,900","3,900"
+
+18-Aug,,30,"36,100","36,100"
+
+18-Sep,,20,"33,600","33,600"
+
+18-Oct,,20,"44,100","44,100"
+
+18-Nov,,20,"27,500","27,500"
+
+18-Dec,,10,"20,300","20,300"
+
+19-Jan,,30,"49,300","49,300"
+
+19-Feb,,30,"48,300","48,300"
+
+19-Mar,,20,"51,700","51,700"
+
+19-Apr,,10,"37,200","37,300"
+
+19-May,,10,"32,300","32,300"
+
+19-Jun,,10,"36,200","36,200"
+
+19-Jul,,10,"32,400","32,400"
+
+19-Aug,,10,"40,800","40,800"
+
+19-Sep,,0,20,20
+
+Not available,,0,20,20
+
+Grand Total,910,"57,200","631,700","689,800"
+
+,,,,
+
+Notes:,,,,
+
+"This table refers to individuals who were granted Deferred Action for Childhood Arrivals (DACA) as of September 4, 2017.  The number of individuals who were ever  granted DACA as of September 4, 2017 was approximately 800,000.This total excludes persons who applied for an initial grant of DACA and were not approved, as well as initial DACA requestors that were approved at first, but later had their initial request denied or terminated. Nearly 40,000 DACA recipients have adjusted to lawful permanent resident (LPR) status, leaving about 760,000 who are not LPRs.  About 70,000 individuals who were granted  DACA either failed to renew at the end of their 2-year validity period or were denied on renewal, leaving approximately 690,000 active DACA recipients as of September 4, 2017.",,,,
+
+"Renewal submission and grant status as of September 7, 2017.",,,,
+
+Totals do not add due to rounding.,,,,
+
+Not available:  data are not available in electronic systems.,,,,
+
+"Source:  U.S. Citizenship and Immigration Services, CLAIMS3 and ELIS Systems.",,,,

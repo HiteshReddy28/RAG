@@ -1,0 +1,389 @@
+H1: Chapter 4 - Documentation
+
+- Guidance
+
+- Resources (15)
+
+- Appendices (0)
+
+- Updates (8)
+
+A Record of Proceeding (ROP) is created when an adjustment application is received. While not every ROP contains the same exact information or documents, all ROPs are created in the same format and documents are placed in the file from top to bottom.
+
+H2: A. Initial Evidence
+
+When reviewing an adjustment of status application, the officer must verify that the following evidence is contained in the A-file and is placed in ROP order on the left side of the file.
+
+H3: 1. Photographs
+
+Two passport-style photographs must be included. The photographs must be:
+
+- 2” x 2” in color with full face, frontal view;
+
+- On a white to off-white background, printed on thin paper with a glossy finish; and
+
+- Be un-mounted and un-retouched.
+
+The photographs must have been taken within 30 days of filing.[1]
+
+H3: 2. Application to Register Permanent Residence or Adjust Status (Form I-485)
+
+Aliens apply for permanent resident status by filingForm I-485at the appropriate time with the correct fee and necessary documentation to establish eligibility.
+
+H3: 3. Birth Certificate
+
+A copy of the applicant’s foreign birth certificate or sufficient secondary evidence of birth must be submitted to establish the applicant’s country of citizenship for visa chargeability, identity, and existence of derivative relationships.[2]Each foreign birth certificate must include a certified English translation.[3]
+
+Officers should check theDepartment of State's Country Reciprocity Scheduleto determine availability of birth certificates as well as acceptable secondary evidence of birth for specific countries.
+
+H3: 4. Evidence of Admission or Parole
+
+In most cases, an adjustment applicant is required to provide evidence of inspection and admission or parole.[4]Typical documents that prove inspection and admission or parole include:
+
+- Copy of the entry or parole stamps in the applicant’s passport issued by U.S. Customs and Border Protection (CBP);
+
+- Arrival/Departure Record (Form I-94);
+
+- Form I-94 issued by USCIS at the bottom of a Notice of Action (Form I-797); or
+
+- Authorization for Parole of an Alien into the United States (Form I-512 or I-512L).
+
+If an applicant appears at an interview with none of the above evidence but claims to have been “waved in” at the port of entry (POE), the applicant may still be considered to have been inspected and admitted in some cases.[5]The burden of proof is on the applicant to provide sufficient evidence to establish eligibility.[6]
+
+H3: 5. Affidavit of Support and Related Forms (Form I-864, I-864A, and I-864EZ)
+
+An affidavit of support is required for most immediate relative and family-based immigrants. The affidavit of support is also required for any employment-based immigrant whose petitioner is the applicant’s spouse, parent, child, adult son or daughter, or sibling and in which the applicant’s family has 5% or more ownership in the business. The purpose of this form is to show the applicant has adequate means of financial support and is unlikely to become a public charge.[7]
+
+H3: 6. Report of Immigration Medical Examination and Vaccination Record (Form I-693)
+
+Form I-693is required for adjustment of status applicants who either did not receive a medical examination prior to their admission to the United States or who do not have evidence of an overseas medical examination in their file. A medical examination and vaccination record must be documented for most adjustment of status applications and completed as closely as possible to submission of the adjustment application.[8]If not completed overseas, the medical examination must be completed by a designated civil surgeon in the United States and documented on this form.[9]
+
+H3: 7. Certified Copies of Arrest Records and Court Dispositions
+
+All applicants that have previously been arrested are required to submit original or court-certified copies of the arrest records, court dispositions or both. If an applicant’s fingerprints reveal an arrest record, the applicant’s A-file should contain a Record of Arrest and Prosecution (RAP) sheet.
+
+If there is an arrest record, the applicant must submit an original or certified copy of the official arrest report or other statement by the arresting agency and official court records showing the disposition of all arrests, detentions, or convictions regardless of where in the world the arrest occurred. Applicants are not required to submit records for minor traffic violations, records that are not drug or alcohol-related, did not result in an arrest, or in which the only penalty was a fine of less than $500 or points on a driver’s license.
+
+H3: 8. Evidence of Underlying Basis to Adjust Status[10]
+
+An officer should verify the immigrant category indicated onForm I-485as the basis for adjustment. The applicant can attach:
+
+- A copy of theForm I-797Approval Notice for an approved underlying immigrant visa petition;
+
+- The underlying immigrant visa petition together with the Form I-485, if concurrently filing; or
+
+- A copy of the Form I-797 Receipt Notice for an underlying immigrant visa petition that remains pending.
+
+Certain adjustment applicants, however, are not required to have an underlying petition. These applicants include:
+
+- Asylees;
+
+- Refugees;
+
+- Applicants eligible for certain adjustment of status programs based on certain public laws;[11]
+
+- Persons born under diplomatic status in the United States;[12]
+
+- Persons applying for Creation of Record; and
+
+- Applicants who obtain relief through a private immigration bill signed into law.
+
+In these cases, the officer should review any specific eligibility and evidentiary requirements that apply to the program or law to ensure the applicant is eligible to adjust on that basis.
+
+H3: 9. Additional Evidence for Eligibility
+
+Additional evidence is required for certain applicants in order to meet specific eligibility requirements. For instance, an applicant may need to submit marriage certificates or divorce decrees to establish the required relationship for the classification. Additionally, applicants under most preference categories may need to submit evidence that they are not subject to any bars to adjustment as a result of failing to maintain their nonimmigrant status, working without authorization, or otherwise violating the terms of their nonimmigrant status.
+
+H2: B. Unavailability of Records and the Use of Affidavits
+
+There are certain situations where an applicant may not be able to provide the required primary evidence but may be able to submit secondary evidence. When submitting secondary evidence, an applicant must establish that the required primary document is unavailable or does not exist.[13]
+
+H3: 1. Establishing Required Primary Document Is Unavailable or Does Not Exist[14]
+
+To establish that a required primary document is unavailable or does not exist, an applicant must submit letters of certification of non-existence issued by the appropriate civil authority. These letters must:
+
+- Be an original written statement from a civil authority on official government letterhead;
+
+- Establish the nonexistence or unavailability of the document;
+
+- Indicate the reason the record does not exist; and
+
+- Indicate whether similar records for the time and place are available.
+
+Certification of non-existence from a civil authority is not required where theDepartment of State’s Reciprocity Scheduleindicates this type of document generally does not exist. An officer should consult the Reciprocity Schedule before issuing a Request for Evidence (RFE) for a missing document that is required.
+
+If an applicant is unable to obtain a letter of certification of non-existence issued by the appropriate civil authority, the applicant or petitioner may submit evidence that repeated good faith attempts were made to obtain the required documentation.
+
+H3: 2. Secondary Evidence
+
+Once an applicant has demonstrated that a required primary document is unavailable, the applicant may submit appropriate secondary evidence, such as church or school records pertaining to the facts at issue.
+
+H3: 3. Affidavits
+
+If an applicant has demonstrated unavailability of both a required primary and secondary document, the applicant must submit at least two affidavits, or sworn written statements, pertaining to the facts at issue. Such affidavits must be given by:
+
+- Persons who are not parties to the underlying petition; and
+
+- Persons who have direct personal knowledge of the events and circumstances in question.[15]
+
+In order for an applicant to meet his or her burden of proof, the officer must examine the evidence for its probative value and credibility. For these reasons, an affidavit should include:
+
+- The full name, address, and contact information of the affiant (person giving the sworn statement), including his or her own date and place of birth, and relationship (if any) to the applicant;
+
+- A copy of the affiant’s government-issued identification, if available;
+
+- Full information concerning the facts at issue; and
+
+- An explanation of how the affiant has direct personal knowledge of the relevant events and circumstances.
+
+Affidavits that cannot be verified carry no weight in proving the facts at issue.
+
+Persons submitting affidavits may be relatives of the applicant and do not necessarily have to be U.S. citizens.[16]
+
+H2: C. Requests for Evidence (RFE)
+
+An officer must review all documents submitted and contained within the applicant’s A-file to:
+
+- Determine acceptability;
+
+- Ensure all required documents are present; and
+
+- Avoid issuing an RFE requesting information already available in the A-file.
+
+TABLE:
+Scenario | Officer Action
+Any required initial evidence is incomplete, missing, or raises eligibility concerns | Prepare and issue an RFE to provide the applicant an opportunity to establish his or her eligibility; orDeny the application.[17]
+All required initial evidence is submitted, but the evidence submitted does not establish eligibility | Prepare and issue an RFE for additional information;Prepare and issue a Notice of Intent to Deny (NOID) with the basis for the proposed denial and require the applicant to submit a response; orDeny the application for ineligibility.[18]
+A family member’s A-file contains a document required to establish eligibility | Make a copy of the required document;Place the copy in the applicant’s A-file in the proper ROP order; andReturn the original document to the family member’s A-file, in proper ROP order.
+
+- Prepare and issue an RFE to provide the applicant an opportunity to establish his or her eligibility; or
+
+- Deny the application.[17]
+
+- Prepare and issue an RFE for additional information;
+
+- Prepare and issue a Notice of Intent to Deny (NOID) with the basis for the proposed denial and require the applicant to submit a response; or
+
+- Deny the application for ineligibility.[18]
+
+- Make a copy of the required document;
+
+- Place the copy in the applicant’s A-file in the proper ROP order; and
+
+- Return the original document to the family member’s A-file, in proper ROP order.
+
+Originals of applications and petitions must be submitted unless previously filed with USCIS. Documents typically submitted as originals with the adjustment application may include a concurrently filed petition, the medical examination report, and affidavits.
+
+An applicant only needs to submit original documents required by regulation or form instructions and necessary to support the application. An official original document issued by USCIS or by legacy INS does not need to be submitted, unless requested. Unless otherwise required by applicable regulations or form instructions, a legible photocopy of any other supporting document may be submitted.
+
+An officer, however, may request an original document if there is reason to question the authenticity of the document for which a photocopy has been submitted. If originals are requested to validate a photocopy, they should be returned to the applicant after review and verification unless regulations require the originals to be submitted and retained. Failure to submit a requested original document may result in denial or revocation of the underlying application or benefit.[19]An officer may check available systems to validate evidence submitted by the applicant, as well as to verify claimed entries, prior deportations, visa issuance, and criminal history.
+
+H2: Footnotes
+
+[^ 1]SeeInstructions to Form I-485. See examples at theU.S. Department of State website.
+
+[^ 2]See8 CFR 103.2(b)(2).
+
+[^ 3]See8 CFR 103.2(b)(3).
+
+[^ 4]SeeINA 245(a).
+
+[^ 5]SeeMatter of Quilantan  (PDF), 25 I&N Dec. 285 (BIA 2010). For more information, see Part B, 245(a) Adjustment, Chapter 2, Eligibility Requirements, Section A, “Inspected and Admitted” or “Inspected and Paroled”, Subsection 7, Waived Through at Port-of-Entry [7 USCIS-PM B.2(A)(7)].
+
+[^ 6]See8 CFR 103.2(b).
+
+[^ 7]SeeINA 213A. For detailed information on the requirements of the Affidavit of Support, see Chapter 6, Adjudicative Review, Section D, Determine Admissibility, Subsection 2, Affidavit of Support Under Section 213A of the Act (Form I-864) [7 USCIS-PM A.6(D)(2)].
+
+[^ 8]For more information, see Volume 8, Admissibility, Part B, Health-Related Grounds of Inadmissibility, Chapter 3, Applicability of Medical Examination and Vaccination Requirement [8 USCIS-PM B.3].
+
+[^ 9]For more information, see Volume 8, Admissibility, Part B, Health-Related Grounds of Inadmissibility [8 USCIS-PM B].
+
+[^ 10]For more information, see Chapter 6, Adjudicative Review, Section A, Verify Underlying Basis to Adjust Status [7 USCIS-PM A.6(A)].
+
+[^ 11]Some adjustment programs that are otherwise different from general adjustment include: the Cuban Adjustment Act,Pub. L. 89-732  (PDF)(November 2, 1966); the Cuban Adjustment Act for Battered Spouses and Children, Section 1509 of the Victims of Trafficking and Violence Protection Act of 2000 (VTVPA),Pub. L. 106-386  (PDF), 114 Stat. 1464, 1530 (October 28, 2000) and Sections 811, 814, and 823 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (VAWA 2005),Pub. L. 109-162  (PDF), 119 Stat. 2960, 3057-58 and 3063 (January 5, 2006); dependent status under the Haitian Refugee Immigrant Fairness Act (HRIFA), Division A, Section 902 ofPub. L. 105-277  (PDF), 112 Stat. 2681, 2681-538 (October 21, 1998); dependent status under HRIFA for Battered Spouses and Children, Section 1511 of VTVPA,Pub. L. 106-386  (PDF), 114 Stat. 1464, 1532 (October 28, 2000), Section 1505 of the LIFE Act Amendments,Pub. L. 106-554  (PDF), 114 Stat. 2763, 2753A-326 (December 21, 2000), Sections 811, 814, and 824 of VAWA 2005,Pub. L. 109-162  (PDF), 119 Stat. 2960, 3057-58 and 3063 (January 5, 2005), and8 CFR 245.15; former Soviet Union, Indochinese or Iranian parolees (Lautenberg Parolees), Section 599E of the Foreign Operations, Export Financing, and Related Programs Appropriations Act of 1990,Pub. L. 101-167  (PDF), 103 Stat. 1195, 1263 (November 21, 1989), as amended; and diplomats or high-ranking officials unable to return home, Section 13 of the Act of September 11, 1957,Pub. L. 85-316  (PDF), as amended,8 CFR 245.3,INA 101(a)(15)(A)(i)-(ii), andINA 101(a)(15)(G)(i)-(ii).
+
+[^ 12]See8 CFR 101.3and8 CFR 264.2.
+
+[^ 13]See8 CFR 103.2(b)(2).
+
+[^ 14]See8 CFR 103.2(b)(2)(ii).
+
+[^ 15]See8 CFR 103.2(b)(2)(i).
+
+[^ 16]See8 CFR 103.2(b)(2)for more information on submitting secondary evidence and affidavits.
+
+[^ 17]See8 CFR 103.2(b)(8)(ii).
+
+[^ 18]See8 CFR 103.2(b)(8)(iii).
+
+[^ 19]See8 CFR 103.2(b)(5).
+
+H2: Resources
+
+8 CFR 103.2- Submission and adjudication of benefit requests
+
+8 CFR 208.24- Termination of Asylum
+
+INA 209,8 CFR 209- Adjustment of status of refugees and asylees
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+G-325A, Biographic Information
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-693, Report of Medical Examination and Vaccination Record
+
+I-864, Affidavit of Support Under Section 213A of the INA
+
+I-864A, Contract Between Sponsor and Household Member
+
+I-864EZ, Affidavit of Support Under Section 213A of the INA
+
+I-864P, Poverty Guidelines
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is revising its policy guidance in the USCIS Policy Manual to align with the Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements Final Rule, published in the Federal Register on August 3, 2020. This guidance becomes effective October 2, 2020. For information regarding implementation, seeAppendix: 2020 Fee Rule Litigation Summary.
+
+1 USCIS-PM A-Part A - Public Services
+
+1 USCIS-PM B-Part B - Submission of Benefit Requests
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+11 USCIS-PM A-Part A - Secure Identity Documents Policies and Procedures
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update removes references to Form I-864W, Request for Exemption for Intending Immigrant’s Affidavit of Support, which was discontinued by the Inadmissibility on Public Charge Grounds Rule and is no longer used by U.S. Citizenship and Immigration Services.
+
+7 USCIS-PM A.4-Chapter 4 - Documentation
+
+7 USCIS-PM A.6-Chapter 6 - Adjudicative Review
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to remove references to Biographic Information (Form G-325A).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM L-Part L - Refugee Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+7 USCIS-PM O-Part O - Registration
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance addressing the general policies and procedures of adjustment of status as well as adjustment under section 245(a) of the Immigration and Nationality Act (INA).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment

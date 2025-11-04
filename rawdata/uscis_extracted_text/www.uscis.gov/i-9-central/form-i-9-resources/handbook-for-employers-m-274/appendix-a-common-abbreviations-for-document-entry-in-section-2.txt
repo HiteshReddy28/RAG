@@ -1,0 +1,82 @@
+H1: Appendix A: Common Abbreviations for Document Entry in Section 2
+
+This appendix includes common abbreviations for some of the documents that employees may present from the Lists of Acceptable Documents. This appendix is not an exhaustive list of all the documents an employee may choose to present. See the Lists of Acceptable Documents on Form I-9 for a complete list.
+
+TABLE:
+Full name of List A Document | Common Abbreviation
+Permanent Resident Card (Form I-551) | Form I-551 or PRC
+Alien Registration Receipt Card (Form I-551) | Form I-551 or PRC
+Foreign passport containing a temporary I-551 stamp, also known as Alien Documentation, Identification and Telecommunication (ADIT) stamp. | 1. Foreign Passport2. I-551 or ADIT Stamp
+Foreign passport containing a temporary I-551 printed notation on a machine-readable immigrant visa (MRIV) | 1. Foreign Passport2. MRIV
+Employment Authorization Document (Form I-766) | Form I-766 or EAD
+For a nonimmigrant individual authorized to work for a specific employer because of his or her status, a foreign passport with Form I-94 that contains an endorsement of the individual’s nonimmigrant status. | 1. Foreign Passport2. Form I-943. Form I-20 or Form DS-2019Note: In limited circumstances, certain J-1 students may be required to present a letter from their Responsible Officer to work. Enter the document title, issuing authority, document number and expiration date from this document in the Additional Information field.
+Passport from the Federated States of Micronesia (FSM) with Form I-94 | 1. FSM Passport with Form I-942. Form I-94
+Passport from the Republic of the Marshall Islands (RMI) with Form I-94 | 1. RMI Passport with Form I-942. Form I-94
+Receipt: The arrival portion of Form I-94 containing a temporary I-551 (ADIT) stamp and photograph | Receipt: Form I-94 w/I-551 stamp, photo
+Receipt: The departure portion of Form I-94 with an unexpired refugee admission stamp | Receipt: Form I-94 w/refugee stamp
+For receipts, indicate Receipt in the field along with the appropriate abbreviation above, if provided. For example, to document a receipt for the application to replace a lost, stolen or damaged, Permanent Resident Card (Form I-551), you could enter the following: | Receipt replacement Form I-551 or PRC
+
+1. Foreign Passport
+
+2. I-551 or ADIT Stamp
+
+1. Foreign Passport
+
+2. MRIV
+
+1. Foreign Passport
+
+2. Form I-94
+
+3. Form I-20 or Form DS-2019
+
+Note: In limited circumstances, certain J-1 students may be required to present a letter from their Responsible Officer to work. Enter the document title, issuing authority, document number and expiration date from this document in the Additional Information field.
+
+1. FSM Passport with Form I-94
+
+2. Form I-94
+
+1. RMI Passport with Form I-94
+
+2. Form I-94
+
+TABLE:
+Full name of List B Document | Abbreviations
+Driver's license issued by a State or outlying possession of the United StatesorID card issued by a State or outlying possession of the United States | DL plus the state. For example, enter VA DL for a driver’s license issued by the Commonwealth of VirginiaID plus the state. For example, enter NY ID for an ID Card issued by the State of New York DMV
+ID card issued by a State or outlying possession of the United States | ID plus the state. For example, enter NY ID for an ID Card issued by the State of New York
+ID card issued by federal, state, or local government agencies or entities | Government ID, Personal Identity Verification (PIV) card, Common Access Card (CAC), state employee ID, or state-issued prison inmate ID
+School ID card with photograph | School ID
+U.S. Coast Guard Merchant Mariner Card | USCG Merchant Mariner card
+Driver's license issued by a Canadian government authority | Canadian DL
+School record (for persons under age 18 who are unable to present a document listed above) | School record (under age 18)
+Report card (for persons under age 18 who are unable to present a document listed above) | Report card (under age 18)
+Clinic record (for persons under age 18 who are unable to present a document listed above) | Clinic record (under age 18)
+Doctor record (for persons under age 18 who are unable to present a document listed above) | Doctor record (under age 18)
+Hospital record (for persons under age 18 who are unable to present a document listed above) | Hospital record (under age 18)
+Day-care record (for persons under age 18 who are unable to present a document listed above) | Day-care record (under age 18)
+Nursery school record (for persons under age 18 who are unable to present a document listed above) | Nursery school record (under age 18)
+Individual under age 18 endorsement by parent or guardian | Individual under Age 18
+Special placement endorsement for persons with disabilities | Special Placement
+For receipts, indicate Receipt in the field along with the appropriate abbreviation above, if provided. For example, to document a receipt for the application to replace a lost, stolen or damaged Driver's License issued by a State or outlying possession of the United States, you could enter the following: | Receipt: Replacement VA DL
+
+Driver's license issued by a State or outlying possession of the United States
+
+or
+
+ID card issued by a State or outlying possession of the United States
+
+DL plus the state. For example, enter VA DL for a driver’s license issued by the Commonwealth of Virginia
+
+ID plus the state. For example, enter NY ID for an ID Card issued by the State of New York DMV
+
+TABLE:
+Full name of List C Document | Abbreviations
+Social Security Account Number card without restriction | SS Card
+Certification of Birth Abroad (Form FS-545) | Form FS-545
+Certification of Report of Birth (Form DS-1350) | Form DS-1350
+Consular Report of Birth Abroad (Form FS-240) | Form FS-240
+Original or certified copy of a U.S. birth certificate bearing an official seal | Birth Certificate
+U.S. Citizen ID Card (Form I-197) | Form I-197
+Identification Card for use of Resident Citizen in the United States (Form I-179) | Form I-179
+Employment authorization document issued by DHS (List C #7) | Employment Auth. document (DHS) List C #7
+For receipts, indicate Receipt in the field along with the appropriate abbreviation above, if provided. For example, to document a receipt for the application to replace a lost, stolen or damaged Social Security Account Number Card without restrictions, you could enter the following: | Receipt: Replacement SS Card

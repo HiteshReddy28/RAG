@@ -1,0 +1,1322 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+      
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+    <nav aria-labelledby="block-uscis-design-mainnavigation-menu" id="block-uscis-design-mainnavigation">
+            
+  <div class="visually-hidden" id="block-uscis-design-mainnavigation-menu">Main navigation</div>
+  
+
+        
+<a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+
+      <ul class="menu--main leftnav-menu" data-level="0">
+          <li class="menu__item-title leftnav-menu__item leftnav-menu__item--0 has-sub-items" data-id="id33820"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship" class="leftnav-menu__link leftnav-menu__title" data-drupal-link-system-path="node/88387">Citizenship Resource Center</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Citizenship Resource Center" aria-controls="id33820" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="id33820"><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id42095"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/apply-for-naturalization" class="leftnav-menu__link" data-drupal-link-system-path="node/99008">Apply for Naturalization</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Apply for Naturalization" aria-controls="id42095" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id42095"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13383"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/exceptions-and-accommodations" class="leftnav-menu__link" data-drupal-link-system-path="node/42240">Exceptions and Accommodations</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id40097"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship-resource-center/new-us-citizens" class="leftnav-menu__link" data-drupal-link-system-path="node/93216">New U.S. Citizens</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id12844"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship" class="leftnav-menu__link" data-drupal-link-system-path="node/41089">Learn About Citizenship</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Learn About Citizenship" aria-controls="id12844" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id12844"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12862"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship/should-i-consider-us-citizenship" class="leftnav-menu__link" data-drupal-link-system-path="node/41100">Should I Consider U.S. Citizenship?</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id40072"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/naturalization-eligibility" class="leftnav-menu__link" data-drupal-link-system-path="node/93192">Naturalization Eligibility Tool</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id12995"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship/citizenship-and-naturalization" class="leftnav-menu__link" data-drupal-link-system-path="node/42130">Citizenship and Naturalization</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Citizenship and Naturalization" aria-controls="id12995" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id12995"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13385"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-a-lawful-permanent-resident-of-5-years" class="leftnav-menu__link" data-drupal-link-system-path="node/42219">I am a Lawful Permanent Resident of 5 Years</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13384"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-married-to-a-us-citizen" class="leftnav-menu__link" data-drupal-link-system-path="node/41551">I am Married to a U.S. Citizen</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id12996"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship/i-am-the-child-of-a-us-citizen" class="leftnav-menu__link" data-drupal-link-system-path="node/42030">I am the Child of a U.S. Citizen</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12856"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship/10-steps-to-naturalization" class="leftnav-menu__link" data-drupal-link-system-path="node/41113">10 Steps to Naturalization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12998"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship/the-naturalization-interview-and-test" class="leftnav-menu__link" data-drupal-link-system-path="node/42175">The Naturalization Interview and Test</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12997"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship/naturalization-ceremonies" class="leftnav-menu__link" data-drupal-link-system-path="node/42016">Naturalization Ceremonies</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id33907"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/learn-about-citizenship/commonly-asked-questions-about-the-naturalization-process" class="leftnav-menu__link" data-drupal-link-system-path="node/56751">Commonly Asked Questions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13039"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/civic-integration/settling-in-the-us" class="leftnav-menu__link" data-drupal-link-system-path="node/41339">Settling in the U.S.</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id33925"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship-resource-center/civic-assimilation/support-your-community" class="leftnav-menu__link" data-drupal-link-system-path="node/56891">Support Your Community</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41638"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/civic-integration/outstanding-americans-by-choice" class="leftnav-menu__link" data-drupal-link-system-path="node/95303">Outstanding Americans by Choice</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id33823"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/find-study-materials-and-resources/study-for-the-test" class="leftnav-menu__link" data-drupal-link-system-path="node/41127">Study for the Test</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Study for the Test" aria-controls="id33823" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id33823"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id42159"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship-resource-center/naturalization-test-and-study-resources/2025-civics-test" class="leftnav-menu__link" data-drupal-link-system-path="node/99889">2025 Civics Test</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id33916"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/find-study-materials-and-resources/check-for-test-updates" class="leftnav-menu__link" data-drupal-link-system-path="node/70983">Check for Test Updates</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id12849"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/resources-for-educational-programs" class="leftnav-menu__link" data-drupal-link-system-path="node/41114">Resources for Educational Programs</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Resources for Educational Programs" aria-controls="id12849" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id12849"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id42007"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship-resource-center/resources-for-educational-programs/prepare-for-the-naturalization-interview-and-test" class="leftnav-menu__link" data-drupal-link-system-path="node/60118">Prepare for the Naturalization Interview and Test</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id12871"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="leftnav-menu__link" data-drupal-link-system-path="node/41141">Educational Products for Educators and Program Administrators</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id34057"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/resources-for-educational-programs/register-for-training" class="leftnav-menu__link" data-drupal-link-system-path="node/88468">Upcoming Teacher Trainings</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Upcoming Teacher Trainings" aria-controls="id34057" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id34057"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id40105"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship-resource-center/resources-for-educational-programs/citizenship-teacher-training-registration" class="leftnav-menu__link" data-drupal-link-system-path="node/93271">Citizenship Teacher Training Registration</a></div></div></li></ul></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id12845"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/outreach-tools" class="leftnav-menu__link" data-drupal-link-system-path="node/41123">Outreach Tools</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Outreach Tools" aria-controls="id12845" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id12845"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34180"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/outreach-tools/set-up-a-citizenship-corner" class="leftnav-menu__link" data-drupal-link-system-path="node/47408">Set Up a Citizenship Corner</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id16920"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/outreach-tools/libraries" class="leftnav-menu__link" data-drupal-link-system-path="node/46688">Libraries</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id33931"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/outreach-tools/museums" class="leftnav-menu__link" data-drupal-link-system-path="node/56899">Museums</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34183"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/outreach-tools/community-based-organizations" class="leftnav-menu__link" data-drupal-link-system-path="node/61199">Community-Based Organizations</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id17221"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/outreach-tools/local-governments" class="leftnav-menu__link" data-drupal-link-system-path="node/47479">Local Governments</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34186"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship/outreach-tools/employers" class="leftnav-menu__link" data-drupal-link-system-path="node/57369">Employers</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id41249"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="leftnav-menu__link" data-drupal-link-system-path="node/95431">Naturalization-Related Data and Statistics</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Naturalization-Related Data and Statistics" aria-controls="id41249" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id41249"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id40076"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship-resource-center/naturalization-statistics" class="leftnav-menu__link" data-drupal-link-system-path="node/93201">Naturalization Statistics</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41095"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/citizenship-resource-center/naturalization-related-data-and-statistics/naturalization-test-performance" class="leftnav-menu__link" data-drupal-link-system-path="node/94562">Naturalization Test Performance</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41264"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/eligible-to-naturalize-data" class="leftnav-menu__link" data-drupal-link-system-path="node/95498">Eligible to Naturalize Data</a></div></div></li></ul></li></ul></li>    
+    </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                            <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/citizenship">Citizenship Resource Center</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">100 Civics Questions and Answers with MP3 Audio (Spanish version)</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-article">
+      <div class="container container--main">
+                
+
+                        
+            <h1 class="page-title js-page-title">
+              <span>100 Civics Questions and Answers with MP3 Audio (Spanish version)</span>
+            </h1>
+          
+              
+                    
+      
+  <div>
+                      <div class="clearfix text-formatted field field--name-body field__item"><h2 class="text-align-center">Preguntas de educación cívica del Examen de Naturalización</h2><div><p>A continuación encontrará 100 preguntas y respuestas de educación cívica (historia y gobierno de EE.UU.) del examen de naturalización. El examen de educación cívica es un examen oral durante el cual el oficial de USCIS le hará 10 de estas 100 preguntas. El solicitante debe contestar correctamente 6 de las 10 preguntas para aprobar la sección de educación cívica del examen de naturalización.</p><p>En el examen de naturalización, algunas respuestas varían y pueden cambiar por motivo de elecciones o nombramientos. Los solicitantes deben tener conocimiento de las respuestas actuales a estas preguntas. Los solicitantes deben contestar estas preguntas con el nombre del oficial o funcionario que sirve en el puesto al momento de su entrevista con USCIS. El oficial de USCIS no aceptará una respuesta equivocada.</p><div><strong>Aunque USCIS reconoce que podría haber otras respuestas correctas a las 100 preguntas sobre educación cívica,  recomendamos al solicitante responder usando las respuestas que se proveen aquí.</strong></div><p>Si usted tiene 65 años o más y ha sido residente permanente legal de los Estados Unidos por 20 años o más, usted sólo necesita estudiar las preguntas marcadas con un asterisco (*).</p><ul><li><a href="/sites/default/files/document/audio/ESP_ALL_100.mp3" data-entity-type="media" data-entity-uuid="cddb05f5-ce96-44c1-ab6e-5141555b5dfd" data-entity-substitution="media">Escuche el audio MP3 de todas las preguntas y respuestas</a></li></ul><p class="text-align-center"><strong>GOBIERNO ESTADOUNIDENSE</strong></p><p><strong>A: Principios de la democracia estadounidense</strong></p><p><strong>1. ¿Cuál es la ley suprema de la nación? </strong><a href="/sites/default/files/document/audio/Question_01_Spanish.mp3" data-entity-type="media" data-entity-uuid="13c310c2-9417-4695-b45f-dbc56e0fd7cd" data-entity-substitution="media">Pregunta 1 Audio</a></p><ul><li><div>la Constitución</div></li></ul><p><strong>2. ¿Qué hace la Constitución?</strong> <a href="/sites/default/files/document/audio/Question_02_Spanish.mp3" data-entity-type="media" data-entity-uuid="d3539ba5-d7a9-4859-a5ac-ea5f65f88e97" data-entity-substitution="media">Pregunta 2 Audio</a></p><ul><li><div>establece el gobierno</div></li><li><div>define el gobierno</div></li><li><div>protege los derechos básicos de los ciudadanos estadounidenses</div></li></ul><p><strong>3. Las primeras tres palabras de la Constitución contienen la idea del autogobierno (de que el pueblo se gobierna a sí mismo). ¿Cuáles son estas palabras? </strong><a href="/sites/default/files/document/audio/Question_03_Spanish.mp3" data-entity-type="media" data-entity-uuid="05f561f3-5b9f-4c7d-a3bb-85dd4781d349" data-entity-substitution="media">Pregunta 3 Audio</a></p><ul><li><div>Nosotros, el pueblo</div></li></ul><p><strong>4. ¿Qué es una enmienda?</strong> <a href="/sites/default/files/document/audio/Question_04_Spanish.mp3" data-entity-type="media" data-entity-uuid="e7b78826-0aff-4d05-a0bf-153710b39940" data-entity-substitution="media">Pregunta 4 Audio</a></p><ul><li><div>un cambio (a la Constitución)</div></li><li><div>una adición (a la Constitución)</div></li></ul><p><strong>5. ¿Con qué nombre se conocen las primeras diez enmiendas a la Constitución?</strong> <a href="/sites/default/files/document/audio/Question_05_Spanish.mp3" data-entity-type="media" data-entity-uuid="83497e07-a16c-4095-8fa2-dce2a9ef7863" data-entity-substitution="media">Pregunta 5 Audio</a></p><ul><li><div>la Carta de Derechos</div></li></ul><p><strong>6. ¿Cuál es <u>un</u> derecho o libertad que la Primera Enmienda garantiza?*</strong> <a href="/sites/default/files/document/audio/Question_06_Spanish.mp3" data-entity-type="media" data-entity-uuid="4e0e3433-3dcd-4e6e-83b4-a80cf4359eca" data-entity-substitution="media">Pregunta 6 Audio</a></p><ul><li><div>expresión</div></li><li><div>religión</div></li><li><div>reunión</div></li><li><div>prensa</div></li><li><div>peticionar al gobierno</div></li></ul><p><strong>7. ¿Cuántas enmiendas tiene la Constitución?</strong> <a href="/sites/default/files/document/audio/Question_07_Spanish.mp3" data-entity-type="media" data-entity-uuid="f4ad0df6-885a-46d6-a139-e1960220445f" data-entity-substitution="media">Pregunta 7 Audio</a></p><ul><li><div>veintisiete (27)</div></li></ul><p><strong>8. ¿Qué hizo la Declaración de Independencia?</strong> <a href="/sites/default/files/document/audio/Question_08_Spanish.mp3" data-entity-type="media" data-entity-uuid="22e12a4b-ba54-4654-9e00-8aac38b46bdd" data-entity-substitution="media">Pregunta 8 Audio</a></p><ul><li><div>anunció nuestra independencia (de Gran Bretaña)</div></li><li><div>declaró nuestra independencia (de Gran Bretaña)</div></li><li><div>dijo que los Estados Unidos se independizó (de Gran Bretaña)</div></li></ul><p><strong>9. ¿Cuáles son <u>dos</u> derechos en la Declaración de la Independencia?</strong> <a href="/sites/default/files/document/audio/Question_09_Spanish.mp3" data-entity-type="media" data-entity-uuid="3c94f1a3-4547-41eb-86f1-89ab967d61b8" data-entity-substitution="media">Pregunta 9 Audio</a></p><ul><li><div>la vida</div></li><li><div>la libertad</div></li><li><div>la búsqueda de la felicidad</div></li></ul><p><strong>10. ¿En qué consiste la libertad de religión?</strong> <a href="/sites/default/files/document/audio/Question_10_Spanish.mp3" data-entity-type="media" data-entity-uuid="a94e0215-57f5-439e-9b49-84941e9e8136" data-entity-substitution="media">Pregunta 10 Audio</a></p><ul><li><div>Se puede practicar cualquier religión o no practicar ninguna.</div></li></ul><p><strong>11. ¿Cuál es el sistema económico de los Estados Unidos?*</strong> <a href="/sites/default/files/document/audio/Question_11_Spanish.mp3" data-entity-type="media" data-entity-uuid="2116cf9b-c808-4e12-8744-23ddc357f63d" data-entity-substitution="media">Pregunta 11 Audio</a></p><ul><li><div>economía capitalista</div></li><li><div>economía de mercado</div></li></ul><p><strong>12. ¿En qué consiste el “estado de derecho” (ley y orden)?</strong>  <a href="/sites/default/files/document/audio/Question_12_Spanish.mp3" data-entity-type="media" data-entity-uuid="c7ec6381-fc48-43fa-8733-da01c827cfb4" data-entity-substitution="media">Pregunta 12 Audio</a></p><ul><li><div>Todos deben obedecer la ley</div></li><li><div>Los líderes deben obedecer la ley</div></li><li><div>El gobierno debe obedecer la ley</div></li><li><div>Nadie está por encima de la ley</div></li></ul><p><strong>B: Sistema de gobierno</strong></p><p><strong>13. Nombre <u>una</u> rama o parte del gobierno.*</strong> <a href="/sites/default/files/document/audio/Question_13_Spanish.mp3" data-entity-type="media" data-entity-uuid="6c649e12-9bb9-44bb-9220-2f3053e4d4fa" data-entity-substitution="media">Pregunta 13 Audio</a></p><ul><li><div>Congreso</div></li><li><div>Poder legislativo</div></li><li><div>Presidente</div></li><li><div>Poder ejecutivo</div></li><li><div>Los tribunales</div></li><li><div>Poder judicial</div></li></ul><p><strong>14. ¿Qué es lo que evita que <u>una</u> rama del gobierno se vuelva demasiado poderosa?</strong> <a href="/sites/default/files/document/audio/Question_14_Spanish.mp3" data-entity-type="media" data-entity-uuid="37f6be19-7123-4cba-9ba3-696cf85227a8" data-entity-substitution="media">Pregunta 14 Audio</a></p><ul><li><div>pesos y contrapesos</div></li><li><div>separación de poderes</div></li></ul><p><strong>15. ¿Quién está a cargo de la rama ejecutiva?</strong> <a href="/sites/default/files/document/audio/Question_15_Spanish.mp3" data-entity-type="media" data-entity-uuid="58d09a61-24ae-49da-b997-49ac36f3f8a6" data-entity-substitution="media">Pregunta 15 Audio</a></p><ul><li><div>el Presidente</div></li></ul><p><strong>16. ¿Quién crea las leyes federales?</strong> <a href="/sites/default/files/document/audio/Question_16_Spanish.mp3" data-entity-type="media" data-entity-uuid="361edc48-e5e1-41b4-8059-c155ada10acf" data-entity-substitution="media">Pregunta 16 Audio</a></p><ul><li><div>el Congreso</div></li><li><div>el Senado y la Cámara (de Representantes)</div></li><li><div>la legislatura (nacional o de los Estados Unidos)</div></li></ul><p><strong>17. ¿Cuáles son las <u>dos</u> partes que integran el Congreso de los Estados Unidos?*</strong> <a href="/sites/default/files/document/audio/Question_17_Spanish.mp3" data-entity-type="media" data-entity-uuid="c2ef1320-f133-4f77-95d0-5b4d6f6ebf19" data-entity-substitution="media">Pregunta 17 Audio</a></p><ul><li><div>el Senado y la Cámara (de Representantes)</div></li></ul><p><strong>18. ¿Cuántos senadores de los Estados Unidos hay?</strong> <a href="/sites/default/files/document/audio/Question_18_Spanish.mp3" data-entity-type="media" data-entity-uuid="f8763fb2-f8c9-46e6-80d3-abf72473f5ae" data-entity-substitution="media">Pregunta 18 Audio</a></p><ul><li><div>cien (100)</div></li></ul><p><strong>19. ¿De cuántos años es el término de elección de un senador de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_19_Spanish.mp3" data-entity-type="media" data-entity-uuid="45137be5-d7f2-42e3-b7bf-186a5353b1ee" data-entity-substitution="media">Pregunta 19 Audio</a></p><ul><li><div>seis (6)</div></li></ul><p><strong>20. Nombre a <u>uno</u> de los senadores actuales del estado donde usted vive.*</strong> <a href="/sites/default/files/document/audio/Question_20_Spanish.mp3" data-entity-type="media" data-entity-uuid="56c8731a-c1b7-438a-9fa9-79309c4c2861" data-entity-substitution="media">Pregunta 20 Audio</a></p><ul><li><div>Las respuestas variarán. [Los residentes del Distrito de Columbia y los territorios de los Estados Unidos deberán contestar que D.C. (o territorio en donde vive el solicitante) no cuenta con senadores a nivel nacional].</div></li></ul><p><strong>21. ¿Cuántos miembros votantes tiene la Cámara de Representantes?</strong> <a href="/sites/default/files/document/audio/Question_21_Spanish.mp3" data-entity-type="media" data-entity-uuid="4b6ea295-cc23-4677-8c80-7df3da8d0b36" data-entity-substitution="media">Pregunta 21 Audio</a></p><ul><li><div>cuatrocientos treinta y cinco (435)</div></li></ul><p><strong>22. ¿De cuántos años es el término de elección de un representante de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_22_Spanish.mp3" data-entity-type="media" data-entity-uuid="c699646a-95bc-4d4c-a357-2e873076b3ff" data-entity-substitution="media">Pregunta 22 Audio</a></p><ul><li><div>dos (2)</div></li></ul><p><strong>23. Dé el nombre de su representante a nivel nacional.</strong> <a href="/sites/default/files/document/audio/Question_23_Spanish.mp3" data-entity-type="media" data-entity-uuid="69c033e9-e0d0-4c9a-b0d1-3546ce7edaff" data-entity-substitution="media">Pregunta 23 Audio</a></p><ul><li><div>Las respuestas variarán. [Los residentes de territorios con delegados no votantes o los comisionados residentes pueden decir el nombre de dicho delegado o comisionado. Una respuesta que indica que el  territorio no tiene representantes votantes en el Congreso también es aceptable].</div></li></ul><p><strong>24. ¿A quiénes representa un senador de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_24_Spanish.mp3" data-entity-type="media" data-entity-uuid="f2486d67-26c7-4e90-8fbf-64593a84285f" data-entity-substitution="media">Pregunta 24 Audio</a></p><ul><li><div>a todas las personas del estado</div></li></ul><p><strong>25. ¿Por qué tienen algunos estados más representantes que otros?</strong> <a href="/sites/default/files/document/audio/Question_25_Spanish.mp3" data-entity-type="media" data-entity-uuid="89952e69-5f85-4bfc-ace9-c20c4ff25e0c" data-entity-substitution="media">Pregunta 25 Audio</a></p><ul><li><div>(debido a) la población del estado</div></li><li><div>(debido a que) tienen más gente</div></li><li><div>(debido a que) algunos estados tienen más gente</div></li></ul><p><strong>26. ¿De cuántos años es el término de elección de un presidente?</strong> <a href="/sites/default/files/document/audio/Question_26_Spanish.mp3" data-entity-type="media" data-entity-uuid="daef173b-4c24-4ab4-bc6c-ebcea8532fd3" data-entity-substitution="media">Pregunta 26 Audio</a></p><ul><li><div>cuatro (4)</div></li></ul><p><strong>27. ¿En qué mes votamos por un nuevo presidente?*</strong> <a href="/sites/default/files/document/audio/Question_27_Spanish.mp3" data-entity-type="media" data-entity-uuid="7c7d6b46-12f8-4e1f-9bd1-4aac839131e1" data-entity-substitution="media">Pregunta 27 Audio</a></p><ul><li><div>noviembre</div></li></ul><p><strong>28. ¿Cómo se llama el actual Presidente de los Estados Unidos?*</strong> <a href="/sites/default/files/document/audio/Question_28_Spanish.mp3" data-entity-type="media" data-entity-uuid="b8098d7b-e830-4c08-b7c2-751301eb45c7" data-entity-substitution="media">Pregunta 28 Audio</a></p><ul><li><div>Visite <a href="/citizenship/find-study-materials-and-resources/check-for-test-updates" data-entity-type="node" data-entity-uuid="a2a2b57e-27eb-4c2f-b352-1be0b65f6a65" data-entity-substitution="canonical">uscis.gov/es/ciudadania/actualizacionesalexamen</a> para saber el nombre del Presidente de Estados Unidos.</div></li></ul><p><strong>29. ¿Cómo se llama el actual Vicepresidente de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_29_Spanish.mp3" data-entity-type="media" data-entity-uuid="a1044863-f81f-4e03-836f-f6583b0ea0b7" data-entity-substitution="media">Pregunta 29 Audio</a></p><ul><li><div>Visite <a href="/citizenship/find-study-materials-and-resources/check-for-test-updates" data-entity-type="node" data-entity-uuid="a2a2b57e-27eb-4c2f-b352-1be0b65f6a65" data-entity-substitution="canonical">uscis.gov/es/ciudadania/actualizacionesalexamen</a> para saber el nombre del Vice Presidente de Estados Unidos.</div></li></ul><p><strong>30. Si el Presidente ya no puede cumplir sus funciones, ¿quién se convierte en Presidente?</strong> <a href="/sites/default/files/document/audio/Question_30_Spanish.mp3" data-entity-type="media" data-entity-uuid="442e2429-acf4-4965-ad9f-6330f640e43c" data-entity-substitution="media">Pregunta 30 Audio</a></p><ul><li><div>el Vicepresidente</div></li></ul><p><strong>31. Si tanto el Presidente como el Vicepresidente ya no pueden cumplir sus funciones, ¿quién se convierte en Presidente?</strong> <a href="/sites/default/files/document/audio/Question_31_Spanish.mp3" data-entity-type="media" data-entity-uuid="6f2a2937-2ef3-480a-a99e-8f68d9b831d8" data-entity-substitution="media">Pregunta 31 Audio</a></p><ul><li><div>el Presidente de la Cámara de Representantes</div></li></ul><p><strong>32. ¿Quién es el Comandante en Jefe de las Fuerzas Armadas?</strong> <a href="/sites/default/files/document/audio/Question_32_Spanish.mp3" data-entity-type="media" data-entity-uuid="bd95d968-96e4-475c-bbd9-db8062717e8e" data-entity-substitution="media">Pregunta 32 Audio</a></p><ul><li><div>el Presidente</div></li></ul><p><strong>33. ¿Quién firma los proyectos de ley para convertirlos en ley?</strong> <a href="/sites/default/files/document/audio/Question_33_Spanish.mp3" data-entity-type="media" data-entity-uuid="6636e5ae-28ed-4974-8425-950e82f4e2d0" data-entity-substitution="media">Pregunta 33 Audio</a></p><ul><li><div>el Presidente</div></li></ul><p><strong>34. ¿Quién veta los proyectos de ley?</strong> <a href="/sites/default/files/document/audio/Question_34_Spanish.mp3" data-entity-type="media" data-entity-uuid="f5cb1c57-92b3-4dce-94ef-7e4022f6eac1" data-entity-substitution="media">Pregunta 34 Audio</a></p><ul><li><div>el Presidente</div></li></ul><p><strong>35. ¿Qué hace el Gabinete del Presidente?</strong> <a href="/sites/default/files/document/audio/Question_35_Spanish.mp3" data-entity-type="media" data-entity-uuid="88fc444c-ebbc-480d-b160-8a86ca9835d4" data-entity-substitution="media">Pregunta 35 Audio</a></p><ul><li><div>asesora al Presidente</div></li></ul><p><strong>36. ¿Cuáles son <u>dos</u> puestos a nivel de gabinete?</strong> <a href="/sites/default/files/document/audio/Question_36_Spanish.mp3" data-entity-type="media" data-entity-uuid="a16e89c1-0fc4-4f74-9b76-ebd6575bd10a" data-entity-substitution="media">Pregunta 36 Audio</a></p><ul><li><div>Secretario de Agricultura</div></li><li><div>Secretario de Comercio</div></li><li><div>Secretario de Defensa</div></li><li><div>Secretario de Educación</div></li><li><div>Secretario de Energía</div></li><li><div>Secretario de Salud y Servicios Humanos</div></li><li><div>Secretario de Seguridad Nacional</div></li><li><div>Secretario de Vivienda y Desarrollo Urbano</div></li><li><div>Secretario del Interior</div></li><li><div>Secretario del Trabajo</div></li><li><div>Secretario de Estado</div></li><li><div>Secretario de Transporte</div></li><li><div>Secretario del Tesoro</div></li><li><div>Secretario de Asuntos de los Veteranos</div></li><li><div>Procurador General</div></li><li><div>Vicepresidente</div></li></ul><p><strong>37. ¿Qué hace la rama judicial?</strong> <a href="/sites/default/files/document/audio/Question_37_Spanish.mp3" data-entity-type="media" data-entity-uuid="d074dbbe-e7c9-42a9-9bc2-519c49b55f35" data-entity-substitution="media">Pregunta 37 Audio</a></p><ul><li><div>revisa las leyes</div></li><li><div>explica las leyes</div></li><li><div>resuelve disputas (desacuerdos)</div></li><li><div>decide si una ley va en contra de la Constitución</div></li></ul><p><strong>38. ¿Cuál es el tribunal más alto de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_38_Spanish.mp3" data-entity-type="media" data-entity-uuid="14a03083-58c6-463a-a480-daff78e30885" data-entity-substitution="media">Pregunta 38 Audio</a></p><ul><li><div>la Corte Suprema</div></li></ul><p><strong>39. ¿Cuántos jueces hay en la Corte Suprema?</strong> <a href="/sites/default/files/document/audio/Question_39_Spanish.mp3" data-entity-type="media" data-entity-uuid="e9e8e929-f095-470d-9dfd-1f4fc4147c24" data-entity-substitution="media">Pregunta 39 Audio</a></p><ul><li><div>Visite <a href="/citizenship/find-study-materials-and-resources/check-for-test-updates" data-entity-type="node" data-entity-uuid="a2a2b57e-27eb-4c2f-b352-1be0b65f6a65" data-entity-substitution="canonical">uscis.gov/es/ciudadania/actualizacionesalexamen</a> para saber el número de jueces en la Corte Suprema.</div></li></ul><p><strong>40. ¿Quién es el presidente actual de la Corte Suprema de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_40_Spanish.mp3" data-entity-type="media" data-entity-uuid="3a511a18-fdfc-4843-85de-81a1c7de71bd" data-entity-substitution="media">Pregunta 40 Audio</a></p><ul><li><div>Visite <a href="/citizenship/find-study-materials-and-resources/check-for-test-updates" data-entity-type="node" data-entity-uuid="a2a2b57e-27eb-4c2f-b352-1be0b65f6a65" data-entity-substitution="canonical">uscis.gov/es/ciudadania/actualizacionesalexamen</a> para saber el nombre del Presidente del Tribunal Supremo de Estados Unidos.</div></li></ul><p><strong>41. De acuerdo a nuestra Constitución, algunos poderes pertenecen al gobierno federal. ¿Cuál es <u>un</u> poder del gobierno federal?</strong> <a href="/sites/default/files/document/audio/Question_41_Spanish.mp3" data-entity-type="media" data-entity-uuid="bff8eab2-8c17-45f2-a97c-95f170713913" data-entity-substitution="media">Pregunta 41 Audio</a></p><ul><li><div>imprimir dinero</div></li><li><div>declarar la guerra</div></li><li><div>crear un ejército</div></li><li><div>suscribir tratados</div></li></ul><p><strong>42. De acuerdo a nuestra Constitución, algunos poderes pertenecen a los estados. ¿Cuál es <u>un</u> poder de los estados?</strong> <a href="/sites/default/files/document/audio/Question_42_Spanish.mp3" data-entity-type="media" data-entity-uuid="4855b1c0-5105-4d04-aef1-e4d049785ace" data-entity-substitution="media">Pregunta 42 Audio</a></p><ul><li><div>proveer escuelas y educación</div></li><li><div>proveer protección (policía)</div></li><li><div>proveer seguridad (cuerpos de bomberos)</div></li><li><div>conceder licencias de conducir</div></li><li><div>aprobar la zonificación y uso de la tierra</div></li></ul><p><strong>43. ¿Quién es el gobernador actual de su estado?</strong> <a href="/sites/default/files/document/audio/Question_43_Spanish.mp3" data-entity-type="media" data-entity-uuid="be9698b1-fdbd-4da2-a4b8-e61d2f83cc56" data-entity-substitution="media">Pregunta 43 Audio</a></p><ul><li><div>Las respuestas variarán. [Los residentes del Distrito de Columbia deben decir “no tenemos gobernador”].</div></li></ul><p><strong>44. ¿Cuál es la capital de su estado?*</strong> <a href="/sites/default/files/document/audio/Question_44_Spanish.mp3" data-entity-type="media" data-entity-uuid="b8625775-b270-439f-b845-07d6577c6873" data-entity-substitution="media">Pregunta 44 Audio</a></p><ul><li><div>Las respuestas variarán. [Los residentes del Distrito de Columbia deben contestar que el D.C. no es estado y que no tiene capital. Los residentes de los territorios de los Estados Unidos deben dar el nombre de la capital del territorio].</div></li></ul><p><strong>45. ¿Cuáles son los <u>dos</u> principales partidos políticos de los Estados Unidos?*</strong> <a href="/sites/default/files/document/audio/Question_45_Spanish.mp3" data-entity-type="media" data-entity-uuid="4badbcea-4311-4929-9318-7dedc6a054da" data-entity-substitution="media">Pregunta 45 Audio</a></p><ul><li><div>Demócrata y Republicano</div></li></ul><p><strong>46. ¿Cuál es el partido político del Presidente actual?</strong> <a href="/sites/default/files/document/audio/Question_46_Spanish.mp3" data-entity-type="media" data-entity-uuid="b57bc6a5-5b20-43d8-8165-a85c2a4f9fd4" data-entity-substitution="media">Pregunta 46 Audio</a></p><ul><li><div>Visite <a href="/citizenship/find-study-materials-and-resources/check-for-test-updates" data-entity-type="node" data-entity-uuid="a2a2b57e-27eb-4c2f-b352-1be0b65f6a65" data-entity-substitution="canonical">uscis.gov/es/ciudadania/actualizacionesalexamen</a> para saber el partido político al que pertenece el Presidente de Estados Unidos.</div></li></ul><p><strong>47. ¿Cómo se llama el Presidente actual de la Cámara de Representantes?</strong> <a href="/sites/default/files/document/audio/Question_47_Spanish.mp3" data-entity-type="media" data-entity-uuid="f2360f6c-8464-4383-af68-2d736bf75e85" data-entity-substitution="media">Pregunta 47 Audio</a></p><ul><li><div>Visite <a href="/citizenship/find-study-materials-and-resources/check-for-test-updates" data-entity-type="node" data-entity-uuid="a2a2b57e-27eb-4c2f-b352-1be0b65f6a65" data-entity-substitution="canonical">uscis.gov/es/ciudadania/actualizacionesalexamen</a> para saber el nombre del Portavoz de la Cámara de Representantes.</div></li></ul><p><strong>C: Derechos y responsabilidades</strong></p><p><strong>48. Existen cuatro enmiendas a la Constitución sobre quién puede votar. Describa <u>una</u> de ellas.</strong> <a href="/sites/default/files/document/audio/Question_48_Spanish.mp3" data-entity-type="media" data-entity-uuid="e34d1dab-9c8e-4e31-93e3-e9a382d527cb" data-entity-substitution="media">Pregunta 48 Audio</a></p><ul><li><div>Ciudadanos de dieciocho (18) años en adelante (pueden votar).</div></li><li><div>No se exige pagar un impuesto para votar (el impuesto para acudir a las urnas o “poll tax” en inglés).</div></li><li><div>Cualquier ciudadano puede votar. (Tanto mujeres como hombres pueden votar). </div></li><li><div>Un hombre ciudadano de cualquier raza (puede votar).</div></li></ul><p><strong>49. ¿Cuál es <u>una</u> responsabilidad que corresponde sólo a los ciudadanos de los Estados Unidos?*</strong> <a href="/sites/default/files/document/audio/Question_49_Spanish.mp3" data-entity-type="media" data-entity-uuid="d32669af-cf55-46bf-9662-6f1974b8d7fa" data-entity-substitution="media">Pregunta 49 Audio</a></p><ul><li><div>prestar servicio en un jurado</div></li><li><div>votar en una elección federal</div></li></ul><p><strong>50. ¿Cuál es <u>un</u> derecho que pueden ejercer sólo los ciudadanos de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_50_Spanish.mp3" data-entity-type="media" data-entity-uuid="20c5f01d-784b-49bc-84cc-9687d3c05763" data-entity-substitution="media">Pregunta 50 Audio</a></p><ul><li><div>votar en una elección federal</div></li><li><div>postularse a un cargo político federal</div></li></ul><p><strong>51. ¿Cuáles son <u>dos</u> derechos que pueden ejercer todas las personas que viven en los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_51_Spanish.mp3" data-entity-type="media" data-entity-uuid="e8e1e1ae-99fa-42ad-88ab-8717ceff2c72" data-entity-substitution="media">Pregunta 51 Audio</a></p><ul><li><div>libertad de expresión</div></li><li><div>libertad de la palabra</div></li><li><div>libertad de reunión</div></li><li><div>libertad para peticionar al gobierno</div></li><li><div>libertad de religión</div></li><li><div>derecho a portar armas</div></li></ul><p><strong>52. ¿A qué demostramos nuestra lealtad cuando decimos el Juramento de Lealtad (Pledge of Allegiance)?</strong> <a href="/sites/default/files/document/audio/Question_52_Spanish.mp3" data-entity-type="media" data-entity-uuid="3c2f3a3d-b97a-4ef9-83f5-e907652e543b" data-entity-substitution="media">Pregunta 52 Audio</a></p><ul><li><div>a los Estados Unidos</div></li><li><div>a la bandera</div></li></ul><p><strong>53. ¿Cuál es <u>una</u> promesa que usted hace cuando se convierte en ciudadano de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_53_Spanish.mp3" data-entity-type="media" data-entity-uuid="6519e351-e61e-4f4f-b407-83b60cf55d3e" data-entity-substitution="media">Pregunta 53 Audio</a></p><div><ul><li>renunciar a la lealtad a otros países</li><li>defender la Constitución y las leyes de los Estados Unidos</li><li>obedecer las leyes de los Estados Unidos</li><li>prestar servicio en las Fuerzas Armadas de los Estados Unidos (de ser necesario)</li><li>prestar servicio a (realizar trabajo importante para) la nación (de ser necesario)</li><li>ser leal a los Estados Unidos</li></ul></div><p><strong>54. ¿Cuántos años tienen que tener los ciudadanos para votar por el Presidente?*</strong> <a href="/sites/default/files/document/audio/Question_54_Spanish.mp3" data-entity-type="media" data-entity-uuid="8791dd0d-d9c7-4692-b14f-5654913d003b" data-entity-substitution="media">Pregunta 54 Audio</a></p><ul><li><div>dieciocho (18) años en adelante</div></li></ul><p><strong>55. ¿Cuáles son <u>dos</u> maneras mediante las cuales los ciudadanos americanos pueden participar en su democracia?</strong> <a href="/sites/default/files/document/audio/Question_55_Spanish.mp3" data-entity-type="media" data-entity-uuid="75ea190f-9d95-4d1f-ad5b-43fafd2ae54b" data-entity-substitution="media">Pregunta 55 Audio</a></p><ul><li>votar</li><li>afiliarse a un partido político</li><li>ayudar en una campaña</li><li>unirse a un grupo cívico</li><li>unirse a un grupo comunitario</li><li>compartir su opinión acerca de un asunto con un oficial electo</li><li>llamar a los senadores y representantes</li><li>apoyar u oponerse públicamente a un asunto o política </li><li>postularse a un cargo político</li><li>enviar una carta o mensaje a un periódico</li></ul><p><strong>56. ¿Cuál es la fecha límite para enviar la declaración federal de impuestos sobre ingresos?*</strong> <a href="/sites/default/files/document/audio/Question_56_Spanish.mp3" data-entity-type="media" data-entity-uuid="aceffd03-8ef7-4fa0-b794-bbdb17985c67" data-entity-substitution="media">Pregunta 56 Audio</a></p><ul><li><div>el 15 de abril</div></li></ul><p><strong>57. ¿Cuándo deben inscribirse todos los hombres en el Servicio Selectivo?</strong> <a href="/sites/default/files/document/audio/Question_57_Spanish.mp3" data-entity-type="media" data-entity-uuid="33ac946d-c469-4a1a-83e8-0186bee18c63" data-entity-substitution="media">Pregunta 57 Audio</a></p><ul><li><div>a la edad de dieciocho (18) años</div></li><li><div>entre los dieciocho (18) y veintiséis (26) años de edad</div></li></ul><p class="text-align-center"><strong>HISTORIA ESTADOUNIDENSE</strong></p><p><strong>A: Época colonial e independencia</strong></p><p><strong>58. ¿Cuál es <u>una</u> razón por la que los colonos vinieron a América?</strong> <a href="/sites/default/files/document/audio/Question_58_Spanish.mp3" data-entity-type="media" data-entity-uuid="33f7caf6-e0a5-4532-a139-c5400a60e750" data-entity-substitution="media">Pregunta 58 Audio</a></p><div><ul><li>libertad</li><li>libertad política </li><li>libertad religiosa</li><li>oportunidad económica</li><li>para practicar su religión</li><li>para huir de la persecución</li></ul></div><p><strong>59. ¿Quiénes vivían en lo que hoy conocemos como los Estados Unidos antes de la llegada de los europeos?</strong> <a href="/sites/default/files/document/audio/Question_59_Spanish.mp3" data-entity-type="media" data-entity-uuid="144035f9-99c0-483a-a6fc-117d7020ed50" data-entity-substitution="media">Pregunta 59 Audio</a></p><ul><li><div>Indios americanos</div></li><li><div>Nativos americanos</div></li></ul><p><strong>60. ¿Qué grupo de personas fue traído a los Estados Unidos y vendidos como esclavos?</strong> <a href="/sites/default/files/document/audio/Question_60_Spanish.mp3" data-entity-type="media" data-entity-uuid="ff62739d-01ed-478d-b5a6-f5bfa0a16679" data-entity-substitution="media">Pregunta 60 Audio</a></p><ul><li><div>Africanos</div></li><li><div>gente de África</div></li></ul><p><strong>61. ¿Por qué lucharon los colonos contra los británicos?</strong> <a href="/sites/default/files/document/audio/Question_61_Spanish.mp3" data-entity-type="media" data-entity-uuid="e57d916c-8a90-493e-9fae-1c1583b0eee1" data-entity-substitution="media">Pregunta 61 Audio</a></p><div><ul><li>debido a los impuestos altos (impuestos sin representación) </li><li>el ejército británico estaba en sus casas (alojándose, acuartelándose)</li><li>porque no tenían gobierno propio</li></ul></div><p><strong>62. ¿Quién escribió la Declaración de Independencia?</strong> <a href="/sites/default/files/document/audio/Question_62_Spanish.mp3" data-entity-type="media" data-entity-uuid="7d4e5e63-7071-440f-94c0-a440b554923e" data-entity-substitution="media">Pregunta 62 Audio</a></p><ul><li><div>(Thomas) Jefferson</div></li></ul><p><strong>63. ¿Cuándo fue adoptada la Declaración de Independencia?</strong> <a href="/sites/default/files/document/audio/Question_63_Spanish.mp3" data-entity-type="media" data-entity-uuid="efbdfb47-b699-402c-be32-346adb2169c1" data-entity-substitution="media">Pregunta 63 Audio</a></p><ul><li><div>el 4 de julio de 1776</div></li></ul><p><strong>64. Había 13 estados originales. Nombre <u>tres</u>.</strong> <a href="/sites/default/files/document/audio/Question_64_Spanish.mp3" data-entity-type="media" data-entity-uuid="497bd088-212c-47ee-9acd-c1f505dd002f" data-entity-substitution="media">Pregunta 64 Audio</a></p><ul><li><div>Nueva Hampshire</div></li><li><div>Massachusetts</div></li><li><div>Rhode Island</div></li><li><div>Connecticut</div></li><li><div>Nueva York</div></li><li><div>Nueva Jersey</div></li><li><div>Pensilvania</div></li><li><div>Delaware</div></li><li><div>Maryland</div></li><li><div>Virginia</div></li><li><div>Carolina del Norte</div></li><li><div>Carolina del Sur</div></li><li><div>Georgia</div></li></ul><p><strong>65. ¿Qué ocurrió en la Convención Constitucional?</strong> <a href="/sites/default/files/document/audio/Question_65_Spanish.mp3" data-entity-type="media" data-entity-uuid="41e92648-4292-44e0-9e62-1e19990b7292" data-entity-substitution="media">Pregunta 65 Audio</a></p><ul><li><div>Se redactó la Constitución.</div></li><li><div>Los Padres Fundadores redactaron la Constitución.</div></li></ul><p><strong>66. ¿Cuándo fue redactada la Constitución?</strong> <a href="/sites/default/files/document/audio/Question_66_Spanish.mp3" data-entity-type="media" data-entity-uuid="3cc4eecb-da1d-4443-8c39-acdb52457376" data-entity-substitution="media">Pregunta 66 Audio</a></p><ul><li><div>1787</div></li></ul><p><strong>67. Los escritos conocidos como “Los Documentos Federalistas” respaldaron la aprobación de la Constitución de los Estados Unidos. Nombre uno de sus autores.</strong> <a href="/sites/default/files/document/audio/Question_67_Spanish.mp3" data-entity-type="media" data-entity-uuid="781b687e-6e81-4b32-9d29-ee558e00a66c" data-entity-substitution="media">Pregunta 67 Audio</a></p><ul><li><div>(James) Madison</div></li><li><div>(Alexander) Hamilton</div></li><li><div>(John) Jay</div></li><li><div>Publius</div></li></ul><p><strong>68. Mencione <u>una</u> razón por la que es famoso Benjamin Franklin.</strong> <a href="/sites/default/files/document/audio/Question_68_Spanish.mp3" data-entity-type="media" data-entity-uuid="71b757e7-1ea6-480f-8798-a0879947029b" data-entity-substitution="media">Pregunta 68 Audio</a></p><div><ul><li>diplomático americano</li><li>el miembro de mayor edad de la Convención Constitucional </li><li>primer Director General de Correos de Estados Unidos</li><li>autor de “Poor Richard’s Almanac” (Almanaque del Pobre Richard)</li><li>fundó las primeras bibliotecas gratuitas</li></ul></div><p><strong>69. ¿Quién se conoce como el “Padre de Nuestra Nación”?</strong> <a href="/sites/default/files/document/audio/Question_69_Spanish.mp3" data-entity-type="media" data-entity-uuid="2144b314-947d-4211-af64-bf72b367bf93" data-entity-substitution="media">Pregunta 69 Audio</a></p><ul><li><div>(George) Washington</div></li></ul><p><strong>70. ¿Quién fue el primer Presidente?*</strong> <a href="/sites/default/files/document/audio/Question_70_Spanish.mp3" data-entity-type="media" data-entity-uuid="5a77a551-2465-428d-9d11-f404a15444a2" data-entity-substitution="media">Pregunta 70 Audio</a></p><ul><li><div>(George) Washington</div></li></ul><p><strong>B: Los años 1800</strong></p><p><strong>71. ¿Qué territorio compró Estados Unidos a Francia en 1803?</strong> <a href="/sites/default/files/document/audio/Question_71_Spanish.mp3" data-entity-type="media" data-entity-uuid="87914221-17f4-40d2-8583-d1ef10f22d12" data-entity-substitution="media">Pregunta 71 Audio</a></p><ul><li><div>el territorio de Louisiana</div></li><li><div>Louisiana</div></li></ul><p><strong>72. Mencione <u>una</u> guerra en la que peleó los Estados Unidos durante los años 1800.</strong> <a href="/sites/default/files/document/audio/Question_72_Spanish.mp3" data-entity-type="media" data-entity-uuid="a373f0ef-1eca-4314-bdd0-223489d4694f" data-entity-substitution="media">Pregunta 72 Audio</a></p><div><ul><li>la Guerra de 1812</li><li>la Guerra entre México y los Estados Unidos</li><li>la Guerra Civil </li><li>la Guerra Hispano-Estadounidense (Hispano-americana)</li></ul></div><p><strong>73. Dé el nombre de la guerra entre el Norte y el Sur de los Estados Unidos.</strong> <a href="/sites/default/files/document/audio/Question_73_Spanish.mp3" data-entity-type="media" data-entity-uuid="8ad23fd3-e119-4f40-b70f-96eb2dfb96c4" data-entity-substitution="media">Pregunta 73 Audio</a></p><ul><li><div>la Guerra Civil</div></li><li><div>la Guerra entre los Estados</div></li></ul><p><strong>74. Mencione <u>un</u> problema que condujo a la Guerra Civil.</strong> <a href="/sites/default/files/document/audio/Question_74_Spanish.mp3" data-entity-type="media" data-entity-uuid="f07e2ffa-d8c5-49c2-a2d2-849e4d57aaad" data-entity-substitution="media">Pregunta 74 Audio</a></p><ul><li><div>esclavitud</div></li><li><div>razones económicas</div></li><li><div>derechos de los estados</div></li></ul><p><strong>75. ¿Cuál fue <u>una</u> cosa importante que hizo Abraham Lincoln?*</strong> <a href="/sites/default/files/document/audio/Question_75_Spanish.mp3" data-entity-type="media" data-entity-uuid="a59f2dc6-d7b5-4024-9374-d0a73726191a" data-entity-substitution="media">Pregunta 75 Audio</a></p><div><ul><li>liberó a los esclavos (Proclamación de la Emancipación)</li><li>salvó (o preservó) la Unión</li><li>presidió los Estados Unidos durante la Guerra Civil</li></ul></div><p><strong>76. ¿Qué hizo la Proclamación de la Emancipación?</strong> <a href="/sites/default/files/document/audio/Question_76_Spanish.mp3" data-entity-type="media" data-entity-uuid="a5f041c0-b271-4cb6-a8ce-5f03b2967153" data-entity-substitution="media">Pregunta 76 Audio</a></p><div><ul><li>liberó a los esclavos</li><li>liberó a los esclavos de la Confederación</li><li>liberó a los esclavos en los estados de la Confederación</li><li>liberó a los esclavos en la mayoría de los estados del sur</li></ul></div><p><strong>77. ¿Qué hizo Susan B. Anthony?</strong> <a href="/sites/default/files/document/audio/Question_77_Spanish.mp3" data-entity-type="media" data-entity-uuid="c92891c2-7ad7-4ca2-8816-b2d3535929c3" data-entity-substitution="media">Pregunta 77 Audio</a></p><ul><li><div>luchó por los derechos de la mujer</div></li><li><div>luchó por los derechos civiles</div></li></ul><p><strong>C: Historia estadounidense reciente y otra información histórica importante</strong></p><p><strong>78. Mencione <u>una</u> guerra durante los años 1900 en la que peleó los Estados Unidos.*</strong> <a href="/sites/default/files/document/audio/Question_78_Spanish.mp3" data-entity-type="media" data-entity-uuid="1465cd22-79c4-448f-9198-e08c72627076" data-entity-substitution="media">Pregunta 78 Audio</a></p><div><ul><li>la Primera Guerra Mundial</li><li>la Segunda Guerra Mundial</li><li>la Guerra de Corea</li><li>la Guerra de Vietnam</li><li>la Guerra del Golfo (Pérsico)</li></ul></div><p><strong>79. ¿Quién era el presidente durante la Primera Guerra Mundial?</strong> <a href="/sites/default/files/document/audio/Question_79_Spanish.mp3" data-entity-type="media" data-entity-uuid="d1e8c134-2158-431a-a18f-73e326ad1b3d" data-entity-substitution="media">Pregunta 79 Audio</a></p><ul><li><div>(Woodrow) Wilson</div></li></ul><p><strong>80. ¿Quién era presidente durante la Gran Depresión y la Segunda Guerra Mundial?</strong> <a href="/sites/default/files/document/audio/Question_80_Spanish.mp3" data-entity-type="media" data-entity-uuid="28e7809d-f0ca-4700-9b87-bd2146e4da2f" data-entity-substitution="media">Pregunta 80 Audio</a></p><ul><li><div>(Franklin) Roosevelt</div></li></ul><p><strong>81. ¿Contra qué países peleó Estados Unidos en la Segunda Guerra Mundial?</strong> <a href="/sites/default/files/document/audio/Question_81_Spanish.mp3" data-entity-type="media" data-entity-uuid="3ccf1388-7a71-4967-ab9b-d23e2e93a715" data-entity-substitution="media">Pregunta 81 Audio</a></p><ul><li><div>Japón, Alemania e Italia</div></li></ul><p><strong>82. Antes de ser presidente, Eisenhower era general. ¿En qué guerra participó?</strong> <a href="/sites/default/files/document/audio/Question_82_Spanish.mp3" data-entity-type="media" data-entity-uuid="b7178587-de89-483f-b333-99fe99b33606" data-entity-substitution="media">Pregunta 82 Audio</a></p><ul><li><div>Segunda Guerra Mundial</div></li></ul><p><strong>83. Durante la Guerra Fría, ¿cuál era la principal preocupación de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_83_Spanish.mp3" data-entity-type="media" data-entity-uuid="27dbfd91-74b2-4eb4-859f-8d8073c859a6" data-entity-substitution="media">Pregunta 83 Audio</a></p><ul><li><div>Comunismo</div></li></ul><p><strong>84. ¿Qué movimiento trató de poner fin a la discriminación racial?</strong> <a href="/sites/default/files/document/audio/Question_84_Spanish.mp3" data-entity-type="media" data-entity-uuid="836c4076-71ae-4424-9eb9-069cd6c1381d" data-entity-substitution="media">Pregunta 84 Audio</a></p><ul><li><div>(el movimiento de) derechos civiles</div></li></ul><p><strong>85. ¿Qué hizo Martin Luther King, Jr.?*</strong> <a href="/sites/default/files/document/audio/Question_85_Spanish.mp3" data-entity-type="media" data-entity-uuid="2693baed-2de0-4ba9-b1d5-f5197b09e8f3" data-entity-substitution="media">Pregunta 85 Audio</a></p><ul><li><div>luchó por los derechos civiles</div></li><li><div>trabajó por la igualdad de todos los ciudadanos americanos</div></li></ul><p><strong>86. ¿Qué suceso de gran magnitud ocurrió el 11 de septiembre de 2001 en los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_86_Spanish.mp3" data-entity-type="media" data-entity-uuid="4cdf3015-0a50-429a-b329-08e9a17b100d" data-entity-substitution="media">Pregunta 86 Audio</a></p><ul><li><div>Terroristas atacaron los Estados Unidos.</div></li></ul><p><strong>87. Mencione <u>una</u> tribu de indios americanos en los Estados Unidos.</strong> <a href="/sites/default/files/document/audio/Question_87_Spanish.mp3" data-entity-type="media" data-entity-uuid="27f374ff-b395-4de1-8644-caef2130ba36" data-entity-substitution="media">Pregunta 87 Audio</a></p><p>[A los oficiales del USCIS se les dará una lista de tribus amerindias reconocidas a nivel federal].</p><ul><li><div>Cherokee</div></li><li><div>Navajo</div></li><li><div>Sioux</div></li><li><div>Chippewa</div></li><li><div>Choctaw</div></li><li><div>Pueblo</div></li><li><div>Apache</div></li><li><div>Iroquois</div></li><li><div>Creek</div></li><li><div>Blackfeet</div></li><li><div>Seminole</div></li><li><div>Cheyenne</div></li><li><div>Arawak</div></li><li><div>Shawnee</div></li><li><div>Mohegan</div></li><li><div>Huron</div></li><li><div>Oneida</div></li><li><div>Lakota</div></li><li><div>Crow</div></li><li><div>Teton</div></li><li><div>Hopi</div></li><li><div>Inuit</div></li></ul><p class="text-align-center"><strong>EDUCACIÓN CÍVICA INTEGRADO</strong></p><p><strong>A: Geografía</strong></p><p><strong>88. Mencione <u>uno</u> de los dos ríos más largos en los Estados Unidos.</strong> <a href="/sites/default/files/document/audio/Question_88_Spanish.mp3" data-entity-type="media" data-entity-uuid="dc2d4d69-86ba-46f1-a3ef-70a0197a70f3" data-entity-substitution="media">Pregunta 88 Audio</a></p><ul><li><div>(el Río) Missouri</div></li><li><div>(el Río) Mississippi</div></li></ul><p><strong>89. ¿Qué océano está en la costa oeste de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_89_Spanish.mp3" data-entity-type="media" data-entity-uuid="68d67ef4-dc50-4db2-9903-891aad407bd2" data-entity-substitution="media">Pregunta 89 Audio</a></p><ul><li><div>(el Océano) Pacífico</div></li></ul><p><strong>90. ¿Qué océano está en la costa este de los Estados Unidos?</strong> <a href="/sites/default/files/document/audio/Question_90_Spanish.mp3" data-entity-type="media" data-entity-uuid="a1f3e248-3cc2-4f0c-8a6f-1c200fbd855c" data-entity-substitution="media">Pregunta 90 Audio</a></p><ul><li><div>(el Océano) Atlántico</div></li></ul><p><strong>91. Dé el nombre de <u>un</u> territorio de los Estados Unidos.</strong> <a href="/sites/default/files/document/audio/Question_91_Spanish.mp3" data-entity-type="media" data-entity-uuid="dfc7d1c3-64b3-4594-b4e0-57a40f2fc617" data-entity-substitution="media">Pregunta 91 Audio</a></p><div><ul><li>Puerto Rico</li><li>Islas Vírgenes de Estados Unidos</li><li>Samoa Estadounidense</li><li>Islas Marianas del Norte</li><li>Guam</li></ul></div><p><strong>92. Mencione <u>un</u> estado que tiene frontera con Canadá.</strong> <a href="/sites/default/files/document/audio/Question_92_Spanish.mp3" data-entity-type="media" data-entity-uuid="54abc7fe-9cd1-43cf-aef9-676e657ff36a" data-entity-substitution="media">Pregunta 92 Audio</a></p><ul><li><div>Maine</div></li><li><div>Nueva Hampshire</div></li><li><div>Vermont</div></li><li><div>Nueva York</div></li><li><div>Pensilvania</div></li><li><div>Ohio</div></li><li><div>Michigan</div></li><li><div>Minnesota</div></li><li><div>Dakota del Norte</div></li><li><div>Montana</div></li><li><div>Idaho</div></li><li><div>Washington</div></li><li><div>Alaska</div></li></ul><p><strong>93. Mencione <u>un</u> estado que tiene frontera con México.</strong> <a href="/sites/default/files/document/audio/Question_93_Spanish.mp3" data-entity-type="media" data-entity-uuid="a7d9cf24-56bd-41ed-926c-46c30b9c44e2" data-entity-substitution="media">Pregunta 93 Audio</a></p><ul><li><div>California</div></li><li><div>Arizona</div></li><li><div>Nuevo México</div></li><li><div>Texas</div></li></ul><p><strong>94. ¿Cuál es la capital de los Estados Unidos?*</strong> <a href="/sites/default/files/document/audio/Question_94_Spanish.mp3" data-entity-type="media" data-entity-uuid="5545ab73-c697-4f85-b266-cbf8fe2db386" data-entity-substitution="media">Pregunta 94 Audio</a></p><ul><li><div>Washington, D.C.</div></li></ul><p><strong>95. ¿Dónde está la Estatua de la Libertad?*</strong> <a href="/sites/default/files/document/audio/Question_95_Spanish.mp3" data-entity-type="media" data-entity-uuid="480f9a24-3cae-4821-8a27-2dcefabda6ba" data-entity-substitution="media">Pregunta 95 Audio</a></p><ul><li><div>(el puerto de) Nueva York</div></li><li><div>Liberty Island</div></li></ul><p>[Otras respuestas aceptables son Nueva Jersey, cerca de la Ciudad de Nueva York y (el Río) Hudson].</p><p><strong>B: Símbolos</strong></p><p><strong>96. ¿Por qué hay 13 franjas en la bandera?</strong> <a href="/sites/default/files/document/audio/Question_96_Spanish.mp3" data-entity-type="media" data-entity-uuid="40e36603-f312-4cf0-8a87-d0107fe89ce4" data-entity-substitution="media">Pregunta 96 Audio</a></p><ul><li><div>porque representan las 13 colonias originales</div></li><li><div>porque las franjas representan las colonias originales</div></li></ul><p><strong>97. ¿Por qué hay 50 estrellas en la bandera?*</strong> <a href="/sites/default/files/document/audio/Question_97_Spanish.mp3" data-entity-type="media" data-entity-uuid="65b7baa7-9138-408b-a1b5-a1f106aff343" data-entity-substitution="media">Pregunta 97 Audio</a></p><ul><li><div>porque hay una estrella por cada estado</div></li><li><div>porque cada estrella representa un estado</div></li><li><div>porque hay 50 estados</div></li></ul><p><strong>98. ¿Cómo se llama el himno nacional?</strong> <a href="/sites/default/files/document/audio/Question_98_Spanish.mp3" data-entity-type="media" data-entity-uuid="37a788e5-2837-461f-8820-586b2616ad63" data-entity-substitution="media">Pregunta 98 Audio</a></p><ul><li><div>The Star-Spangled Banner</div></li></ul><p><strong>C: Días feriados</strong></p><p><strong>99. ¿Cuándo celebramos el Día de la Independencia?*</strong> <a href="/sites/default/files/document/audio/Question_99_Spanish.mp3" data-entity-type="media" data-entity-uuid="64a257b1-1117-4fc8-955b-277c1d02c6f8" data-entity-substitution="media">Pregunta 99 Audio</a></p><ul><li><div>el 4 de julio</div></li></ul><p><strong>100. Mencione <u>dos</u> días feriados nacionales de los Estados Unidos</strong>. <a href="/sites/default/files/document/audio/Question_100_Spanish.mp3" data-entity-type="media" data-entity-uuid="f36b35a4-670a-4e4d-8a56-04d3f506deb0" data-entity-substitution="media">Pregunta 100 Audio</a></p><ul><li><div>el Día de Año Nuevo</div></li><li><div>el Día de Martin Luther King, Jr.</div></li><li><div>el Día de los Presidentes</div></li><li><div>el Día de la Recordación</div></li><li><div>el Día de la Independencia</div></li><li><div>el Día del Trabajo</div></li><li><div>el Día de la Raza (Cristóbal Colón)</div></li><li><div>el Día de los Veteranos</div></li><li><div>el Día de Acción de Gracias</div></li><li><div>el Día de Navidad</div></li></ul></div></div>
+      
+      </div>
+
+                </div>
+  
+  
+    
+              <div class="reviewed-date">
+    <div class="reviewed-date__label">Last Reviewed/Updated:</div>
+                <div class="field field--name-field-display-date field__item"><time datetime="2020-11-13T16:07:54Z" class="datetime">11/13/2020</time>
+</div>
+      
+  </div>
+
+      </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/citizenship-resource-center/100-civics-questions-and-answers-with-mp3-audio-spanish-version" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="46321" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="46321" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="46321" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-eu7n348zrpi568ulufwzw87mlqvvtjvdllvjscsbgjm" type="hidden" name="form_build_id" value="form-Eu7N348Zrpi568uLUFWzw87MLQVVTjvdlLVJscSBGjM"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="46321" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_0pX_SnfPDMf7vwrzbDcQ_nJ4OxbrxKFiBZO-ck0gvU4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_AsKNwrz_GL8MOvSFwxCjaawni6tz6q3D931E8dkUKrI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+
+  </body>

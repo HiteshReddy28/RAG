@@ -1,0 +1,355 @@
+Number of Form I-130 Petition for Alien Relative,,,,,,,,,,,,,
+
+"By Category, Case Status, and USCIS Field Office or Service Center Location  ",,,,,,,,,,,,,
+
+"April 1, 2023 - June  30, 2023",,,,,,,,,,,,,
+
+,,Petitions by Category of Relatives and Case Status,,,,,,,,Total,,,
+
+USCIS Field Office or Service Center Location,,Immediate Relative1,,,,All Other Relative2,,,,,,,
+
+Field Office by State7,Field Office Code,Petitions Received3,Approved4,Denied5,Pending6,Petitions Received3,Approved4,Denied5,Pending6,Petitions Received3,Approved4,Denied5,Pending6
+
+Grand Total,,"172,732","207,182","9,917","722,685","63,222","21,978","5,940","1,190,120","235,954","229,160","15,857","1,912,805"
+
+Alabama,,,,,,,,,,,,,
+
+Montgomery,MGA,416,"1,079",35,"2,970",15,60,D,164,431,"1,139",37,"3,134"
+
+Alaska,,,,,,,,,,,,,
+
+Anchorage ,ANC,36,62,D,154,D,D,-,13,37,63,D,167
+
+Arizona,,,,,,,,,,,,,
+
+Phoenix ,PHO,"1,189","1,627",46,"4,472",32,47,16,222,"1,221","1,674",62,"4,694"
+
+Tucson,TUC,289,929,15,"1,232",D,43,D,61,296,972,16,"1,293"
+
+Arkansas,,,,,,,,,,,,,
+
+Fort Smith ,FSA,148,326,10,718,D,15,D,38,154,341,14,756
+
+California,,,,,,,,,,,,,
+
+Chula Vista,CVC,-,-,-,-,-,-,-,-,-,-,-,-
+
+Fresno ,FRE,682,938,20,"3,013",18,35,D,142,700,973,24,"3,155"
+
+Imperial,IMP,156,175,D,652,D,10,D,83,164,185,D,735
+
+Los Angeles ,LOS,"1,315","1,237",71,"5,286",54,175,21,432,"1,369","1,412",92,"5,718"
+
+Los Angeles County ,LAC,"1,256","1,330",275,"4,637",50,128,22,560,"1,306","1,458",297,"5,197"
+
+Sacramento ,SAC,597,941,27,"2,980",16,36,D,181,613,977,33,"3,161"
+
+San Bernardino,SBD,"1,171","1,404",63,"4,328",26,72,15,213,"1,197","1,476",78,"4,541"
+
+San Diego ,SND,904,662,18,"4,109",48,28,D,311,952,690,22,"4,420"
+
+San Fernando Valley,SFV,885,894,210,"3,639",19,65,13,477,904,959,223,"4,116"
+
+San Francisco,SFR,"1,245","1,697",39,"4,943",97,105,D,512,"1,342","1,802",43,"5,455"
+
+San Jose ,SNJ,742,"1,545",32,"3,349",89,156,D,428,831,"1,701",35,"3,777"
+
+Santa Ana,SAA,869,845,32,"3,693",49,55,D,305,918,900,40,"3,998"
+
+Colorado,,,,,,,,,,,,,
+
+Denver ,DEN,983,"1,220",43,"4,749",19,19,D,235,"1,002","1,239",49,"4,984"
+
+Connecticut,,,,,,,,,,,,,
+
+Hartford ,HAR,677,951,52,"3,297",24,45,D,164,701,996,59,"3,461"
+
+Delaware,,,,,,,,,,,,,
+
+Dover,DVD,-,-,-,-,-,-,-,-,-,-,-,-
+
+District of Columbia,,,,,,,,,,,,,
+
+Washington ,WAS,932,"1,261",33,"5,527",47,36,20,461,979,"1,297",53,"5,988"
+
+Florida,,,,,,,,,,,,,
+
+Hialeah,HIA,526,"2,358",51,"2,645",38,136,D,318,564,"2,494",57,"2,963"
+
+Jacksonville,JAC,399,705,26,"2,006",22,15,D,84,421,720,29,"2,090"
+
+Kendall,KND,477,796,37,"2,673",38,12,D,250,515,808,38,"2,923"
+
+Miami ,MIA,982,239,52,"4,236",55,14,D,479,"1,037",253,61,"4,715"
+
+Fort Myers,OFM,377,540,37,"1,799",17,31,D,136,394,571,42,"1,935"
+
+Oakland Park,OKL,"1,158",567,86,"5,357",58,22,12,348,"1,216",589,98,"5,705"
+
+Orlando ,ORL,"1,268","1,529",146,"5,173",71,92,16,369,"1,339","1,621",162,"5,542"
+
+Tampa,TAM,875,"1,365",49,"3,909",39,53,12,246,914,"1,418",61,"4,155"
+
+West Palm Beach,WPB,728,953,68,"3,440",16,30,D,223,744,983,74,"3,663"
+
+Georgia,,,,,,,,,,,,,
+
+Atlanta ,ATL,"1,535","2,159",288,"8,287",54,94,17,411,"1,589","2,253",305,"8,698"
+
+Hawaii,,,,,,,,,,,,,
+
+Honolulu ,HHW,152,312,D,723,D,11,D,58,160,323,10,781
+
+Idaho,,,,,,,,,,,,,
+
+Boise ,BOI,121,146,D,495,D,D,D,23,124,151,D,518
+
+Illinois,,,,,,,,,,,,,
+
+Chicago ,CHI,"2,125","3,825",125,"12,406",64,92,18,584,"2,189","3,917",143,"12,990"
+
+Indiana,,,,,,,,,,,,,
+
+Indianapolis ,INP,481,773,110,"2,709",18,24,D,127,499,797,113,"2,836"
+
+Iowa,,,,,,,,,,,,,
+
+Des Moines,DSM,131,266,D,579,D,D,D,60,137,274,D,639
+
+Kansas,,,,,,,,,,,,,
+
+Wichita,WIC,142,96,D,561,D,D,-,23,144,98,D,584
+
+Kentucky,,,,,,,,,,,,,
+
+Louisville ,LOU,193,455,26,"1,016",15,18,D,70,208,473,32,"1,086"
+
+Louisiana,,,,,,,,,,,,,
+
+New Orleans ,NOL,269,243,26,"1,718",D,11,D,147,276,254,27,"1,865"
+
+Maine,,,,,,,,,,,,,
+
+Portland ,POM,62,149,D,390,D,D,-,10,67,152,D,400
+
+Maryland,,,,,,,,,,,,,
+
+Baltimore ,BAL,"1,158","1,243",58,"7,693",34,25,22,485,"1,192","1,268",80,"8,178"
+
+Massachusetts,,,,,,,,,,,,,
+
+Boston ,BOS,"1,144","1,745",129,"4,957",48,114,19,412,"1,192","1,859",148,"5,369"
+
+Lawrence,LAW,590,864,57,"2,418",11,30,D,147,601,894,63,"2,565"
+
+Michigan,,,,,,,,,,,,,
+
+Detroit ,DET,631,"1,714",43,"2,880",34,92,10,213,665,"1,806",53,"3,093"
+
+Minnesota,,,,,,,,,,,,,
+
+St. Paul ,SPM,494,390,36,"2,273",15,20,22,221,509,410,58,"2,494"
+
+Missouri,,,,,,,,,,,,,
+
+Kansas City ,KAN,339,460,60,"2,264",D,29,56,116,348,489,116,"2,380"
+
+St. Louis ,STL,193,211,14,532,D,16,-,31,200,227,14,563
+
+Montana,,,,,,,,,,,,,
+
+Helena ,HEL,28,52,-,132,D,D,-,D,29,53,-,136
+
+Nebraska,,,,,,,,,,,,,
+
+Omaha ,OMA,185,324,28,"1,129",D,19,D,106,193,343,29,"1,235"
+
+Nevada,,,,,,,,,,,,,
+
+Las Vegas ,LVG,603,649,51,"2,929",16,23,D,166,619,672,56,"3,095"
+
+Reno ,REN,113,384,D,904,D,D,D,50,116,391,11,954
+
+New Hampshire,,,,,,,,,,,,,
+
+Manchester ,MAN,119,312,22,426,D,D,D,21,120,321,24,447
+
+New Jersey,,,,,,,,,,,,,
+
+Mount Laurel,MTL,541,933,70,"2,682",12,20,D,155,553,953,74,"2,837"
+
+Newark ,NEW,"2,023","2,883",246,"9,908",66,94,13,523,"2,089","2,977",259,"10,431"
+
+New Jersey Central,NJC,246,190,12,731,10,D,-,51,256,197,12,782
+
+New Mexico,,,,,,,,,,,,,
+
+Albuquerque ,ABQ,242,636,D,997,D,21,-,30,248,657,D,"1,027"
+
+New York,,,,,,,,,,,,,
+
+Albany ,ALB,98,248,18,670,D,16,D,60,102,264,19,730
+
+Brooklyn,BNY,"1,535","1,902",196,"8,419",57,93,19,541,"1,592","1,995",215,"8,960"
+
+Buffalo ,BUF,200,495,21,906,D,22,D,73,206,517,27,979
+
+Long Island,LNY,865,"1,733",117,"3,784",18,99,15,227,883,"1,832",132,"4,011"
+
+New York ,NYC,"2,200","2,936",278,"9,595",76,141,25,502,"2,276","3,077",303,"10,097"
+
+Queens,QNS,"1,690","1,340",185,"8,583",52,74,25,543,"1,742","1,414",210,"9,126"
+
+North Carolina,,,,,,,,,,,,,
+
+Charlotte ,CLT,664,826,36,"3,263",10,32,D,131,674,858,40,"3,394"
+
+Raleigh,RAL,583,555,23,"3,081",17,12,D,134,600,567,27,"3,215"
+
+Ohio,,,,,,,,,,,,,
+
+Cincinnati ,CIN,188,530,24,916,10,15,D,59,198,545,28,975
+
+Cleveland ,CLE,195,410,34,"1,040",11,33,-,69,206,443,34,"1,109"
+
+Columbus,CLM,274,546,26,"1,019",D,40,D,44,281,586,32,"1,063"
+
+Oklahoma,,,,,,,,,,,,,
+
+Oklahoma City ,OKC,421,"1,011",28,"1,720",11,21,-,53,432,"1,032",28,"1,773"
+
+Oregon,,,,,,,,,,,,,
+
+Portland ,POO,434,869,21,"1,983",14,33,D,108,448,902,26,"2,091"
+
+Pennsylvania,,,,,,,,,,,,,
+
+Philadelphia,PHI,"1,338","1,628",190,"5,934",45,78,31,373,"1,383","1,706",221,"6,307"
+
+Pittsburgh ,PIT,136,325,22,786,D,17,D,52,141,342,23,838
+
+Rhode Island,,,,,,,,,,,,,
+
+Providence ,PRO,195,425,28,995,D,16,D,34,196,441,33,"1,029"
+
+South Carolina,,,,,,,,,,,,,
+
+Charleston ,CHL,277,191,40,"1,902",11,15,11,51,288,206,51,"1,953"
+
+Greer,GRR,192,634,12,678,D,28,D,41,201,662,13,719
+
+Tennessee,,,,,,,,,,,,,
+
+Memphis ,MEM,189,463,31,"1,062",D,22,D,64,194,485,33,"1,126"
+
+Nashville,NTN,363,486,18,"2,341",17,D,D,132,380,491,20,"2,473"
+
+Texas,,,,,,,,,,,,,
+
+Dallas ,DAL,"2,634","3,629",155,"11,420",87,100,17,666,"2,721","3,729",172,"12,086"
+
+El Paso ,ELP,744,"1,342",30,"2,765",21,52,D,146,765,"1,394",34,"2,911"
+
+Harlingen ,HLG,678,"1,127",23,"2,900",19,42,D,119,697,"1,169",25,"3,019"
+
+Houston ,HOU,"2,304","5,157",298,"12,163",62,168,14,668,"2,366","5,325",312,"12,831"
+
+San Antonio ,SNA,"1,409","1,539",34,"5,180",55,42,D,306,"1,464","1,581",43,"5,486"
+
+Utah,,,,,,,,,,,,,
+
+Salt Lake City ,SLC,671,88,26,"2,892",13,D,D,73,684,92,30,"2,965"
+
+Vermont,,,,,,,,,,,,,
+
+St. Albans ,STA,24,129,D,142,-,12,D,D,24,141,D,149
+
+Virginia,,,,,,,,,,,,,
+
+Norfolk ,NOR,321,434,24,"2,251",11,D,-,139,332,441,24,"2,390"
+
+Washington,,,,,,,,,,,,,
+
+Seattle ,SEA,870,"1,102",48,"3,733",71,82,17,417,941,"1,184",65,"4,150"
+
+Spokane ,SPO,61,97,D,251,-,D,D,14,61,99,10,265
+
+Yakima,YAK,123,198,D,512,-,D,D,28,123,207,11,540
+
+West Virginia,,,,,,,,,,,,,
+
+Charleston ,CHS,-,-,-,-,-,-,-,-,-,-,-,-
+
+Wisconsin,,,,,,,,,,,,,
+
+Milwaukee ,MIL,313,498,11,"1,624",D,10,D,73,318,508,14,"1,697"
+
+Guam,, , , , , , , , , , , , 
+
+Agana,AGA,49,88,D,324,D,D,D,20,54,92,D,344
+
+U.S. Virgin Islands,, , , , , , , , , , , , 
+
+Charlotte Amalie,CHA,10,158,D,142,-,D,D,17,10,165,D,159
+
+Christiansted ,CHR,D,-,D,12,-,-,-,-,D,-,D,12
+
+Puerto Rico,, , , , , , , , , , , , 
+
+San Juan ,SAJ,107,203,D,702,-,D,D,45,107,206,D,747
+
+Service Center,, , , , , , , , , , , , 
+
+California,WSC,"23,259","25,586","1,123","90,325","11,860","4,450","3,849","695,743","35,119","30,036","4,972","786,068"
+
+Nebraska,NSC,"22,898","11,336",594,"83,332","12,099","1,513",185,"107,492","34,997","12,849",779,"190,824"
+
+Texas,SSC,"22,879","32,566",871,"90,366","12,187","3,953",153,"114,326","35,066","36,519","1,024","204,692"
+
+Vermont,ESC,"23,229","19,875",646,"96,496","12,575","3,357",429,"149,861","35,804","23,232","1,075","246,357"
+
+Potomac,YSC,"22,967","34,888","1,626","89,751","12,324","5,018",630,"104,970","35,291","39,906","2,256","194,721"
+
+Table Key:,,,,,,,,,,,,,
+
+D  Disclosure standards not met,,,,,,,,,,,,,
+
+- Represents zero or rounds to 0.0,,,,,,,,,,,,,
+
+References:,,,,,,,,,,,,,
+
+1 Immediate Relative refers to petitions to sponsor Immediate Relatives of U.S. citizens.,,,,,,,,,,,,,
+
+2 All Other Relatives refers to petitions to sponsor relatives under Family-Based Preferences.,,,,,,,,,,,,,
+
+3 The number of new petitions received and entered into a case-tracking system during the reporting period.,,,,,,,,,,,,,
+
+4 The number of petitions approved during the reporting period.,,,,,,,,,,,,,
+
+5 The number of petitions denied during the reporting period.,,,,,,,,,,,,,
+
+6 The number of petitions awaiting a decision as of the end of the reporting period. Some actions taken on cases are not reflected in this report such as administrative closures and transfers between offices;,,,,,,,,,,,,,
+
+ thus the total pending counts cannot be calculated using data from previous reporting periods.,,,,,,,,,,,,,
+
+7 Represents the office location. The office location does not reflect the complete area covered by the office’s jurisdiction. Please refer to USCIS.gov for office jurisdictions.,,,,,,,,,,,,,
+
+Notes:,,,,,,,,,,,,,
+
+"1) Some petitions approved, denied, or pending a decision may have been received in previous reporting periods. ",,,,,,,,,,,,,
+
+2) The report reflects the most up-to-date estimate available at the time the database is queried.,,,,,,,,,,,,,
+
+3) Counts may differ from previous periods due to system updates and post-adjudicative outcomes.,,,,,,,,,,,,,
+
+4) These counts do not include international offices.,,,,,,,,,,,,,
+
+"5) Many USCIS international offices have permanently closed in the last two years; for a list of those offices, please see https://www.uscis.gov/about-us/uscis-office-closings",,,,,,,,,,,,,
+
+"6) For a complete list of USCIS forms and descriptions, visit https://www.uscis.gov/forms",,,,,,,,,,,,,
+
+Source:,,,,,,,,,,,,,
+
+"Department of Homeland Security, U.S. Citizenship and Immigration Services, Office of Performance and Quality",,,,,,,,,,,,,
+
+"PRT, queried 07/2023, TRK 12297",,,,,,,,,,,,,

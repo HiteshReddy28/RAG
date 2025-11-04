@@ -1,0 +1,207 @@
+H1: Chapter 4 - Waiver Eligibility and Evidence
+
+- Guidance
+
+- Resources (15)
+
+- Appendices (0)
+
+- Updates (5)
+
+H2: A. Eligibility Requirements
+
+Waiver eligibility depends on whether: ​
+
+- A waiver is available for the inadmissibility ground;
+
+- The applicant meets all other statutory and regulatory provisions for the waiver; and
+
+- A favorable exercise of discretion is warranted.[1]
+
+A waiver is available for the inadmissibility ground;
+
+The applicant meets all other statutory and regulatory provisions for the waiver; and
+
+A favorable exercise of discretion is warranted.[1]
+
+An applicant must meet all statutory and regulatory requirements, including the requirements specified in the waiver application’s instructions, before USCIS can approve the waiver application.[2]When the officer receives the application, the officer should ensure that it meets all of the applicable filing requirements.[3]
+
+H2: B. Waiver Availability
+
+H3: 1. Waiver is Available
+
+If an applicant is inadmissible, the officer must determine whether USCIS may waive the ground of inadmissibility and whether the applicant meets all eligibility requirements of the waiver. If the applicant is inadmissible on grounds that can be waived, the officer should determine whether the applicant meets the requirements for the waiver.[4]
+
+H3: 2. Waiver and Consent to Reapply
+
+An applicant who files a waiver application may also be inadmissible because of a prior removal or unlawful reentry after a previous immigration violation.[5]In these cases, the applicant is required to file an Application for Permission to Reapply for Admission into the United States after Deportation or Removal(Form I-212), which is also called consent to reapply.
+
+If the officer determines that the waiver is approvable, the officer should give the applicant an opportunity to file a consent to reapply application, if required. The officer should consult the consent to reapply form instructions to determine when USCIS may accept the waiver application and consent to reapply application together.
+
+If the waiver is not approvable and the applicant did not request consent to reapply (although required), the officer should deny the waiver and not request the application for consent to reapply. If an applicant files a consent to reapply application and the officer denies the waiver application, then the officer should deny the consent to reapply application as a matter of discretion.[6]
+
+H3: 3. No Waiver is Available
+
+An applicant may be inadmissible for both a ground that USCIS may waive and a ground for which no waiver or other form of relief is available. In this instance, the applicant is still inadmissible on grounds that cannot be waived and approving the waiver application serves no purpose. The officer, therefore, should deny the application as a matter of discretion because the applicant is inadmissible on grounds that cannot be waived.[7]The officer should provide the standard language regarding the availability of motions to reopen, motions to reconsider, and appeals (if applicable) in the denial notice.
+
+H2: C. Evidence
+
+There is no specific type or amount of evidence necessary to establish eligibility for a waiver. Typically, the evidence should support all eligibility requirements, be specific, and come from a credible source. It should also substantiate the applicant’s claims. If evidence is unavailable, the applicant should provide a reasonable explanation for its absence.[8]
+
+H3: 1. Medical and Other Issues Requiring Specialized Knowledge
+
+Professionals should address issues that require specialized knowledge. Physicians and other medical professionals, for example, should provide medical statements. The professional’s attestation should explain how the condition or issue affects that applicant. An officer may still consider a nonprofessional’s statement, but the officer should give less weight to a nonprofessional’s opinion. An officer may consider medical evidence from the internet and published sources, but these sources generally cannot replace a physician's statement.
+
+H3: 2. Family Relationships
+
+Some waivers require that the applicant establish a qualifying familial relationship. Unless the adjudicating officer finds the underlying evidence unpersuasive, the evidence submitted as part of a previously approved petition or application based on that familial relationship is sufficient to establish the qualifying relationship for the waiver. If there is no evidence in the record establishing the qualifying relationship, then the officer must request evidence that establishes the qualifying relationship, such as marriage, birth, or adoption certificates, or other evidence as permitted by law.
+
+H2: Footnotes
+
+[^ 1]SeeMatter of Mendez-Moralez   (PDF),21 I&N Dec. 296 (BIA 1996).
+
+[^ 2]See8 CFR 103.2. See8 CFR 103.7. General filing requirements include proper signature; proper fee or fee waiver; translation of any foreign language evidence; proper filing location; and the initial evidence specified in the relevant regulations and instructions with the application. Forms and form instructions are available on USCIS’ website atuscis.gov/forms.
+
+[^ 3]See8 CFR 103.2. Typically, a waiver does not require the applicant to submit biometrics. USCIS usually collects this information as part of the underlying benefit application, such as an adjustment of status application. However, if the required biometrics are outdated, then the officer must update the biometrics prior to the adjudication of a waiver.
+
+[^ 4]See Chapter 4, Waiver Eligibility and Evidence [9 USCIS-PM A.4].
+
+[^ 5]Inadmissible underINA 212(a)(9)(A)orINA 212(a)(9)(C).
+
+[^ 6]SeeMatter of J-F-D-   (PDF),10 I&N Dec. 694 (Reg. Comm. 1963). SeeMatter of Martinez-Torres   (PDF),10 I&N Dec. 776 (Reg. Comm. 1964).
+
+[^ 7]SeeMatter of J-F-D-   (PDF),10 I&N Dec. 694 (Reg. Comm. 1963). SeeMatter of Martinez-Torres   (PDF),10 I&N Dec. 776 (Reg. Comm. 1964).
+
+[^ 8]See8 CFR 103.2(b).
+
+H2: Resources
+
+8 CFR 212.7- Waiver of certain grounds of inadmissibility
+
+INA 207,8 CFR 207- Annual admission of refugees and admission of emergency situation refugees
+
+INA 209,8 CFR 209- Adjustment of status of refugees and asylees
+
+INA 210,8 CFR 210- Special agricultural workers
+
+INA 211,8 CFR 211- Admission of immigrants into the United States
+
+INA 212,8 CFR 212- Excludable aliens
+
+INA 214,8 CFR 214- Admission of nonimmigrants
+
+INA 244,8 CFR 244- Temporary protected status
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+INA 245A,8 CFR 245a- Adjustment of status of certain entrants before January 1, 1982 to that of person admitted for lawful residence
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-212, Application for Permission to Reapply for Admission into the United States After Deportation or Removal
+
+I-601A, Application for Provisional Unlawful Presence Waiver
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance to address the general policies and procedures applicable to the adjudication of waivers of inadmissibility.
+
+9 USCIS-PM A-Part A - Waiver Policies and Procedures

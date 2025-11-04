@@ -1,0 +1,555 @@
+H1: Chapter 7 - Removal of Conditions
+
+- Guidance
+
+- Resources (19)
+
+- Appendices (1)
+
+- Updates (8)
+
+ALERT:On June 22, 2021, the U.S. District Court for the Northern District of California, inBehring Regional Center LLC v. Wolf, 20-cv-09263-JSC, vacated theEB-5 Immigrant Investor Program Modernization Final Rule   (PDF).
+
+On June 22, 2021, the U.S. District Court for the Northern District of California, inBehring Regional Center LLC v. Wolf, 20-cv-09263-JSC, vacated theEB-5 Immigrant Investor Program Modernization Final Rule   (PDF). While USCIS considers this decision, we will apply the EB-5 regulations that were in effect before the rule was finalized on Nov. 21, 2019, including:
+
+- No priority date retention based on an approved Form I-526;
+
+- The required standard minimum investment amount of $1 million and the minimum investment amount for investment in a Targeted Employment Area (TEA) of $500,000;
+
+- Permitting state designations of high unemployment TEAs; and
+
+- Prior USCIS procedures for the removal of conditions on permanent residence.
+
+In other words, we are applying the regulations in effect before Nov. 21, 2019 in this chapter.
+
+ALERT:On March 15, 2022, theEB-5 Reform and Integrity Act of 2022   (PDF)was enacted. The Regional Center Program is authorized through September 30, 2027. USCIS is reviewing the new legislation and will provide additional guidance, including an eventual revision of Policy Manual content. For the latest updates, see theEB-5 Immigrant Investor Programwebpage.
+
+To seek removal of the conditions on permanent resident status, the immigrant investor must file a Petition by Investor to Remove Conditions on Permanent Resident Status (Form I-829) within 90 days prior to the 2-year anniversary of the date conditional permanent resident status was granted (for example, adjustment of status application was approved or investor admitted into the United States on an immigrant visa).
+
+The immigrant investor must submit the following evidence with his or her petition to remove conditions:
+
+- Evidence that the immigrant investor invested, or was actively in the process of investing the required capital and sustained the investment throughout the period of the immigrant investor’s residence in the United States; and
+
+- Evidence that the new commercial enterprise created or can be expected to create, within a reasonable time, at least 10 full-time positions for qualifying employees.[1]In the case of a troubled business, the investor must submit evidence that the commercial enterprise maintained the number of existing employees at no less than the pre-investment level for the period following his or her admission as a conditional permanent resident.[2]
+
+Evidence that the immigrant investor invested, or was actively in the process of investing the required capital and sustained the investment throughout the period of the immigrant investor’s residence in the United States; and
+
+Evidence that the new commercial enterprise created or can be expected to create, within a reasonable time, at least 10 full-time positions for qualifying employees.[1]In the case of a troubled business, the investor must submit evidence that the commercial enterprise maintained the number of existing employees at no less than the pre-investment level for the period following his or her admission as a conditional permanent resident.[2]
+
+H2: A. Evidence of Investment and Sustainment
+
+H3: 1. Investment
+
+The petition must be accompanied by evidence that the immigrant investor invested or was actively in the process of investing the requisite capital. Such evidence may include, but is not limited to, an audited financial statement or other probative evidence.[3]
+
+H3: 2. Sustainment of the Investment
+
+The immigrant investor must provide evidence that he or she sustained the investment throughout the period of his or her status as a conditional permanent resident of the United States.
+
+USCIS considers the immigrant investor to have sustained the actions required for removal of conditions if he or she has, in good faith, substantially met the capital investment requirement and continuously maintained his or her capital investment over the sustainment period.[4]When filing a petition to remove conditions, the full amount of required capital does not need to have been invested, but the immigrant investor must provide evidence that he or she has substantially met the requirement. The evidence may include, but is not limited to:
+
+- Bank statements;
+
+- ​Invoices;
+
+- ​Receipts;
+
+- ​Contracts;
+
+- ​Business licenses;
+
+- ​Federal or state income tax returns; and
+
+- Federal or state quarterly tax statements.[5]
+
+Bank statements;
+
+​Invoices;
+
+​Receipts;
+
+​Contracts;
+
+​Business licenses;
+
+​Federal or state income tax returns; and
+
+Federal or state quarterly tax statements.[5]
+
+H2: B. Evidence of Job Creation
+
+The immigrant investor can meet the job creation requirement by showing that at least 10 full-time positions for qualifying employees have been created, or will be created within a reasonable time. The non-regional center investor must show that the new commercial enterprise directly created these full-time positions for qualifying employees. The regional center investor may show that these jobs were directly or indirectly created by the new commercial enterprise. The evidence to prove job creation may include, but is not limited to the following:
+
+- For direct jobs created as a result of the immigrant investor’s investment, evidence such as payroll records, relevant tax documents, and Employment Eligibility Verification (Form I-9) showing employment by the new commercial enterprise;
+
+- For direct jobs maintained or created in a troubled business, evidence such as payroll records, relevant tax documents, andForm I-9showing employment at the time of investment and at the time of filing the petition to remove the conditions on residence; or
+
+- For jobs created indirectly as a result of an investment in the regional center context, reasonable methodologies, including multiplier tables, feasibility studies, analyses of foreign and domestic markets for the goods or services to be exported, and other economically or statistically valid forecasting devices.
+
+For direct jobs created as a result of the immigrant investor’s investment, evidence such as payroll records, relevant tax documents, and Employment Eligibility Verification (Form I-9) showing employment by the new commercial enterprise;
+
+For direct jobs maintained or created in a troubled business, evidence such as payroll records, relevant tax documents, andForm I-9showing employment at the time of investment and at the time of filing the petition to remove the conditions on residence; or
+
+For jobs created indirectly as a result of an investment in the regional center context, reasonable methodologies, including multiplier tables, feasibility studies, analyses of foreign and domestic markets for the goods or services to be exported, and other economically or statistically valid forecasting devices.
+
+If the regional center investor seeks to demonstrate job creation through the use of an economic input-output model, the investor must demonstrate that the methodology is reasonable. Further, the investor must submit relevant documents previously submitted with the Immigrant Petition by Alien Investor (Form I-526), including the comprehensive business plan and economic impact analysis, if he or she is relying on such documents to meet his or her burden of proof. This information is necessary to indicate whether there are material changes that would impact deference.
+
+Where the inputs into the model reflect jobs created directly at the new commercial enterprise or job-creating entity, the investor must demonstrate that the direct jobs input is reasonable. Relevant documentation may includeForm I-9, tax or payroll records, or if the jobs are not yet in existence, a comprehensive business plan demonstrating how many jobs will be created and when the jobs will be created.
+
+If the inputs into the model reflect expenditures, the investor must demonstrate that the expenditures input is reasonable. Relevant documentation may include receipts and other financial records for expenditures that have occurred and a detailed projection of sales, costs, and income projections such as a pro-forma cash flow statement associated with the business plan for expenditures that will occur.
+
+If the inputs into the model reflect revenues, the investor must demonstrate the revenues input is reasonable. Relevant documentation may include tax or other financial records for revenues that have occurred or a detailed projection of sales, costs, and income projections such as a pro-forma income statement associated with the business plan for revenues that will occur.
+
+In making the determination as to whether or not the immigrant investor has created the requisite number of jobs, USCIS does not require that the jobs still be in existence at the time of the petition to remove conditions adjudication in order to be credited to the investor. Instead, the job creation requirement is met if the investor can show that at least 10 full-time jobs for qualifying employees were created by the new commercial enterprise as a result of his or her investment and such jobs were considered to be permanent jobs when created.[6]
+
+Full-time positions will be allocated to immigrant investors based on the date their petition to remove conditions was filed, unless otherwise stated in the relevant documents.[7]For example, if the new commercial enterprise creates 25 jobs, yet there are three immigrant investors associated with the new commercial enterprise, and the record is silent on the issue of allocation, the first two immigrant investors to file the petition to remove conditions will each get to count 10 of the 25 jobs. The third immigrant investor to file the petition to remove conditions is allocated the remaining five jobs.
+
+Direct jobs that are intermittent, temporary, seasonal, or transient in nature do not qualify as permanent full-time jobs. However, jobs that are expected to last for at least 2 years generally are not considered intermittent, temporary, seasonal, or transient in nature.
+
+Although employment in some industries such as construction or tourism can be intermittent, temporary, seasonal or transient, officers should not exclude jobs simply because they fall into such industries. The focus of the adjudication will continue to be on whether the position, as described in the petition, is continuous full-time employment.
+
+For example, if a petition reasonably describes the need for general laborers in a construction project that is expected to last several years and would require a minimum of 35 hours per week over the course of that project, the positions would meet the full-time employment requirement. However, if the same project called for electrical workers to provide services during a small number of 5-week periods over the course of the project, such positions would be deemed intermittent and not meet the definition of full-time employment.
+
+H3: 1. Position Focused, Not Employee Focused
+
+The full-time employment criterion focuses on the position, not the employee. Accordingly, the fact that the position may be filled by more than one employee does not exclude the position from consideration as full-time employment. For example, the positions described in the preceding paragraph would not be excluded from being considered full-time employment if the general laborers needed to fill the positions varied from day-to-day or week-to-week as long as the need for the positions remain constant.
+
+H3: 2. Within a Reasonable Time Standard
+
+A petitioner may demonstrate that jobs will be created within a reasonable period of time after adjudication of theForm I-829petition.[8]This permits a degree of flexibility to account for the realities and unpredictability of starting a business venture, but it is not an open-ended allowance. The business plan submitted with theForm I-526immigrant petition must establish a likelihood of job creation within the next 2 years,[9]demonstrating an expectation that EB-5 projects will generally create jobs within such a timeframe.
+
+USCIS may determine, based upon a totality of the circumstances, that a lengthier timeframe is reasonable. USCIS has latitude under the law to request additional evidence concerning those circumstances. Because 2 years is the expected baseline period in which job creation will take place, jobs that will be created within a year of the 2-year anniversary of the immigrant investor’s admission as a conditional permanent resident or adjustment to conditional permanent resident may generally be considered to be created within a reasonable period of time.
+
+Jobs projected to be created more than 3 years after the immigrant investor’s admission in, or adjustment to, conditional permanent resident status usually will not be considered to be created within a reasonable time unless extreme circumstances[10]are presented.
+
+Not all of the goals of capital investment and job creation need to be fully realized before the conditions on the immigrant investor’s status have been removed. The investor must establish that it is more likely than not that the investor is in substantial compliance with the capital requirements and that the jobs will be created within a reasonable time.
+
+H2: C. Material Change
+
+USCIS recognizes the process of carrying out a business plan and creating jobs depends on a wide array of variables of which an investor may not have any control. In order to provide flexibility to meet the realities of the business world, USCIS permits an immigrant investor who has been admitted to the United States on a conditional basis to remove those conditions when circumstances have changed.
+
+An immigrant investor may proceed with the petition to remove conditions and present documentary evidence demonstrating that, notwithstanding the business plan contained in the initialForm I-526immigrant petition, the requirements for the removal of conditions have been satisfied. USCIS does not deny petitions to remove conditions based solely on the failure to adhere to the business plan contained in the Form I-526 immigrant petition. An immigrant investor may pursue alternative business opportunities within an industry category not previously approved for the regional center.
+
+Therefore, during the conditional residence period, an investment may be further deployed in a manner not contemplated in the initial Form I-526, as long as the further deployment otherwise satisfies the requirement to sustain the capital at risk. In addition, further deployment may be an option during the conditional residence period in various circumstances. For example, further deployment may be possible in cases where the requisite jobs were created by the investment in accordance with the business plan, as well as in cases where the requisite jobs were not created in accordance with the original business plan, and even if further deployment had not been contemplated at the time of the Form I-526 filing. For petitions filed before November 21, 2019, amendments or supplements to any offering necessary to maintain compliance with applicable securities laws based upon regulatory changes effective on November 21, 2019, may not be considered material.[11]
+
+The initial Form I-526 immigrant petition must be filed in good faith and with full intention to follow the plan outlined in that petition. If the immigrant investor does not demonstrate that he or she filed the immigrant petition in good faith, USCIS may conclude that the investment in the commercial enterprise was made as a means of evading the immigration laws. Under these circumstances, USCIS may terminate the immigrant investor’s conditional status.[12]
+
+While USCIS allows this flexibility inForm I-829filings, nothing in this policy relieves an immigrant investor from the requirements for removal of conditions.[13]Therefore, even in the event of a change in course, an immigrant investor must always be able to demonstrate that:
+
+- The required funds were placed at risk throughout the period of the petitioner’s conditional permanent residence in the United States;
+
+- The required amount of capital was made available to the business or businesses most closely responsible for creating jobs (unless the job creation requirement has already been satisfied);
+
+- ​This at-risk investment was sustained throughout the period of the petitioner’s conditional permanent residence in the United States; and
+
+- ​The investor created (or maintained, if applicable), or can be expected to create within a reasonable period of time, the requisite number of jobs.
+
+The required funds were placed at risk throughout the period of the petitioner’s conditional permanent residence in the United States;
+
+The required amount of capital was made available to the business or businesses most closely responsible for creating jobs (unless the job creation requirement has already been satisfied);
+
+​This at-risk investment was sustained throughout the period of the petitioner’s conditional permanent residence in the United States; and
+
+​The investor created (or maintained, if applicable), or can be expected to create within a reasonable period of time, the requisite number of jobs.
+
+Accordingly, if an immigrant investor fails to meet any of these requirements, he or she would not be eligible for removal of conditions.
+
+Further, with respect to the impact of regional center termination, an immigrant investor’s conditional permanent resident status, if already obtained, is not automatically terminated if he or she has invested in a new commercial enterprise associated with a regional center that USCIS terminates. The conditional permanent resident investor will continue to have the opportunity to demonstrate compliance with EB-5 program requirements, including through reliance on indirect job creation.
+
+H2: D. Extension of Conditional Permanent Residence While Form I-829 is Pending
+
+USCIS sends a receipt Notice of Action (Form I-797) to conditional permanent residents who properly file aForm I-829.[14]The notice serves as proof of USCIS’ receipt of the Form I-829. The notice also serves as evidence of USCIS’ extension of the validity of the conditional permanent resident’s status for the time period specified in the notice. In these cases, the notice, combined with the expiring or expired conditional Permanent Resident Card serves as evidence of conditional permanent resident status and may be used to prove employment authorization and authorization to return to the United States after temporary foreign travel.[15]
+
+A conditional permanent resident whose Permanent Resident Card has expired and whose extension notice period has also expired, or a conditional permanent resident who can demonstrate the need for evidence of a longer extension than remains, may request documentation of status for travel, employment, or other purposes by calling theUSCIS Contact Centerto schedule an appointment with a USCIS field office. At the appointment, an officer may issue the conditional permanent resident an Alien Documentation, Identification and Telecommunication (ADIT) stamp (also known as an I-551 stamp) to serve as temporary evidence of status. An officer may only place an ADIT stamp on a Form I-94 (with photo) or in an unexpired passport.
+
+An immigrant investor whose Form I-829 has been denied may seek review of the denial in removal proceedings.[16]USCIS issues the immigrant a temporary Form I-551 until an order of removal becomes administratively final. An order of removal is administratively final if the decision is not appealed or, if appealed, when the appeal is dismissed by the Board of Immigration Appeals.
+
+H2: Footnotes
+
+[^ 1]See8 CFR 216.6(a)(4)(ii)-(iv).
+
+[^ 2]See8 CFR 216.6(a)(4)(iv).
+
+[^ 3]See8 CFR 216.6(a)(4)(ii).
+
+[^ 4]See8 CFR 216.6(c)(1)(iii). The sustainment period is the investor’s 2 years of conditional permanent resident status. USCIS reviews the investor’s evidence to ensure sustainment of the investment for 2 years from the date the investor obtained conditional permanent residence. An investor does not need to maintain his or her investment beyond the sustainment period.
+
+[^ 5]See8 CFR 216.6(a)(4)(iii).
+
+[^ 6]SeeMatter of Ho   (PDF), 22 I&N Dec. 206, 212-13 (Assoc. Comm. 1998).
+
+[^ 7]USCIS recognizes any reasonable agreement made among immigrant investors with regard to the identification and allocation of qualifying positions. See8 CFR 204.6(g)(2).
+
+[^ 8]See8 CFR 216.6(a)(4)(iv).
+
+[^ 9]See8 CFR 204.6(j)(4)(i)(B).
+
+[^ 10]For example,force majeure.
+
+[^ 11]See Chapter 3, Immigrant Petition Adjudication [6 USCIS-PM G.3].
+
+[^ 12]SeeINA 216A(b)(1)(A).
+
+[^ 13]SeeINA 216A(d)(1). See8 CFR 216.6(a)(4).
+
+[^ 14]See8 CFR 216.6(a)(1).
+
+[^ 15]For more information on travel documents for conditional permanent residents, see U.S. Customs and Border Protection’sCarrier Information Guide.
+
+[^ 16]SeeINA 216A(c)(3)(D). See8 CFR 216.6(d)(2).
+
+H2: Resources
+
+INA 201- Worldwide level of immigration
+
+INA 202- Numerical limitations on individual foreign states
+
+INA 203- Allocation of immigrant visas
+
+INA 203(b)(5),8 CFR 204.6                    (PDF)- Employment creation immigrants
+
+INA 204(a)(1)(H)- Procedure for granting immigrant status
+
+INA 204,8 CFR 204- Procedure for granting immigrant status
+
+INA 216A,8 CFR 216.6- Conditional permanent resident status for certain alien entrepreneurs, spouses, and children
+
+Pub. L. 117-103                    (PDF)- Consolidated Appropriations Act of 2022 - Division BB - EB–5 Reform and Integrity Act of 2022
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-290B, Notice of Appeal or Motion
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-526, Immigrant Petition by Standalone Investor
+
+I-526E, Immigrant Petition by Regional Center Investor
+
+I-956, Application for Regional Center Designation
+
+I-956F, Application for Approval of an Investment in a Commercial Enterprise
+
+I-956G, Regional Center Annual Statement
+
+I-956H, Bona Fides of Persons Involved with Regional Center Program
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+The content in this appendix reflects USCIS policy as it existed before the EB-5 Reform and Integrity Act of 2022, Division BB of the Consolidated Appropriations Act of 2022,Pub.L. 117-103              (PDF), 136 Stat. 49, 1070 (March 15, 2022) for reference. For current USCIS policy on regional centers, see Chapter 4, Regional Center Applications [6 USCIS-PM G.4], Chapter 5, Project Applications [6 USCIS-PM G.5], and Chapter 6, Direct and Third Party Promoters [6 USCIS-PM G.6].
+
+The goal of the Regional Center Program is to stimulate economic growth in a specified geographic area. The regional center model can offer an immigrant investor already defined investment opportunities, thereby reducing the immigrant investor’s responsibility to identify acceptable investment vehicles. If the new commercial enterprise is located within the geographic area, and falls within the economic scope of the defined regional center, reasonable methodologies can be used to demonstrate indirect job creation.[1]A regional center can be associated with one or more new commercial enterprises.
+
+A regional center seeking to participate in the Regional Center Program must submit a proposal using the Application For Regional Center Under the Immigrant Investor Program (Form I-924).
+
+USCIS may designate a regional center based on a general proposal for the promotion of economic growth, including increased export sales, improved regional productivity, job creation, or increased domestic capital investment. The statute further provides that a regional center shall have jurisdiction over a limited geographic area, which shall be described in the proposal and consistent with the purpose of concentrating pooled investment in defined economic zones.
+
+In addition, the establishment of a regional center may be based on general predictions, contained in the proposal, concerning the kinds of commercial enterprises that will receive capital from immigrant investors, the jobs that will be created directly or indirectly as a result of such capital investments, and the other positive economic effects such capital investments will have on the area.[2]
+
+The regulations state that the proposal must:
+
+- Clearly describe how the regional center focuses on a geographical region of the United States and how it will promote economic growth through increased export sales, improved regional productivity, job creation, and increased domestic capital investment;
+
+- Provide in verifiable detail how jobs will be created directly or indirectly;
+
+- Provide a detailed statement regarding the amounts and sources of capital which have been already committed to the regional center;
+
+- Provide a description of the promotional efforts taken and planned by the sponsors of the regional center;
+
+- Include a detailed prediction[3]how the regional center will have a positive impact on the regional or national economy based on factors such as increased household earnings, greater demand for business services, utilities, maintenance and repair, and construction both within and without the regional center; and
+
+- Be supported by economically or statistically valid forecasting tools, including, but not limited to, feasibility studies, analyses of foreign and domestic markets for the goods or services to be exported, or multiplier tables.[4]
+
+Clearly describe how the regional center focuses on a geographical region of the United States and how it will promote economic growth through increased export sales, improved regional productivity, job creation, and increased domestic capital investment;
+
+Provide in verifiable detail how jobs will be created directly or indirectly;
+
+Provide a detailed statement regarding the amounts and sources of capital which have been already committed to the regional center;
+
+Provide a description of the promotional efforts taken and planned by the sponsors of the regional center;
+
+Include a detailed prediction[3]how the regional center will have a positive impact on the regional or national economy based on factors such as increased household earnings, greater demand for business services, utilities, maintenance and repair, and construction both within and without the regional center; and
+
+Be supported by economically or statistically valid forecasting tools, including, but not limited to, feasibility studies, analyses of foreign and domestic markets for the goods or services to be exported, or multiplier tables.[4]
+
+The level of verifiable detail required for a Form I-924 to be approved and provided deference may vary depending on the nature of the application filing.[5]
+
+H2: A. Regional Center Application Proposals
+
+The regional center proposal must include a management and operational plan to administer, oversee, and manage the proposed regional center, including but not limited to how the regional center:
+
+- Will be promoted to attract immigrant investors, including a description of the budget for promotional activities;
+
+- Will identify, assess, and evaluate proposed immigrant investor projects and enterprises;
+
+- Characterizes the structure of the investment capital it will sponsor; for example, whether the investment capital to be sought for job-creating companies will consist solely of immigrant investor capital or a combination of immigrant investor capital and domestic capital, and how the distribution of the investment capital will be structured (for example, loans to developers or venture capital); and
+
+- Will oversee all investment activities affiliated with, through, or under the sponsorship of the proposed regional center.
+
+Will be promoted to attract immigrant investors, including a description of the budget for promotional activities;
+
+Will identify, assess, and evaluate proposed immigrant investor projects and enterprises;
+
+Characterizes the structure of the investment capital it will sponsor; for example, whether the investment capital to be sought for job-creating companies will consist solely of immigrant investor capital or a combination of immigrant investor capital and domestic capital, and how the distribution of the investment capital will be structured (for example, loans to developers or venture capital); and
+
+Will oversee all investment activities affiliated with, through, or under the sponsorship of the proposed regional center.
+
+Geographic Area
+
+An officer reviews the proposed geographic boundaries of a new regional center to determine if they are acceptable. USCIS considers geographic boundaries acceptable if the regional center applicant can establish by a preponderance of the evidence that the proposed economic activity will promote economic growth in the proposed area.[6]The determination is fact-specific, and the law does not require any particular form of evidence, such as a county-by-county analysis.
+
+In addition, a regional center’s geographic area must be limited, contiguous, and consistent with the purpose of concentrating pooled investment in defined economic zones.[7]To demonstrate that the proposed geographic area is limited, the regional center applicant should submit evidence demonstrating the linkages between proposed economic activities within the proposed area based on different variables. Examples of variables to demonstrate linkages between economic activities can include but are not limited to:
+
+- Regional connectivity;
+
+- The labor pool and supply chain; and
+
+- Interdependence between projects.
+
+Regional connectivity;
+
+The labor pool and supply chain; and
+
+Interdependence between projects.
+
+Moreover, in assessing the likelihood that the proposed economic activity will promote economic growth in the proposed geographic area, an officer reviews the impact of the activity relative to relevant economic conditions. The size of the proposed area should be limited and consistent with the scope and scale of the proposed economic activity, as the regional center applicant is required to focus on a geographical region of the United States.[8]The regional center applicant must present an economic analysis of its proposed economic activity in the proposed geographic area that is supported by economically or statistically valid forecasting tools.[9]The Form I-924 instructions provide further information regarding the requirements of the economic analysis.
+
+H2: B. Types of Regional Center Projects
+
+An actual project refers to a specific project proposal that is supported by aMatter of Ho (PDF)compliant business plan.[10]
+
+A hypothetical project refers to a project proposal that is not supported by aMatter of Ho (PDF)compliant business plan.
+
+The term exemplar refers to a sample Immigrant Petition by Alien Investor (Form I-526), filed with Form I-924 for an actual project. This type of regional center proposal contains copies of the commercial enterprise’s organizational and transactional documents, which USCIS reviews to determine if they are in compliance with established eligibility requirements.
+
+H3: 1. Hypothetical Projects
+
+If the Form I-924 projects are hypothetical projects, general proposals and general predictions may be sufficient to determine that the proposed regional center will more likely than not promote economic growth, improved regional productivity, job creation, and increased domestic capital investment. A regional center applicant seeking review of a hypothetical project should clarify in the Form I-924 submission that the project is hypothetical. General proposals and predictions may include a description of the project parameters, such as:
+
+- Proposed project activities, industries, locations, and timelines;
+
+- A general market analysis of the proposed job creating activities and explanation regarding how the proposed project activities are likely to promote economic growth and create jobs; and
+
+- A description, along with supporting evidence, of the regional center principals’ relevant experience and expertise.
+
+Proposed project activities, industries, locations, and timelines;
+
+A general market analysis of the proposed job creating activities and explanation regarding how the proposed project activities are likely to promote economic growth and create jobs; and
+
+A description, along with supporting evidence, of the regional center principals’ relevant experience and expertise.
+
+While hypothetical project submissions are sufficient for regional center designation, previous determinations based on hypothetical projects will not receive deference. Actual projects will receive a de novo officer review during subsequent filings (for example, through the adjudication of an amended Form I-924 application, including the actual project details or the first Form I-526 immigrant investor petition).
+
+Organizational and transactional supporting documents are not required for a hypothetical project. If a regional center applicant desires a compliance review of organizational and transactional documents, the application must include an actual project with aMatter of Ho (PDF)compliant business plan and an exemplar immigrant investor petition.
+
+H3: 2. Actual Projects
+
+Applications for regional center designation based on actual projects may require more details than a hypothetical project to demonstrate that the proposal contains verifiable details and is supported by economically or statistically sound forecasting tools. A regional center applicant seeking review of an actual project should clarify in the Form I-924 submission that the project is actual.
+
+Actual projects require aMatter of Ho (PDF)compliant comprehensive business plan that provides verifiable detail on how jobs will be created. Absent fraud, willful misrepresentation, or a legal deficiency,[11]USCIS defers to prior determinations based on actual projects when evaluating subsequent filings under the project involving the same material facts and issues.
+
+Organizational and transactional documents for the new commercial enterprise are not required. If a regional center applicant desires review of organizational and transactional documents for program compliance, the regional center application must be accompanied by an exemplar Form I-526 immigrant investor petition.
+
+If regional center applicants opt not to file a Form I-924 amendment, the investor should identify his or her Form I-526 immigrant investor petition as an actual project being presented for the first time. Additionally, the immigrant petition should contain an affirmative statement signed by a regional center principal confirming that the regional center is aware of the specific project being presented for the first time as part of the immigrant investor petition.
+
+In cases where the regional center application is filed based on actual projects that do not contain sufficient verifiable detail, USCIS may approve the projects as hypothetical projects if they contain the requisite general proposals and predictions. The projects approved as hypotheticals, however, do not receive deference in subsequent filings.
+
+In cases where some projects are approvable as actual projects, and others are not approvable or only approvable as hypothetical projects, the approval notice should identify which projects have been approved as actual projects and will be accorded deference. The approval notice should also identify projects that have been approved as hypothetical projects but will not be accorded deference.
+
+H3: 3. Exemplar Filings
+
+Regional center applications, based on actual projects, including a Form I-526 immigrant investor exemplar petition, require more details than a hypothetical or actual project submitted without an exemplar. A regional center applicant seeking review of an exemplar should state that the project is an actual project with a Form I-526 exemplar.
+
+Exemplar filings require aMatter of Ho (PDF)compliant comprehensive business plan that provides verifiable detail on how jobs will be created, as well as organizational and transactional documents for the new commercial enterprise.
+
+Absent fraud, willful misrepresentation, or a legal deficiency, officer determinations based on exemplar filings are accorded deference in subsequent filings under the project with the same material facts and issues.
+
+While an amended Form I-924 is not required to perfect a hypothetical project once the actual project details are available, some applicants may choose to file an amended Form I-924 application with a Form I-526 exemplar to obtain a favorable determination. These exemplar filings are accorded deference in subsequent related filings, absent material change, fraud, willful misrepresentation, or a legally deficient determination.
+
+H2: C. Regional Center Annual Reporting
+
+Designated regional centers must file a Supplement to Form I-924 (Form I-924A) annually that demonstrates continued eligibility for designation as a regional center in the EB-5 Program.[12]The regional center must file the form within 90 days of the end of the fiscal year (between October 1 and December 29). The Form I-924A instructions specifically list required information that must be submitted.[13]
+
+If the regional center fails to file the required annual report, USCIS issues a Notice of Intent to Terminate (NOIT) to the regional center for failing to provide the required information. This may ultimately result in the termination of the regional center’s designation if the regional center fails to respond or does not file a response which adequately demonstrates continued eligibility.
+
+H2: D. Regional Center Amendments
+
+Because businesses’ strategies constantly evolve, with new opportunities identified and existing plans improved, a regional center may amend a previously approved designation. The Form I-924 instructions provide information regarding the submission of regional center amendment requests.[14]
+
+To improve processing efficiencies and predictability in subsequent filings, many regional centers may seek to amend the Form I-924 approval to reflect changes in economic analysis and job creation estimates. Such amendments, however, are not required in order for individual investors to proceed with filing the immigrant petitions or petitions to remove conditions on residence based on the additional jobs created, or to be created, in additional industries.
+
+Formal amendments to an approved regional center’s designation are not required when a regional center changes its industries of focus, business plans, or economic methodologies; however, a regional center may find it advantageous to seek USCIS approval of such changes before they are adjudicated in individual immigrant investor petitions.
+
+Requests to Change Geographic Area
+
+When a regional center requests to expand its geographic area, the proposed geographic area must be limited, contiguous, and consistent with the purpose of concentrating pooled investment in defined economic zones.[15]​
+
+Any requests for geographic area expansion made on or after February 22, 2017 are adjudicated under the current guidance in the Form I-924 instructions which requires that a Form I-924 amendment must be filed, and approved, to expand the regional center’s geographic area. The Form I-924 amendment must be approved before an I-526 petitioner may demonstrate eligibility at the time of filing his or her petition based on an investment in the expanded area.
+
+If the regional center’s geographic area expansion request was submitted either through a Form I-924 amendment or Form I-526 petition filed prior to February 22, 2017, and the request is ultimately approved, USCIS will continue to adjudicate additional Form I-526 petitions associated with investments in that area under prior policy guidance issued on May 30, 2013.[16]That policy did not require a formal amendment to expand a regional center’s geographic area, and permitted concurrent filing of the Form I-526 prior to approval of the geographic area amendment.
+
+H2: E. Termination of a Regional Center Designation
+
+USCIS issues a NOIT if:
+
+- USCIS determines that a regional center no longer serves the purpose of promoting economic growth, including increased export sales, improved regional productivity, job creation, and increased domestic capital investment; or
+
+- The regional center fails to submit required information to USCIS.[17]
+
+USCIS determines that a regional center no longer serves the purpose of promoting economic growth, including increased export sales, improved regional productivity, job creation, and increased domestic capital investment; or
+
+The regional center fails to submit required information to USCIS.[17]
+
+The NOIT will provide the grounds for termination and provide at least 30 days from receipt of the NOIT for the regional center to respond to the allegations in the NOIT. The regional center may offer evidence to contest the allegations in the NOIT. If the regional center overcomes the allegations in the NOIT, USCIS issues a Notice of Reaffirmation that affirms the regional center’s designation.
+
+If the regional center fails to overcome the allegations in the NOIT, USCIS terminates the regional center’s participation in the Regional Center Program. In this case, USCIS notifies the regional center of the termination, the reasons for termination, and the right to file a motion, appeal, or both. The regional center may appeal the decision to USCIS’ Administrative Appeals Office within 30 days after service of notice (33 days, if the notice was mailed).[18]
+
+H2: Footnotes
+
+[^ 1]For a definition of indirect jobs, see Chapter 2, Eligibility Requirements, Section D, Creation of Jobs, Subsection 4, Measuring Job Creation [6 USCIS-PM G.2(D)(4)].
+
+[^ 2]See Section 610(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993, Pub. L. 102-395, 106 Stat. 1828, 1874 (October 6, 1992), as amended.
+
+[^ 3]An applicant can submit a general prediction which addresses the prospective impact of the capital investment projects sponsored by the regional center, regionally or nationally. See Form I-924 instructions.
+
+[^ 4]See 8 CFR 204.6(m)(3).
+
+[^ 5]For more information about the types of regional center projects, see Section B, Types of Regional Center Projects [6 USCIS-PM G.3(B)].
+
+[^ 6]See Section 610(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act of 1993, Pub. L. 102-395, 106 Stat. 1828, 1874 (October 6, 1992), as amended. See 8 CFR 204.6(m)(3)(i) (requiring a clear description of how the regional center focuses on a geographical region of the United States and how it will promote economic growth).
+
+[^ 7]See Section 610(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act of 1993, Pub. L. 102-395, 106 Stat. 1828, 1874 (October 6, 1992), as amended.
+
+[^ 8]See Section 610(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act of 1993, Pub. L. 102-395, 106 Stat. 1828, 1874 (October 6, 1992), as amended. See 8 CFR 204.6(m)(3)(i).
+
+[^ 9]See 8 CFR 204.6(m)(3).
+
+[^ 10]See Chapter 2, Eligibility Requirements, Section B, Comprehensive Business Plan [6 USCIS-PM G.2(B)].
+
+[^ 11]Legal deficiency includes objective mistakes of law or fact made as part of the USCIS adjudication.
+
+[^ 12]See 8 CFR 204.6(m)(6).
+
+[^ 13]See Form I-924A instructions.
+
+[^ 14]See Form I-924 instructions.
+
+[^ 15]For a discussion of an officer’s review of a regional center’s proposed geographic area, see Section A, Regional Center Application Proposals [6 USCIS-PM G.3(A)].
+
+[^ 16]See EB-5 Adjudication Policy Memo, PM-602-0083, issued May 30, 2013.
+
+[^ 17]See 8 CFR 204.6(m)(6).
+
+[^ 18]See 8 CFR 103.3. See 8 CFR 204.6(m)(6).
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to continue to incorporate statutory reforms of the Regional Center Program as they relate to regional center designation and other requirements for immigrant investors.
+
+6 USCIS-PM G-Part G - Investors
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating guidance in the USCIS Policy Manual regarding a regional center’s geographic area, requests to expand the geographic area, and how such requests impact the filing of Form I-526, Immigrant Petition by Alien Entrepreneur.
+
+6 USCIS-PM G-Part G - Investors
+
+U.S. Citizenship and Immigration Services (USCIS) is updating the USCIS Policy Manual to provide further guidance regarding the job creation and capital at risk requirements for Form I-526, Immigrant Petition by Alien Entrepreneur, and Form I-829, Petition by Entrepreneur to Remove Conditions on Permanent Resident Status.
+
+6 USCIS-PM G-Part G - Investors
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance regarding the eligibility requirements for regional centers and immigrant investors.
+
+6 USCIS-PM G-Part G - Investors

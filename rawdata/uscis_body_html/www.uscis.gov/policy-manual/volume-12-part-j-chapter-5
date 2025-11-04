@@ -1,0 +1,1938 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+        
+  
+      <div class="book-utility-menu hide-print" role="navigation" aria-label="Book utility menu">
+  <div class="content-container">
+    <div class="container-1">
+      <a href="/policy-manual" hreflang="en">Policy Manual</a>
+      <div class="mobile-chevron">
+        <button id="util-menu" class="menu-toggle__link highlight-strong" aria-label="Toggle Menu">
+          <i id="util-chevron" class="fas fa-chevron-down"></i>
+        </button>
+      </div>
+    </div>
+    <div class="container-2" id="util-links">
+      <div class="menu-items">
+                  <div class="menu__elem"><a href="/policy-manual/table-of-contents">Contents</a></div>
+                  <div class="menu__elem"><a href="/policy-manual/updates" hreflang="en">Updates</a></div>
+                  <div class="menu__elem"><a href="/legal-resources/immigration-and-nationality-act">INA</a></div>
+                  <div class="menu__elem"><a href="https://www.ecfr.gov/current/title-8">8 CFR</a></div>
+                  <div class="menu__elem"><a href="/tools/glossary" hreflang="en">Glossary</a></div>
+                  <div class="menu__elem"><a href="https://www.uscis.gov/outreach/feedback-opportunities/policy-manual-feedback/policy-manual-feedback">Feedback</a></div>
+              </div>
+    </div>
+      <div class="book-search" id="pm-search">
+        <div class="line-sep"> </div>
+                    <form accept-charset="UTF-8" action="/policy-manual/search" name="custom-search" method="get" id="custom-search">
+          <div class="input-group">
+            <input name="pm_query" id="pm-query" type="text" class="book-search-box book-utility-menu__search" title="Search USCIS Policy Manual" autocomplete="off" size="25" maxlength="200" value="" placeholder="Search USCIS Policy Manual">
+            <div class="input-group__btn--icon">
+              <button id="pm-btn-search-submit" aria-label="Search USCIS Policy Manual" class="btn-icon btn--search-submit" type="submit">
+                <svg class="usa-icon fa-search" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/uswds/img/sprite.svg#search"></use>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </form>
+              <div class="line-sep after-search"> </div>
+      </div>
+  </div>
+</div>
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+      <div id="block-booknavigation">
+    
+        
+            <nav id="book-block-menu-68600" class="book-block-menu" aria-labelledby="book-menu-label">
+    <div class="visually-hidden" id="book-menu-label">Book outline for Policy Manual</div>
+    
+
+                  <ul class="leftnav-menu book-title" data-level="0">
+    
+              
+              <li class="leftnav-menu__item leftnav-menu__item--0 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual" class="leftnav-menu__link leftnav-menu__title" hreflang="en">Policy Manual</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Policy Manual" aria-controls="leftnav-menu" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="leftnav-menu"><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/search" class="leftnav-menu__link" hreflang="en">Search</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/updates" class="leftnav-menu__link" hreflang="en">Updates</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/table-of-contents" class="leftnav-menu__link" hreflang="en">Table of Contents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-1" class="leftnav-menu__link" hreflang="en">Volume 1 - General Policies and Procedures</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-2" class="leftnav-menu__link" hreflang="en">Volume 2 - Nonimmigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-3" class="leftnav-menu__link" hreflang="en">Volume 3 - Humanitarian Protection and Parole</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-4" class="leftnav-menu__link" hreflang="en">Volume 4 - Refugees and Asylees</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5" class="leftnav-menu__link" hreflang="en">Volume 5 - Adoptions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-6" class="leftnav-menu__link" hreflang="en">Volume 6 - Immigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-7" class="leftnav-menu__link" hreflang="en">Volume 7 - Adjustment of Status</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8" class="leftnav-menu__link" hreflang="en">Volume 8 - Admissibility</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9" class="leftnav-menu__link" hreflang="en">Volume 9 - Waivers and Other Forms of Relief</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10" class="leftnav-menu__link" hreflang="en">Volume 10 - Employment Authorization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-11" class="leftnav-menu__link" hreflang="en">Volume 11 - Travel and Identity Documents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12" class="leftnav-menu__link" hreflang="en">Volume 12 - Citizenship and Naturalization</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2" data-level="2"><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-a" class="leftnav-menu__link" hreflang="en">Part A - Citizenship and Naturalization Policies and Procedures</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-b" class="leftnav-menu__link" hreflang="en">Part B - Naturalization Examination</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-c" class="leftnav-menu__link" hreflang="en">Part C - Accommodations</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-d" class="leftnav-menu__link" hreflang="en">Part D - General Naturalization Requirements</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-e" class="leftnav-menu__link" hreflang="en">Part E - English and Civics Testing and Exceptions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-f" class="leftnav-menu__link" hreflang="en">Part F - Good Moral Character</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-g" class="leftnav-menu__link" hreflang="en">Part G - Spouses of U.S. Citizens</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-h" class="leftnav-menu__link" hreflang="en">Part H - Children of U.S. Citizens</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-i" class="leftnav-menu__link" hreflang="en">Part I - Military Members and their Families</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-j" class="leftnav-menu__link" hreflang="en">Part J - Oath of Allegiance</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3" data-level="3"><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-j-chapter-1" class="leftnav-menu__link" hreflang="en">Chapter 1 - Purpose and Background</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-j-chapter-2" class="leftnav-menu__link" hreflang="en">Chapter 2 - The Oath of Allegiance</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-j-chapter-3" class="leftnav-menu__link" hreflang="en">Chapter 3 - Oath of Allegiance Modifications and Waivers</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-j-chapter-4" class="leftnav-menu__link" hreflang="en">Chapter 4 - General Considerations for All Oath Ceremonies</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3 leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-j-chapter-5" class="is-active leftnav-menu__link">Chapter 5 - Administrative Naturalization Ceremonies</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-j-chapter-6" class="leftnav-menu__link" hreflang="en">Chapter 6 - Judicial and Expedited Oath Ceremonies</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-k" class="leftnav-menu__link" hreflang="en">Part K - Certificates of Citizenship and Naturalization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-l" class="leftnav-menu__link" hreflang="en">Part L - Revocation of Naturalization</a></div></div></li></ul></div></li></ul></li>
+      
+         </ul>
+  
+
+
+  </nav>
+
+      </div>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                                <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual">Policy Manual</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-12">Volume 12 - Citizenship and Naturalization</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-12-part-j">Part J - Oath of Allegiance</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Chapter 5 - Administrative Naturalization Ceremonies</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+
+
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-book">
+      <div class="container container--main">
+            
+                        
+            <h1 class="page-title js-page-title">
+              <span>Chapter 5 - Administrative Naturalization Ceremonies</span>
+            </h1>
+          
+              
+                    
+              <div>
+                        
+<nav id="pm-tabs" aria-labelledby="pm-tabs-label">
+  <div class="visually-hidden" id="pm-tabs-label">Content navigation tabs</div>
+  <ul>
+    <li><a href="#" aria-controls="guidance" class="pm-tab__guidance tablinks active tab1">Guidance</a></li>
+    <li><a href="#" id="resource_tab" aria-controls="resources" class="pm-tab__resource tablinks tab2">Resources (<span id="resources_count">10</span>)</a></li>
+    <li><a href="#" id="appendices_tab" aria-controls="appendices" class="pm-tab__appendices tablinks tab3">Appendices (<span id="appendices_count">1</span>)</a></li>
+    <li><a href="#" id="updates_tab" aria-controls="updates" class="pm-tab__updates tablinks tab4">Updates (<span id="updates_count">9</span>)</a></li>
+  </ul>
+</nav>
+<section id="book-content">
+  <div id="guidance" class="tabcontent tabcontent--guidance">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>USCIS is committed to elevating the importance of the naturalization ceremony as a venue to recognize the rights, responsibilities, and importance of citizenship and provide access to services for newly naturalized citizens. The naturalization ceremony is the culmination of the naturalization process. USCIS aims to make administrative naturalization ceremonies positive and memorable moments in the lives of the participants. USCIS honors the Oath of Allegiance with policies and practices that reflect the importance of the occasion.</p><p>The following information provides USCIS officials with guidance for conducting administrative naturalization ceremonies in a meaningful and consistent manner.<a class="ck-anchor" id="footnotelink-1"></a><a class="ck-anchor" href="#footnote-1"><strong><sup>[1]</sup></strong></a></p><h2><a class="ck-anchor" id="S-A"></a>A. Ceremony Check-In Process</h2><p>USCIS personnel perform the ceremony check-in process before the start of the ceremony. An officer reviews the responses on each alien’s Notice of Naturalization Oath Ceremony (Form N-445) and updates responses as necessary. Once the officer verifies each alien’s eligibility for naturalization, the officer then collects all USCIS-issued travel documents and lawful permanent resident cards from each alien.</p><h2><a class="ck-anchor" id="S-B"></a>B. Materials Distributed</h2><p>USCIS may distribute materials at administrative naturalization ceremonies, including:</p><ul><li>Important Information for New Citizens (<a href="/sites/default/files/document/flyers/M-767.pdf" data-entity-type="media" data-entity-uuid="d25bf98b-b527-4288-a005-7617db5ca222" data-entity-substitution="media" type="application/pdf;length=213395">Form M-767 (PDF, 208.39 KB)</a>);</li><li>U.S. Citizenship Welcome Packet;</li><li>American flag;</li><li>Citizen’s Almanac (<a href="/sites/default/files/document/guides/M-76.pdf" data-entity-type="media" data-entity-uuid="b1282ca6-1863-41fb-aa5a-700d1b6f8562" data-entity-substitution="media">Form M-76</a>);</li><li>President’s Congratulatory Letter; and</li><li>Pocket-size Declaration of Independence and Constitution of the United States.</li></ul><p>During the ceremony, aliens will have access to the Oath of Allegiance and Pledge of Allegiance to repeat during the ceremony.</p><h3><a class="ck-anchor" id="S-B-1"></a>1. Citizen’s Almanac and Pocket-size U.S. Declaration of Independence and Constitution</h3><p>The Citizen’s Almanac (<a href="/sites/default/files/document/guides/M-76.pdf" data-entity-type="media" data-entity-uuid="b1282ca6-1863-41fb-aa5a-700d1b6f8562" data-entity-substitution="media" type="application/pdf;length=8947199">Form M-76 (PDF, 8.53 MB)</a>) and the Pocket-size Declaration of Independence and Constitution of the United States (<a href="/sites/default/files/document/guides/M-654.pdf" data-entity-type="media" data-entity-uuid="2c515147-e713-4009-9964-7c706521d239" data-entity-substitution="media" type="application/pdf;length=1297656">Form M-654 (PDF, 1.24 MB)</a>) may be made available to all interested newly naturalized citizens. Officers may make these publications available during administrative ceremonies but are not required to do so. The items may be placed on a table in an area accessible to the newly naturalized citizens. USCIS may also inform newly naturalized citizens that both publications are available for download at <a href="/citizenship" data-entity-type="node" data-entity-uuid="25b4ccd7-f8e4-44e9-a268-935e7a0ad25c" data-entity-substitution="canonical">uscis.gov/citizenship</a>.</p><h3><a class="ck-anchor" id="S-B-2"></a>2. Other Materials</h3><p>USCIS field office leadership must consult with the USCIS Office of the Chief Counsel’s Ethics Division to determine whether materials and publications other than the American flag and the contents of the U.S. Citizenship Welcome Packet are appropriate for distribution. Federal workers, including officers, and other invited participants must never distribute the following within the venue where the USCIS naturalization ceremony is taking place, or anywhere within a federal facility or on federal property:</p><ul><li>Partisan publications;</li><li>Publications referencing a specific political group;</li><li>Commercial materials or publications;</li><li>Religious materials or publications; or</li><li>Any promotional or solicitation materials or publications.</li></ul><p>Authorized governmental officials invited by USCIS to distribute materials or publications, such as information on voter registration, may provide USCIS-authorized materials at the conclusion of the naturalization ceremony.</p><p>Similarly, other authorized U.S. government participants, such as the Department of State’s Passport Services Division and the Social Security Administration may distribute USCIS-authorized materials within the venue after the USCIS official has concluded the naturalization ceremony. Only USCIS-approved materials and publications may be distributed within the venue once the presiding USCIS official has concluded the naturalization ceremony.</p><h2><a class="ck-anchor" id="S-C"></a>C. Ceremony Program</h2><p>To standardize the naturalization ceremony experience, unless exempted, USCIS offices follow these steps in administrative ceremonies to the extent feasible:<a class="ck-anchor" id="footnotelink-2"></a><a class="ck-anchor" href="#footnote-2"><strong><sup>[2]</sup></strong></a></p><ul><li>Play “Faces of America;”</li><li>​Play the national anthem, The Star Spangled Banner, instrumental or vocal version;<a class="ck-anchor" id="footnotelink-3"></a><a class="ck-anchor" href="#footnote-3"><strong><sup>[3]</sup></strong></a></li><li>Deliver opening (welcoming) remarks by Master of Ceremonies;<a class="ck-anchor" id="footnotelink-4"></a><a class="ck-anchor" href="#footnote-4"><strong><sup>[4]</sup></strong></a></li><li>Announce the “call of countries;”<a class="ck-anchor" id="footnotelink-5"></a><a class="ck-anchor" href="#footnote-5"><strong><sup>[5]</sup></strong></a></li><li>Administer the Oath of Allegiance to the aliens applying for naturalization;<a class="ck-anchor" id="footnotelink-6"></a><a class="ck-anchor" href="#footnote-6"><strong><sup>[6]</sup></strong></a></li><li>Deliver keynote remarks (USCIS leadership or guest speaker);</li><li>Play Presidential, Secretary’s, or Director of USCIS’ congratulatory remarks;</li><li>Recite the Pledge of Allegiance;</li><li>Deliver concluding remarks (Master of Ceremonies or USCIS field leadership);<a class="ck-anchor" id="footnotelink-7"></a><a class="ck-anchor" href="#footnote-7"><strong><sup>[7]</sup></strong></a> and</li><li>Present the Certificate of Naturalization (Form N-550) by USCIS leadership or officers.<a class="ck-anchor" id="footnotelink-8"></a><a class="ck-anchor" href="#footnote-8"><strong><sup>[8]</sup></strong></a></li></ul><p>The Naturalization Ceremony Presentation<a class="ck-anchor" id="footnotelink-9"></a><a class="ck-anchor" href="#footnote-9"><strong><sup>[9]</sup></strong></a> includes all required video and musical elements the office plays at various points in the naturalization ceremony program.</p><p>Field offices may also enhance the ceremony program with additional appropriate elements, such as approved musical selections included in the Naturalization Ceremony Presentation. When USCIS plays musical selections during ceremonies, aliens applying for naturalization are not required to stand or sing.</p><h2><a class="ck-anchor" id="S-D"></a>D. Guest Speakers</h2><p>USCIS welcomes distinguished community members who are U.S. citizens by birth or naturalization to participate as guest speakers in administrative naturalization ceremonies. A guest speaker may be a:</p><ul><li>​Government leader;</li><li>Military leader;</li><li>Member of Congress;</li><li>Judge;</li><li>Department of Homeland Security (DHS) official; or</li><li>A person whom USCIS deems appropriate for the occasion.</li></ul><p>Local USCIS field leadership must carefully review and select guest speakers based on their relevance to the occasion, with particular focus on their outstanding achievements, contributions to the nation or their community, personal experience, or notable activities as a citizen of the United States.</p><p>USCIS field leadership must review the qualifications of any potential guest speaker who is not a DHS employee, and approve their role in the program before they speak at an administrative naturalization ceremony.<a class="ck-anchor" id="footnotelink-10"></a><a class="ck-anchor" href="#footnote-10"><strong><sup>[10]</sup></strong></a> If USCIS headquarters selects a guest speaker for a USCIS field office’s administrative naturalization ceremony, headquarters reviews the person’s qualifications before making the recommendation.</p><p>It is the responsibility of field leadership of the USCIS office conducting the administrative naturalization ceremony to preserve the importance, dignity, and significance of the occasion. After selecting and scheduling a guest speaker, the local field leadership must send the speaker a written notice, which describes USCIS’ expectations regarding the appropriate length and content of remarks. USCIS must advise speakers that appropriate remarks focus on:</p><ul><li>Importance of U.S. citizenship;</li><li>New privileges (such as the ability to travel with a U.S. passport, apply for a position in the federal government, and vote in federal elections);</li><li>Responsibilities of U.S. citizenship (such as voting and serving on a jury when requested);</li><li>Civic principles within the U.S. government;</li><li>Civic participation in the local community;</li><li>Importance of swearing allegiance to the United States; or</li><li>Theme of the ceremony.</li></ul><p>Inappropriate remarks, including political (partisan or otherwise), religious, or commercial statements, are not permitted.<a class="ck-anchor" id="footnotelink-11"></a><a class="ck-anchor" href="#footnote-11"><strong><sup>[11]</sup></strong></a> Out of respect for the candidates and other attendees, guest speakers serving in the keynote role should deliver remarks between 5 and 10 minutes in length. If a scheduled guest speaker is unable to participate, USCIS must approve any replacement speaker.</p><p>USCIS respects the privacy of aliens applying for naturalization and may not release the names or personal information of aliens applying for naturalization unless the alien provides consent or disclosure as required by law.</p><h2><a class="ck-anchor" id="S-E"></a>E. Participation by Elected Officials and Members of Congress</h2><h3><a class="ck-anchor" id="S-E-1"></a>1. Elected Officials</h3><p>USCIS must uphold the integrity of each administrative naturalization ceremony and ensure that it is a politically neutral event. The presence of candidates for public office at a naturalization ceremony may create a perception that is inconsistent with USCIS’ obligation of neutrality. Accordingly, candidates for public office, including incumbents, generally may not speak at or participate in an administrative naturalization ceremony starting from 3 months immediately preceding a primary or general election for office.</p><p>For example, if the state primary elections are on February 4, 2014, and the state general election is November 3, 2014, a candidate for public office in those primary elections may not be a guest speaker or have another formal participatory role from November 4, 2013 (3 months before the primary election) until after February 4, 2014. A candidate for the general election may not have a participatory role from August 3, 2014 (3 months before the general election) until after November 3, 2014.<a class="ck-anchor" id="footnotelink-12"></a><a class="ck-anchor" href="#footnote-12"><strong><sup>[12]</sup></strong></a></p><p>The 3-month rule does not apply to the President or Vice President of the United States. However, the 3-month rule does apply to Members of Congress. In exceptional circumstances, the USCIS Office of the Chief Counsel’s Ethics Division may authorize exceptions to the 3-month rule if the candidate’s participation, subject to any appropriate conditions, would not unduly compromise the ceremony’s political neutrality and would serve the best interest of USCIS and enhance the ceremony. For any exceptions or issues relating to the 3-month rule, field leadership should contact the Office of the Chief Counsel’s Ethics Division.</p><h3><a class="ck-anchor" id="S-E-2"></a>2. Members of Congress</h3><p>USCIS congressional liaisons coordinate with USCIS district or field office leadership regarding invitations to and requests from Members of Congress to participate in administrative naturalization ceremonies.</p><p>Congressional liaisons and the Field Operations Directorate must provide ample notice when issuing invitations to or responding to requests from Members of Congress to serve as guest speakers in naturalization ceremonies. In the event a Member of Congress is unable to serve as a guest speaker after accepting an invitation to do so, only USCIS may select an appropriate substitute.</p><p>When a congressional liaison issues an invitation to a Member’s office, the invitation must include USCIS guidelines for administrative naturalization ceremonies.<a class="ck-anchor" id="footnotelink-13"></a><a class="ck-anchor" href="#footnote-13"><strong><sup>[13]</sup></strong></a> Members of Congress scheduled to speak at administrative naturalization ceremonies must follow USCIS’ guidance for guest speakers.<a class="ck-anchor" id="footnotelink-14"></a><a class="ck-anchor" href="#footnote-14"><strong><sup>[14]</sup></strong></a> Members of Congress may not distribute any materials at a USCIS naturalization ceremony or inside the ceremony venue.<a class="ck-anchor" id="footnotelink-15"></a><a class="ck-anchor" href="#footnote-15"><strong><sup>[15]</sup></strong></a></p><p>Some members of Congress may ask USCIS to schedule naturalization ceremonies to mark particular dates or events of significance to the United States or the U.S. state being represented. USCIS district office or field office leadership may, at their discretion, honor these requests, subject to restrictions for guest speakers.<a class="ck-anchor" id="footnotelink-16"></a><a class="ck-anchor" href="#footnote-16"><strong><sup>[16]</sup></strong></a></p><p>District office or field office leadership must decline the request if there is any possibility of the event being seen as a platform for any political, controversial, religious, or commercial message. District office or field office leadership may also decline the request if supporting such a ceremony would negatively impact other activities or otherwise present operational hardships.</p><p>When a member of Congress asks USCIS to schedule a naturalization ceremony, USCIS responds in writing. If the request is to be honored, the response will provide expectations and restrictions regarding speech for guest speakers.<a class="ck-anchor" id="footnotelink-17"></a><a class="ck-anchor" href="#footnote-17"><strong><sup>[17]</sup></strong></a> If the request is to be declined, USCIS will provide a reason and a copy of the ceremony guidance.</p><p>Members of Congress and their staff are always welcome to attend a naturalization ceremony as members of the public.</p><h2><a class="ck-anchor" id="S-F"></a>F. Voter Registration After Naturalization Ceremonies</h2><h3><a class="ck-anchor" id="S-F-1"></a>1. Distribution of Voter Registration Applications<a class="ck-anchor" id="footnotelink-18"></a><a class="ck-anchor" href="#footnote-18"><strong><sup>[18]</sup></strong></a></h3><p>The ability to vote in federal elections is a fundamental right that comes with U.S. citizenship.<a class="ck-anchor" id="footnotelink-19"></a><a class="ck-anchor" href="#footnote-19" title><strong><sup>[19]</sup></strong></a> All newly naturalized citizens are given the opportunity to register at the end of the administrative naturalization ceremony when the newly naturalized citizen is then eligible to register to vote.<a class="ck-anchor" id="footnotelink-20"></a><a class="ck-anchor" href="#footnote-20" title><strong><sup>[20]</sup></strong></a> USCIS provides access to voter registration services for the state where the field office is located at each administrative naturalization ceremony.<a class="ck-anchor" id="footnotelink-21"></a><a class="ck-anchor" href="#footnote-21" title><strong><sup>[21]</sup></strong></a></p><p>USCIS offices request election officials from state or local government election offices to attend naturalization ceremonies to distribute, collect, and review state-specific voter registration applications, and to officially register newly naturalized citizens to vote.</p><p>If no governmental officials are available to distribute voter registration applications, USCIS field offices provide voter registration applications to all newly naturalized citizens.<a class="ck-anchor" id="footnotelink-22"></a><a class="ck-anchor" href="#footnote-22" title><strong><sup>[22]</sup></strong></a> USCIS is not responsible for the collection of applications or retention of any information from such applications, or any other activities related to voter registration.</p><h3><a class="ck-anchor" id="S-F-2"></a>2. Voter Registration Services</h3><p>The term “voter registration services” includes one or more of the following activities:</p><ul><li>Distribution of voter registration application forms;</li><li>Assisting interested new citizens in completing voter registration application forms;</li><li>Reviewing submitted forms to ensure that each form is complete;</li><li>Collecting completed forms for submission to the local election official; or</li><li>Providing nonpartisan educational information on the voting process.<a class="ck-anchor" id="footnotelink-23"></a><a class="ck-anchor" href="#footnote-23" title><strong><sup>[23]</sup></strong></a></li></ul><p>The mechanism for registration may vary by ceremony location, but in every case must take place only after the conclusion of the ceremony, when the newly naturalized citizens are officially U.S. citizens. USCIS provides space for governmental officials in the same ceremony space or room to provide on-site voter registration services, if available.</p><p>If no space is available for governmental officials to provide on-site voter registration services, the USCIS field office distributes voter registration applications to each newly naturalized citizen.<a class="ck-anchor" id="footnotelink-24"></a><a class="ck-anchor" href="#footnote-24" title><strong><sup>[24]</sup></strong></a> USCIS bases a “no space available” determination on the location of the ceremony venue,<a class="ck-anchor" id="footnotelink-25"></a><a class="ck-anchor" href="#footnote-25" title><strong><sup>[25]</sup></strong></a> the size of the venue facility, and the number of aliens applying for naturalization, as well as the layout of the venue space, in accordance with safety standards and regulations. “No space available” determinations are made on a case-by-case basis by USCIS field leadership conducting the ceremony.</p><h3><a class="ck-anchor" id="S-F-3"></a>3. Points of Contact for Voting and Voter Registration</h3><p>If naturalized citizens have questions regarding voting and voter registration, USCIS refers them to:</p><ul><li>The governmental officials offering voter registration services on-site;</li><li>Other information resources within the local area; or</li><li>The appropriate official government websites <a href="https://www.usa.gov/election-office">USA.gov Find My State or Local Election Office</a>, <a href="https://www.usa.gov/register-to-vote">USA.gov Register to Vote</a>, and <a href="https://vote.gov/">Vote.gov</a>.</li></ul><h2><a class="ck-anchor" id="S-G"></a>G. Services Provided by Other Government Entities</h2><p>Federal entities, such as the Department of State’s Passport Services Division and the Social Security Administration, as well as state and local governments, may be authorized to provide information and make services available to newly naturalized citizens and their guests at the conclusion of the administrative naturalization ceremony.<a class="ck-anchor" id="footnotelink-26"></a><a class="ck-anchor" href="#footnote-26"><strong><sup>[26]</sup></strong></a> Governmental entities that desire representation at administrative naturalization ceremonies must seek advance approval from field leadership of the USCIS office conducting the ceremony.</p><h2><a class="ck-anchor" id="S-H"></a>H. Participation of Volunteers and Civic Organizations</h2><p>Field leadership may permit volunteers from the community, community-based organizations, and civic organizations to participate in various roles during the administrative naturalization ceremony. For example, Field leadership may have the U.S. armed forces color guard perform the presentation of colors and the national anthem or have volunteers lead the Pledge of Allegiance.</p><p>Field leadership will determine the appropriate level of participation for the occasion. However, under no circumstances will any non-USCIS employee perform any USCIS function.<a class="ck-anchor" id="footnotelink-27"></a><a class="ck-anchor" href="#footnote-27"><strong><sup>[27]</sup></strong></a> Additionally, only state and local election officials may provide voter registration services.</p><p>Field leadership must review the qualifications, designate the level of participation, and oversee the participation of all volunteers and organizations during the administrative naturalization ceremony. In addition, participants must not engage in political, religious, or commercial activity of any kind.</p><h2><a class="ck-anchor" id="S-I"></a>I. Offers to Donate Use of Facilities</h2><p>USCIS may generally accept offers to donate use of facilities unless they present a conflict of interest or appearance of a conflict of interest. Facilities<a class="ck-anchor" id="footnotelink-28"></a><a class="ck-anchor" href="#footnote-28" title><strong><sup>[28]</sup></strong></a> should be neutral and generally not affiliated with any religion, commercial enterprise, political group, or immigration law or advocacy group. The USCIS Office of the Chief Counsel’s Ethics Division analyzes offers to donate use of facilities for compliance with relevant legal authorities and DHS policy on the acceptance of gifts.</p><p>USCIS may generally hold naturalization ceremonies at public events or state or federal government events that take place in diverse settings that provide an educational opportunity for promoting public understanding of the naturalization process such as:</p><ul><li>USCIS offices;</li><li>Federal, state, and local government offices and spaces;</li><li>Federal courts;</li><li>Military installations;</li><li>Sporting event venues;</li><li>U.S. national parks;</li><li>State, county, and local public parks;</li><li>Public libraries and museums;</li><li>Monuments and historic sites;</li><li>Fairs or festivals; and</li><li>Public schools and universities.<a class="ck-anchor" id="footnotelink-29"></a><a class="ck-anchor" href="#footnote-29" title><strong><sup>[29]</sup></strong></a></li></ul><p>Events and locations for oath ceremonies must be consistent with the importance, dignity and significance of the occasion.<a class="ck-anchor" id="footnotelink-30"></a><a class="ck-anchor" href="#footnote-30" title><strong><sup>[30]</sup></strong></a></p><p>When reviewing an offer to use venues and facilities for naturalization ceremonies, USCIS considers whether the acceptance of the gift or use of the donated facility:</p><ul><li>Violates or creates the appearance of a violation of the Hatch Act;<a class="ck-anchor" id="footnotelink-31"></a><a class="ck-anchor" href="#footnote-31" title><strong><sup>[31]</sup></strong></a></li><li>Creates or appears to create a conflict of interest or an appearance of a conflict of interest;</li><li>Creates or appears to create an appearance of lack of impartiality; or</li><li>Creates or appears to create preferential treatment or an endorsement of the donor, or the donor’s products, services, activities, or policies.</li></ul><p>USCIS may not use:</p><ul><li>Religious facilities (for example, space in or connected to a place of worship);</li><li>Venues of political affiliation or in conjunction with a political activity, including national conventions and fundraising events;</li><li>Facilities of an organization that practices immigration law;</li><li>Facilities of an organization that is directly engaged in immigration advocacy or immigration policy;</li><li>Facilities concurrently hosting an event<a class="ck-anchor" id="footnotelink-32"></a><a class="ck-anchor" href="#footnote-32" title><strong><sup>[32]</sup></strong></a> for an organization that practices immigration law or is active in immigration advocacy, policy, or immigration lobbying;<a class="ck-anchor" id="footnotelink-33"></a><a class="ck-anchor" href="#footnote-33" title><strong><sup>[33]</sup></strong></a></li><li>Facilities of an organization<a class="ck-anchor" id="footnotelink-34"></a><a class="ck-anchor" href="#footnote-34" title><strong><sup>[34]</sup></strong></a> that represents petitioners and aliens before DHS; or</li><li>Facilities where USCIS personnel cannot protect secure documents.</li></ul><p>USCIS employees must not solicit a gift (including use of facilities to hold an administrative naturalization ceremony) from any non-federal entity.<a class="ck-anchor" id="footnotelink-35"></a><a class="ck-anchor" href="#footnote-35" title><strong><sup>[35]</sup></strong></a> However, USCIS may accept an unsolicited gift with the concurrence of the USCIS Office of the Chief Counsel’s Ethics Division and approval of the USCIS Director.</p><p>Generally, USCIS would not use a donated facility for ceremonies from a prohibited source.<a class="ck-anchor" id="footnotelink-36"></a><a class="ck-anchor" href="#footnote-36" title><strong><sup>[36]</sup></strong></a></p><h3><a class="ck-anchor" id="S-I-1"></a>1. Submission of One-Time Offer to Donate Facility</h3><p>The donor must submit an invitation letter (on the organization’s letterhead) to the Field Operations Directorate at least 4 weeks in advance of the ceremony date to guarantee timely processing.</p><p>In addition to the donor’s submission, an officer must submit Gift Offer Donation Request (Form G-1477)<a class="ck-anchor" id="footnotelink-37"></a><a class="ck-anchor" href="#footnote-37" title><strong><sup>[37]</sup></strong></a> for approval.</p><h3><a class="ck-anchor" id="S-I-2"></a>2. Submission of Multi-Date Offers to Donate Facilities</h3><p>Certain organizations qualify for multi-date gift offer approvals. These include non-federal, nonprofit organizations that USCIS has approved previously for gift offers. In order to qualify for multi-date gift approval, the donor must:</p><ul><li>Have a history of donating use of venue for naturalization ceremonies that were conducted without negative incident;</li><li>Be unlikely to undergo changes of ownership or mission; and</li><li>Submit an invitation letter (on the organization’s letterhead) that specifies the number of ceremonies to be held at the donated venue and the donated value<a class="ck-anchor" id="footnotelink-38"></a><a class="ck-anchor" href="#footnote-38" title><strong><sup>[38]</sup></strong></a> of the gift offer. The invitation letter does not have to identify specific dates of the ceremonies to be held.</li></ul><p>The officer must indicate the total yearly value for all multi-date offers submitted on the Gift Offer Donation Request (Form G-1477).<a class="ck-anchor" id="footnotelink-39"></a><a class="ck-anchor" href="#footnote-39" title><strong><sup>[39]</sup></strong></a> Notwithstanding a prior approval, changes in a donor’s ownership, mission, or operations may warrant denying use of venue space prospectively.</p><p><em>Duration of Approved Multi-Date Offers</em></p><p>Multi-date gift offers are valid for 1 year from the time of approval of the request.</p><p><em>Subsequent Uses of Approved Multi-Date Offers</em></p><p>The donor of a previously approved multi-date gift offer to donate use of facilities does not need to submit a new submission for approval. New submissions for review and approval are only needed in instances where:</p><ul><li>The gift value exceeds the total previously listed gift value<a class="ck-anchor" id="footnotelink-40"></a><a class="ck-anchor" href="#footnote-40" title><strong><sup>[40]</sup></strong></a> in the original submission;</li><li>There is a change in the donated venue location;</li><li>There is a substantive change to ownership, mission, or stability of the organization; or</li><li>Any other changes arise that create a new actual or apparent conflict of interest.</li></ul><h3><a class="ck-anchor" id="S-I-3"></a>3. Review of Offer</h3><p>After receipt, an authorized official reviews the documents for accuracy and consistency. The following officials then review and consider the gift offer for approval (in order of review):</p><ul><li>USCIS Field Operations;</li><li>USCIS Office of the Chief Counsel’s Ethics Division; and</li><li>USCIS Director (final approval).</li></ul><p>Field leadership may accept a gift offer or donated facility for ceremony use from a federal, state, or local governmental entity without the submission of a gift offer letter and approval of the USCIS Director. However, before accepting such an offer, field leadership must consider if acceptance would create or appear to create a conflict of interest. If field leadership is unable to determine whether the offer would create or appear to create a conflict of interest, field leadership should confer with the USCIS Office of the Chief Counsel’s Ethics Division before accepting the offer.</p><h3><a class="ck-anchor" id="S-I-4"></a>4. Rejection of Offer</h3><p>USCIS may not accept an offer of use of facilities if:</p><ul><li>The gift offer would not aid or facilitate the mission of USCIS and DHS;</li><li>The acceptance of the gift would create or appear to create a conflict of interest or appearance of a conflict of interest;</li><li>The donor seeks to obtain or conduct business with USCIS or DHS;</li><li>The donor conducts operations or activities that are regulated by USCIS or DHS;</li><li>The acceptance of the gift or use of the donated facility would reflect unfavorably upon the ability of the agency, or any employee of the agency, to carry out USCIS and DHS responsibilities or official duties in a fair and objective manner;</li><li>The acceptance of the gift or use of the donated facility would compromise the integrity or the appearance of the integrity of USCIS or DHS programs or any official involved in those programs;</li><li>The acceptance of the gift or use of the donated facility would violate, or create the appearance of a violation of the Hatch Act;<a class="ck-anchor" id="footnotelink-41"></a><a class="ck-anchor" href="#footnote-41" title><strong><sup>[41]</sup></strong></a></li><li>The acceptance of the gift or use of the donated facility might reasonably create the appearance of preferential treatment or official endorsement of an outside entity; or</li><li>The acceptance of the gift or use of the donated facility would be inconsistent with USCIS’ interest in upholding the importance, dignity, and significance of the occasion.</li></ul><p>The authorized agency officials may consider various factors, including the following, in their determination:</p><ul><li>The identity of the donor;</li><li>The monetary or estimated market value or the cost to the donor;</li><li>The purpose of the gift as described in any written statement or oral proposal by the donor;</li><li>The identity of any other expected recipients of the gift on the same occasion, if any;</li><li>The timing of the gift;</li><li>The number of times the donor has offered gifts to USCIS;</li><li>The nature and sensitivity of any matter pending before the agency that may affect the interest of the donor;</li><li>The importance or consequence of an individual employee's role in any matter affecting the donor (for example, if benefits of the gift will accrue to the employee); and</li><li>The nature of the offered gift.</li></ul><p>At the end of the gift offer process, USCIS provides notification of the acceptance or rejection of the gift offer to the donor.</p><h2><a class="ck-anchor" id="S-J"></a>J. Coordination with External Organizations</h2><p>When USCIS hosts an administrative naturalization ceremony<a class="ck-anchor" id="footnotelink-42"></a><a class="ck-anchor" href="#footnote-42" title><strong><sup>[42]</sup></strong></a> in which an external organization (such as another federal agency) plays a role,<a class="ck-anchor" id="footnotelink-43"></a><a class="ck-anchor" href="#footnote-43" title><strong><sup>[43]</sup></strong></a> USCIS is ultimately responsible for ensuring that the event is important, dignified, and significant. While USCIS welcomes participation from external organizations, USCIS does not formally co-host ceremonies with external organizations.</p><h3><a class="ck-anchor" id="S-J-1"></a>1. USCIS Responsibilities</h3><p>In conducting administrative ceremonies, USCIS is responsible for the following:</p><ul><li>Approving the ceremony facility – USCIS follows internal policies and procedures regarding the use of space, including donations of space.<a class="ck-anchor" id="footnotelink-44"></a><a class="ck-anchor" href="#footnote-44" title><strong><sup>[44]</sup></strong></a> Prior to selecting the facility, USCIS reserves the right to conduct a site visit of the proposed space.</li><li>Planning the ceremony – USCIS determines the ceremony program, including the order of events, the order of speakers, the seating arrangements of the speakers on stage, and security measures appropriate for the venue.<a class="ck-anchor" id="footnotelink-45"></a><a class="ck-anchor" href="#footnote-45" title><strong><sup>[45]</sup></strong></a></li><li>Ensuring the ceremony remains the focus of the event.</li><li>Ensuring proper use and placement of the DHS seal and signature according to approved guidelines.<a class="ck-anchor" id="footnotelink-46"></a><a class="ck-anchor" href="#footnote-46" title><strong><sup>[46]</sup></strong></a> When coordinating with an external entity, USCIS must avoid perceived endorsement.</li><li>Selecting, inviting, and approving guest speakers – USCIS must approve all guest speakers. While the collaborating organization may recommend guest speakers to USCIS, the selection is at the discretion of USCIS. USCIS may request to review guest speaker remarks in advance of the ceremony for content and length. Inappropriate remarks, including political (partisan or otherwise), commercial, or religious statements, are not permitted.<a class="ck-anchor" id="footnotelink-47"></a><a class="ck-anchor" href="#footnote-47" title><strong><sup>[47]</sup></strong></a></li><li>Determining which naturalization candidates will participate in the ceremony – Organizations may not request that specific lawful permanent residents (LPRs) be naturalized at any ceremony (for example, only LPRs from a particular country). USCIS will not consider such requests, which may create a conflict of interest or the appearance of preferential treatment to specific LPRs.</li><li>Ensuring that voter registration applications are offered to new citizens at the end of the ceremony.<a class="ck-anchor" id="footnotelink-48"></a><a class="ck-anchor" href="#footnote-48" title><strong><sup>[48]</sup></strong></a></li><li>Preserving the importance, dignity, and significance of naturalization ceremonies.</li></ul><p>USCIS may brief all ceremony participants on expected behavior.</p><h3><a class="ck-anchor" id="S-J-2"></a>2. External Organizations</h3><p>The external organization is responsible for:</p><ul><li>Following all USCIS policies and procedures, including guidance from field leadership.</li><li>Seeking approval from USCIS prior to distributing any materials at the ceremony. If the external organization wishes to distribute American flags to ceremony guests, those flags should be made in the United States. USCIS provides flags for all naturalization candidates.</li><li>Coordinating with USCIS on media coverage of the naturalization ceremony.</li></ul><h2>Footnotes</h2><hr><p><a class="ck-anchor" id="footnote-1"></a><a class="ck-anchor" href="#footnotelink-1">[^ 1]</a> This guidance applies only to administrative naturalization ceremonies involving an Application for Naturalization (<a href="/n-400" data-entity-type="node" data-entity-uuid="1d9435a2-2832-4686-ae9b-7e74de11e9e3" data-entity-substitution="canonical">Form N-400</a>) where a USCIS-designated official or an immigration judge administers the Oath of Allegiance. The guidance does not apply to administrative ceremonies involving children obtaining evidence of citizenship – Application for Citizenship (<a href="/n-600" data-entity-type="node" data-entity-uuid="0ee3016b-58cd-46eb-9538-25535abdce4f" data-entity-substitution="canonical">Form N-600</a>) or Application for Citizenship and Issuance of Certificate Under Section 322 (<a href="/n-600k" data-entity-type="node" data-entity-uuid="8c9f6fcb-7f42-4b36-902e-3900c8e428a5" data-entity-substitution="canonical">Form N-600K</a>) – or judicial naturalization ceremonies where a federal, state, or local court administers the Oath of Allegiance.</p><p><a class="ck-anchor" id="footnote-2"></a><a class="ck-anchor" href="#footnotelink-2">[^ 2]</a> USCIS offices are exempt from implementing the ceremony program when conducting a home visit, or an expedited administrative naturalization ceremony. See Chapter 6, Judicial and Expedited Oath Ceremonies [<a href="/policy-manual/volume-12-part-j-chapter-6" data-entity-type="node" data-entity-uuid="780c04b3-0c2e-4df8-aae7-93862ced4424" data-entity-substitution="canonical">12 USCIS-PM J.6</a>].</p><p><a class="ck-anchor" id="footnote-3"></a><a class="ck-anchor" href="#footnotelink-3">[^ 3]</a> USCIS offices may incorporate a live performance as an alternative to the version on the video. If any proprietary versions of the national anthem, or any other songs, are being used, the user must ensure that the intellectual property rights of the holder(s) are respected, and the necessary legal permissions are acquired.</p><p><a class="ck-anchor" id="footnote-4"></a><a class="ck-anchor" href="#footnotelink-4">[^ 4]</a> Opening (welcoming) remarks include, but are not limited to, an introduction of ceremony principals and an overview of the ceremony program.</p><p><a class="ck-anchor" id="footnote-5"></a><a class="ck-anchor" href="#footnotelink-5" title>[^ 5]</a> The designated official reads aloud a list of countries represented by the naturalization candidates’ former nationalities.</p><p><a class="ck-anchor" id="footnote-6"></a><a class="ck-anchor" href="#footnotelink-6">[^ 6]</a> See Chapter 2, The Oath of Allegiance [<a href="/policy-manual/volume-12-part-j-chapter-2" data-entity-type="node" data-entity-uuid="069c728a-a6c3-4849-b16f-d2379ff241e3" data-entity-substitution="canonical">12 USCIS-PM J.2</a>]. See <a href="http://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1448&amp;num=0&amp;edition=prelim">INA 337</a>. See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.337_11">8 CFR 337.1(a)</a> and <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.337_11">8 CFR 337.1(b)</a>.</p><p><a class="ck-anchor" id="footnote-7"></a><a class="ck-anchor" href="#footnotelink-7">[^ 7]</a> Concluding remarks may include, but are not limited to, expressing appreciation to those family and friends in attendance, acknowledging the achievement of the naturalized citizens, announcing the services of those governmental and nongovernmental entities in attendance, and explaining the distribution method for the certificates of naturalization.</p><p><a class="ck-anchor" id="footnote-8"></a><a class="ck-anchor" href="#footnotelink-8">[^ 8]</a> Only USCIS leadership and officers may present the Certificates of Naturalization to the naturalized U.S. citizens.</p><p><a class="ck-anchor" id="footnote-9"></a><a class="ck-anchor" href="#footnotelink-9">[^ 9]</a> The presentation is provided to all field offices in an electronic format and includes a PowerPoint and video materials.</p><p><a class="ck-anchor" id="footnote-10"></a><a class="ck-anchor" href="#footnotelink-10">[^ 10]</a> Certain prominent guest speakers, which may include elected officials and cabinet members, should receive their invitation to speak from USCIS leadership at headquarters. Therefore, local field leadership should coordinate with headquarters as early as possible and list ceremony details in the National Ceremony Scheduler.</p><p><a class="ck-anchor" id="footnote-11"></a><a class="ck-anchor" href="#footnotelink-11">[^ 11]</a> If a guest speaker makes inappropriate remarks during an administrative naturalization ceremony, field leadership should inform the speaker and notify the appropriate USCIS supervisor or manager. If the guest speaker does not indicate a willingness to modify their remarks in the future, field leadership should not accept requests from the person to speak at future administrative naturalization ceremonies.</p><p><a class="ck-anchor" id="footnote-12"></a><a class="ck-anchor" href="#footnotelink-12">[^ 12]</a> See <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7321&amp;num=0&amp;edition=prelim">5 U.S.C. 7321-7326</a> (Hatch Act).</p><p><a class="ck-anchor" id="footnote-13"></a><a class="ck-anchor" href="#footnotelink-13">[^ 13]</a> See Chapter 5, Administrative Naturalization Ceremonies [<a href="/policy-manual/volume-12-part-j-chapter-5" data-entity-type="node" data-entity-uuid="f641e8e4-3dd5-4d94-96cf-fbd79b8ccc95" data-entity-substitution="canonical">12 USCIS-PM J.5</a>].</p><p><a class="ck-anchor" id="footnote-14"></a><a class="ck-anchor" href="#footnotelink-14">[^ 14]</a> See Section D, Guest Speakers [<a href="#S-D">12 USCIS-PM J.5(D)</a>].</p><p><a class="ck-anchor" id="footnote-15"></a><a class="ck-anchor" href="#footnotelink-15">[^ 15]</a> See Section A, Materials Distributed, Subsection 2, Other Materials [<a href="/policy-manual/volume-12-part-j-chapter-5#S-A-2" data-entity-type="node" data-entity-uuid="f641e8e4-3dd5-4d94-96cf-fbd79b8ccc95" data-entity-substitution="canonical">12 USCIS-PM J.5(A)(2)</a>].</p><p><a class="ck-anchor" id="footnote-16"></a><a class="ck-anchor" href="#footnotelink-16">[^ 16]</a> See Section D, Guest Speakers [<a href="#S-D">12 USCIS-PM J.5(D)</a>].</p><p><a class="ck-anchor" id="footnote-17"></a><a class="ck-anchor" href="#footnotelink-17">[^ 17]</a> See Section D, Guest Speakers [<a href="#S-D">12 USCIS-PM J.5(D)</a>].</p><p><a class="ck-anchor" id="footnote-18"></a><a class="ck-anchor" href="#footnotelink-18">[^ 18]</a> See the U.S. Election Assistance Commission’s <a href="https://www.eac.gov/voters/national-mail-voter-registration-form/">National Mail Voter Registration Form</a> website.</p><p><a class="ck-anchor" id="footnote-19"></a><a class="ck-anchor" href="#footnotelink-19">[^ 19]</a> See National Voter Registration Act of 1993, <a href="https://www.gpo.gov/fdsys/pkg/STATUTE-107/pdf/STATUTE-107-Pg77.pdf">Pub. L. 103-31  (PDF)</a> (May 20, 1993). See <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20501&amp;num=0&amp;edition=prelim">52 U.S.C. 20501(a)</a>.</p><p><a class="ck-anchor" id="footnote-20"></a><a class="ck-anchor" href="#footnotelink-20">[^ 20]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20507&amp;num=0&amp;edition=prelim">52 U.S.C. 20507(a)(5)</a>.</p><p><a class="ck-anchor" id="footnote-21"></a><a class="ck-anchor" href="#footnotelink-21">[^ 21]</a> Aliens applying for naturalization participating in an administrative ceremony in a state where they do not reside may instead refer to the <a href="https://www.eac.gov/voters/national-mail-voter-registration-form">National Mail Voter Registration Form</a>.</p><p><a class="ck-anchor" id="footnote-22"></a><a class="ck-anchor" href="#footnotelink-22">[^ 22]</a> For aliens applying for naturalization, including military service members residing outside the United States, who do not reside in the state where the administrative ceremony takes place, USCIS provides the <a href="https://www.eac.gov/voters/national-mail-voter-registration-form">National Mail Voter Registration Form</a>.</p><p><a class="ck-anchor" id="footnote-23"></a><a class="ck-anchor" href="#footnotelink-23">[^ 23]</a> See <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20506&amp;num=0&amp;edition=prelim">52 U.S.C. 20506</a>.</p><p><a class="ck-anchor" id="footnote-24"></a><a class="ck-anchor" href="#footnotelink-24" title>[^ 24]</a> If a field office is unable to distribute voter registration forms in any of the above manners, field leadership must notify their chain of command within the Field Operations Directorate.</p><p><a class="ck-anchor" id="footnote-25"></a><a class="ck-anchor" href="#footnotelink-25">[^ 25]</a> Location of the ceremony venue may include an indoor or outdoor space or facility.</p><p><a class="ck-anchor" id="footnote-26"></a><a class="ck-anchor" href="#footnotelink-26" title>[^ 26]</a> The conclusion of the ceremony is after the Master of Ceremonies (USCIS official) has dismissed the new citizens.</p><p><a class="ck-anchor" id="footnote-27"></a><a class="ck-anchor" href="#footnotelink-27">[^ 27]</a> For example, volunteers must not perform any of the USCIS employee’s duties within the ceremony check-in process.</p><p><a class="ck-anchor" id="footnote-28"></a><a class="ck-anchor" href="#footnotelink-28">[^ 28]</a> This includes any type of indoor or outdoor facility.</p><p><a class="ck-anchor" id="footnote-29"></a><a class="ck-anchor" href="#footnotelink-29" title>[^ 29]</a> Educational institutions with immigration legal clinics that practice before the agency may donate facilities, but they may not permit members of the immigration clinic to have a role in the ceremony.</p><p><a class="ck-anchor" id="footnote-30"></a><a class="ck-anchor" href="#footnotelink-30" title>[^ 30]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title8-section1448&amp;num=0&amp;edition=prelim">INA 337(d)</a>. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-337/section-337.2">8 CFR 337.2</a>.</p><p><a class="ck-anchor" id="footnote-31"></a><a class="ck-anchor" href="#footnotelink-31" title>[^ 31]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7321&amp;num=0&amp;edition=prelim">5 U.S.C. 7321-7326</a>.</p><p><a class="ck-anchor" id="footnote-32"></a><a class="ck-anchor" href="#footnotelink-32">[^ 32]</a> This includes any type of meeting, seminar, conference, or convention.</p><p><a class="ck-anchor" id="footnote-33"></a><a class="ck-anchor" href="#footnotelink-33">[^ 33]</a> USCIS may determine it is operationally feasible to hold a naturalization ceremony in which conference or convention participants are invited to attend, but the ceremony must remain a separate event. A separate event means the naturalization ceremony is hosted and paid for by USCIS, in a different area or location from the event, and the naturalization ceremony is not listed as a scheduled program or agenda item of the event.</p><p><a class="ck-anchor" id="footnote-34"></a><a class="ck-anchor" href="#footnotelink-34">[^ 34]</a> Educational institutions with immigration legal clinics that practice before the agency may donate facilities, but they may not permit members of the immigration clinic to have a role in the ceremony.</p><p><a class="ck-anchor" id="footnote-35"></a><a class="ck-anchor" href="#footnotelink-35">[^ 35]</a> See <a href="https://www.ecfr.gov/current/title-5/section-2635.202">5 CFR 2635.202</a>.</p><p><a class="ck-anchor" id="footnote-36"></a><a class="ck-anchor" href="#footnotelink-36">[^ 36]</a> See <a href="https://www.ecfr.gov/current/title-5/section-2635.203">5 CFR 2635.203(d)</a>.</p><p><a class="ck-anchor" id="footnote-37"></a><a class="ck-anchor" href="#footnotelink-37">[^ 37]</a> See Form G-1477. USCIS Office of the Chief Counsel’s Ethics Division and the USCIS Director must both sign the form.</p><p><a class="ck-anchor" id="footnote-38"></a><a class="ck-anchor" href="#footnotelink-38">[^ 38]</a> The value broken down by each ceremony or the total value offered to donate use of venue.</p><p><a class="ck-anchor" id="footnote-39"></a><a class="ck-anchor" href="#footnotelink-39">[^ 39]</a> See Form G-1477. The USCIS Office of Chief Counsel’s Ethics Division and the USCIS Director must both sign the form.</p><p><a class="ck-anchor" id="footnote-40"></a><a class="ck-anchor" href="#footnotelink-40" title>[^ 40]</a> The value broken down by each ceremony or the total value offered to donate use of venue.</p><p><a class="ck-anchor" id="footnote-41"></a><a class="ck-anchor" href="#footnotelink-41" title>[^ 41]</a> See<a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7321&amp;num=0&amp;edition=prelim"> 5 U.S.C. 7321-7326</a>.</p><p><a class="ck-anchor" id="footnote-42"></a><a class="ck-anchor" href="#footnotelink-42" title>[^ 42]</a> See Chapter 6, Judicial and Expedited Oath Ceremonies [<a href="/policy-manual/volume-12-part-j-chapter-6" data-entity-type="node" data-entity-uuid="780c04b3-0c2e-4df8-aae7-93862ced4424" data-entity-substitution="canonical">12 USCIS-PM J.6</a>] for information on non-administrative ceremonies.</p><p><a class="ck-anchor" id="footnote-43"></a><a class="ck-anchor" href="#footnotelink-43" title>[^ 43]</a> External organizations may support USCIS naturalization ceremonies in one or more of the following ways: participating in the event agenda as determined by USCIS; promoting the event within the community; and offering to donate a neutral space in which to hold the naturalization ceremony. See Section I, Offers to Donate Use of Facilities [<a href="/policy-manual/volume-12-part-j-chapter-5#S-I" data-entity-type="node" data-entity-uuid="f641e8e4-3dd5-4d94-96cf-fbd79b8ccc95" data-entity-substitution="canonical">12 USCIS-PM J.5(I)</a>].</p><p><a class="ck-anchor" id="footnote-44"></a><a class="ck-anchor" href="#footnotelink-44" title>[^ 44]</a> See Section I, Offers to Donate Use of Facilities [<a href="/policy-manual/volume-12-part-j-chapter-5#S-I" data-entity-type="node" data-entity-uuid="f641e8e4-3dd5-4d94-96cf-fbd79b8ccc95" data-entity-substitution="canonical">12 USCIS-PM J.5(I)</a>].</p><p><a class="ck-anchor" id="footnote-45"></a><a class="ck-anchor" href="#footnotelink-45" title>[^ 45]</a> Security measures are coordinated through the local USCIS Field Security Manger.</p><p><a class="ck-anchor" id="footnote-46"></a><a class="ck-anchor" href="#footnotelink-46" title>[^ 46]</a> The seal and signature of external organizations may only be used in accordance with <a href="https://www.dhs.gov/use-department-homeland-security-seal">DHS Management Directive 123-06: Use of the Department of Homeland Security Seal</a>. Local offices should consult with the USCIS Office of the Chief Counsel’s Ethics Division for guidance.</p><p><a class="ck-anchor" id="footnote-47"></a><a class="ck-anchor" href="#footnotelink-47" title>[^ 47]</a> See Section D, Guest Speakers [<a href="/policy-manual/volume-12-part-j-chapter-5#S-D" data-entity-type="node" data-entity-uuid="f641e8e4-3dd5-4d94-96cf-fbd79b8ccc95" data-entity-substitution="canonical">12 USCIS-PM J.5(D)</a>].</p><p><a class="ck-anchor" id="footnote-48"></a><a class="ck-anchor" href="#footnotelink-48" title>[^ 48]</a> See Section F, Voter Registration After Naturalization Ceremonies, Subsection 2, Voter Registration Services [<a href="/node/73952#S-F-2">12 USCIS-PM J.5(F)(2)</a>].</p></div>
+      
+  </div>
+
+  <div id="resources" class="tabcontent tabcontent--resources hidden">
+    <h2>Resources</h2>
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Legal Authorities</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-3c9ce87599b7167c513a5a5275c0b64064ca9ad5090723d2fad38f6ae88543f0 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1443&amp;num=0&amp;edition=prelim">INA 332</a>, <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-332">8 CFR 332</a> - Naturalization administration, executive functions</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1448&amp;num=0&amp;edition=prelim">INA 337</a>, <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-337">8 CFR 337</a> - Oath of renunciation and allegiance</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1452&amp;num=0&amp;edition=prelim">INA 341</a>, <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-341">8 CFR 341</a> - Certificates of citizenship</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://www.gpo.gov/fdsys/pkg/PLAW-106publ448/pdf/PLAW-106publ448.pdf">Pub. L. 106-448        (PDF)</a> - Waiver of Oath of Renunciation and Allegiance for Naturalization of Aliens having Certain Disabilities Act of 2000</p></div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Forms</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-a942126e1fe500462c3a316b476d90b4320ca2204b7a9447b5b5c8589e1f3a3f hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/g-1055" data-entity-type="node" data-entity-uuid="944bb8d1-cae6-467c-96b4-979e03f8ca66" data-entity-substitution="canonical">G-1055, Fee Schedule</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/node/41152">G-28, Notice of Entry of Appearance as Attorney or Accredited Representative</a></p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Other Materials</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-e164d3e13a052ac1a37f4ac9ffcf5143d821ff02dd6190d6a91d6e4d38b980e9 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/citizenship/find-study-materials-and-resources/check-for-test-updates" data-entity-type="node" data-entity-uuid="a2a2b57e-27eb-4c2f-b352-1be0b65f6a65" data-entity-substitution="canonical">Citizenship Resource Center: Check for Test Updates</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/citizenship/find-study-materials-and-resources/study-for-the-test" data-entity-type="node" data-entity-uuid="4991b841-ceea-4804-95db-d1737b7ff434" data-entity-substitution="canonical">Citizenship Resource Center: Study for the Test</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/citizenship/learn-about-citizenship/the-naturalization-interview-and-test" data-entity-type="node" data-entity-uuid="049c3169-1c79-4e09-a65e-3ae5697f1510" data-entity-substitution="canonical">Citizenship Resource Center: The Naturalization Interview and Test</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="837656db-38a5-4ce9-a548-27a2b09d6b57" data-lang="en" href="/sites/default/files/document/policy-manual-resources/HowToUseTheUSCISPolicyManualWebsite.pdf" type="application/pdf; length=3130835">How to Use the USCIS Policy Manual Website</a></p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+  </div>
+
+  <div id="appendices" class="tabcontent tabcontent--appendices hidden">
+    <div class="pm-resource__container">
+      <h2>Appendices</h2>
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-2 pm-resources-block_2 js-view-dom-id-bfdbbb54f9751bc9a8bc857fae22b9d84b15b5ba881e353a20a331259e98e0ac hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+<div class="content-accordion">
+  <div class="row-data ">
+<div class="accordion__header " tabindex="0"><span>Appendix: History of Acquiring Citizenship under INA 320 for Children of U.S. Citizens who are Members of the U.S. Armed Forces, U.S. Government Employees, or their Spouses</span>
+</div>
+<div class="accordion__panel "><p>Before October 29, 2019, USCIS considered children of members of the U.S. armed forces or U.S. government employees, who were stationed outside of the United States, to meet the requirement of “is residing in” the United States for the purpose of acquiring citizenship under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a>.<a href="#app-footnote-1" name="app-footnotelink-1" title><sup><strong>[1]</strong></sup></a> This interpretation was consistent with the definition of “residence” for purposes of naturalization under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316</a>.<a href="#app-footnote-2" name="app-footnotelink-2" title><sup><strong>[2]</strong></sup></a> Based on this treatment of U.S. government employees and their children in the context of naturalization under INA 316, USCIS determined that “residing in the United States” for purposes of acquisition of citizenship under INA 320 should likewise be interpreted to include children of U.S. military and government employees stationed outside of the United States who were residing with their parents.<a href="#app-footnote-3" name="app-footnotelink-3" title><sup><strong>[3]</strong></sup></a></p>
+
+<p>This interpretation, however, was inconsistent with other provisions of the Immigration and Nationality Act (INA), including the definition of “residence” at <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(a)(33)</a> and language in <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322(a)</a> and <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322(d)</a>, which suggested that the citizenship of military children residing outside of the United States should be considered under that provision rather than under INA 320. Effective October 29, 2019, USCIS amended its policy guidance to address these concerns, and determined that children of members of the U.S. armed forces or U.S. government employees stationed outside of the United States would not be eligible for citizenship acquisition under INA 320.<a href="#app-footnote-4" name="app-footnotelink-4" title><sup><strong>[4]</strong></sup></a></p>
+
+<p>On March 26, 2020, the Citizenship for Children of Military Members and Civil Servants Act was enacted,<a href="#app-footnote-5" name="app-footnotelink-5" title><sup><strong>[5]</strong></sup></a> amending INA 320, so that a child residing with his or her U.S. citizen parent, who is stationed outside of the United States as a member of the U.S. armed forces or a U.S. government employee, or is residing in marital union with a member of the U.S. armed forces or a U.S. government employee who is stationed outside of the United States, acquires citizenship under INA 320 if all requirements of INA 320(c) and INA 320(a)(1)-(2) are met. In line with the statute, USCIS rescinds its previous guidance, clarifying that these children are eligible to acquire citizenship under INA 320 if all other requirements under INA 320 are met.</p>
+
+<p>The amendment to INA 320 applies to children who were under the age of 18 on March 26, 2020.</p>
+
+<h3>Footnotes</h3>
+
+<hr>
+<p><a href="#app-footnotelink-1" name="app-footnote-1" title>[^ 1]</a> Even though the child of a member of the U.S. armed forces or U.S. government employee stationed outside of the United States may be eligible to apply for a Certificate of Citizenship under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322</a> since he or she resides outside of the United States, USCIS interpreted the child to meet residency requirements under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a> as well, which formerly required the child to be residing in the United States with his or her parent to acquire citizenship.</p>
+
+<p><a href="#app-footnotelink-2" name="app-footnote-2" title>[^ 2]</a> For example, U.S. government employees, including members of the U.S. armed forces, are eligible to apply for an exception to the continuous residence requirement for naturalization under INA 316 as long as their residency outside of the United States was on behalf of the U.S. government. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316(b)</a>. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316(a)</a>. See Part D, General Naturalization Requirements, Chapter 3, Continuous Residence [<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e63ba8f9-c3f9-471b-9e47-0839ac6a8b7c" href="/policy-manual/volume-12-part-h-chapter-3">12 USCIS-PM D.3</a>].</p>
+
+<p><a href="#app-footnotelink-3" name="app-footnote-3" title>[^ 3]</a> See Policy Manual Technical Update, <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="537f3a1d-cd02-4d86-ac3f-007720d97693" href="/policy-manual/updates">Child Citizenship Act and Children of U.S. Government Employees Residing Abroad</a> (July 20, 2015); and Acquisition of Citizenship by Children of U.S. Military and Government Employees Stationed Abroad under Section 320 of the Immigration and Nationality Act (INA), No. 103, issued May 6, 2004.</p>
+
+<p><a href="#app-footnotelink-4" name="app-footnote-4" title>[^ 4]</a> See USCIS Policy Alert, Defining “Residence” in Statutory Provisions Related to Citizenship <a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="7f216f71-cee4-46b5-97a3-fe40579294fe" href="/sites/default/files/document/policy-manual-updates/20190828-ResidenceForCitizenship.pdf">[PA-2019-05]</a>. This Policy Alert has been superseded by Policy Manual updates to reflect changes made under <a href="https://www.congress.gov/116/plaws/publ133/PLAW-116publ133.pdf">Pub. L. 116-133                                             (PDF)</a>.</p>
+
+<p><a href="#app-footnotelink-5" name="app-footnote-5" title>[^ 5]</a> See <a href="https://www.govinfo.gov/content/pkg/PLAW-116publ133/pdf/PLAW-116publ133.pdf">Pub. L. 116-133                                             (PDF)</a> (March 26, 2020).</p>
+</div>
+  </div>
+ 
+</div>
+  
+  
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="updates" class="tabcontent tabcontent--updates hidden">
+    <h2>Updates</h2>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-3 pm-resources-block_3 js-view-dom-id-345ad53989092bf26a54ac303cbff3cd6a8c2458d93cf0a51a97fc359c6161a4 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Voter Registration at Administrative Naturalization Ceremonies</div>
+    <div><br><time datetime="2025-08-29T12:00:00Z" class="datetime">August 29, 2025</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is revising policy guidance in the USCIS Policy Manual emphasizing the non-partisan nature of voter registration services offered to new citizens at administrative naturalization ceremonies.</p></div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20250829-NatzCeremonyVoterRegistration.pdf" title="Select to read more about Voter Registration at Administrative Naturalization Ceremonies" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-20eb561d3dc8d0191657a2e1d59b57262455af0a3e28bf935e5f3bc7f2e3e74a hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-12-part-j-chapter-1"><span class="citation">12 USCIS-PM J.1</span> - <span>Chapter 1 - Purpose and Background</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-j-chapter-5"><span class="citation">12 USCIS-PM J.5</span> - <span>Chapter 5 - Administrative Naturalization Ceremonies</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term "Noncitizen"</div>
+    <div><br><time datetime="2025-02-26T12:00:00Z" class="datetime">February 26, 2025</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-6ac91710875ed4bcc6ba129c5ee2f708ee29a7d3e0aab560b988d03875366145 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Access to Voter Registration Services during Naturalization Ceremonies</div>
+    <div><br><time datetime="2023-08-25T12:00:00Z" class="datetime">August 25, 2023</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is issuing updated policy guidance in the USCIS Policy Manual regarding access to voter registration services during administrative naturalization ceremonies.</p>
+</div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20230825-VoterRegistration.pdf" title="Select to read more about Access to Voter Registration Services during Naturalization Ceremonies" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-05e3a1d76e044f8d32f17c0b6a4bda71abb337824ef66e7ed71d2fd45bcc5c8b hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-12-part-j-chapter-5"><span class="citation">12 USCIS-PM J.5</span> - <span>Chapter 5 - Administrative Naturalization Ceremonies</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Venues for Administrative Naturalization Ceremonies</div>
+    <div><br><time datetime="2023-04-04T12:00:00Z" class="datetime">April 04, 2023</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to clarify the types of venues USCIS may use for administrative naturalization ceremonies and the considerations for accepting offers to donate use of facilities.</p>
+</div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20230404-NaturalizationCeremonyVenues.pdf" title="Select to read more about Venues for Administrative Naturalization Ceremonies" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-0127b446de08bd0f1a8bba8821aebdd6d701785ccc9b5115ca6bacd29bc2b510 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-12-part-j-chapter-2"><span class="citation">12 USCIS-PM J.2</span> - <span>Chapter 2 - The Oath of Allegiance</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-j-chapter-5"><span class="citation">12 USCIS-PM J.5</span> - <span>Chapter 5 - Administrative Naturalization Ceremonies</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Alien”</div>
+    <div><br><time datetime="2021-05-11T12:00:00Z" class="datetime">May 11, 2021</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-1b0fe3a5bbd0c0b2751e6d14ab845a24893a145f66965473bd8374e1c995e589 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Moving the Adjudicator’s Field Manual Content into the USCIS Policy Manual</div>
+    <div><br><time datetime="2020-05-21T12:00:00Z" class="datetime">May 21, 2020</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see the <a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="349de2b5-990b-4b61-b780-2eb4c0ed58cf" href="/sites/default/files/document/policy-manual-afm/afm-pmcrosswalk.pdf">crosswalk</a> between the AFM and the Policy Manual.</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-8c9e482b4698dcf8d4e21e13de92ca341740c2c3cae6e0e032e0aaf1f89fe8f4 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Foreign National”</div>
+    <div><br><time datetime="2019-10-08T12:00:00Z" class="datetime">October 08, 2019</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-bf64fabcea192f38330c55b078898723654730162fb850d539a0653a93d33108 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Administrative Naturalization Ceremonies</div>
+    <div><br><time datetime="2017-06-28T12:00:00Z" class="datetime">June 28, 2017</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance on USCIS administrative naturalization ceremonies, to include guidance regarding participation from other U.S. government and non-governmental entities.</p></div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20170628-NaturalizationCeremony.pdf" title="Select to read more about Administrative Naturalization Ceremonies" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-ecefd72d092422d09d8847689394a1eb9e190488d5527c82d4cd866b3d139c3a hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-12-part-j-chapter-5"><span class="citation">12 USCIS-PM J.5</span> - <span>Chapter 5 - Administrative Naturalization Ceremonies</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Comprehensive Citizenship and Naturalization Policy Guidance</div>
+    <div><br><time datetime="2013-01-07T12:00:00Z" class="datetime">January 07, 2013</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>USCIS is issuing updated and comprehensive citizenship and naturalization policy guidance in the new USCIS Policy Manual.</p></div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20130107-CitizenshipAndNaturalization.pdf" title="Select to read more about Comprehensive Citizenship and Naturalization Policy Guidance" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-e6c517e19a6831dd418e3c483fd6f1e6de0d5ced88538cf108a81483dadd6645 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</section>
+
+  <span id="hidden-resources" class="hidden"></span>
+  <span id="hidden-appendices" class="hidden"></span>
+  <span id="hidden-updates" class="hidden"></span>
+  <span id="hidden-versions" class="hidden">0</span>
+
+
+  <nav class="nav-sub-tree" aria-labelledby="nav-sub-tree-label">
+    <div class="visually-hidden" id="nav-sub-tree-label">Page sub tree links</div>
+        
+  </nav>
+
+          <div class="current-date"><span class="current-date__label">Current as of</span><span class="current-date__value"> October 20, 2025</span></div>
+  
+        <div class="prev-next">
+          <div class="previous-container">
+        <a href="/policy-manual/volume-12-part-j-chapter-4" id="previous-button" class="usa-button" rel="prev" title="Go to previous page">Previous</a>
+      </div>
+              <div class="next-container">
+        <a href="/policy-manual/volume-12-part-j-chapter-6" id="next-button" class="usa-button" rel="next" title="Go to next page">Next</a>
+      </div>
+        </div>
+  
+      
+  
+        </div>
+      
+                </div>
+  
+  
+    
+  </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/policy-manual/volume-12-part-j-chapter-5" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="73952" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="73952" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="73952" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-zirm1utkikrsg5nayetiuhsdnqezxaao-vdmlbzqto" type="hidden" name="form_build_id" value="form-_ZiRM1UTkIkrSG5NayETiuhsDNQEZxAAo-VdMLbzqTo"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="73952" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_f7zHONM931Ca8gnbX5D2rr4I9JXY3squQ33IJRVWJ9I.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_z29Okdt7hgaFcU0AxeQoxu6Pn68RoUSKbTmlZ77r4_o.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+
+  </body>

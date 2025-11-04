@@ -1,0 +1,802 @@
+"Approximate Active DACA Recipients: 
+Country of Birth",,
+
+" As of September 4, 2017",,
+
+,,
+
+Country of Birth,Number (rounded),Percent
+
+,,
+
+Total,"689,800",100
+
+Mexico,"548,000",79.4
+
+El Salvador,"25,900",3.7
+
+Guatemala,"17,700",2.6
+
+Honduras,"16,100",2.3
+
+Peru,"7,420",1.1
+
+"Korea, South","7,310",1.1
+
+Brazil,"5,780",0.8
+
+Ecuador,"5,460",0.8
+
+Colombia,"5,020",0.7
+
+Argentina,"3,970",0.6
+
+Philippines,"3,880",0.6
+
+India,"2,640",0.4
+
+Jamaica,"2,640",0.4
+
+Venezuela,"2,480",0.4
+
+Dominican Republic,"2,430",0.4
+
+Uruguay,"1,930",0.3
+
+Trinidad & Tobago,"1,930",0.3
+
+Bolivia,"1,700",0.2
+
+Costa Rica,"1,620",0.2
+
+Chile,"1,410",0.2
+
+Poland,"1,390",0.2
+
+Nicaragua,"1,370",0.2
+
+Pakistan,"1,340",0.2
+
+Nigeria,"1,020",0.1
+
+Guyana,980,0.1
+
+Belize,820,0.1
+
+Canada,750,0.1
+
+"China, People's Republic",740,0.1
+
+Indonesia,710,0.1
+
+Kenya,700,0.1
+
+Portugal,520,0.1
+
+United Kingdom,500,0.1
+
+Bangladesh,490,0.1
+
+Ghana,490,0.1
+
+Mongolia,480,0.1
+
+Panama,440,0.1
+
+Israel,360,0.1
+
+Italy,340,0
+
+"Bahamas, The",300,0
+
+Saint Lucia,270,0
+
+Albania,250,0
+
+Taiwan,240,0
+
+Turkey,230,0
+
+Jordan,220,0
+
+Germany,220,0
+
+Paraguay,210,0
+
+Thailand,200,0
+
+Saudi Arabia,200,0
+
+South Africa,190,0
+
+Egypt,180,0
+
+France,180,0
+
+Armenia,180,0
+
+Hong Kong,180,0
+
+Zambia,180,0
+
+United Arab Emirates,170,0
+
+Lithuania,160,0
+
+Ukraine,160,0
+
+Malaysia,160,0
+
+Senegal,150,0
+
+Haiti,150,0
+
+Guinea,140,0
+
+Russia,140,0
+
+Saint Vincent & the Grenadines,140,0
+
+Grenada,140,0
+
+Zimbabwe,130,0
+
+Cameroon,130,0
+
+Japan,130,0
+
+Sri Lanka,130,0
+
+Cote d'Ivoire,130,0
+
+Liberia,130,0
+
+Morocco,130,0
+
+Suriname,120,0
+
+"Gambia, The",120,0
+
+Spain,110,0
+
+Lebanon,110,0
+
+Greece,110,0
+
+Romania,100,0
+
+Barbados,100,0
+
+Sierra Leone,100,0
+
+Hungary,100,0
+
+Fiji,90,0
+
+Czech Republic,90,0
+
+Malawi,80,0
+
+Antigua-Barbuda,80,0
+
+Tanzania,80,0
+
+New Zealand,80,0
+
+Macedonia,70,0
+
+Bulgaria,70,0
+
+Vietnam,70,0
+
+Uganda,70,0
+
+Nepal,60,0
+
+Cape Verde,60,0
+
+Iran,60,0
+
+Kuwait,60,0
+
+Angola,60,0
+
+Netherlands,60,0
+
+Tonga,60,0
+
+Australia,50,0
+
+Mali,50,0
+
+Montenegro,50,0
+
+Uzbekistan,50,0
+
+Samoa,50,0
+
+"Congo, Democratic Republic",40,0
+
+Singapore,40,0
+
+Slovakia,40,0
+
+Ethiopia,40,0
+
+Cambodia,40,0
+
+Qatar,40,0
+
+Yemen,40,0
+
+British Virgin Islands,40,0
+
+Togo,40,0
+
+Estonia,30,0
+
+Turks & Caicos Islands,30,0
+
+Serbia,30,0
+
+Serbia and Montenegro,30,0
+
+Syria,30,0
+
+Saint Kitts-Nevis,30,0
+
+Belgium,30,0
+
+Bahrain,30,0
+
+Ireland,30,0
+
+Sweden,30,0
+
+Austria,20,0
+
+Botswana,20,0
+
+Gabon,20,0
+
+"Congo, Republic",20,0
+
+Cayman Islands,20,0
+
+"Soviet Union, former",20,0
+
+Netherlands Antilles,20,0
+
+Bermuda,20,0
+
+Georgia,20,0
+
+Kosovo,20,0
+
+Algeria,20,0
+
+Belarus,20,0
+
+Benin,20,0
+
+Denmark,20,0
+
+Laos,20,0
+
+Switzerland,20,0
+
+Latvia,10,0
+
+Croatia,10,0
+
+Burundi,10,0
+
+Libya,10,0
+
+Oman,10,0
+
+Burkina Faso,10,0
+
+Kazakhstan,10,0
+
+Montserrat,10,0
+
+Afghanistan,10,0
+
+Azerbaijan,10,0
+
+Moldova,10,0
+
+Namibia,10,0
+
+,,
+
+Other Countries,200,0
+
+Not Available,"1,800",0.3
+
+,,
+
+Notes:,,
+
+"This table refers to individuals who were granted Deferred Action for Childhood Arrivals (DACA) as of September 4, 2017.  The number of individuals who were ever granted DACA as of September 4, 2017 was approximately 800,000. This total excludes persons",,
+
+Totals do not add due to rounding.,,
+
+Countries  with fewer than 10 active DACA recipients  are included in other.,,
+
+Not available:  data are not available in electronic systems.,,
+
+"Source:  U.S. Citizenship and Immigration Services, CLAIMS3 and ELIS Systems.",,
+
+,,
+
+,,
+
+"Approximate Active DACA Recipients:  
+State of Residence",,
+
+" As of September 4, 2017",,
+
+,,
+
+State or Territory of Residence,Number (rounded),Percent
+
+,,
+
+Total,"689,800",100
+
+California,"197,900",28.7
+
+Texas,"113,000",16.4
+
+Illinois,"35,600",5.2
+
+New York,"32,900",4.8
+
+Florida,"27,000",3.9
+
+Arizona,"25,500",3.7
+
+North Carolina,"25,100",3.6
+
+Georgia,"21,600",3.1
+
+New Jersey,"17,400",2.5
+
+Washington,"16,300",2.4
+
+Colorado,"15,500",2.3
+
+Nevada,"12,400",1.8
+
+Oregon,"10,200",1.5
+
+Virginia,"10,100",1.5
+
+Indiana,"9,000",1.3
+
+Utah,"8,900",1.3
+
+Maryland,"8,100",1.2
+
+Tennessee,"7,900",1.1
+
+Wisconsin,"6,700",1
+
+Oklahoma,"6,100",0.9
+
+South Carolina,"6,000",0.9
+
+New Mexico,"6,000",0.9
+
+Massachusetts,"5,900",0.9
+
+Kansas,"5,900",0.9
+
+Minnesota,"5,500",0.8
+
+Michigan,"5,400",0.8
+
+Pennsylvania,"4,900",0.7
+
+Arkansas,"4,700",0.7
+
+Ohio,"4,000",0.6
+
+Alabama,"3,900",0.6
+
+Connecticut,"3,800",0.6
+
+Missouri,"3,300",0.5
+
+Nebraska,"3,100",0.5
+
+Idaho,"2,900",0.4
+
+Kentucky,"2,800",0.4
+
+Iowa,"2,500",0.4
+
+Louisiana,"1,800",0.3
+
+Mississippi,"1,200",0.2
+
+Delaware,"1,100",0.2
+
+Rhode Island,970,0.1
+
+District of Columbia,920,0.1
+
+Wyoming,450,0.1
+
+Hawaii,320,0.1
+
+New Hampshire,240,0
+
+South Dakota,220,0
+
+Puerto Rico,120,0
+
+West Virginia,100,0
+
+North Dakota,80,0
+
+Alaska,70,0
+
+Montana,60,0
+
+U.S. Virgin Islands,40,0
+
+Maine,40,0
+
+Armed Forces overseas,30,0
+
+Guam,20,0
+
+Northern Mariana Islands,10,0
+
+Vermont,10,0
+
+,,
+
+Other territories,10,0
+
+Not Available,"4,180",0.6
+
+,,
+
+Notes:,,
+
+"This table refers to individuals who were  granted Deferred Action for Childhood Arrivals (DACA) as of September 4, 2017.  The number of individuals who were ever granted DACA as of September 4, 2017 was approximately 800,000. This total excludes person",,
+
+State of residence at the time of most recent application.,,
+
+Totals do not add due to rounding.,,
+
+Territories with less than 10 residents are included in other.,,
+
+Not available:  data are not available in electronic systems.,,
+
+"Source:  U.S. Citizenship and Immigration Services, CLAIMS3 and ELIS Systems.",,
+
+,,
+
+,,
+
+"Approximate Active DACA Recipients:  
+Leading Core Based Statistical Areas",,
+
+" As of September 4, 2017",,
+
+Core Based Statistical Area (CBSA),Number (rounded), Percent 
+
+,,
+
+Total,"689,800",100
+
+"Los Angeles-Long Beach-Anaheim, CA","89,900",13
+
+"New York-Newark-Jersey City, NY-NJ-PA","47,200",6.8
+
+"Dallas-Fort Worth-Arlington, TX","36,700",5.3
+
+"Houston-The Woodlands-Sugar Land, TX","35,800",5.2
+
+"Chicago-Naperville-Elgin, IL-IN-WI","34,100",5
+
+"Riverside-San Bernardino-Ontario, CA","22,300",3.2
+
+"Phoenix-Mesa-Scottsdale, AZ","22,000",3.2
+
+"Atlanta-Sandy Springs-Roswell, GA","15,700",2.3
+
+"San Francisco-Oakland-Hayward, CA","15,500",2.3
+
+"Washington-Arlington-Alexandria, DC-VA-MD-WV","13,700",2
+
+"Miami-Fort Lauderdale-West Palm Beach, FL","11,400",1.7
+
+"San Diego-Carlsbad, CA","11,300",1.6
+
+"Denver-Aurora-Lakewood, CO","10,000",1.5
+
+"Las Vegas-Henderson-Paradise, NV","9,900",1.4
+
+"San Jose-Sunnyvale-Santa Clara, CA","9,400",1.4
+
+"McAllen-Edinburg-Mission, TX","7,500",1.1
+
+"Austin-Round Rock, TX","7,400",1.1
+
+"Seattle-Tacoma-Bellevue, WA","7,300",1.1
+
+"Charlotte-Concord-Gastonia, NC-SC","6,200",0.9
+
+"Portland-Vancouver-Hillsboro, OR-WA","6,200",0.9
+
+"Fresno, CA","5,900",0.9
+
+"Sacramento--Roseville--Arden-Arcade, CA","5,900",0.9
+
+"San Antonio-New Braunfels, TX","5,600",0.8
+
+"Salt Lake City, UT","5,000",0.7
+
+"Bakersfield, CA","4,900",0.7
+
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","4,700",0.7
+
+"Boston-Cambridge-Newton, MA-NH","4,700",0.7
+
+"Indianapolis-Carmel-Anderson, IN","4,600",0.7
+
+"Minneapolis-St. Paul-Bloomington, MN-WI","4,600",0.7
+
+"Raleigh, NC","3,900",0.6
+
+"Kansas City, MO-KS","3,900",0.6
+
+"Oxnard-Thousand Oaks-Ventura, CA","3,700",0.5
+
+"Visalia-Porterville, CA","3,300",0.5
+
+"Nashville-Davidson--Murfreesboro--Franklin, TN","3,300",0.5
+
+"Santa Maria-Santa Barbara, CA","3,300",0.5
+
+"Tampa-St. Petersburg-Clearwater, FL","3,200",0.5
+
+"Stockton-Lodi, CA","3,100",0.5
+
+"Oklahoma City, OK","3,100",0.4
+
+"Milwaukee-Waukesha-West Allis, WI","3,000",0.4
+
+"Orlando-Kissimmee-Sanford, FL","3,000",0.4
+
+"Santa Rosa, CA","2,900",0.4
+
+"Modesto, CA","2,800",0.4
+
+"Salinas, CA","2,800",0.4
+
+"Albuquerque, NM","2,800",0.4
+
+"Winston-Salem, NC","2,600",0.4
+
+"Detroit-Warren-Dearborn, MI","2,400",0.3
+
+"Yakima, WA","2,300",0.3
+
+"Durham-Chapel Hill, NC","2,300",0.3
+
+"Salem, OR","2,300",0.3
+
+"Brownsville-Harlingen, TX","2,200",0.3
+
+"Tucson, AZ","2,200",0.3
+
+"Memphis, TN-MS-AR","2,000",0.3
+
+"Greensboro-High Point, NC","2,000",0.3
+
+"Baltimore-Columbia-Towson, MD","2,000",0.3
+
+"Bridgeport-Stamford-Norwalk, CT","1,900",0.3
+
+"Tulsa, OK","1,900",0.3
+
+"El Paso, TX","1,900",0.3
+
+"Fayetteville-Springdale-Rogers, AR-MO","1,800",0.3
+
+"Reno, NV","1,800",0.3
+
+"Columbus, OH","1,800",0.3
+
+"Kennewick-Richland, WA","1,800",0.3
+
+"Omaha-Council Bluffs, NE-IA","1,700",0.3
+
+"Merced, CA","1,700",0.3
+
+"Santa Cruz-Watsonville, CA","1,700",0.3
+
+"Provo-Orem, UT","1,600",0.2
+
+"Birmingham-Hoover, AL","1,600",0.2
+
+"Grand Rapids-Wyoming, MI","1,600",0.2
+
+"North Port-Sarasota-Bradenton, FL","1,500",0.2
+
+"Cape Coral-Fort Myers, FL","1,500",0.2
+
+"Gainesville, GA","1,500",0.2
+
+"Wichita, KS","1,400",0.2
+
+"Greenville-Anderson-Mauldin, SC","1,400",0.2
+
+"Providence-Warwick, RI-MA","1,300",0.2
+
+"Boise City, ID","1,300",0.2
+
+"Vallejo-Fairfield, CA","1,300",0.2
+
+"Laredo, TX","1,300",0.2
+
+"Ogden-Clearfield, UT","1,200",0.2
+
+"Elkhart-Goshen, IN","1,200",0.2
+
+"Lakeland-Winter Haven, FL","1,200",0.2
+
+"Tyler, TX","1,100",0.2
+
+"Richmond, VA","1,100",0.2
+
+"Des Moines-West Des Moines, IA","1,100",0.2
+
+"Louisville/Jefferson County, KY-IN","1,100",0.2
+
+"Naples-Immokalee-Marco Island, FL","1,100",0.2
+
+"Madison, WI","1,000",0.2
+
+"Cincinnati, OH-KY-IN","1,000",0.2
+
+"St. Louis, MO-IL","1,000",0.2
+
+"Lexington-Fayette, KY","1,000",0.2
+
+,,
+
+Other CBSA,"86,700",12.6
+
+Non-CBSA,"12,300",1.8
+
+Not Available,"6,600",1
+
+,,
+
+Notes:,,
+
+"This table refers to individuals who were granted Deferred Action for Childhood Arrivals (DACA) as of September 4, 2017.  The number of individuals who were ever granted DACA as of September 4, 2017 was approximately 800,000. This total excludes persons",,
+
+Core Based Statistical Areas (CBSA) at the time of most recent application.  CBSAs are defined  by the Office of Management and Budget.,,
+
+Totals may not add due to rounding.,,
+
+"CBSAs with fewer than 1,000 residents are included in other.",,
+
+Not available:  data are not available in electronic systems.,,
+
+"Source:  U.S. Citizenship and Immigration Services, CLAIMS3 and ELIS Systems.",,
+
+,,
+
+,,
+
+"Approximate Active DACA Recipients:  
+Sex and Age Group",,
+
+" As of September 4, 2017",,
+
+,,
+
+Sex,Number (rounded),Percent
+
+,,
+
+Total,"689,800",100
+
+Female,"362,700",52.6
+
+Male,"326,900",47.4
+
+Not available,200,0
+
+,,
+
+Age as of 9/4/2017,Number (rounded),Percent
+
+,,
+
+Total,"689,800",100
+
+Under 16,"2,000",0.3
+
+16-20,"196,500",28.5
+
+21-25,"253,100",36.7
+
+26-30,"163,400",23.7
+
+31-36,"74,900",10.9
+
+Not available,5,0
+
+,,
+
+Average Age,23.8,
+
+Median Age,23,
+
+Interquartile Range,20 to 27,
+
+,,
+
+Notes:,,
+
+"These tables refer to individuals who were  granted Deferred Action for Childhood Arrivals (DACA) as of September 4, 2017.  The number of individuals who were ever granted DACA as of September 4, 2017 was approximately 800,000. This total excludes perso",,
+
+"Age as of September 4, 2017 and marital status as of the time of most recent application.",,
+
+Totals do not add due to rounding.,,
+
+Interquartile range is the range between the 25th percentile and the 75th percentile.  About half of the active DACA recipients are 20 to 27 years old.,,
+
+Not available:  data are not available in electronic systems.,,
+
+"Source:  U.S. Citizenship and Immigration Services, CLAIMS3 and ELIS Systems.",,
+
+,,
+
+,,
+
+"Approximate Active DACA Recipients:  
+Marital Status",,
+
+" As of September 4, 2017",,
+
+,,
+
+Marital Status,Number (rounded),Percent
+
+,,
+
+Total,"689,800",100
+
+Single,"571,600",82.9
+
+Married,"105,700",15.3
+
+Divorced,"7,800",1.1
+
+Widowed,300,0.1
+
+Not available,"4,400",0.6
+
+,,
+
+Notes:,,
+
+"This table refers to individuals who were granted Deferred Action for Childhood Arrivals (DACA) as of September 4, 2017.  The number of individuals who were ever granted DACA as of September 4, 2017 was approximately 800,000. This total excludes persons",,
+
+Marital status at time of most recent application.,,
+
+Not available:  data are not available in electronic systems.,,
+
+"Source:  U.S. Citizenship and Immigration Services, CLAIMS3 and ELIS Systems.",,

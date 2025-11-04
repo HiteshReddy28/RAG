@@ -1,0 +1,139 @@
+H1: Chapter 1 - Purpose and Background
+
+- Guidance
+
+- Resources (7)
+
+- Appendices (0)
+
+- Updates (4)
+
+H2: A. Purpose
+
+The Immigration and Nationality Act (INA) gives the Secretary of Homeland Security discretionary authority to parole into the United States temporarily, under conditions the Secretary may prescribe, on a case-by-case basis for urgent humanitarian reasons or significant public benefit, any alien applying for admission to the United States, regardless of whether the person is inadmissible to, or removable from, the United States.[1]
+
+Congress did not define the phrase “urgent humanitarian reasons or significant public benefit,” entrusting the interpretation and application of these standards to the Secretary.
+
+H2: B. Background
+
+Parole decisions are discretionary determinations made on a case-by-case basis consistent with the INA. To exercise its parole authority, USCIS must determine that parole into the United States is justified by urgent humanitarian reasons or significant public benefit.
+
+USCIS has the authority to impose conditions on the grant of parole, including requiring reasonable assurances that the parolee will appear at all hearings and will depart the United States when required to do so.[2]
+
+In general, if USCIS favorably exercises its discretion to authorize parole for an alien located outside of the United States, then either USCIS or the U.S. Department of State issues a travel document to enable the alien to travel to a U.S. port of entry and request parole from U.S. Customs and Border Protection (CBP). CBP officers make the ultimate determination, upon the alien’s arrival at a U.S. port of entry, whether to parole the alien into the United States and for what length of time. Once an alien is paroled into the United States, the parole allows the alien to stay temporarily in the United States.
+
+Parole is not an admission to the United States.[3]When an alien is paroled into the United States, the alien is still deemed to be an applicant for admission.[4]
+
+Parole terminates automatically upon the expiration of the authorized parole period or upon the parolee’s departure from the United States.[5]Parole also may be terminated upon written notice to the alien if USCIS determines the purpose for which the parole was authorized has been accomplished or if USCIS determines that neither humanitarian reasons nor public benefit warrant the continued presence of the parolee in the United States. When parole is terminated, the alien is “restored to the status that he or she had at the time of parole.”[6]
+
+Generally, an alien who is paroled into the United States is not employment authorized incident to parole.[7]Rather, most parolees must apply for and be granted employment authorization and be issued an Employment Authorization Document (Form I-766) before they may legally work in the United States.[8]The grant of employment authorization is a separate determination from the grant of parole.
+
+H2: C. Legal Authorities [Reserved]
+
+[Reserved]
+
+H2: Footnotes
+
+[^ 1]SeeINA 212(d)(5)(A). USCIS, U.S. Immigration and Customs Enforcement (ICE), and U.S. Customs and Border Protection (CBP) all have authority to authorize parole. See Delegation of Authority to the Commissioner of U.S. Customs and Border Protection, Delegation 7010.3, signed May 11, 2006. SeeDelegation of Authority to the Assistant Secretary for U.S. Immigration and Customs Enforcement, Delegation 7030.2, signed November 13, 2004 (effective March 1, 2003). SeeDelegation of Authority to the Bureau of Citizenship and Immigration Services, Delegation 0150.1, signed June 5, 2003 (effective March 1, 2003). See Memorandum of Agreement,Coordinating the Concurrent Exercise by USCIS, ICE, and CBP, of the Secretary’s Parole Authority under INA 212(d)(5)(A) with Respect to Certain Aliens Located Outside of the United States, signed September 2008.
+
+[^ 2]See8 CFR 212.5(d).
+
+[^ 3]SeeINA 101(a)(13)(B). SeeINA 212(d)(5)(A). See8 CFR 1.2(“An arriving alien remains an arriving alien even if paroled pursuant to section 212(d)(5) of the Act, and even after any such parole is terminated or revoked.”).
+
+[^ 4]SeeINA 212(d)(5)(A).
+
+[^ 5]See8 CFR 212.5(e)(1).
+
+[^ 6]See8 CFR 212.5(e). SeeHassan v. Chertoff, 593 F.3d 785, 789 (9th Cir. 2010).
+
+[^ 7]However, certain parolees are employment authorized incident to parole for any employer and other parolees are employment authorized with a specific employer incident to parole. For example, entrepreneurs paroled under8 CFR 212.19are employment authorized with a specific employer incident to their parole. See8 CFR 274a.12(b)(37). In addition, DHS has decided as a matter of policy to provide the benefit of employment authorization incident to parole akin to what is normally accorded to refugees (as well as a no-fee initial and replacement of an initial Employment Authorization Document) to certain Afghan parolees and certain Ukrainian parolees so that they receive similar treatment as refugees, which aligns with the spirit of legislation that states that certain Afghan parolees and certain Ukrainian parolees “shall be eligible for . . . other benefits available to refugees . . . .” See Section 2502(b) of the Extending Government Funding and Delivering Emergency Assistance Act,Pub. L. 117-43  (PDF), 135 Stat. 344, 377 (September 30, 2021), amended by Section 1501 of Division M of the Consolidated Appropriations Act of 2023,Pub. L. 117-328  (PDF), 136 Stat. 4459, 5189 (December 29, 2022), and Section 401(b) of the Additional Ukraine Supplemental Appropriations Act,Pub. L. 117-128  (PDF), 136 Stat. 1211, 1218 (May 21, 2022). For more information on employment eligibility for aliens, see Volume 10, Employment Authorization, Part A, Employment Authorization Policies and Procedures, Chapter 2, Eligibility Requirements [10 USCIS-PM A.2].
+
+[^ 8]See8 CFR 274a.12(c)(11)and8 CFR 274a.13.
+
+H2: Resources
+
+INA 212(d)(5),8 CFR 212.5- Parole of aliens into the United States
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-131, Application for Travel Documents, Parole Documents, and Arrival/Departure Records
+
+I-912, Request for Fee Waiver
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual regarding maximum validity periods for Employment Authorization Documents (EADs, Form I-766) issued to refugees and asylees, noncitizens paroled as refugees, noncitizens granted withholding of removal, noncitizens with pending applications for asylum or withholding of removal, noncitizens with pending applications for adjustment of status under INA 245, and noncitizens seeking suspension of deportation or cancellation of removal. USCIS is also clarifying that the Arrival/Departure Record (Form I-94) may be used as evidence of both status and employment authorization for certain EAD categories that are employment authorized incident to status or parole.
+
+3 USCIS-PM F.1-Chapter 1 - Purpose and Background
+
+10 USCIS-PM A.2-Chapter 2 - Eligibility Requirements
+
+10 USCIS-PM A.4-Chapter 4 - Adjudication
+
+U.S. Citizenship and Immigration Services (USCIS) is rescinding policy guidance in the USCIS Policy Manual on discretionary employment authorization for parolees.
+
+1 USCIS-PM C.1-Chapter 1 - Purpose and Background
+
+3 USCIS-PM F.1-Chapter 1 - Purpose and Background
+
+10 USCIS-PM B.2-Chapter 2 - Employment Authorization for Certain H-4, E, and L Nonimmigrant Dependent Spouses
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

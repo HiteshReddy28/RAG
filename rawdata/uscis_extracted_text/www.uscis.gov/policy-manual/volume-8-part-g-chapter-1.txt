@@ -1,0 +1,451 @@
+H1: Chapter 1 - Purpose and Background
+
+- Guidance
+
+- Resources (68)
+
+- Appendices (5)
+
+- Updates (12)
+
+H2: A. Purpose
+
+Under the Immigration and Nationality Act (INA)212(a)(4), an applicant who is applying for a visa, admission, or adjustment of status and who is likely at any time to become a public charge, is inadmissible,[1]unless exempt from this ground of inadmissibility.[2]DHS has the authority to waive this ground of inadmissibility for certain applicants for admission[3]and, in limited circumstances, also has the authority to waive this ground of inadmissibility for certain applicants for adjustment of status.[4]
+
+H2: B. Background
+
+H3: 1. Public Charge Ground of Inadmissibility General Overview
+
+The INA provides that an applicant for a visa, admission, or adjustment of status is inadmissible if in the opinion of the consular officer, immigration officer, or immigration judge at the time of application for a visa, admission, or adjustment of status, the applicant is likely at any time to become a public charge.[5]
+
+The public charge ground of inadmissibility, therefore, applies to any alien applying for a visa to come to the United States temporarily or permanently, for admission, or for adjustment of status to that of a lawful permanent resident (LPR).[6]Congress has exempted by statute certain applicants for a visa, admission, or adjustment of status from the public charge ground of inadmissibility.[7]
+
+The INA does not define public charge. It does, however, specify that consular officers, immigration officers, and immigration judges must, at a minimum, consider certain factors when determining whether an alien is likely at any time to become a public charge.
+
+H3: 2. Public Benefits Under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996
+
+In 1996, the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA), which is commonly known as the 1996 welfare reform law, was passed by Congress. PRWORA stated that aliens generally should not depend on public resources and that the availability of public benefits should not constitute an incentive for immigration to the United States.[8]Moreover, PRWORA significantly restricted an alien's eligibility for federal, state, local, and tribal public benefits.[9]
+
+H3: 3. History of Public Charge Statutory and Regulatory Changes
+
+Illegal Immigration Reform and Immigrant Responsibility Act of 1996
+
+In 1996, the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRIRA)[10]was passed by Congress. IIRIRA amended Section212(a)(4)of the INA, introducing the mandatory statutory factors, and created the enforceable Affidavit of Support Under Section 213A of the INA (Form I-864).[11]
+
+More specifically, IIRIRA codified the following minimum factors that must be considered when making public charge inadmissibility determinations: age; health; family status; assets, resources, and financial status; and education and skills.[12]
+
+Additionally, with IIRIRA, Congress made the legally enforceable Affidavit of Support Under Section 213A of the INA (Form I-864) a requirement for most family-sponsored and certain employment-based immigrants,[13]and indicated that it may be considered as a factor in a public charge inadmissibility determination.[14]
+
+1999 Interim Field Guidance
+
+On May 26, 1999, the legacy Immigration and Naturalization Service (INS) issued interim guidance, titled “Field Guidance on Deportability and Inadmissibility on Public Charge Grounds” (1999 Interim Field Guidance  (PDF)).[15]This guidance identified how the agency would determine if an alien is likely at any time to become a public charge[16]for admission and adjustment of status purposes, and when an alien would be deportable[17]as a public charge.[18]
+
+INS incorporated the policies contained in the 1999 Interim Field Guidance in a proposed rule published on May 26, 1999.[19]However, INS never finalized the proposed rule. INS, and later DHS, continued to apply the public charge ground consistent with the 1999 Interim Field Guidance for 2 decades.
+
+Under the 1999 Interim Field Guidance and the 1999 proposed rule, “public charge” for purposes of a public charge inadmissibility determination was defined as an alien who is likely to become primarily dependent on the government for subsistence, as demonstrated by either:
+
+- Receipt of public cash assistance for income maintenance; or
+
+- Institutionalization for long-term care at government expense.[20]
+
+Regulatory Changes in 2019
+
+On August 14, 2019, DHS issued a final rule regarding the public charge ground of inadmissibility, titled “Inadmissibility on Public Charge Grounds” (2019 Final Rule).[21]The 2019 Final Rule provided new and expanded definitions for certain terms and provided a multi-factor framework along with associated evidentiary requirements.
+
+The 2019 Final Rule also added provisions that rendered certain nonimmigrants ineligible for extension of stay or change of status if they received specific public benefits for a certain period. Additionally, it revised DHS regulations governing the Secretary’s discretion to accept a public charge bond for those seeking adjustment of status.
+
+The 2019 Final Rule was set to take effect on October 15, 2019. Before it did, numerous plaintiffs filed suits challenging the 2019 Final Rule in five district courts, across four circuits.[22]The 2019 Final Rule was ultimately implemented on February 24, 2020. However, following a series of preliminary injunctions and stays or reversals of those injunctions, a partial final judgment vacating the 2019 Final Rule went into effect nationwide on March 9, 2022.[23]DHS subsequently formally removed the 2019 Final Rule from the Code of Federal Regulations (CFR).[24]
+
+After the 2019 Final Rule was vacated and removed from the CFR, DHS returned to making public charge inadmissibility determinations in accordance with the statute and the 1999 Interim Field Guidance.[25]
+
+Regulatory Changes in 2022
+
+On August 23, 2021, DHS published an Advance Notice of Proposed Rulemaking (ANPRM) to seek broad public feedback on the public charge ground of inadmissibility to inform its development of a future regulatory proposal.[26]DHS reviewed all of the comments and considered them in developing a Notice of Proposed Rulemaking (NPRM).[27]
+
+On February 24, 2022, DHS published an NPRM.[28]Following careful consideration of public comments received in response to the NPRM, DHS published a final rule, titled “Public Charge Ground of Inadmissibility,” on September 9, 2022 (2022 Final Rule).[29]
+
+The 2022 Final Rule implemented a different policy than the 2019 Final Rule. Under the 2022 Final Rule, similar to the 1999 Interim Field Guidance that was in place for 2 decades before the 2019 Final Rule, aliens are considered likely at any time to become a public charge if they are likely at any time to become primarily dependent on the government for subsistence, as demonstrated by either the receipt of public cash assistance for income maintenance or long-term institutionalization at government expense.
+
+The 2022 Final Rule only addresses the public charge ground of inadmissibility and does not address the public charge ground of deportability, which was addressed in the 1999 Interim Field Guidance and 1999 NPRM.
+
+H2: C. Scope
+
+The guidance outlined in this Part G only applies to Applications to Register Permanent Residence or Adjust Status (Forms I-485) postmarked (or, if applicable, submitted electronically) on or after December 23, 2022.[30]
+
+Officers must adjudicate applications postmarked (or, if applicable, submitted electronically) before December 23, 2022, consistent with the 1999 Interim Field Guidance.[31]Public charge bond availability depends on the immigration benefit the applicant is seeking.[32]The discussion of immigration bonds in this Part G is limited to public charge bonds administered by USCIS for applicants seeking adjustment of status with USCIS.[33]
+
+H2: D. Legal Authorities
+
+- INA 212(a)(4);8 CFR 212– Public charge inadmissibility
+
+- INA 213A;8 CFR 213a– Requirements for sponsor’s affidavit of support
+
+- INA 213;8 CFR 213.1– Admission of aliens on giving bond or undertaking; return upon permanent departure; admission under bond or cash deposit
+
+- 8 CFR 103.6– Immigration bonds
+
+- INA 245;8 CFR 245– Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+- 31 U.S.C. 9304-9308– Surety corporations
+
+H2: Footnotes
+
+[^ 1]SeeINA 212(a)(4)(A).
+
+[^ 2]See8 CFR 212.23(a).
+
+[^ 3]SeeINA 212(d)(3)(A). See8 CFR 212.23(c)(1).
+
+[^ 4]SeeINA 245(j). See8 CFR 245.11and8 CFR 212.23(c)(2).
+
+[^ 5]SeeINA 212(a)(4).
+
+[^ 6]SeeINA 212(a)(4).
+
+[^ 7]See Chapter 3, Applicability, Section C, Exemptions [8 USCIS-PM G.3(C)].
+
+[^ 8]See Section 400 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996,Pub. L. 104-193  (PDF), (August 22, 1996) (codified at8 U.S.C. 1601  (PDF)).
+
+[^ 9]See8 U.S.C. 1601-1646, as amended.
+
+[^ 10]See Division C ofPub. L. 104-208  (PDF), 110 Stat. 3009 (September 30, 1996).
+
+[^ 11]See Division C ofPub. L. 104-208  (PDF), 110 Stat. 3009 (September 30, 1996). Congress added requirements for certain immigrant categories by creatingINA 213A, making a sponsor’s affidavit of support submitted on behalf of an alien legally enforceable under IIRIRA. See Division C, Title V ofPub. L. 104-208  (PDF), 110 Stat. 3009, 3009-670 (September 30, 1996).
+
+[^ 12]SeeINA 212(a)(4)(B). See Section 531 of Division C ofPub. L. 104-208  (PDF), 110 Stat. 3009-546, 3009-674 (September 30, 1996) (amending INA 212(a)(4)).
+
+[^ 13]SeeINA 212(a)(4)(C),INA 212(a)(4)(D), andINA 213A.
+
+[^ 14]SeeINA 212(a)(4)(B)(ii). See Chapter 6, Affidavit of Support Under Section 213A of the INA [8 USCIS-PM G.6].
+
+[^ 15]See64 FR 28689  (PDF)(May 26, 1999). Due to a printing error, the Federal Register version of the field guidance appears to be dated “March 26, 1999” even though the guidance was actually signed May 20, 1999, became effective May 21, 1999, and was published in the Federal Register on May 26, 1999.
+
+[^ 16]SeeINA 212(a)(4).
+
+[^ 17]SeeINA 237(a)(5).
+
+[^ 18]See64 FR 28689  (PDF)(May 26, 1999).
+
+[^ 19]See64 FR 28676  (PDF)(May 26, 1999).
+
+[^ 20]See64 FR 28689  (PDF)(May 26, 1999). See64 FR 28676  (PDF)(May 26, 1999).
+
+[^ 21]See84 FR 41292  (PDF)(Aug. 14, 2019), as amended by84 FR 52357  (PDF)(Oct. 2, 2019).
+
+[^ 22]SeeCASA de Maryland, Inc., et al. v. Trump, 19-cv-2715 (D. Md.). SeeCity and County of San Francisco, et al. v. DHS, et al., 19-cv-04717 (N.D.Ca.). SeeCity of Gaithersburg, et al. v. Trump, et al., 19-cv-02851 (D. Md.). SeeCook County et al. v. McAleenan et al., 19-cv-06334 (N.D. Ill.). SeeLa Clinica De La Raza, et al. v. Trump, et al., 19-cv-4980 (N.D. Ca.). SeeMake the Road New York, et al. v. Cuccinelli, et al., 19-cv-07993 (S.D.N.Y.). SeeNew York, et al. v. DHS, et al., 19-cv-07777 (S.D.N.Y.). SeeState of California, et al. v. DHS, et al., 19-cv-04975 (N.D. Cal.). SeeState of Washington, et al. v. DHS, et al., 19-cv-05210 (E.D. Wa.).
+
+[^ 23]SeeCook County v. Wolf, 498 F.Supp.3d 999 (N.D. Ill. 2020).
+
+[^ 24]See86 FR 14221  (PDF)(Mar. 15, 2021).
+
+[^ 25]See64 FR 28689  (PDF)(May 26, 1999).
+
+[^ 26]See86 FR 47025  (PDF)(Aug. 23, 2021) (advance notice of proposed rulemaking).
+
+[^ 27]See87 FR 10570, 10597  (PDF)(Feb. 24, 2022) (proposed rule).
+
+[^ 28]See87 FR 10570  (PDF)(Feb. 24, 2022) (proposed rule).
+
+[^ 29]See87 FR 55472  (PDF)(Sept. 9, 2022) (final rule).
+
+[^ 30]The effective date of the DHS final rule. See87 FR 55472  (PDF)(Sept. 9, 2022) (final rule).
+
+[^ 31]See64 FR 28689  (PDF)(May 26, 1999).
+
+[^ 32]SeeINA 213.
+
+[^ 33]See8 CFR 213.1. USCIS also accepts bonds before the issuance of an immigrant visa upon a request from a U.S. consular officer or upon the presentation by an interested person of a notification from the consular officer requiring such a bond. For more information, contact the U.S. Department of State. Moreover, U.S. Immigration and Customs Enforcement (ICE) administers other types of immigration bonds, such as voluntary departure bonds, delivery bonds, and order of supervision bonds. For more information on these types of bonds, contact ICE.
+
+H2: Resources
+
+10 U.S.C. 504(b)- Citizenship or residency
+
+15 U.S.C. 1681- Congressional findings and statement of purpose
+
+21 U.S.C. 802- Definitions
+
+21 U.S.C. 841- Prohibited acts A
+
+22 CFR 40.51- Labor certification
+
+29 CFR 570- Child labor regulations, orders and statements of interpretation
+
+29 U.S.C. 213(c)- Child labor requirements
+
+31 U.S.C. 9304-9308- Surety corporations
+
+42 CFR 34.4- Medical notifications
+
+42 U.S.C. 1382c                                           (PDF)- Definitions
+
+42 U.S.C. 413- Quarter and quarter of coverage
+
+42 U.S.C. 416(l)- Retirement age
+
+7 CFR 273- Certification of eligible households
+
+8 CFR 1.2- Definitions
+
+8 CFR 1.3- Lawfully present aliens for purposes of applying for Social Security benefits
+
+8 CFR 1003.14- Jurisdiction and commencement of proceedings
+
+8 CFR 1003.1- Organization, jurisdiction, and powers of the Board of Immigration Appeals
+
+8 CFR 103.6- Immigration bonds
+
+8 CFR 204.5- Petitions for employment-based immigrants
+
+8 CFR 212.4- Applications for the exercise of discretion under section 212(d)(1) and 212(d)(3)
+
+8 CFR 213a- Affidavits of support on behalf of immigrants
+
+8 CFR 235- Inspection of persons applying for admission
+
+8 CFR 245.11- Adjustment of aliens in S nonimmigrant classification
+
+8 CFR 292- Representation and appearances
+
+8 U.S.C. 1601-1646- Restricting welfare and public benefits for aliens
+
+8 U.S.C. 1611                                           (PDF)- Aliens who are not qualified aliens ineligible for Federal public benefits
+
+8 U.S.C. 1612                                           (PDF)- Limited eligibility of qualified aliens for certain Federal programs
+
+8 U.S.C. 1613                                           (PDF)- Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
+
+8 U.S.C. 1641                                           (PDF)- Definitions
+
+Final Specification of Community Programs Necessary For Protection Of Life Or Safety Under Welfare Reform Legislation,66 FR 3613 (Jan. 16, 2001) (Final rule)
+
+INA 101- Definitions
+
+INA 101(a)(15)- Nonimmigrant classifications
+
+INA 201- Worldwide level of immigration
+
+INA 203- Allocation of immigrant visas
+
+INA 208- Asylum
+
+INA 212(a)(4), 8 CFR 212.20-212.23 - Public charge inadmissibility
+
+INA 212(d)- Temporary admission of nonimmigrants
+
+INA 213,8 CFR 213.1- Admission of aliens on giving bond or undertaking; return upon permanent departure; adjustment of status of aliens on submission of a public charge bond
+
+INA 213A,8 CFR 213a- Requirements for sponsor's declaration of financial support
+
+INA 235- Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing
+
+INA 237(a)(5)- Public charge (deportable aliens)
+
+INA 239,8 CFR 239- Initiation of removal proceedings
+
+INA 245(j)- Adjustment to permanent resident status
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+INA 248,8 CFR 248- Change of nonimmigrant classification
+
+INA 289- Application to American Indians born in Canada
+
+Pub. L. 104-193                                           (PDF)- Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996
+
+Pub. L. 104-208                                        (PDF)- Illegal Immigration Reform and Immigrant Responsibility Act of 1996
+
+Pub. L. 106-395                                           (PDF)- Child Citizenship Act of 2000
+
+Pub. L. 111-293                                           (PDF)- Help Haitian Adoptees Immediately to Integrate Act of 2010
+
+Pub. L. 111-8                                            (PDF)- Section 602(b), Title VI of the Afghan Allies Protection Act of 2009
+
+Pub. L. 113-4                                           (PDF)- 127 Stat 54 of the Violence Against Women Reauthorization Act of 2013
+
+Pub. L. 89-732                                        (PDF)- Cuban Refugees Adjustment of Status
+
+Section 11,26 Stat 1084                        (PDF)of the Immigration Act of 1891
+
+Section 212(a)(15),66 Stat 163                                           (PDF), 183 of the Immigration and Nationality Act of 1952
+
+Sections 1-2,22 Stat 214                        (PDF)of the Immigration Act of 1882
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-130, Petition for Alien Relative
+
+I-134, Declaration of Financial Support
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-601, Application for Waiver of Grounds of Inadmissibility
+
+I-693, Report of Medical Examination and Vaccination Record
+
+I-864, Affidavit of Support Under Section 213A of the INA
+
+I-864A, Contract Between Sponsor and Household Member
+
+I-864EZ, Affidavit of Support Under Section 213A of the INA
+
+How to Use the USCIS Policy Manual Website
+
+Public Charge Inadmissibility, USCIS National Engagement (Sept. 29, 2022) Power Point Presentation                   (PDF, 1.24 MB)
+
+H2: Appendices
+
+Appendix: Applicability of INA 212(a)(4) to Employment-Based Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Family-Based Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Other Applicants
+
+Appendix: Applicability of INA 212(a)(4) to Refugee, Asylee, and Parolee Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Special Immigrant Adjustment of Status Applications
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update incorporates into Volume 8 the policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced December 19, 2022, addressing the public charge ground of inadmissibility under section 212(a)(4) of the Immigration and Nationality Act (INA), as implemented by the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF)(Sep. 9, 2022).
+
+This guidance became effective December 23, 2022, and applies to adjustment of status applications postmarked (or filed electronically, if applicable) on or after that date. For applications postmarked (or submitted electronically, if applicable) before December 23, 2022, USCIS will continue to apply the public charge ground of inadmissibility consistent with the statute and the1999 Interim Field Guidance.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address the public charge ground of inadmissibility under section 212(a)(4) of the Immigration and Nationality Act (INA), as implemented by the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF)(Sep. 9, 2022).
+
+The new final rule and policy guidance become effective December 23, 2022, and apply to adjustment of status applications postmarked (or filed electronically, if applicable) on or after that date. For applications postmarked (or submitted electronically, if applicable) before December 23, 2022, USCIS will continue to apply the public charge ground of inadmissibility consistent with the statute and the1999 Interim Field Guidance.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+This technical update to Volume 8 alerts readers to the September 9, 2022 publication of the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF), and clarifies that USCIS will continue to apply the 1999 Interim Field Guidance until the final rule goes into effect on December 23, 2022. For more information about how USCIS is applying the public charge ground of inadmissibility, see thePublic Charge Resourceswebpage.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+USCIS is administering the public charge inadmissibility statute (section 212(a)(4) of the Immigration and Nationality Act) consistent with the 1999 Interim Field Guidance to determine whether a noncitizen is inadmissible as likely at any time to become a public charge. The 1999 Interim Field Guidance is the policy that was in place before the 2019 Public Charge Final Rule was implemented. The 2019 Public Charge Final Rule is no longer in effect. For more information about how USCIS is applying the public charge ground of inadmissibility, see thePublic Charge Resourceswebpage.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update removes the guidance in Volume 2, Part A, Chapter 4, Volume 8, Part G, and Volume 12, Part D, Chapter 2 relating to the administration of the public charge ground of inadmissibility under theInadmissibility on Public Charge Groundsfinal rule, 84 FR 41292 (Aug. 14, 2019); as amended byInadmissibility on Public Charge Grounds; Correction, 84 FR 52357 (Oct. 2, 2019) ( “Public Charge Final Rule”), which was implemented on Feb. 24, 2020. On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. On Nov. 3, 2020, the U.S. Court of Appeals for the Seventh Circuit issued an administrative stay and, on Nov. 19, 2020, a stay pending appeal of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted its stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update removes the WA Food Assistance Program for Legal Immigrants from the list of examples of state, local, and tribal cash assistance programs that are considered income maintenance for purposes of the public charge inadmissibility determination.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+This update incorporates into Volumes 2, 8, and 12 policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced February 5, 2020, implementing the Inadmissibility of Public Charge Grounds Final Rule. This guidance is in effect as of February 24, 2020 and applies nationwide to all applications and petitions postmarked on or after that date. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Final Rule. For more information about the classes of [noncitizens] who are exempt from the Final Rule, see theappendicesrelated to applicability. For information on related litigation affecting implementation, see theUSCIS webpageon the injunction.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual to address the final rule on the public charge ground of inadmissibility. This policy guidance is effective on February 24, 2020, and will apply to all applicants and petitioners filing applications and petitions for adjustment of status, extension of stay, and change of status, except for applicants and petitioners in the State of Illinois, whose cases will be adjudicated under prior policy, including the1999 Interim Field Guidance                   (PDF)andAFM Ch. 61.1                  (PDF). For additional information, seePublic Charge Inadmissibility Determinations in Illinois. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Inadmissibility on Public Charge Grounds final rule. For more information about the classes of [noncitizens] who are exempt from the final rule, see theappendicesrelated to applicability.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

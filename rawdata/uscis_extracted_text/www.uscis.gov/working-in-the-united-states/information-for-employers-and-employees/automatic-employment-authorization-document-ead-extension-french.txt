@@ -1,0 +1,178 @@
+H1: Prolongation automatique du document d'autorisation d'emploi (EAD)
+
+- English
+
+- لعربية
+
+- 中文
+
+- Creole
+
+- Français
+
+- Português
+
+ALERTE:Si vous avez déposé le formulaire I-765 sur la base d'une attribution du Statut de protection temporaire (TPS) ou d'une demande de TPS en cours de traitement, veuillez consulter la section Statut de protection temporaire (TPS) ci-dessous pour en savoir plus sur les exigences spécifiques au TPS pour une prolongation de la validité du document d'autorisation d'emploi.
+
+Si vous avez déposé le formulaire I-765, Demande d'autorisation d'emploi, pour renouveler votre document d'autorisation d'emploi (EAD) à expiration, vous pouvez bénéficier d'un report automatique de la date d'expiration figurant sur votre EAD pendant que votre demande est cours de traitement. Vous pouvez bénéficier de cette prolongation automatique si :
+
+- Sur le formulaire I-797C, Avis d'action, avis de réception que vous avez reçu pour votre demande de renouvellement du formulaire I-765 en cours de traitement, figure une « Date de réception » antérieure à la « Date d'expiration de la carte » indiquée au recto de votre EAD ;
+
+- Sur le formulaire I-797C, Avis d'action, avis de réception, figure une « Date de réception », le 4 mai 2022 ou une date ultérieure, et le 30 septembre 2025 ou une date antérieure ;
+
+- Votre demande de renouvellement se trouve dans une catégorie éligible à une prolongation automatique (voir la liste des catégories ci-dessous) ;et
+
+- La catégorie de votre EAD actuel correspond à la « Catégorie d'admissibilité » ou à la « Classe demandée » indiquée sur votre formulaire I-797C, Avis d'action, avis de réception. (Le tableau ci-dessous répertorie les exceptions pour certaines catégories.)
+
+Si toutes les conditions ci-dessus sont satisfaites, alors votre autorisation de travailn’arrive pas à expirationà la date imprimée sur votre EAD, car vous avez obtenu une prolongation automatique. Pour déterminer ladate d'expiration effective de votre EAD, veuillez consulter le « Calculateur automatique d'admissibilité à la prolongation » ci-dessous.
+
+TABLE:
+La « Classe demandée » ou « Catégorie d'admissibilité » sur votre formulaire I-797C, Avis d'action, avis de réception pour votre demande de renouvellement du formulaire I-765 | Description | Durée de la prolongation
+A03 | Réfugié | Jusqu’à 540 jours
+A05 | Demandeur d'asile | Jusqu’à 540 jours
+A07 | N-8 ou N-9 | Jusqu’à 540 jours
+A08 | Citoyen de Micronésie, des Îles Marshall ou des Palaos | Jusqu’à 540 jours
+A10 | Octroi d'une suspension de mesure d'expulsion ou d'éloignement | Jusqu’à 540 jours
+A12 | Octroi du statut de protection temporaire (TPS) | Jusqu'à 540 jours (voir la section TPS ci-dessous pour plus d'informations)
+A17 | Conjoint du principal titulaire de visa non-immigrant E avec un I-94 en cours de validité indiquant le statut de non-immigrant E (y compris E-1S, E-2S et E-3S) | Conjoint du principal titulaire de visa non-immigrant E avec un I-94 en cours de validité indiquant le statut de non-immigrant E (y compris E-1S, E-2S et E-3S)
+A18 | Conjoint du principal titulaire de visa non-immigrant L-1 avec un I-94 en cours de validité indiquant le statut de non-immigrant L-2 (y compris L-2S) | Jusqu'à 540 jours, ou à la date d'expiration figurant sur le I-94, selon la première éventualité
+C08 | Demande d'asile en cours de traitement | Jusqu’à 540 jours
+C09 | En attente d'ajustement de statut en vertu de l'Article 245 de la Loi | Jusqu’à 540 jours
+C10 | Demandeurs de suspension d'expulsion (déposée avant le 1er avril 1997) | Demandeurs de suspension d'expulsion (déposée avant le 1er avril 1997)
+C16 | « Creation of Record » - Création de dossier (ajustement basé sur la résidence ininterrompue depuis le 1er janvier 1972) | Jusqu’à 540 jours
+C19 | L'USCIS a déterminé que le demandeur est à première vue admissible au TPS et peut recevoir un EAD à titre de « prestation temporaire » | Jusqu'à 540 jours (voir la section TPS ci-dessous pour plus d'informations)
+C20 | Section 210 Légalisation (en attente de I-700) | Jusqu’à 540 jours
+C22 | Section 245-A Légalisation (en attente de I-687) | Jusqu’à 540 jours
+C24 | Légalisation LIFE | Jusqu’à 540 jours
+C26 | Conjoints de certains principaux titulaires de visa non-immigrant H-1B avec un I-94 en cours de validité indiquant le statut de non-immigrant H-4 | Jusqu'à 540 jours, ou à la date d'expiration figurant sur le I-94, selon la première éventualité
+C31 | Demandeurs en nom propre VAWA | Jusqu’à 540 jours
+
+Pour confirmer que vous répondez aux critères d'éligibilité pour la prolongation automatique de l'EAD, utilisez le calculateur ci-dessous. Le calculateur déterminera également la date d'expiration de votre EAD prolongée automatiquement. Note : Ce calculateur est uniquement disponible en anglais et en espagnol.
+
+Vous aurez besoin de votre EAD actuel (en cours de validité ou non) et du formulaire I-797C, Avis d'action, avis de réception de votre formulaire I-765 pour utiliser le calculateur. Si vous faites une demande sous les codes de catégorie d'autorisation d'emploi A17, A18 ou C26, vous aurez également besoin de votre formulaire I-94 en cours de validité.
+
+Your category is not eligible for the up to 540-day automatic extension.
+
+You are not eligible for the up to 540-day automatic extension. Applicants must renew their EAD under the same classification to be eligible.
+
+You are not eligible for the up to 540-day automatic extension.
+
+You are not eligible for the up to 540-day automatic extension. Applicants must renew their EAD under the same classification to be eligible.
+
+You are not eligible for the up to 540-day automatic extension.
+
+You are not eligible for the up to 540-day automatic extension. Applicants must renew their EAD under the same classification to be eligible.
+
+You are not eligible for the up to 540-day automatic extension.
+
+Does your Form I-797C, Notice of Action, have a "Received Date" that is during the re-registration period for your country? (Find re-registration dates on your country's page of theUSCIS Temporary Protected Statuswebsite.)
+
+You are not eligible for the up to 540-day automatic extension.
+
+If the "Card Expires" date on the EAD is after the "Received Date" on the Notice of Action, enter the "Card Expires" date from the EAD.
+
+If the "Card Expires" date on the EAD is after the "Received Date" on the Notice of Action, enter the "Card Expires" date from the EAD.
+
+Enter the "Card Expires" date from your EAD.
+
+Employment authorization extended through:
+
+Compare the I-94 date to the date below. Employment authorization is extended through whichever date is earlier.
+
+Compare the date below to the "TPS Designated Through" date listed on your country's page of the TPS website. Employment authorization is extended through whichever date is earlier.
+
+Comment fonctionne le calculateur :
+
+La prolongation automatique commence le lendemain de la date d'expiration de la carte figurant au recto de l'EAD et se poursuit généralement pendant 540 jours. La prolongation prend fin lorsque le demandeur reçoit une décision définitive sur sa demande de renouvellement ou à l'issue du délai de 540 jours, selon la première éventualité.
+
+Pour les EAD expirés ou arrivant à expiration avec les codes de catégorie A17, A18 et C26, pour calculer la nouvelle date d'expiration :
+
+- Ajoutez 540 jours à la date d'expiration de la carte EAD.
+
+- Comparez la date de prolongation automatique de 540 jours à celle de fin de validité du formulaire I-94.
+
+- La date la plus proche est la date d'expiration de l'EAD prolongée automatiquement.
+
+Mise en garde :Ce calculateur a pour objet de faciliter la détermination de la nouvelle date d'expiration de l'EAD pour une personne éligible à une prolongation automatique de son EAD à expiration sur la base d'unrèglement final temporairequi modifie 8 CFR 274a.13(d). Le calculateur ne se substitue pas à l'obligation légale d'un employeur de vérifier l'admissibilité à l'emploi de ses employés nouveaux ou existants conformément au formulaire I-9, Processus de vérification de l'admissibilité à l'emploi. Les agences gouvernementales qui délivrent des prestations/licences publiques et qui sont enregistrées à cet effet doivent utiliser SAVE pour vérifier les périodes de validité de l'EAD, y compris toute prolongation automatique.
+
+Un employeur ou une agence gouvernementale peut exiger la preuve de la prolongation automatique d'un EAD. Il appartient aux demandeurs de renouvellement admissibles à une prolongation automatique de l'EAD de présenter des documents prouvant que leur autorisation de travail reste valable.
+
+Un EAD qui a dépassé la date d'expiration au recto de la carte esttoujours validelorsqu'il est présenté avec un Formulaire I-797C, Avis d'action, avis de réception prolongeant sa période de validité. Pour montrer que la validité de l’EAD a été automatiquement prolongée, vous devez présenter :
+
+- Votre EAD actuel (en cours de validité ou non) avec une catégorie pouvant faire l'objet d'une prolongation automatique.Note :Si le code sur votre EAD est A17, A18 ou C26, vous devez également produire votre formulaire I-94 en cours de validité.
+
+- Note :Si le code sur votre EAD est A17, A18 ou C26, vous devez également produire votre formulaire I-94 en cours de validité.
+
+- Note :Si le code sur votre EAD est A17, A18 ou C26, vous devez également produire votre formulaire I-94 en cours de validité.
+
+ET
+
+- Votre Formulaire I-797C, Avis d'action, avis de réception indiquant que vous l'avez déposé en temps opportun pour renouveler votre EAD dans la même catégorie admissible à une prolongation automatique. L'avis de réception doit :Indiquer une « Date de réception » à partir du 4 mai 2022, jusqu'au 30 septembre 2025 ; etFaire référence à la prolongation de 180 jours ou de 540 jours.
+
+- Indiquer une « Date de réception » à partir du 4 mai 2022, jusqu'au 30 septembre 2025 ; et
+
+- Faire référence à la prolongation de 180 jours ou de 540 jours.
+
+- Indiquer une « Date de réception » à partir du 4 mai 2022, jusqu'au 30 septembre 2025 ; et
+
+- Faire référence à la prolongation de 180 jours ou de 540 jours.
+
+NOTE: Si vous avez déposé le formulaire I-765 sur la base d'une attribution du statut de protection temporaire (TPS) ou d'une demande de TPS en cours de traitement, veuillez consulter la section Statut de protection temporaire (TPS) ci-dessous pour en savoir plus sur les exigences spécifiques au TPS pour une prolongation de l'autorisation d'emploi.
+
+Cette ensemble de documents constitue une preuve acceptable de prolongation automatique allant jusqu'à 540 jours en vertu durèglement définitif temporaire de mai 2022ou durèglement définitif temporaire d’avril 2024.
+
+Pour confirmer que vous répondez aux critères d'éligibilité pour la prolongation automatique de l'EAD et déterminer la date d'expiration de l'EAD prolongée automatiquement, consultez la section Calculateur automatique d'éligibilité à la prolongation ci-dessus.
+
+En cas de présentation d’une demande de renouvellement du formulaire I-765 entre le 27 octobre 2023 et le 8 avril 2024 :Si vous avez déposé votre demande de renouvellement de l'I-765 au cours de cette période, vous avez peut-être reçu un formulaire I-797C, Avis d'action, avis de réception qui fait référence à une prolongation automatique de 180 jours. Ces demandes peuvent également bénéficier de la prolongation automatique jusqu'à 540 jours. Nous n'émettrons de mise à jour du formulaire I-797C pour ces demandes. Il faudra se référer à cette page Web pour confirmer les conditions d'admissibilité à la prolongation automatique jusqu'à 540 jours.
+
+Vous pouvez renvoyer votre employeur à ce site Web s'il a des questions. Les agences gouvernementales délivrant des prestations ou des licences qui s’appuient sur les EAD en tant que documents d'identité peuvent également se référer à cette page Web.
+
+Le 4 avril 2024, l'USCISa publiéun règlement définitif temporaire qui a fait passer la période de prolongation automatique de l'autorisation d'emploi ou des EAD disponibles pour certains demandeurs de renouvellement d'EAD d’un maximum de 180 jours à un maximum 540 jours.
+
+Ce règlement final temporaire s'applique à deux catégories de demandeurs de renouvellement de l’EAD :
+
+- Les demandeurs qui ont dûment déposé en temps opportun leurs demandes de formulaire I-765 le 27 octobre 2023 ou à une date ultérieure, si la demande était toujours en instance le 8 avril 2024 ; et
+
+- Les demandeurs qui déposent dûment en temps opportun leur demande de formulaire I-765 du 8 avril 2024 au 30 septembre 2025.
+
+Auparavant, en mai 2022, l'USCISa publiéun règlement final temporaire qui a augmenté la période de prolongation automatique de l'EAD pour certains demandeurs de renouvellement de l'EAD de 180 jours à 540 jours. Comme annoncé en 2022, ce règlement final temporaire était applicable aux demandes présentées pendant une période limitée se terminant le 26 octobre 2023.
+
+Étant donné que le règlement final temporaire de 2024 prévoit une prolongation automatique de 540 jours pour les demandes déposées après la fin de la période de dépôt en vertu du règlement final temporaire de 2022,il n'y a pas d'écart dans l'augmentation de la prolongation automatique de 540 jours pour les demandes de renouvellement admissibles présentées en temps opportun entre le 4 mai 2022 et septembre 2025. Par conséquent, pour la commodité du public, nous combinons les périodes de dépôt des deux règlements finaux temporaires dans le présent guide.
+
+Si vous recevez une prolongation automatique allant jusqu'à 540 jours en vertu du règlement final temporaire de 2024 ou du règlement final temporaire de 2022, la prolongation automatique prendra généralement fin lorsque nous prendrons une décision sur votre demande de renouvellement EAD, ou à la fin de la période de 540 jours, selon la première éventualité.
+
+Si vous avez un EAD basé sur le TPS et conservez ce statut, vous pouvez ainsi bénéficier d'une prolongation automatique de votre EAD jusqu'à 540 jours.
+
+Vous pouvez bénéficier de cette prolongation automatique si :
+
+- Vous avez déposé votre formulaire de renouvellement I-765 pendant la période de réinscription TPS indiquée dans l'avis du registre fédéral applicable pour votre pays ;
+
+- Le formulaire I-797C, Avis d'action, indiquant la réception de votre formulaire I-765 porte une « date de réception » du 4 mai 2022, au 30 septembre 2025 ;
+
+- Votre formulaire I-765 relève de la catégorie A12 ou C19 ; et
+
+- La catégorie sur votre EAD actuel est A12 ou C19. Les catégories de votre demande de renouvellement et de l'EAD à expiration ne doivent pas nécessairement correspondre. (Par exemple, vous pourrez toujours bénéficier d'une prolongation automatique si votre EAD à expiration indique C19 et votre demande de renouvellement indique A12.)
+
+Si vous répondez aux critères ci-dessus, la nouvelle date d'expiration de votre EAD expiré est jusqu'à 540 jours après la date d'expiration indiquée sur votre EAD (utilisez le calculateur ci-dessus pour déterminer la date). Votre EAD expiré et le formulaire I-797C, Avis d'action, avis de réception, serviront de preuve acceptable d'identité et d'autorisation d'emploi pendant la période de prolongation automatique.
+
+Les EAD basés sur le statut TPS peuvent également être automatiquement prolongés par la publication d'un avis du Federal Register ou la notification individuelle d'une prolongation automatique de l'EAD. Vous pouvez bénéficier d'une prolongation automatique de l'EAD jusqu'à 540 jours ainsi que d'une prolongation par la publication d'un avis du Federal Register si vous remplissez les conditions d'éligibilité pour les deux cas. Utilisez le calculateur ci-dessus et consultez la page de votre pays sur le site WebUSCIS Temporary Protected Statuspour voir si les EAD basés sur le TPS de votre pays ont été automatiquement prolongés. Votre autorisation de travail sera prolongée jusqu'à la dernière des deux dates.
+
+Pour plus d'informations sur le TPS, notamment les périodes de réinscription de votre pays et toute prolongation publiée dans le Federal Register, consultez la pageUSCIS Temporary Protected Status.
+
+Les étudiants titulaires d’un visa F-1 qui ont une demande de prolongation de formation pratique facultative STEM (Optional Practical Training ou OPT) en cours de traitementne peuvent pasbénéficier del’extension temporairede la période de prolongation automatique en vertu durèglement final temporaire 2022ou durèglement final temporaire 2024. L'augmentation temporaire de la période de prolongation automatique en vertu du 8 CFR274a.13 (d) ne s'applique qu'aux catégories énumérées dans le tableau ci-dessus.
+
+Si vous déposez votre demande de prolongation d'OPT STEM à temps et si votre période d'OPT arrive à expiration pendant que votre demande de prolongation est en cours de traitement, nous prolongerons automatiquement la validité de votre autorisation d'emploi de 180 jours. Cette prolongation automatique de 180 jours prendra fin lorsque l'USCIS statuera sur votre demande de prolongation OPT STEM.
+
+Vous trouverez des informations supplémentaires sur le dépôt d'une demande de prolongation d'OPT STEM sur la pageProlongation de  formation pratique facultative pour les étudiants en STEM (STEM OPT).
+
+Pour obtenir des conseils sur la façon de remplir leFormulaire I-9en cas de prolongation automatique d'un EAD, veuillez consulterI-9 Central,et plus précisémentle chapitre 5 du Manuel des employeurs, « Prolongations automatiques d'autorisation de travail et/ou de documents d'autorisation de travail (EAD) dans certaines circonstances ».
+
+Pour obtenir de l'aide pour déterminer l'admissibilité à une prolongation automatique de la validité de l'EAD en vertu du règlement définitif temporaire de 2022 ou 2024, veuillez contacter le centre de contact du formulaire I-9 aux numéros de téléphone ci-dessous.
+
+Employeurs : 888-464-4218
+
+Employés : 888-897-7781
+
+Vous trouverez des ressources supplémentaires sur la pageContactez-nous du Formulaire I-9..
+
+Si vous avez des questions concernant une demande d'EAD ou d'autorisation d'emploi en cours de traitement, veuillez consulter notre pageContactez-nouspour savoir quand et comment nous contacter.

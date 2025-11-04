@@ -1,0 +1,61 @@
+H1: Filing Form I-765 with Other Forms
+
+You can fileForm I-765, Application for Employment Authorizationwith other forms. This is called concurrent filing. In other instances, you may need to wait to file Form I-765. For example, you would need to wait 150 days after filing for asylum if your asylum application remains pending.  Always thoroughly read the instructions related to the benefit for which you are applying to determine whether you may need to wait before you can file for an Employment Authorization Document (EAD).
+
+If you are filing Form I-765 with another form, file both forms (with all the required filing fees and supporting documents) at the location specified by the other form (see below). For example, if you are filing Form I-765 together with Form I-539, Application to Extend/Change Nonimmigrant Status, file both forms according to the Form I-539 instructions. You can find the filing fee for Form I-765 by visiting ourFee Schedulepage.
+
+Who May File Form I-765 With Other Forms
+
+You cannot concurrently file Form I-765 with all USCIS forms. Please consult each form’s instructions to determine if you can file a Form I-765 with that form. We will update this page whenever we change the forms with which you may also file Form I-765.
+
+TABLE:
+Form I-765 Eligibility Categories | Category Description | I-765 may be concurrently filed with an underlying benefit request (application/petition)? | What is the petition/application with which an I-765 may be concurrently filed ?
+(a)(3) | Admitted as a refugee | No | 
+(a)(4) | Paroled as a refugee | No | 
+(a)(5) | Granted asylum under Section 208 | No | 
+(a)(6) | K-1/K-2 nonimmigrant fiancé(e) of a U.S. citizen, or their dependent | No | 
+(a)(7) | N-8 or N-9 nonimmigrant | No | 
+(a)(8) | Micronesia/Marshall Islands or Palau | No | 
+(a)(9) | Nonimmigrant spouse of a U.S. citizen, or their dependent (K-3 or K-4 visa) | Yes | I-539
+(a)(10) | Granted withholding of deportation or removal | No | 
+(a)(11) | Granted Deferred Enforced Departure | No | 
+(a)(12) | TPS granted | Yes | I-821
+(a)(13) | Granted voluntary departure under the Family Unity Program | No | 
+(a)(14) | Life Family Unity applicant | No | 
+(a)(15) | V-1, V-2, V-3 nonimmigrant | Yes | I-539/I-539 Supp. A
+(a)(16) | T-1 nonimmigrant | No | 
+(a)(17) | Spouse of E-1/2/3 (Treaty trader/investor/Australian specialty worker) | Yes | I-129/I-539 or I-539
+(a)(18) | Spouse of L-1 (Intracompany transferee) | Yes | I-129/I-539 or I-539
+(a)(19) | U-1 nonimmigrant | No | 
+(a)(20) | U-2, U-3, U-4, U-5 nonimmigrant | Yes | I-918/I-918A
+(c)(1) | A-1/A-2 dependent | No | 
+(c)(2) | Spouse/Unmarried child of TECRO (Taipei Economic and Cultural Representative Office)(E-1) | No | 
+(c)(3)(ii) | F-1 International org. | No | 
+(c)(3)(iii) | F-1 Severe economic necessity | No | 
+(c)(3)(A) | F-1 Pre-completion Optional Practical Training | No | 
+(c)(3)(B) | F-1 Post Optional Practical Training | No | 
+(c)(3)( C) | F-1 STEM students | No | 
+(c)(4) | G-1/G-4 dependent | No | 
+(c)(5) | (J-2) Spouse/child of J-1 Exchange Visitor | No | 
+(c)(6) | M-1 Post Optional Practical Training for vocational students | Yes | I-539
+(c)(7) | NATO dependent | No | 
+(c)(8) | Pending asylum applicant | No | 
+(c)(9) | Pending adjustment applicants | Yes | I-485
+(c)(9)(P) | Pending adjustment applicants requesting a combo card (requires separate fees) | Yes | I-485 w/ I-131
+(c)(10) | Suspension of Deportation or Special Rule Cancellation of Removal under NACARA 203 | Yes | I-881
+(c)(11) | Paroled in the Public Interest | No | 
+(c)(12) | Spouse of an E-2 CNMI Investor | No | 
+(c)(14) | Deferred Action Granted | Yes | I-918/I-918A/I-360
+(c)(16) | Sec. 249 Registry Applicant | Yes | I-485
+(c)(17)(i) | B-1 Domestic Servant of Nonimmigrant Employer | Yes | I-539
+(c)(17)(ii) | B-1 Domestic Servant of USC | Yes | I-539
+(c)(17)(iii) | B-1 Foreign Airline Employee | No | 
+(c)(18) | Final Order of Deportation/Order of Supervision | No | 
+(c)(19) | TPS Pending | Yes | I-821
+(c)(21) | S Nonimmigrant | No | 
+(c)(25) | T-2, T-3, T-4, T-5, T-6 Nonimmigrant | Yes | I-914/I-914A
+(c)(26) | H-4 Spouse of an H-1B nonimmigrant | Yes | I-129/I-539 or I-539
+(c)(31) | VAWA Self-Petitioner with approved Form I-360 | /N/A | I-360
+(c)(33) | Deferred Action for Childhood Arrivals (DACA) Recipient | Yes | I-821D w/ I-765W
+(c)(35) | Principal Applicant - Compelling Circumstances | Yes | I-765 for dependent spouse or child (c)(36)
+(c)(36) | Dependent applicant of a (c)(35) | Yes | I-765 for principal applicant (c)(35)

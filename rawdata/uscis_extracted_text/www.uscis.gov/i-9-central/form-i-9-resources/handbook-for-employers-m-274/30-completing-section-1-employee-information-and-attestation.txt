@@ -1,0 +1,67 @@
+H1: 3.0 Completing Section 1: Employee Information and Attestation
+
+Have the employee complete Section 1 at the time of hire (by the first day the employee starts work for pay or other remuneration) by entering the correct information and signing and dating the form. If the employee enters the information by hand, ensure the employee prints clearly.
+
+A preparer and/or translator may help the employee complete Section 1. Employers must review the information and ensure employees (and their preparer/translators, if applicable) fully and properly completed Section 1.
+
+Figure 1a: Completing Section 1: Employee Information and Attestation
+
+Employees must enter their current legal name and other last names that they have used in the past or present (such as a maiden name), if any.
+
+- Employees with two last names (family names) must include both names in the Last Name field.
+
+- Employees with only one name should enter it in the Last Name field and enter “Unknown” in the First Name field.
+
+- Employees with two first names (given names) should include both in the First Name field.
+
+- Employees whose first or last name includes a hyphen or apostrophe should include it.Examples of correctly entered last names include De La Cruz, O’Neill, Garcia Lopez, and Smith-Johnson.Examples of correctly entered first names include Mary Jo, John-Paul, Tae Young, and D’Shaun.
+
+- Examples of correctly entered last names include De La Cruz, O’Neill, Garcia Lopez, and Smith-Johnson.
+
+- Examples of correctly entered first names include Mary Jo, John-Paul, Tae Young, and D’Shaun.
+
+- Employees must enter their middle initial in the Middle Initial field. Employees who do not have a middle initial may leave this field blank.
+
+- Employees must enter their maiden name or any other legal last name they may have used in the Other Last Names Used field. Employees who have not used other last names may leave this field blank.
+
+- Examples of correctly entered last names include De La Cruz, O’Neill, Garcia Lopez, and Smith-Johnson.
+
+- Examples of correctly entered first names include Mary Jo, John-Paul, Tae Young, and D’Shaun.
+
+Employees must enter their current address, apartment number (if any), city or town, state and ZIP code. If the residence is not located in a city or town, enter the village, county, township, reservation, etc. in the City or Town Field. Employees who do not have a street address should enter a description of the location of their residence, such as “Two miles south of I-81, near the water tower.” Employees who have no apartment number may leave this field blank. Border commuters from Canada or Mexico may enter their city; province or state; postal code; and their country abbreviation.
+
+Employees must enter their date of birth as a two-digit month, two-digit day, and four-digit year (mm/dd/yyyy) in this field. For example, Jan. 8, 1980, should be entered as 01/08/1980.
+
+Employees may voluntarily provide their Social Security number or leave this field blank. However, if you are enrolled in E-Verify, your employees must provide their Social Security number.
+
+Employees who have not yet received their Social Security number and who can satisfy all other Form I-9 requirements may work while awaiting their Social Security number. Have them enter their Social Security number in Section 1 as soon as they receive it.
+
+You cannot ask employees to provide a specific document with their Social Security number on it. To do so may constitute unlawful discrimination. For more information on E-Verify, seeSection 1.2, E-Verify: The Web-Based Verification Companion to Form I-9. For more information on unlawful discrimination, seeSection 11.0, Unlawful Discrimination and Penalties for Prohibited Practices.
+
+Employees are not required to provide an email address or telephone number in Section 1. If they do not wish to enter an e-mail address or telephone number, they may leave these fields blank.
+
+Employees must read the warning about penalties under federal law and attest to their citizenship or immigration status by checking one of the following boxes on the form:
+
+- A citizen of the United States.
+
+- A noncitizen national of the United States:An individual born in American Samoa, certain former citizens of the former Trust Territory of the Pacific Islands, and certain children of noncitizen nationals born abroad.
+
+- A lawful permanent resident:This specific immigration status describes an individual who is not a U.S. citizen and who resides in the United States under legally recognized and lawfully recorded permanent residence as an immigrant. This term includes conditional residents, who should select this status. Employees who select this box should enter their seven- to nine-digit Alien Registration Number (A-Number) or USCIS Number in the space provided. The USCIS Number is the same as the A-Number without the “A” prefix. Asylees and refugees should NOT select this status, but should instead select “An alien authorized to work.”
+
+- An alien authorized to work:An individual who is permitted to work in the United States, but is not a citizen or national of the United States, or a lawful permanent resident. For example, asylees, refugees, and certain citizens of the Federated States of Micronesia, the Republic of the Marshall Islands, or Palau should select this status. Employees who select box 4 must also enter the date their employment authorization expires. If it does not expire, the employee should enter N/A. If the employee’s employment authorization has been automatically extended, they should enter the expiration date of the automatic extension. Employees must also enter one of the following: Alien Registration Number (A-Number)/USCIS Number; Form I-94 Admission Number; or Foreign Passport Number and the Country of Issuance.
+
+Employees must sign and date the form. Employees who cannot sign their name may place a mark in this field to indicate their signature.
+
+If the employee uses a preparer and/or translator to help them complete and/or translate the form, each preparer and/or translator must complete a separate Preparer and/or Translator Certification block in Supplement A, Preparer and/or Translator Certification for Section 1.
+
+Figure 1b: Completing Supplement A: Preparer and/or Translator Certification for Section 1
+
+- Preparers and/or translators may not enter a P.O. box in place of a physical address.
+
+- Employees who use a preparer and/or translator to complete the form must still sign or make their mark in the Signature Field in Section 1.
+
+- Employers may provide the employee additional supplement pages as needed and attach them to the employee’s completed form.
+
+- The certification must also be completed for certain minors and employees in special placement who require a representative, parent, or legal guardian to complete Section 1 for them. SeeSections 4.2and4.3for more information.
+
+You must ensure that all parts of Form I-9 are properly completed; or you may be subject to penalties under federal law. The employee must complete Section 1 no later than the employee’s first day of employment. You may not ask an individual who has not accepted a job oﬀer to complete Section 1. Before completing Section 2, you should review Section 1 to ensure the employee completed it properly. You may review the employee’s document(s) and fully complete Section 2 at any time between the date the employee accepts the job offer and completes Section 1 to within three business days of the hire. Review any possible errors with the employee. The employee must correct any confirmed errors, add their initials, and the date they made the correction. Employers may not ask for documentation to verify the information entered in Section 1.

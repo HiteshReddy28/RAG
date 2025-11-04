@@ -1,0 +1,23 @@
+H1: 7.2 Native Americans
+
+Native Americans may present a List A document or List B and C document for Form I-9.
+
+A Native American tribal document is an oﬀicial tribal or community membership document issued by a Native American Indian tribe, or an Alaska Eskimo or Aleut community, that is recognized by the U.S. federal government. A tribal or community membership document that is issued by a tribe or community that is not recognized by the U.S. federal government is not an acceptable Native American tribal document for Form I-9 purposes. Because federal recognition of tribes and communities can change over time, you should check the Department of Interior’sBureau of Indian Aﬀairs websiteto determine if the tribe or community that issued the tribal or community membership document is federally recognized. Use the following guidance to determine if the document is acceptable as evidence of both identity and employment authorization, or only for identity purposes.
+
+Table 3 Native American Tribal Documents
+
+TABLE:
+If your employee presents a Native American tribal document and in Section 1 selects: | The document is acceptable as:
+Citizen of the United States | List B and List C
+Lawful permanent resident | List B and List C
+Alien authorized to work | List B only
+
+The following documents are not considered Native American tribal documents for Form I-9 purposes and are not acceptable as a List A, List B or List C document:
+
+- A tribal membership document issued by a Canadian First Nation; and
+
+- A Certificate of Indian Status (commonly referred to as an "INAC card") issued by Indigenous and Northern Aﬀairs Canada.
+
+While individuals who have these documents might qualify for employment authorization under INA section 289 (and, if applicable, 8 CFR 289.2), a tribal membership card issued by a Canadian First Nation, or INAC card issued by the Government of Canada cannot, by itself, establish employment authorization.
+
+If you participate in E-Verify, all List B documents presented by employees, including Native American tribal documents, must contain a photograph. This includes Native American tribal documents presented as a List B document. If the employee's Native American tribal document does not contain a photograph, you should request the employee provide a different List B document with a photograph. The Native American tribal document may be acceptable as the employee's List C document, see table above. Your employee may also choose to provide a List A document instead of a List B and List C document.

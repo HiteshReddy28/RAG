@@ -1,0 +1,53 @@
+H1: Sample File Numbers
+
+H2: Identifying File Numbers for Record Copy Requests
+
+Requests for copies of historical INS records or files must identify the record by file number or other file identifier.  If you have the file number information described below,  please submit aRecord Request(Form G-1041A).   Otherwise,  submit a GenealogyIndex SearchRequest  (Form G-1041) first.
+
+TABLE:
+If you are requesting a... | Then... | Examples
+Naturalization Certificate File (C-File)Records relating to all U.S. naturalizations, replacement certificates, and Certificates of Citizenship issued between Sept. 27, 1906 and March 31, 1956. The majority of C-Files exist only on microfilm. | Provide the certificate number, and the court and date of naturalization.See theC-File Galleryfor illustrations | C-1234567,Supreme Ct.,Kings Co., NY,March 1922
+Alien Registration Form (AR-2)Microfilmed copies of Form AR-2 completed by all aliens age 14 and older resident in or entering the United States between August 1940 and March 31, 1944.AR-2 numbers available:1 million to 5,980,116A6 100,000 to 6,132,126A7,000,000 to 7,043,999A7,500,000 to 7,759,142 | Provide the Alien Registration Number.SeeAR-2 Forms Galleryfor illustrations. | A-1234567AR-1234567A 1 234 567
+Visa FileOriginal arrival records of immigrants admitted for permanent residence between July 1, 1924 and March 31, 1944. The Visa File number does NOT appear on a ship passenger list.Accordingly, an Index Search Request is almost always required to find a Visa number. | Provide the Visa number and arrival information as obtained from prior Genealogy Search Request (Form G-1041).SeeVisa Files, 1924-1944for more information | (seaport) Joseph Brown, Apr. 29, 1933,Boston, SS Britannic(land port) John Brown, Dec. 17, 1933,Detroit, MI.
+Registry FileOriginal records documenting the creation of immigrant arrival records for persons who entered the United States prior to July 1, 1924, and for whom no arrival record could be found. | Provide the Registry file number as obtained from prior Genealogy Search Request (Form G-1041).SeeRegistry Files, 1929-1944for more information | R-12345R-1234567R-123Do NOT provide Certificate of Registry number (i.e., CR-12345)
+A-FileThe Genealogy Program provides access to A-Files numbered below 8 million. Note that some A-Files have transferred to the National Archives and higher numbered A-Files must be requested from USCIS FOIA. Also note that some A-numbers below 8 million may have a corresponding Form AR-2. However, INS usually consolidated (refiled) the AR-2 in the new A-File jacket. Accordingly, you may wish to request the A-File first. | Provide the Alien Registration Number.SeeA-Files Galleryfor illustrations. | A-1234567AR-1234567A 1 234 567
+
+H3: Naturalization Certificate File (C-File)Records relating to all U.S. naturalizations, replacement certificates, and Certificates of Citizenship issued between Sept. 27, 1906 and March 31, 1956. The majority of C-Files exist only on microfilm.
+
+Provide the certificate number, and the court and date of naturalization.
+
+See theC-File Galleryfor illustrations
+
+H3: Alien Registration Form (AR-2)Microfilmed copies of Form AR-2 completed by all aliens age 14 and older resident in or entering the United States between August 1940 and March 31, 1944.
+
+AR-2 numbers available:
+
+- 1 million to 5,980,116
+
+- A6 100,000 to 6,132,126
+
+- A7,000,000 to 7,043,999
+
+- A7,500,000 to 7,759,142
+
+Provide the Alien Registration Number.
+
+SeeAR-2 Forms Galleryfor illustrations.
+
+H3: Visa FileOriginal arrival records of immigrants admitted for permanent residence between July 1, 1924 and March 31, 1944. The Visa File number does NOT appear on a ship passenger list.Accordingly, an Index Search Request is almost always required to find a Visa number.
+
+Provide the Visa number and arrival information as obtained from prior Genealogy Search Request (Form G-1041).
+
+SeeVisa Files, 1924-1944for more information
+
+H3: Registry FileOriginal records documenting the creation of immigrant arrival records for persons who entered the United States prior to July 1, 1924, and for whom no arrival record could be found.
+
+Provide the Registry file number as obtained from prior Genealogy Search Request (Form G-1041).
+
+SeeRegistry Files, 1929-1944for more information
+
+H3: A-FileThe Genealogy Program provides access to A-Files numbered below 8 million. Note that some A-Files have transferred to the National Archives and higher numbered A-Files must be requested from USCIS FOIA. Also note that some A-numbers below 8 million may have a corresponding Form AR-2. However, INS usually consolidated (refiled) the AR-2 in the new A-File jacket. Accordingly, you may wish to request the A-File first.
+
+Provide the Alien Registration Number.
+
+SeeA-Files Galleryfor illustrations.

@@ -1,0 +1,1390 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/i-129-direcciones" class="language-link" hreflang="es" data-drupal-link-system-path="node/44899">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+      
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+    <nav aria-labelledby="block-uscis-design-mainnavigation-menu" id="block-uscis-design-mainnavigation">
+            
+  <div class="visually-hidden" id="block-uscis-design-mainnavigation-menu">Main navigation</div>
+  
+
+        
+<a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+
+      <ul class="menu--main leftnav-menu" data-level="0">
+          <li class="menu__item-title leftnav-menu__item leftnav-menu__item--0 has-sub-items" data-id="id33859"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/forms/forms" class="leftnav-menu__link leftnav-menu__title" data-drupal-link-system-path="node/88393">Forms</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Forms" aria-controls="id33859" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="id33859"><li class="leftnav-menu__item leftnav-menu__item--1 leftnav-menu__active-trail" data-id="id12911"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/all-forms" class="leftnav-menu__link" data-drupal-link-system-path="node/22983">All Forms</a></div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id41442"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/explore-my-options" class="leftnav-menu__link" data-drupal-link-system-path="node/95961">Explore my Options</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13977"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance" class="leftnav-menu__link" data-drupal-link-system-path="node/43396">Filing Guidance</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Filing Guidance" aria-controls="id13977" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13977"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41650"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/5stepstofile" class="leftnav-menu__link" data-drupal-link-system-path="node/96919">Five Steps to File at the USCIS Lockbox</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25685"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/tips-for-filing-forms-by-mail" class="leftnav-menu__link" data-drupal-link-system-path="node/44654">Tips for Filing Forms by Mail</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25688"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/expedite-requests" class="leftnav-menu__link" data-drupal-link-system-path="node/43424">Expedite Requests</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id17616"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/preparing-for-your-biometric-services-appointment" class="leftnav-menu__link" data-drupal-link-system-path="node/45471">Preparing for Your Biometric Services Appointment</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34486"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/addresschange" class="leftnav-menu__link" data-drupal-link-system-path="node/43677">How to Change Your Address</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25697"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/how-to-track-delivery-of-your-notice-or-secure-identity-document-or-card" class="leftnav-menu__link" data-drupal-link-system-path="node/65797">How to Track Delivery of Your Notice or Secure Identity Document (or Card)</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25694"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/paperwork-reduction-act" class="leftnav-menu__link" data-drupal-link-system-path="node/44858">Paperwork Reduction Act</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13068"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees" class="leftnav-menu__link" data-drupal-link-system-path="node/41953">Filing Fees</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Filing Fees" aria-controls="id13068" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13068"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id42019"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/feecalculator" class="leftnav-menu__link" data-drupal-link-system-path="node/98449">Fee Calculator</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34168"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/g-1055" class="leftnav-menu__link" data-drupal-link-system-path="node/52500">Fee Schedule</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41877"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/frequently-asked-questions-on-the-uscis-fee-rule" class="leftnav-menu__link" data-drupal-link-system-path="node/96938">Frequently Asked Questions on the USCIS Fee Rule</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id20887"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee" class="leftnav-menu__link" data-drupal-link-system-path="node/43798">USCIS Immigrant Fee</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for USCIS Immigrant Fee" aria-controls="id20887" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id20887"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id34171"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee/uscis-immigrant-fee-payment-guide" class="leftnav-menu__link" data-drupal-link-system-path="node/48597">USCIS Immigrant Fee Payment Guide</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25717"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee/how-to-pay-the-uscis-immigrant-fee" class="leftnav-menu__link" data-drupal-link-system-path="node/47770">How to Pay the USCIS Immigrant Fee</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25720"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee/identity-verification-and-the-uscis-immigrant-fee" class="leftnav-menu__link" data-drupal-link-system-path="node/56750">Identity Verification and the USCIS Immigrant Fee</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25723"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee/immigrant-fee-payment-tips-on-finding-your-a-number-and-dos-case-id" class="leftnav-menu__link" data-drupal-link-system-path="node/47276">Tips on Finding Your A-Number and DOS Case ID</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25702"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/forms-processed-at-a-uscis-lockbox" class="leftnav-menu__link" data-drupal-link-system-path="node/65609">Forms Processed at a USCIS Lockbox</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25705"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/poverty-guidelines" class="leftnav-menu__link" data-drupal-link-system-path="node/73474">Poverty Guidelines</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25708"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/additional-information-on-filing-a-fee-waiver" class="leftnav-menu__link" data-drupal-link-system-path="node/50963">Fee Waiver Guidance</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25711"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/additional-information-on-filing-a-reduced-fee-request" class="leftnav-menu__link" data-drupal-link-system-path="node/53942">Additional Information on Filing a Reduced Fee Request</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25714"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/pay-with-a-credit-card" class="leftnav-menu__link" data-drupal-link-system-path="node/49829">Pay With a Credit Card by Mail</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13074"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/forms-updates" class="leftnav-menu__link" data-drupal-link-system-path="node/50444">Forms Updates</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Forms Updates" aria-controls="id13074" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13074"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41461"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/lockbox-and-service-center-filing-location-updates" class="leftnav-menu__link" data-drupal-link-system-path="node/95889">Lockbox and Service Center Filing Location Updates</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id13979"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/department-of-state-ds-and-other-non-uscis-forms" class="leftnav-menu__link" data-drupal-link-system-path="node/46342">Department of State (DS) Forms and Other Non-USCIS Forms</a></div></div></li></ul></li>    
+    </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                            <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/forms/forms">Forms</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/forms/all-forms">All Forms</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Direct Filing Addresses for Form I-129, Petition for a Nonimmigrant Worker</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-article">
+      <div class="container container--main">
+                
+
+                        
+            <h1 class="page-title js-page-title">
+              <span>Direct Filing Addresses for Form I-129, Petition for a Nonimmigrant Worker</span>
+            </h1>
+          
+              
+                    
+      
+  <div>
+                      <div class="clearfix text-formatted field field--name-body field__item">
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p paraid="416762652" paraeid="{2c0c8bbf-df73-4564-bc31-c0a62aebb9ce}{185}"><strong>Alert:</strong> Before sending your package to USCIS, make sure that all the forms you have completed are the current acceptable edition. The current acceptable edition can be found under the Edition Date section listed on each form’s webpage.</p><p>You can also find the edition date at the bottom of the page on the form and instructions. For each form that you are submitting, make sure that all pages are from the same form edition. If any of the form’s pages are from a different form edition, we may reject your form. Watch <a href="https://www.youtube.com/watch?v=LQdgNGjxrms" target="_blank">USCIS Forms: Download the Most Recent Version!</a> to see how to ensure your form is acceptable.</p><p paraid="416762652" paraeid="{2c0c8bbf-df73-4564-bc31-c0a62aebb9ce}{185}">For additional guidance on filing paper-based forms at the Lockbox and how to avoid or correct common errors before you file, please visit the <a href="/5stepstofile" data-entity-type="node" data-entity-uuid="5ec09b4c-0f31-424c-92c4-865c6254969c" data-entity-substitution="canonical">Five Steps to File at the USCIS Lockbox</a> webpage.</p>
+          </div>
+      </div>
+</div>
+
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p><strong>ALERT:</strong> On Oct. 20, 2025, we changed the filing location for certain <a href="/i-129" data-entity-type="node" data-entity-uuid="5c210fe6-2270-43ff-a7e4-b26246f1ab8b" data-entity-substitution="canonical">Form I-129, Petition for a Nonimmigrant Worker</a>, petitions filed requesting <a href="/working-in-the-united-states/temporary-workers/h-2b-temporary-non-agricultural-workers" data-entity-type="node" data-entity-uuid="d4a77652-da96-44d1-924c-79af4cf68382" data-entity-substitution="canonical">H-2B Temporary Non-Agricultural Workers</a> nonimmigrant classification and any associated <a href="/i-907" data-entity-type="node" data-entity-uuid="a12396c0-398a-42af-a1d0-4b0c5da8337d" data-entity-substitution="canonical">Form I-907, Request for Premium Processing Service</a>. If you are filing Form I-129 H-2B petitions postmarked on or after Oct. 20, 2025, you should send them to the USCIS Lockbox instead of Service Center Operations – Texas. However, we will provide a 30-day grace period for these Form I-129 H-2B petitions and accept forms sent to Service Center Operations – Texas, that are postmarked before Nov. 20, 2025.</p><p>The Service Center Operations – Texas will reject Form I-129 petition requesting H-2B nonimmigrant classification, and any associated Form I-907, that are postmarked on or after Nov. 20, 2025. For more information, see the H-2B Petitions filing location information below.</p>
+          </div>
+      </div>
+</div>
+
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p><strong>ALERT:</strong> On Oct. 20, 2025, we changed the filing location for certain <a href="/i-129" data-entity-type="node" data-entity-uuid="5c210fe6-2270-43ff-a7e4-b26246f1ab8b" data-entity-substitution="canonical">Form I-129, Petition for a Nonimmigrant Worker</a>, petitions filed requesting <a href="/working-in-the-united-states/temporary-workers/h-2a-temporary-agricultural-workers" data-entity-type="node" data-entity-uuid="a904ef76-2dc3-4fc8-b7b4-bf53136d6931" data-entity-substitution="canonical">H-2A Temporary Agricultural Workers</a> nonimmigrant classification. If you are filing a Form I-129 petition requesting H-2A nonimmigrant classification together with any other USCIS form (for example, Form I-539, Form I-765, etc.) postmarked on or after Oct. 20, 2025, you should send them to the USCIS Lockbox instead of Service Center Operations – Texas. However, we will provide a 30-day grace period for these Form I-129 H-2A petitions and accept forms sent to Service Center Operations – Texas, that are postmarked before Nov. 20, 2025.</p><p>Service Center Operations – Texas will reject a Form I-129 petition requesting H-2A nonimmigrant classification together with any other USCIS form (for example, Form I-539, Form I-765, etc.) that are postmarked on or after Nov. 20, 2025, For more information, see the H2A petitions filing location information below.</p>
+          </div>
+      </div>
+</div>
+
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p><strong>ALERT:</strong> On Oct. 14, 2025, we changed the filing location for certain <a href="/i-129" data-entity-type="node" data-entity-uuid="5c210fe6-2270-43ff-a7e4-b26246f1ab8b" data-entity-substitution="canonical">Form I-129, Petition for a Nonimmigrant Worker</a>, petitions filed requesting E-3 (Specialty Occupation Workers from Australia) nonimmigrant classification. If you are filing a Form I-129 petition requesting E-3 nonimmigrant classification together with any other USCIS form (for example, Form I-539, Form I-765, etc.) postmarked on or after Oct. 14, 2025, you should send them to the USCIS Lockbox instead of Service Center Operations – Texas. However, we will provide a 30-day grace period for these Form I-129 E-3 petitions and accept forms sent to Service Center Operations – Texas that are postmarked before Nov. 14, 2025.</p><p>Service Center Operations – Texas will reject any Form I-129 petition requesting E-3 nonimmigrant classification that is postmarked on or after Nov. 14, 2025. For more information, see the Where to File section below.</p>
+          </div>
+      </div>
+</div>
+
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p><strong>ALERT:</strong> On Oct. 14, 2025, we changed the filing location for certain <a href="/i-129" data-entity-type="node" data-entity-uuid="5c210fe6-2270-43ff-a7e4-b26246f1ab8b" data-entity-substitution="canonical">Form I-129, Petition for a Nonimmigrant Worker</a>, petitions filed requesting <a href="/working-in-the-united-states/temporary-workers/l-1a-intracompany-transferee-executive-or-manager" data-entity-type="node" data-entity-uuid="2278e1b8-579f-4d4e-9d8a-d2cc46a370ab" data-entity-substitution="canonical">L-1A Intracompany Transferee Executive or Manager</a>, and <a href="/working-in-the-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge" data-entity-type="node" data-entity-uuid="b19d3e19-3ab8-42a5-bfe4-d27c62554327" data-entity-substitution="canonical">L-1B Intracompany Transferee Specialized KnowledgeL-1B Intracompany Transferee Specialized Knowledge</a> nonimmigrant classification. If you are filing a Form I-129 petition requesting L-1A or L-1B nonimmigrant classification together any other USCIS form (for example, Form I-539, Form I-765, etc.) postmarked on or after Oct. 14, 2025, you should send them to the USCIS Lockbox instead of Service Center Operations – Texas. However, we will provide a 30-day grace period for these Form I-129 L-1A or L-1B petitions and accept forms sent to Service Center Operations – Texas that are postmarked before Nov. 14, 2025.</p><p>Service Center Operations – Texas will reject any Form I-129 petition requesting L-1A or L-1B nonimmigrant classification that are postmarked on or after Nov. 14, 2025. For more information, see the Where to File section below.</p>
+          </div>
+      </div>
+</div>
+
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <p><strong>ALERT:</strong> On Sept. 29, 2025, we changed the filing location for certain <a href="/i-129" data-entity-type="node" data-entity-uuid="5c210fe6-2270-43ff-a7e4-b26246f1ab8b" data-entity-substitution="canonical">Form I-129, Petition for a Nonimmigrant Worker</a>, petitions filed requesting <a href="/working-in-the-united-states/temporary-workers/l-1a-intracompany-transferee-executive-or-manager" data-entity-type="node" data-entity-uuid="2278e1b8-579f-4d4e-9d8a-d2cc46a370ab" data-entity-substitution="canonical">L-1A Intracompany Transferee Executive or Manager</a>, and <a href="/working-in-the-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge" data-entity-type="node" data-entity-uuid="b19d3e19-3ab8-42a5-bfe4-d27c62554327" data-entity-substitution="canonical">L-1B Intracompany Transferee Specialized Knowledge</a> nonimmigrant classification and any associated <a href="/i-907" data-entity-type="node" data-entity-uuid="a12396c0-398a-42af-a1d0-4b0c5da8337d" data-entity-substitution="canonical">Form I-907, Request for Premium Processing Service</a>. If you are filing these Form I-129 L-1A or L-1B petitions postmarked on or after Sept. 29, 2025, send them to the USCIS Lockbox instead of Service Center Operations – Texas. However, we will provide a 30-day grace period for these Form I-129 L-1A and L-1B petitions and accept forms sent to Service Center Operations – Texas postmarked before Oct. 29, 2025. If you are filing a Form I-129 petition requesting L-1A or L-1B nonimmigrant classification together with any USCIS form other than Form I-907 (for example, Form I-539, Form I-765, etc.), you should continue to send them to Service Center Operations – Texas.</p><p>Service Center Operations – Texas will reject Form I-129 petitions requesting L-1A or L-1B nonimmigrant classification, and any associated Form I-907, postmarked on or after Oct. 29, 2025, except for those filed together with another USCIS form, as noted above. For more information, see the L Petitions filing location information below.</p>
+          </div>
+      </div>
+</div>
+<h2>Regular Processing</h2><p>All <a href="/i-129" data-entity-type="node" data-entity-uuid="5c210fe6-2270-43ff-a7e4-b26246f1ab8b" data-entity-substitution="canonical">Forms I-129, Petition for a Nonimmigrant Worker</a>, are filed at either Service Center Operations – Texas or a USCIS lockbox facility. Please see the “I-129 Nonimmigrant Classification Filing Locations” accordions below for the proper filing location for each Form I-129 nonimmigrant classification category.</p><p>The “I-129 Nonimmigrant Classification Filing Locations” accordions contain information regarding the proper filing location for each nonimmigrant classification and requested action that may be submitted using Form I-129. If you file your petition at the incorrect location, your petition may be rejected.</p><h2>Listing Your Organization’s Mailing Address</h2><p>Your company’s or organization’s primary office in the United States should be listed in Part 1, Question 3.</p><p>For certain H-1B petitions, the U.S. state or territory where your company or organization’s primary office is located will determine where you should file your Form I-129 package. Other H-1B and H-1B1 (HSC) petitions are filed at only one lockbox location, regardless of where your company or organization’s primary office is located.</p><h2>Providing Additional Information</h2><p>In addition to Part 5, Question 3, you may also use Part 9 of Form I-129 to list additional worksite locations if you need extra space.</p><h2>Premium Processing</h2><p>If you are requesting premium processing services for a Form I-129, you must also file <a href="/i-907" data-entity-type="node" data-entity-uuid="a12396c0-398a-42af-a1d0-4b0c5da8337d" data-entity-substitution="canonical">Form I-907, Request for Premium Processing Service</a>. The filing locations for Form I-907 associated with Form I-129 are listed in the “I-129 Nonimmigrant Classification Filing Locations” accordions below. Before you file the Form I-129/I-907 package, check our <a href="/forms/all-forms/how-do-i-request-premium-processing" data-entity-type="node" data-entity-uuid="3eee8d6a-750f-4141-9c65-23dc0b2a4cc7" data-entity-substitution="canonical">How Do I Request Premium Processing?</a> page to ensure that the requested classification is eligible for premium processing.</p><p>If you wish to file a <strong>standalone</strong> Form I-907 to <strong>upgrade</strong> a <strong>pending</strong> Form I-129 after we have transferred your Form I-129 petition to a different location and you received a transfer notice,  see the "Form I-907 to Upgrade a Pending Form I-129 to Premium Processing" accordion below for information on where to submit your Form I-907.  You should also include a copy of the Form I-129 transfer notice with your premium processing request to avoid delays.</p><h2>I-129 Nonimmigrant Classification Filing Locations</h2><div class="content-accordion"><h4 class="accordion__header" tabindex="0">E Applications (E-1, E-2, E-2C) With a Concurrent Request for Premium Processing</h4><div class="accordion__panel"><p>If you are filing Form I-129 with a concurrent request for premium processing:</p><ul><li>E-1 applications filed by an employer requesting an extension of stay or change of status;</li><li>E-2 applications filed by an employer requesting an extension of stay or change of status; and</li><li>E-2C (CNMI) applications filed by an employer requesting an extension of stay.</li></ul><p>Use these filing locations only when filing Form I-129 for E-1, E-2, and E-2C classifications and Form I-907<strong> together.</strong></p><table class="dataTable"><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th>Filing Location</th></tr></thead><tbody><tr><td style="vertical-align:top;"><ul><li>Alabama</li><li>Alaska</li><li>Arizona</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Montana</li><li>Nevada</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Oregon</li><li>Texas</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 E1/E2/E2C<br>P.O. Box 650679<br>Dallas, TX 75265-0679</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 E1/E2/E2C (Box 650679)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>California</li><li>Michigan</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 E1/E2/E2C<br>P.O. Box 21509<br>Phoenix, AZ 85036-1509</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 E1/E2/E2C (Box 21509)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Arkansas</li><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kansas</li><li>Kentucky</li><li>Nebraska</li><li>North Carolina</li><li>North Dakota</li><li>Ohio</li><li>Oklahoma</li><li>Puerto Rico</li><li>South Carolina</li><li>South Dakota</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 E1/E2/E2C<br>P.O. Box 88781<br>Chicago, IL 60680-1781</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 E1/E2/E2C (Box 88781)<br>131 S. Dearborn St., 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 E1/E2/E2C<br>P.O. Box 4204<br>Carol Stream, IL 60197-4204</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 E1/E2/E2C (Box 4204)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">E Applications (E-1, E-2, E-2C) – Non-Premium</h4><div class="accordion__panel"><p>If you are filing Form I-129 for:</p><ul><li>E-1 applications filed by an employer requesting an extension of stay or change of status;</li><li>E-2 applications filed by an employer requesting an extension of stay or change of status; and</li><li>E-2C (CNMI) applications filed by an employer requesting an extension of stay.</li></ul><table><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th>Filing Location</th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Arkansas</li><li>Florida</li><li>Georgia</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Texas</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 E1/E2/E2C<br>P.O. Box 650542<br>Dallas, TX 75265-0542</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 E1/E2/E2C (Box 650542)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>Alaska</li><li>Arizona</li><li>California</li><li>Colorado</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Kansas</li><li>Michigan</li><li>Montana</li><li>Nebraska</li><li>Nevada</li><li>New Mexico</li><li>North Dakota</li><li>Northern Mariana Islands</li><li>Oklahoma</li><li>Oregon</li><li>South Dakota</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 E1/E2/E2C<br>P.O. Box 20000<br>Phoenix, AZ 85036-0099</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 E1/E2/E2C (Box 20000)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kentucky</li><li>North Carolina</li><li>Ohio</li><li>Puerto Rico</li><li>South Carolina</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 E1/E2/E2C<br>P.O. Box 88777<br>Chicago, IL 60680-1777</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 E1/E2/E2C (Box 88777)<br>131 S. Dearborn St., 3<sup>rd</sup> Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 E1/E2/E2C  <br>P.O. Box 4016<br>Carol Stream, IL 60197-4016</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 E1/E2/E2C (Box 4016)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">E Applications (E-3) With a Concurrent Request for Premium Processing</h4><div class="accordion__panel"><p>If you are filing Form I-129 for E-3 classification seeking an extension of stay or change of status on behalf of a worker, <strong>together </strong>with <a href="/i-907" data-entity-type="node" data-entity-uuid="a12396c0-398a-42af-a1d0-4b0c5da8337d" data-entity-substitution="canonical">Form I-907, Request for Premium Processing Service</a>, see the table below for where to file.</p><p>Use these filing locations only when filing Form I-129 for E-3 classification and Form I-907 <strong>together</strong>.</p><table border="1" cellspacing="0" cellpadding="0"><thead><tr><th width="240"><strong>If the organization’s primary office state is:</strong></th><th width="240">File Your Form I-129 with Form I-907 at:</th></tr></thead><tbody><tr><td width="240"><ul><li>American Samoa</li><li>Arkansas</li><li>Armed Forces – America</li><li>Armed Forces – Europe</li><li>Armed Forces – Pacific</li><li>California</li><li>Florida</li><li>Guam</li><li>Iowa</li><li>Illinois</li><li>Indiana</li><li>Louisiana</li><li>Michigan</li><li>Micronesia</li><li>Minnesota</li><li>Montana</li><li>North Carolina</li><li>North Dakota</li><li>Nevada</li><li>New Hampshire</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Ohio</li><li>Oklahoma</li><li>Palau</li><li>Pennsylvania</li><li>Puerto Rico</li><li>Rhode Island</li><li>South Carolina</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Utah</li><li>Vermont</li><li>Washington</li><li>Wyoming</li></ul></td><td width="240"><p> </p><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 E-3<br>P.O. Box 88292<br>Chicago, IL 60680-1292</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS <br>Attn: I-129 E-3<strong> </strong>(Box 88292)<br>131 S. Dearborn St., Third Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td width="240"><ul><li>Alabama</li><li>Alaska</li><li>Arizona</li><li>Colorado</li><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Georgia</li><li>Hawaii</li><li>Idaho</li><li>Kansas</li><li>Kentucky</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>Mississippi</li><li>Missouri</li><li>Nebraska</li><li>New Jersey</li><li>New York</li><li>Oregon</li><li>South Dakota</li><li>Texas</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td width="240"><p> </p><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service:</strong></p><p>USCIS<br>Attn: I-129 E-3<br>P.O. Box 660090<br>Dallas, TX 75265-0090</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 E-3 (Box 660090)<br>2501 S. State Highway 121 Business<br>Suite 400<br>Lewisville, TX 75067-8003</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">E Applications (E-3) – Non-Premium</h4><div class="accordion__panel"><p>If you are filing Form I-129 for E-3 classification seeking an extension of stay or change of status on behalf of a worker, see the table below for where to file.</p><p>Use these filing locations only when filing Form I-129 for E-3 classification.</p><table border="1" cellspacing="0" cellpadding="0"><thead><tr><th width="240"><strong>If the organization’s primary office state is:</strong></th><th width="240">File Your Form I-129 at:</th></tr></thead><tbody><tr><td width="240"><ul><li>American Samoa</li><li>Arkansas</li><li>Armed Forces – America</li><li>Armed Forces – Europe</li><li>Armed Forces – Pacific</li><li>California</li><li>Florida</li><li>Guam</li><li>Iowa</li><li>Illinois</li><li>Indiana</li><li>Louisiana</li><li>Michigan</li><li>Micronesia</li><li>Minnesota</li><li>Montana</li><li>North Carolina</li><li>North Dakota</li><li>Nevada</li><li>New Hampshire</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Ohio</li><li>Oklahoma</li><li>Palau</li><li>Pennsylvania</li><li>Puerto Rico</li><li>Rhode Island</li><li>South Carolina</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Utah</li><li>Vermont</li><li>Washington</li><li>Wyoming</li></ul></td><td width="240"><p> </p><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service:</strong></p><p>USCIS<br>Attn: I-129 E-3<br>P.O. Box 88290<br>Chicago, IL 60680-1290</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS <br>Attn: I-129 E-3 (Box 88290)<br>131 S. Dearborn St., Third Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td width="240"><ul><li>Alabama</li><li>Alaska</li><li>Arizona</li><li>Colorado</li><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Georgia</li><li>Hawaii</li><li>Idaho</li><li>Kansas</li><li>Kentucky</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>Mississippi</li><li>Missouri</li><li>Nebraska</li><li>New Jersey</li><li>New York</li><li>Oregon</li><li>South Dakota</li><li>Texas</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td width="240"><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service:</strong></p><p>USCIS<br>Attn: I-129 E-3<br>P.O. Box 653077<br>Dallas, TX 75265-3077</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 E-3 (Box 653077)<br>2501 S. State Highway 121 Business<br>Suite 400<br>Lewisville, TX 75067-8003</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">H-1B, H-1B2, and H-1B3 Petitions (Cap and Non-Cap) With a Concurrent Request for Premium Processing</h4><div class="accordion__panel"><p>If you are filing Form I-129 <strong>together </strong>with <a href="/i-907" data-entity-type="node" data-entity-uuid="a12396c0-398a-42af-a1d0-4b0c5da8337d" data-entity-substitution="canonical">Form I-907, Request for Premium Processing Service</a>, see the table below for where to file. This location should be used rather than the location listed for the form type when not requesting premium processing service.</p><p>Use these filing locations only when filing Form I-129 and Form I-907<strong> together.</strong></p><table><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th><strong>Filing Location</strong></th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Alaska</li><li>Arizona</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Montana</li><li>Nevada</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Oregon</li><li>Texas</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 H-1B<br>P.O. Box 650679<br>Dallas, TX 75265-0679</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 H-1B (Box 650679)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>California</li><li>Michigan</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 H-1B<br>P.O. Box 21509<br>Phoenix, AZ 85036-1509</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 H-1B (Box 21509)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Arkansas</li><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kansas</li><li>Kentucky</li><li>Nebraska</li><li>North Carolina</li><li>North Dakota</li><li>Ohio</li><li>Oklahoma</li><li>Puerto Rico</li><li>South Carolina</li><li>South Dakota</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 H-1B<br>P.O. Box 88781<br>Chicago, IL 60680-1781</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 H-1B (Box 88781)<br>131 S. Dearborn St., 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 H-1B<br>P.O. Box 4204<br>Carol Stream, IL 60197-4204</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 H-1B (Box 4204)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">H-1B and H-1B3 Cap-Subject Petitions (Regular Cap and Advanced Degree Exemption) – Non-Premium</h4><div class="accordion__panel"><p>If you are filing:</p><ul><li>H-1B and H-1B3 petitions subject to the regular H-1B cap of 65,000; or</li><li>H-1B and H-1B3 petitions subject to the H-1B advanced degree exemption (master’s cap) of 20,000.</li></ul><p>See the table below for where to file your Form I-129.</p><table><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th><strong>Filing Location</strong></th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Arkansas</li><li>Florida</li><li>Georgia</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Texas</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 650542<br>Dallas, TX 75265-0542</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 650542)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>Alaska</li><li>Arizona</li><li>California</li><li>Colorado</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Kansas</li><li>Michigan</li><li>Montana</li><li>Nebraska</li><li>Nevada</li><li>New Mexico</li><li>North Dakota</li><li>Northern Mariana Islands (CNMI)</li><li>Oklahoma</li><li>Oregon</li><li>South Dakota</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 20000<br>Phoenix, AZ 85036-0099</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 20000)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kentucky</li><li>North Carolina</li><li>Ohio</li><li>Puerto Rico</li><li>South Carolina</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 88777<br>Chicago, IL 60680-1777</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 88777)<br>131 S. Dearborn St., 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B <br>P.O. Box 4016<br>Carol Stream, IL 60197-4016</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 4016)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">H-1B Cap-Exempt Petitioners or Entities  – Non-Premium</h4><div class="accordion__panel"><p>If you are filing:</p><ul><li>H-1B petitions that are exempt from the cap because the employer is cap exempt or because the beneficiary will be employed at a qualifying cap exempt institution, entity or organization.</li></ul><p>See the table below for where to file your Form I-129.</p><table><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th><strong>Filing Location</strong></th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Arkansas</li><li>Florida</li><li>Georgia</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>North Carolina</li><li>Texas</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 650542<br>Dallas, TX 75265-0542</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 650542)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>Alaska</li><li>Arizona</li><li>California</li><li>Colorado</li><li>District of Columbia</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Kansas</li><li>Michigan</li><li>Montana</li><li>Nebraska</li><li>Nevada</li><li>New Jersey</li><li>New Mexico</li><li>North Dakota</li><li>Northern Mariana Islands</li><li>Oklahoma</li><li>Oregon</li><li>South Dakota</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 20000<br>Phoenix, AZ 85036-0099</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 20000)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kentucky</li><li>Ohio</li><li>Puerto Rico</li><li>South Carolina</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 88777<br>Chicago, IL 60680-1777</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 88777)<br>131 S. Dearborn St., 3<sup>rd</sup> Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B <br>P.O. Box 4016<br>Carol Stream, IL 60197-4016</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 4016)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">H-1B Guam, H-1B Conrad/IGA, and H-1B2 Petitions  – Non-Premium</h4><div class="accordion__panel"><p>If you are filing:</p><ul><li>H-1B petitions where the employer is located in Guam or the beneficiary will be performing services in Guam; or</li><li>Petitions filed on behalf of cap-exempt beneficiaries based on a Conrad/IGA waiver under INA Section 214(l); or</li><li>H-1B petitions filed for aliens coming to the United States to perform services of an exceptional nature relating to a cooperative research and development project administered by the U.S. Department of Defense (DOD).</li></ul><p>See the table below for where to file your Form I-129.</p><table><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th><strong>Filing Location</strong></th></tr></thead><tbody><tr><td><ul><li>Any state</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B <br>P.O. Box 4016<br>Carol Stream, IL 60197-4016</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 4016)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">All Other H-1B, H-1B1 (HSC), and H-1B3 Petitions (extension of stay, change of status, concurrent employment, POE/PFI/consular notification, and amended petitions)  – Non-Premium</h4><div class="accordion__panel"><p>If you are filing:</p><ul><li>All Other H-1B, H-1B1 (HSC), and H-1B3 petitions including extensions, concurrent employment and amendments, and petitions from the same employer without change.</li></ul><p>This includes:</p><ul><li>A continuation of previously approved employment from the same employer without change.</li><li>A change in previously approved employment.</li><li>New concurrent employment.</li><li>A change of employer.</li><li>A change of status to H-1B.</li><li>Notification to a U.S. consulate, POE, or PFI.</li><li>Amended petitions.</li><li>All H-1B1 petitions eligible for filing with USCIS. Note that USCIS does not accept H-1B1 petitions requesting consular processing.</li></ul><p>See the table below for where to file your Form I-129.</p><table><thead><tr><th><strong>Petitioner’s Primary Office State</strong></th><th><strong>Filing Location</strong></th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Arkansas</li><li>Florida</li><li>Georgia</li><li>Iowa</li><li>Kansas</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Montana</li><li>Nebraska</li><li>New Mexico</li><li>North Dakota</li><li>Oklahoma</li><li>Oregon</li><li>South Dakota</li><li>Texas</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 650542<br>Dallas, TX 75265-0542</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 650542)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>Alaska</li><li>Arizona</li><li>California</li><li>Colorado</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Michigan</li><li>Nevada</li><li>Northern Mariana Islands</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 20000<br>Phoenix, AZ 85036-0099</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 20000)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kentucky</li><li>North Carolina</li><li>Ohio</li><li>Puerto Rico</li><li>South Carolina</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 88777<br>Chicago, IL 60680-1777</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 88777)<br>131 S. Dearborn St., 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-1B<br>P.O. Box 4016<br>Carol Stream, IL 60197-4016</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-1B (Box 4016)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">H-2A Petitions</h4><div class="accordion__panel"><p>If you are filing Form I-129 (and Form G-28, if applicable) for H-2A classification where the beneficiary will be employed as a temporary agricultural worker.</p><p>Use the filing locations below only when filing Form I-129 (and Form G-28, if applicable) for H-2A.</p><p>Note: Form I-129H2A can only be filed online by uploading the completed PDF in a <a href="https://myaccount.uscis.gov/">USCIS online account</a>. USCIS will reject any paper filed Form I-129H2A petitions.</p><table class="dataTable"><thead><tr><th><strong>If the petitioner’s primary office state is:</strong></th><th><strong> File Your Form I-129 at:</strong></th></tr></thead><tbody><tr><td><ul><li>Connecticut</li><li>District of Columbia</li><li>Delaware</li><li>Iowa</li><li>Idaho</li><li>Illinois</li><li>Indiana</li><li>Kentucky</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>Michigan</li><li>Minnesota</li><li>Missouri</li><li>Montana</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>North Dakota</li><li>Ohio</li><li>Oklahoma</li><li>Oregon</li><li>Pennsylvania</li><li>Puerto Rico</li><li>South Dakota</li><li>Tennessee</li><li>Vermont</li><li>Virginia</li><li>Washington</li><li>West Virginia</li><li>Wisconsin</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-2A<br>P.O. Box 4225<br>Carol Stream, IL 60197-4225</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-2A (Box 4225)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr><tr><td><ul><li>Alabama</li><li>Alaska</li><li>American Samoa</li><li>Arkansas</li><li>Arizona</li><li>Armed Forces – America</li><li>Armed Forces – Europe</li><li>Armed Forces – Pacific</li><li>California</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Kansas</li><li>Louisiana</li><li>Micronesia</li><li>Mississippi</li><li>North Carolina</li><li>Nebraska</li><li>Nevada</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Palau</li><li>Rhode Island</li><li>South Carolina</li><li>Texas</li><li>U.S. Virgin Islands</li><li>Utah</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-2A<br>P.O. Box 21503<br>Phoenix, AZ 85036-1503</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-2A (Box 21503)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">H-2B Petitions – With a Concurrent Request for Premium Processing</h4><div class="accordion__panel"><p>If you are filing Form I-129 <strong>together with </strong>Form I-907 for:</p><ul><li>H-2B petitions where the beneficiary will be employed as a temporary agricultural worker; or</li><li>H-2B petitions where the beneficiary will be performing labor or services in Guam.</li></ul><p>Use the filing locations below only when filing Form I-129 for H-2B and H-2B Guam classifications and Form I-907<strong> together.</strong></p><table><thead><tr><th>If the petitioner’s primary office state is:</th><th>File Your Form I-129 with Form I-907 at:</th></tr></thead><tbody><tr><td><ul><li>Alaska</li><li>Connecticut</li><li>District of Columbia</li><li>Delaware</li><li>Iowa</li><li>Idaho</li><li>Illinois</li><li>Indiana</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>Michigan</li><li>Minnesota</li><li>Missouri</li><li>Montana</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>North Carolina</li><li>North Dakota</li><li>Ohio</li><li>Oregon</li><li>Pennsylvania</li><li>Rhode Island</li><li>South Carolina</li><li>South Dakota</li><li>Tennessee</li><li>Utah</li><li>Vermont</li><li>Washington</li><li>West Virginia</li><li>Wisconsin</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 H-2B<br>P.O. Box 4222<br>Carol Stream, IL 60197-4222</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 H-2B (Box 4222)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr><tr><td><ul><li>Alabama</li><li>American Samoa</li><li>Arkansas</li><li>Arizona</li><li>Armed Forces – America</li><li>Armed Forces – Europe</li><li>Armed Forces – Pacific</li><li>California</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Kansas</li><li>Kentucky</li><li>Louisiana</li><li>Micronesia</li><li>Mississippi</li><li>Nebraska</li><li>Nevada</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Oklahoma</li><li>Palau</li><li>Puerto Rico</li><li>Texas</li><li>U.S. Virgin Islands</li><li>Virginia</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 H-2B<br>P.O. Box 21501<br>Phoenix, AZ 85036-1501</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 H-2B (Box 21501)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">H-2B Petitions – Non-Premium</h4><div class="accordion__panel"><p>If you are filing Form I-129 for:</p><ul><li>H-2B petitions where the beneficiary will be employed as a temporary agricultural worker; or</li><li>H-2B petitions where the beneficiary will be performing labor or services in Guam.</li></ul><p>Use the filing locations below only when filing Form I-129 for H-2B and H-2B Guam classifications.</p><table><thead><tr><th>If the petitioner’s primary office state is:</th><th>File Your Form I-129 at:</th></tr></thead><tbody><tr><td><ul><li>Alaska</li><li>Connecticut</li><li>District of Columbia</li><li>Delaware</li><li>Iowa</li><li>Idaho</li><li>Illinois</li><li>Indiana</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>Michigan</li><li>Minnesota</li><li>Missouri</li><li>Montana</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>North Carolina</li><li>North Dakota</li><li>Ohio</li><li>Oregon</li><li>Pennsylvania</li><li>Rhode Island</li><li>South Carolina</li><li>South Dakota</li><li>Tennessee</li><li>Utah</li><li>Vermont</li><li>Washington</li><li>West Virginia</li><li>Wisconsin</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 H-2B<br>P.O. Box 4219<br>Carol Stream, IL 60197-4219</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 H-2B (Box 4219)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr><tr><td><ul><li>Alabama</li><li>American Samoa</li><li>Arkansas</li><li>Arizona</li><li>Armed Forces – America</li><li>Armed Forces – Europe</li><li>Armed Forces – Pacific</li><li>California</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Kansas</li><li>Kentucky</li><li>Louisiana</li><li>Micronesia</li><li>Mississippi</li><li>Nebraska</li><li>Nevada</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Oklahoma</li><li>Palau</li><li>Puerto Rico</li><li>Texas</li><li>U.S. Virgin Islands</li><li>Virginia</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br> Attn: I-129 H-2B<br> P.O. Box 21111<br> Phoenix, AZ 85036-1111</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br> Attn: I-129 H-2B (Box 21111)<br> 2108 E. Elliot Rd.<br> Tempe, AZ 85284-1806</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">H-3 Petitions  – With a Concurrent Request for Premium Processing</h4><div class="accordion__panel"><p>If you are filing Form I-129 <strong>together with </strong>Form I-907 for H-3 petitions filed by employers for beneficiaries who are trainees or special education exchange visitors.</p><p>Use the filing locations below only when filing Form I-129 for H-3 classifications and Form I-907<strong> together.</strong></p><table border="1" cellspacing="0" cellpadding="0"><thead><tr><th width="240">If your filing package includes:</th><th width="312">File Your Form I-129 with Form I-907 at:</th></tr></thead><tbody><tr><td width="240"><p>I-129 (H-3) <strong>together with</strong> Form I-907</p><p>Do not use this address if your filing package includes other forms besides Form I-129 and Form I-907</p></td><td width="312"><p><strong>U.S. Postal Service (USPS), FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Form I-129H3 Premium Processing<br>10 Application Way<br>Montclair, CA 91763-1350</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">H-3 Petitions  – Non-Premium </h4><div class="accordion__panel"><p>If you are filing Form I-129 for H-3 petitions filed by employers for beneficiaries who are trainees or special education exchange visitors.</p><p>Use the filing locations below only when filing Form I-129 for H-3 classifications.</p><table border="1" cellspacing="0" cellpadding="0"><thead><tr><th width="240">If your filing package includes:</th><th width="240">File Your Form I-129 at:</th></tr></thead><tbody><tr><td width="240"><p>I-129 (H-3 petitions)</p><p>Do not use this address if your filing package includes other forms besides Form I-129</p></td><td width="240"><p><strong>U.S. Postal Service (USPS), FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Form I-129H3<br>10 Application Way<br>Montclair, CA 91763-1350</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">L Petitions (L-1A, L-1B, LZ) – With a Concurrent Request for Premium Processing</h4><div class="accordion__panel"><p>If you are filing Form I-129 <strong>together with </strong>Form I-907 for L-1A, L-1B, and LZ (Blanket L-1) petitions.</p><p>NOTE: Canadian citizens, who are exempt from the L-1 visa requirement, may present the completed Form I-129 and supporting documentation to a U.S. Customs and Border Protection (CBP) officer at certain ports-of-entry on the United States-Canada land border or at a United States pre-clearance/pre-flight inspection station in Canada, in connection with an application for admission to the United States in L-1 status.</p><p>Use the filing locations below only when filing Form I-129 for L-1A, L-1B, and LZ (Blanket L-1) classifications and Form I-907<strong> together.</strong></p><table class="dataTable"><thead><tr><th><strong>I</strong>f<strong> the petitioner’s primary office state is:</strong></th><th>File Your Form I-129 with Form I-907 at:</th></tr></thead><tbody><tr><td><ul><li>Alaska</li><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Idaho</li><li>Illinois</li><li>Indiana</li><li>Iowa</li><li>Kansas</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>Michigan</li><li>Minnesota</li><li>Montana</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>North Dakota</li><li>Ohio</li><li>Oregon</li><li>Pennsylvania</li><li>Rhode Island</li><li>South Dakota</li><li>Tennessee</li><li>Vermont</li><li>Washington</li><li>West Virginia</li><li>Wisconsin</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 L<br>P.O. Box 88298<br>Chicago, IL 60680-1298</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 Premium L (Box 88298)<br>131 S. Dearborn St., Third Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Alabama</li><li>American Samoa</li><li>Arizona</li><li>Arkansas</li><li>Armed Forces – America</li><li>Armed Forces – Europe</li><li>Armed Forces – Pacific</li><li>California</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Kentucky</li><li>Louisiana</li><li>Micronesia</li><li>Mississippi</li><li>Missouri</li><li>Nebraska</li><li>Nevada</li><li>New Mexico</li><li>North Carolina</li><li>Northern Mariana Islands</li><li>Oklahoma</li><li>Palau</li><li>Puerto Rico</li><li>South Carolina</li><li>Texas</li><li>U.S. Virgin Islands</li><li>Utah</li><li>Virginia</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 L<br>P.O. Box 660095<br>Dallas, TX 75265-0095</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 L (Box 660095)<br>2501 S. State Highway 121 Business<br>Suite 400<br>Lewisville, TX 75067-8003</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">L Petitions (L-1A, L-1B, LZ) – Non-Premium</h4><div class="accordion__panel"><p>If you are filing Form I-129 for L-1A, L-1B, and LZ (Blanket L-1) petitions.</p><p>NOTE: Canadian citizens, who are exempt from the L-1 visa requirement, may present the completed Form I-129 and supporting documentation to a U.S. Customs and Border Protection (CBP) officer at certain ports-of-entry on the United States-Canada land border or at a United States pre-clearance/pre-flight inspection station in Canada, in connection with an application for admission to the United States in L-1 status.</p><p>Use the filing locations below only when filing Form I-129 for L-1A, L-1B, and LZ (Blanket L-1) classifications.</p><table><thead><tr><th><strong>I</strong>f<strong> the petitioner’s primary office state is:</strong></th><th>File Your Form I-129 at:</th></tr></thead><tbody><tr><td><ul><li>Alaska</li><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Idaho</li><li>Illinois</li><li>Indiana</li><li>Iowa</li><li>Kansas</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>Michigan</li><li>Minnesota</li><li>Montana</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>North Dakota</li><li>Ohio</li><li>Oregon</li><li>Pennsylvania</li><li>Rhode Island</li><li>South Dakota</li><li>Tennessee</li><li>Vermont</li><li>Washington</li><li>West Virginia</li><li>Wisconsin</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 L<br>P.O. Box 88111<br>Chicago, IL 60680-1111</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 L (Box 88111)<br>131 S. Dearborn St., Third Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Alabama</li><li>American Samoa</li><li>Arizona</li><li>Arkansas</li><li>Armed Forces – America</li><li>Armed Forces – Europe</li><li>Armed Forces – Pacific</li><li>California</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Kentucky</li><li>Louisiana</li><li>Micronesia</li><li>Mississippi</li><li>Missouri</li><li>Nebraska</li><li>Nevada</li><li>New Mexico</li><li>North Carolina</li><li>Northern Mariana Islands</li><li>Oklahoma</li><li>Palau</li><li>Puerto Rico</li><li>South Carolina</li><li>Texas</li><li>U.S. Virgin Islands</li><li>Utah</li><li>Virginia</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 L<br>P.O. Box 660094<br>Dallas, TX 75265-0094</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 L (Box 660094)<br>2501 S. State Highway 121 Business<br>Suite 400<br>Lewisville, TX 75067-8003</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">O Petitions (O-1A, O-1B, O-2)</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th>I-129 Nonimmigrant Classification</th><th>Category Description</th><th>Filing Location</th></tr></thead><tbody><tr><td style="vertical-align:top;">O petitions</td><td style="vertical-align:top;"><p>Includes petitions filed for O-1A, O-1B, and O-2.</p><p>You may pay with a <a href="/g-1450" data-entity-type="node" data-entity-uuid="5e3d5a4e-a176-4696-984e-46e629ea4ee4" data-entity-substitution="canonical">credit card</a>.</p></td><td style="vertical-align:top;"><p><strong>USPS:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 O<br>6046 N Belt Line Rd. STE 115<br>Irving, TX 75038-0018</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 O<br>6046 N Belt Line Rd. STE 115<br>Irving, TX 75038-0001</p><p><strong>I-129/I-907 Premium Processing (Filed Together)</strong></p><p><strong>USPS:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 O Premium Processing<br>6046 N Belt Line Rd. STE 907<br>Irving, TX 75038-0022</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 O Premium Processing<br>6046 N Belt Line Rd. STE 907<br>Irving, TX 75038-0001</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">P Petitions (P-1, P-1A, P-1B, P-1S, P-2, P-2S, P-3, P-3S)</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th>I-129 Nonimmigrant Classification</th><th>Category Description</th><th>Filing Location</th></tr></thead><tbody><tr><td style="vertical-align:top;"><p>P-1A or P-1S major league sports organization petitions</p><p>Currently, we only consider the NHL, MLB, NFL, NBA and MLS to be major league sports for the purpose of filing jurisdiction.</p></td><td style="vertical-align:top;">You may pay with a <a href="https://www.uscis.gov/g-1450">credit card</a>.</td><td style="vertical-align:top;"><p><strong>USPS</strong>:</p><p>USCIS Texas Service Center<br>Attn: I-129 P<br>6046 N Belt Line Rd. STE 115<br>Irving, TX 75038-0018</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 P<br>6046 N Belt Line Rd. STE 115<br>Irving, TX 75038-0001</p><p><strong>I-129/I-907 Premium Processing (Filed Together)</strong></p><p><strong>USPS:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 P Premium Processing<br>6046 N Belt Line Rd. STE 907<br>Irving, TX 75038-0022</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 P Premium Processing<br>6046 N Belt Line Rd. STE 907<br>Irving, TX 75038-0001</p></td></tr><tr><td style="vertical-align:top;">All other P petitions</td><td style="vertical-align:top;"><p>Includes petitions filed for P-1A athlete or athletic group other than major league sports, P-1B, P-1S, P-2, P-2S, P-3 and P-3S.</p><p>You may pay with a <a href="/g-1450" data-entity-type="node" data-entity-uuid="5e3d5a4e-a176-4696-984e-46e629ea4ee4" data-entity-substitution="canonical">credit card</a>.</p></td><td style="vertical-align:top;"><p><strong>USPS:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 P<br>6046 N Belt Line Rd. STE 115<br>Irving, TX 75038-0018</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 P<br>6046 N Belt Line Rd. STE 115<br>Irving, TX 75038-0001</p><p><strong>I-129/I-907 Premium Processing (Filed Together)</strong></p><p><strong>USPS:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 P Premium Processing<br>6046 N Belt Line Rd. STE 907<br>Irving, TX 75038-0022</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS Texas Service Center<br>Attn: I-129 P Premium Processing<br>6046 N Belt Line Rd. STE 907<br>Irving, TX 75038-0001</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Q-1 Petitions – With a Concurrent Request for Premium Processing </h4><div class="accordion__panel"><p>If you are filing Form I-129 <strong>together with </strong>Form I-907 for Q-1 petitions filed by an employer for a beneficiary who will participate in an international cultural exchange program.</p><p>Use the filing locations below only when filing Form I-129 for Q-1 classifications and Form I-907<strong> together.</strong></p><table border="1" cellspacing="0" cellpadding="0"><thead><tr><th width="240">If your filing package includes:</th><th width="312">File Your Form I-129 with Form I-907 at:</th></tr></thead><tbody><tr><td width="240"><p>I-129 (Q-1) <strong>together with</strong> Form I-907</p><p>Do not use this address if your filing package includes other forms besides Form I-129 and Form I-907</p></td><td width="312"><p><strong>U.S. Postal Service (USPS), FedEx, UPS, and DHL deliveries:</strong></p><p> </p><p>USCIS<br>Attn: Form I-129Q Premium Processing<br>10 Application Way<br>Montclair, CA 91763-1350</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Q-1 Petitions – Non-Premium</h4><div class="accordion__panel"><p>If you are filing Form I-129 for Q-1 petitions for beneficiaries who are trainees or special education exchange visitors.</p><p>Use the filing locations below only when filing Form I-129 for Q-1 classifications.</p><table border="1" cellspacing="0" cellpadding="0"><thead><tr><th width="240">If your filing package includes:</th><th width="240">File Your Form I-129 at:</th></tr></thead><tbody><tr><td width="240"><p>I-129 (Q-1 petitions)</p><p>Do not use this address if your filing package includes other forms besides Form I-129</p></td><td width="240"><p><strong>U.S. Postal Service (USPS), FedEx, UPS, and DHL deliveries:</strong></p><p> </p><p>USCIS<br>Attn: Form I-129Q<br>10 Application Way<br>Montclair, CA 91763-1350</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">R Petitions (R-1) With a Concurrent Request for Premium Processing</h4><div class="accordion__panel"><p>If you are filing Form I-129 under the R-1 nonimmigrant classification for an alien who will be employed as a minister or in a religious occupation or vocation, <strong>together </strong>with <a href="/i-907" data-entity-type="node" data-entity-uuid="a12396c0-398a-42af-a1d0-4b0c5da8337d" data-entity-substitution="canonical">Form I-907, Request for Premium Processing Service</a>, see the table below for filing locations.</p><p>Use these filing locations only when filing Form I-129, R-1 classification petition, and Form I-907<strong> together.</strong></p><table border="1" cellspacing="0" cellpadding="0" width="720"><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th><strong>Filing Location</strong></th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Alaska</li><li>Arizona</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Montana</li><li>Nevada</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Oregon</li><li>Texas</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 R-1<br>P.O. Box 650679<br>Dallas, TX 75265-0679</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 R-1 (Box 650679)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>California</li><li>Michigan</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 R-1<br>P.O. Box 21509<br>Phoenix, AZ 85036-1509</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 R-1 (Box 21509)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Arkansas</li><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kansas</li><li>Kentucky</li><li>Nebraska</li><li>North Carolina</li><li>North Dakota</li><li>Ohio</li><li>Oklahoma</li><li>Puerto Rico</li><li>South Carolina</li><li>South Dakota</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin<br> </li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 R-1<br>P.O. Box 88781<br>Chicago, IL 60680-1781</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 R-1 (Box 88781)<br>131 S. Dearborn St., 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 R-1<br>P.O. Box 4204<br>Carol Stream, IL 60197-4204</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 R-1 (Box 4204)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">R Petitions (R-1) Non-Premium</h4><div class="accordion__panel"><p>If you are filing Form I-129 under the R-1 nonimmigrant classification for an alien who will be employed as a minister or in a religious occupation or vocation, <strong>without </strong><a href="/i-907" data-entity-type="node" data-entity-uuid="a12396c0-398a-42af-a1d0-4b0c5da8337d" data-entity-substitution="canonical">Form I-907, Request for Premium Processing Service</a>, see the table below for filing locations.</p><table border="1" cellspacing="0" cellpadding="0" width="720"><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th><strong>Filing Location</strong></th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Arkansas</li><li>Florida</li><li>Georgia</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Texas</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 R-1<br>P.O. Box 650542<br>Dallas, TX 75265-0542</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 R-1 (Box 650542)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>Alaska</li><li>Arizona</li><li>California</li><li>Colorado</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Kansas</li><li>Michigan</li><li>Montana</li><li>Nebraska</li><li>Nevada</li><li>New Mexico</li><li>North Dakota</li><li>Northern Mariana Islands</li><li>Oklahoma</li><li>Oregon</li><li>South Dakota</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 R-1<br>P.O. Box 20000<br>Phoenix, AZ 85036-0099</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 R-1 (Box 20000)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kentucky</li><li>North Carolina</li><li>Ohio</li><li>Puerto Rico</li><li>South Carolina</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 R-1<br>P.O. Box 88777<br>Chicago, IL 60680-1777</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 R-1 (Box 88777)<br>131 S. Dearborn St., 3<sup>rd</sup> Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 R-1 <br>P.O. Box 4016<br>Carol Stream, IL 60197-4016</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 R-1 (Box 4016)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">TN Free Trade Petitions (TN-1, TN-2) With a Concurrent Request for Premium Processing</h4><div class="accordion__panel"><p>If you are filing Form I-129 for TN-1 and TN-2 petitions requesting an extension of stay or change of status, or a TN-1 application filed on behalf of a Canadian citizen who is outside of the United States, <strong>together </strong>with <a href="/i-907" data-entity-type="node" data-entity-uuid="a12396c0-398a-42af-a1d0-4b0c5da8337d" data-entity-substitution="canonical">Form I-907, Request for Premium Processing Service</a>, see the table below for where to file.</p><p>Use these filing locations only when filing Form I-129 for TN-1 and TN-2 classifications and Form I-907<strong> together.</strong></p><p><em>Note: that if you are a Mexican national outside of the United States seeking TN status you should not use this form, but instead must apply for a TN visa at a U.S. embassy or consulate. Additional information is available on the </em><a href="/working-in-the-united-states/temporary-workers/tn-usmca-professionals" data-entity-type="node" data-entity-uuid="847f9e0b-b618-4c38-acdc-a418228477ee" data-entity-substitution="canonical"><em>TN NAFTA Professionals</em></a><em> page.</em></p><table><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th><strong>Filing Location</strong></th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Alaska</li><li>Arizona</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Montana</li><li>Nevada</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Oregon</li><li>Texas</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 TN1/TN2<br>P.O. Box 650679<br>Dallas, TX 75265-0679</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 TN1/TN2 (Box 650679)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>California</li><li>Michigan</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 TN1/TN2<br>P.O. Box 21509<br>Phoenix, AZ 85036-1509</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 TN1/TN2 (Box 21509)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Arkansas</li><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kansas</li><li>Kentucky</li><li>Nebraska</li><li>North Carolina</li><li>North Dakota</li><li>Ohio</li><li>Oklahoma</li><li>Puerto Rico</li><li>South Carolina</li><li>South Dakota</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin<br> </li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 TN1/TN2<br>P.O. Box 88781<br>Chicago, IL 60680-1781</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 TN1/TN2 (Box 88781)<br>131 S. Dearborn St., 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: Premium I-129 TN1/TN2<br>P.O. Box 4204<br>Carol Stream, IL 60197-4204</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: Premium I-129 TN1/TN2 (Box 4204)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">TN Free Trade Petitions (TN-1, TN-2) - Non-Premium</h4><div class="accordion__panel"><p>If you are filing Form I-129 for TN-1 and TN-2 petitions requesting an extension of stay or change of status, or a TN-1 application filed on behalf of a Canadian citizen who is outside of the United States, see the table below for where to file Form I-129.</p><p><em>Note: that if you are a Mexican national outside of the United States seeking TN status you should not use this form, but instead must apply for a TN visa at a U.S. embassy or consulate. Additional information is available on the </em><a href="/working-in-the-united-states/temporary-workers/tn-usmca-professionals" data-entity-type="node" data-entity-uuid="847f9e0b-b618-4c38-acdc-a418228477ee" data-entity-substitution="canonical"><em>TN NAFTA Professionals</em></a><em> page.</em></p><table><thead><tr><th><strong>Petitioner's Primary Office State</strong></th><th><strong>Filing Location</strong></th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Arkansas</li><li>Florida</li><li>Georgia</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Texas</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 TN1/TN2<br>P.O. Box 650542<br>Dallas, TX 75265-0542</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 TN1/TN2 (Box 650542)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>Alaska</li><li>Arizona</li><li>California</li><li>Colorado</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Kansas</li><li>Michigan</li><li>Montana</li><li>Nebraska</li><li>Nevada</li><li>New Mexico</li><li>North Dakota</li><li>Northern Mariana Islands</li><li>Oklahoma</li><li>Oregon</li><li>South Dakota</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 TN1/TN2<br>P.O. Box 20000<br>Phoenix, AZ 85036-0099</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 TN1/TN2 (Box 20000)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kentucky</li><li>North Carolina</li><li>Ohio</li><li>Puerto Rico</li><li>South Carolina</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 TN1/TN2<br>P.O. Box 88777<br>Chicago, IL 60680-1777</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 TN1/TN2 (Box 88777)<br>131 S. Dearborn St., 3<sup>rd</sup> Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-129 TN1/TN2 <br>P.O. Box 4016<br>Carol Stream, IL 60197-4016</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-129 TN1/TN2 (Box 4016)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Form I-907 to Upgrade a Pending Form I-129 to Premium Processing</h4><div class="accordion__panel"><p>Use these filing locations when filing a <strong>standalone</strong> <a href="/i-907" data-entity-type="node" data-entity-uuid="a12396c0-398a-42af-a1d0-4b0c5da8337d" data-entity-substitution="canonical">Form I-907, Request for Premium Processing Service</a>, to <strong>upgrade</strong> a <strong>pending</strong> Form I-129 for the eligible I-129 filing classifications listed below.</p><ul><li>E-1 and E-2 applications filed by an employer requesting an extension of stay or change of status;</li><li>E-2C (CNMI) applications filed by an employer requesting an extension of stay;</li><li>E-3 filings seeking an extension of stay or change of status for a worker;</li><li>H-1B, H-1B2, and H-1B3 classifications;</li><li>H-2B petitions where the beneficiary will be employed as a temporary non-agricultural worker;</li><li>H-2B petitions where the beneficiary will be performing labor or services in Guam;</li><li>H-3 petitions filed by an employer for a beneficiary who is a filing location.</li><li>L-1A, L-1B, and LZ (Blanket L-1) classifications;</li><li>O-1A, O-1B, and O-2 classifications;</li><li>P-1A or P-1S major league sports organization petitions (NHL, MLB, NFL, NBA and MLS only);</li><li>P-1A athlete or athletic group other than major league sports, P-1B, P-1S, P-2, P-2S, P-3 and P-3S;</li><li>Q-1 petitions filed by an employer for a beneficiary who will participate in an international cultural exchange program;</li><li>R-1 nonimmigrant classification for an alien who will be employed as a minister or in a religious occupation or vocation; and</li><li>TN-1 or TN-2 petitions requesting an extension of stay or change of status, or a TN-1 petition filed on behalf of a Canadian citizen who is outside of the United States.</li></ul><p>We will reject any standalone Form I-907 that is not filed at the correct filing location. <strong>Do not resubmit Form I-129.</strong></p><table><thead><tr><th>Petitioner's Primary Office State</th><th>Filing Location</th></tr></thead><tbody><tr><td><ul><li>Alabama</li><li>Alaska</li><li>Arizona</li><li>Colorado</li><li>Florida</li><li>Georgia</li><li>Guam</li><li>Hawaii</li><li>Idaho</li><li>Iowa</li><li>Louisiana</li><li>Minnesota</li><li>Mississippi</li><li>Missouri</li><li>Montana</li><li>Nevada</li><li>New Mexico</li><li>Northern Mariana Islands</li><li>Oregon</li><li>Texas</li><li>Utah</li><li>Washington</li><li>Wyoming</li></ul></td><td><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-907<br>P.O. Box 650842<br>Dallas, TX 75265-0842</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-907 (Box 650842)<br>2501 S. State Hwy. 121<br>Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td><ul><li>California</li><li>Michigan</li></ul></td><td><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-907<br>P.O. Box 21300<br>Phoenix, AZ 85036-1300</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-907 (Box 21300)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td><ul><li>Arkansas</li><li>Armed Forces</li><li>Illinois</li><li>Indiana</li><li>Kansas</li><li>Kentucky</li><li>Nebraska</li><li>North Carolina</li><li>North Dakota</li><li>Ohio</li><li>Oklahoma</li><li>Puerto Rico</li><li>South Carolina</li><li>South Dakota</li><li>Tennessee</li><li>U.S. Virgin Islands</li><li>Virginia</li><li>West Virginia</li><li>Wisconsin</li></ul></td><td><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-907<br>P.O. Box 805501<br>Chicago, IL 60680-5501</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-907 (Box 805501)<br>131 S. Dearborn St., 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td><ul><li>Connecticut</li><li>Delaware</li><li>District of Columbia</li><li>Maine</li><li>Maryland</li><li>Massachusetts</li><li>New Hampshire</li><li>New Jersey</li><li>New York</li><li>Pennsylvania</li><li>Rhode Island</li><li>Vermont</li></ul></td><td><p><strong>USCIS Elgin Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-907<br>P.O. Box 4200<br>Carol Stream, IL 60197-4200</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-907 (Box 4200)<br>2500 Westfield Drive<br>Elgin, IL 60124-7836</p></td></tr></tbody></table></div></div></div>
+      
+      </div>
+
+                </div>
+  
+  
+    
+              <div class="reviewed-date">
+    <div class="reviewed-date__label">Last Reviewed/Updated:</div>
+                <div class="field field--name-field-display-date field__item"><time datetime="2025-10-20T08:00:00Z" class="datetime">10/20/2025</time>
+</div>
+      
+  </div>
+
+      </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/i-129-addresses" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="44899" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="44899" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="44899" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-afsz5zotgyrdpbq-jgotchakft26slrkjjoexeq11pm" type="hidden" name="form_build_id" value="form-AFsZ5zOtGYRDPbQ-jGOtChakFt26SlrkjJoEXeQ11pM"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="44899" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_0pX_SnfPDMf7vwrzbDcQ_nJ4OxbrxKFiBZO-ck0gvU4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_AsKNwrz_GL8MOvSFwxCjaawni6tz6q3D931E8dkUKrI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+
+  </body>

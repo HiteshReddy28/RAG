@@ -1,0 +1,1769 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+        
+  
+      <div class="book-utility-menu hide-print" role="navigation" aria-label="Book utility menu">
+  <div class="content-container">
+    <div class="container-1">
+      <a href="/policy-manual" hreflang="en">Policy Manual</a>
+      <div class="mobile-chevron">
+        <button id="util-menu" class="menu-toggle__link highlight-strong" aria-label="Toggle Menu">
+          <i id="util-chevron" class="fas fa-chevron-down"></i>
+        </button>
+      </div>
+    </div>
+    <div class="container-2" id="util-links">
+      <div class="menu-items">
+                  <div class="menu__elem"><a href="/policy-manual/table-of-contents">Contents</a></div>
+                  <div class="menu__elem"><a href="/policy-manual/updates" hreflang="en">Updates</a></div>
+                  <div class="menu__elem"><a href="/legal-resources/immigration-and-nationality-act">INA</a></div>
+                  <div class="menu__elem"><a href="https://www.ecfr.gov/current/title-8">8 CFR</a></div>
+                  <div class="menu__elem"><a href="/tools/glossary" hreflang="en">Glossary</a></div>
+                  <div class="menu__elem"><a href="https://www.uscis.gov/outreach/feedback-opportunities/policy-manual-feedback/policy-manual-feedback">Feedback</a></div>
+              </div>
+    </div>
+      <div class="book-search" id="pm-search">
+        <div class="line-sep"> </div>
+                    <form accept-charset="UTF-8" action="/policy-manual/search" name="custom-search" method="get" id="custom-search">
+          <div class="input-group">
+            <input name="pm_query" id="pm-query" type="text" class="book-search-box book-utility-menu__search" title="Search USCIS Policy Manual" autocomplete="off" size="25" maxlength="200" value="" placeholder="Search USCIS Policy Manual">
+            <div class="input-group__btn--icon">
+              <button id="pm-btn-search-submit" aria-label="Search USCIS Policy Manual" class="btn-icon btn--search-submit" type="submit">
+                <svg class="usa-icon fa-search" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/uswds/img/sprite.svg#search"></use>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </form>
+              <div class="line-sep after-search"> </div>
+      </div>
+  </div>
+</div>
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+      <div id="block-booknavigation">
+    
+        
+            <nav id="book-block-menu-68600" class="book-block-menu" aria-labelledby="book-menu-label">
+    <div class="visually-hidden" id="book-menu-label">Book outline for Policy Manual</div>
+    
+
+                  <ul class="leftnav-menu book-title" data-level="0">
+    
+              
+              <li class="leftnav-menu__item leftnav-menu__item--0 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual" class="leftnav-menu__link leftnav-menu__title" hreflang="en">Policy Manual</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Policy Manual" aria-controls="leftnav-menu" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="leftnav-menu"><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/search" class="leftnav-menu__link" hreflang="en">Search</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/updates" class="leftnav-menu__link" hreflang="en">Updates</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/table-of-contents" class="leftnav-menu__link" hreflang="en">Table of Contents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-1" class="leftnav-menu__link" hreflang="en">Volume 1 - General Policies and Procedures</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-2" class="leftnav-menu__link" hreflang="en">Volume 2 - Nonimmigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-3" class="leftnav-menu__link" hreflang="en">Volume 3 - Humanitarian Protection and Parole</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-4" class="leftnav-menu__link" hreflang="en">Volume 4 - Refugees and Asylees</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5" class="leftnav-menu__link" hreflang="en">Volume 5 - Adoptions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-6" class="leftnav-menu__link" hreflang="en">Volume 6 - Immigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-7" class="leftnav-menu__link" hreflang="en">Volume 7 - Adjustment of Status</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8" class="leftnav-menu__link" hreflang="en">Volume 8 - Admissibility</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9" class="leftnav-menu__link" hreflang="en">Volume 9 - Waivers and Other Forms of Relief</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2" data-level="2"><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-a" class="leftnav-menu__link" hreflang="en">Part A - Waiver Policies and Procedures</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-b" class="leftnav-menu__link" hreflang="en">Part B - Extreme Hardship</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3" data-level="3"><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-b-chapter-1" class="leftnav-menu__link" hreflang="en">Chapter 1 - Purpose and Background</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-b-chapter-2" class="leftnav-menu__link" hreflang="en">Chapter 2 - Extreme Hardship Policy</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-b-chapter-3" class="leftnav-menu__link" hreflang="en">Chapter 3 - Adjudicating Extreme Hardship Claims</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-b-chapter-4" class="leftnav-menu__link" hreflang="en">Chapter 4 - Qualifying Relative</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3 leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-b-chapter-5" class="is-active leftnav-menu__link">Chapter 5 - Extreme Hardship Considerations and Factors</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-b-chapter-6" class="leftnav-menu__link" hreflang="en">Chapter 6 - Extreme Hardship Determinations</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-b-chapter-7" class="leftnav-menu__link" hreflang="en">Chapter 7 - Discretion</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part C - Family Unity, Humanitarian Purposes, or Public or National Interest
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-d" class="leftnav-menu__link" hreflang="en">Part D - Health-Related Grounds of Inadmissibility</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part E - Criminal and Related Grounds of Inadmissibility
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-f" class="leftnav-menu__link" hreflang="en">Part F - Fraud and Willful Misrepresentation</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part G - Unlawful Presence
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part H - Provisional Unlawful Presence
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part I - Immigrant Membership in Totalitarian Party
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part J - Alien Smuggling
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part K - Aliens Subject to Civil Penalty
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part L - Refugees and Asylees
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part M - Temporary Protected Status Applicants
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part N - Special Immigrant Juvenile Adjustment Applicants
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-o" class="leftnav-menu__link" hreflang="en">Part O - Victims of Trafficking</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part P - Crime Victims
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part Q - Violence Against Women Act Applicants
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Part R - Other Waivers and Provisions Overcoming Inadmissibility
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9-part-s" class="leftnav-menu__link" hreflang="en">Part S - Consent to Reapply</a></div></div></li></ul></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10" class="leftnav-menu__link" hreflang="en">Volume 10 - Employment Authorization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-11" class="leftnav-menu__link" hreflang="en">Volume 11 - Travel and Identity Documents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12" class="leftnav-menu__link" hreflang="en">Volume 12 - Citizenship and Naturalization</a></div></div></li></ul></li>
+      
+         </ul>
+  
+
+
+  </nav>
+
+      </div>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                                <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual">Policy Manual</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-9">Volume 9 - Waivers and Other Forms of Relief</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-9-part-b">Part B - Extreme Hardship</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Chapter 5 - Extreme Hardship Considerations and Factors</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+
+
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-book">
+      <div class="container container--main">
+            
+                        
+            <h1 class="page-title js-page-title">
+              <span>Chapter 5 - Extreme Hardship Considerations and Factors</span>
+            </h1>
+          
+              
+                    
+              <div>
+                        
+<nav id="pm-tabs" aria-labelledby="pm-tabs-label">
+  <div class="visually-hidden" id="pm-tabs-label">Content navigation tabs</div>
+  <ul>
+    <li><a href="#" aria-controls="guidance" class="pm-tab__guidance tablinks active tab1">Guidance</a></li>
+    <li><a href="#" id="resource_tab" aria-controls="resources" class="pm-tab__resource tablinks tab2">Resources (<span id="resources_count">9</span>)</a></li>
+    <li><a href="#" id="appendices_tab" aria-controls="appendices" class="pm-tab__appendices tablinks tab3">Appendices (<span id="appendices_count">0</span>)</a></li>
+    <li><a href="#" id="updates_tab" aria-controls="updates" class="pm-tab__updates tablinks tab4">Updates (<span id="updates_count">5</span>)</a></li>
+  </ul>
+</nav>
+<section id="book-content">
+  <div id="guidance" class="tabcontent tabcontent--guidance">
+                <div class="clearfix text-formatted field field--name-body field__item"><h2><a class="ck-anchor" id="S-A"></a>A. Totality of the Circumstances</h2><p>The officer must make extreme hardship determinations based on the factors, arguments, and evidence submitted.<a class="ck-anchor" id="footnotelink-1"></a><a class="ck-anchor" href="#footnote-1"><strong><sup>[1]</sup></strong></a> Therefore, the officer should consider any submission from the applicant bearing on the extreme hardship determination. The officer may also consider factors, arguments, and evidence relevant to the extreme hardship determination that the applicant has not specifically presented, such as those addressed in Department of State (DOS) information on country conditions<a class="ck-anchor" id="footnotelink-2"></a><a class="ck-anchor" href="#footnote-2"><strong><sup>[2]</sup></strong></a> or other U.S. Government determinations regarding country conditions, including a country’s designation for Temporary Protected Status (TPS). Officers must base their decisions on the totality of the evidence and circumstances presented.</p><h2><a class="ck-anchor" id="S-B"></a>B. Common Consequences</h2><p>The common consequences of denying admission, in and of themselves, do not warrant a finding of extreme hardship.<a class="ck-anchor" id="footnotelink-3"></a><a class="ck-anchor" href="#footnote-3"><strong><sup>[3]</sup></strong></a> The Board of Immigration Appeals (BIA) has held that the common consequences of denying admission include, but are not limited to, the following:</p><ul><li>Family separation;</li><li>Economic detriment;</li><li>Difficulties of readjusting to life in the new country;</li><li>The quality and availability of educational opportunities abroad;</li><li>Inferior quality of medical services and facilities; and</li><li>Ability to pursue a chosen employment abroad.</li></ul><p>While extreme hardship must involve more than the common consequences of denying admission, the extreme hardship standard is not as high as the significantly more burdensome “exceptional and extremely unusual” hardship standard that that applies to other forms of immigration adjudications, such as cancellation of removal.<a class="ck-anchor" id="footnotelink-4"></a><a class="ck-anchor" href="#footnote-4"><strong><sup>[4]</sup></strong></a></p><h2><a class="ck-anchor" id="S-C"></a>C. Factors Must Be Considered Cumulatively</h2><p>The officer must consider all factors and consequences in their totality and cumulatively when assessing whether a qualifying relative will experience extreme hardship either in the United States or abroad. In some cases, common consequences that on their own do not constitute extreme hardship may result in extreme hardship when assessed cumulatively with other factors.<a class="ck-anchor" id="footnotelink-5"></a><a class="ck-anchor" href="#footnote-5"><strong><sup>[5]</sup></strong></a></p><p>For example, if a qualifying relative has a medical condition that alone does not rise to the level of extreme hardship, the combination of that hardship and the common consequences of inferior medical services, economic detriment, or readjusting to life in another country may cumulatively cause extreme emotional or financial hardship for the qualifying relative when considering the totality of the circumstances.</p><p>Ordinarily, for example, the fact that medical services are less comprehensive in another country is a common consequence of denying admission; but the inferior quality of medical services, considered along with the individual’s specific medical conditions, may create sufficient difficulties as to rise to the level of extreme hardship in combination with all the other consequences.</p><p>The officer must weigh all factors individually and cumulatively, as follows:</p><ul><li>First, the officer must consider whether any factor set forth individually rises to the level of extreme hardship under the totality of the circumstances.</li><li>​Second, if any factor alone does not rise to the level of extreme hardship, the officer must consider all factors together to determine whether they cumulatively rise to the level of extreme hardship. This includes hardships to multiple qualifying relatives.</li></ul><p>When considering the factors, whether individually or cumulatively, all factors, including negative factors, must be evaluated in the totality of the circumstances.</p><h2><a class="ck-anchor" id="S-D"></a>D. Examples of Factors that May Support a Finding of Extreme Hardship</h2><p>The chart below lists factors that an applicant might present and that would be relevant to determining whether an applicant has demonstrated extreme hardship to a qualifying relative. This list is not exhaustive; circumstances that are not on this list may also be relevant to finding extreme hardship.</p><p>The presence of one or more of the factors below in a particular case does not mean that extreme hardship would necessarily result from a denial of admission. But they are factors that may be encountered and should be considered in their totality and cumulatively in individual cases. All hardship factors presented by the applicant should be considered in the totality of the circumstances in making the extreme hardship determination.</p><p>Some of the factors listed below apply when the qualifying relative would remain in the United States without the applicant. Other factors apply when the qualifying relative would relocate abroad. Some of the factors might apply under either circumstance.</p><table class="dataTable"><caption>Factors and Considerations for Extreme Hardship</caption><thead><tr><th scope="col">Factors</th><th scope="col">Considerations</th></tr></thead><tbody><tr><td style="width:25%;"><strong>Family Ties and Impact</strong></td><td><ul><li>Qualifying relative’s ties to family members living in the United States, including age, status, and length of residence of any children.</li><li>Responsibility for the care of any family members in the United States, particularly children, elderly adults, and disabled adults.</li><li>The qualifying relative’s ties, including family ties, to the country of relocation, if any.</li><li>Nature of relationship between the applicant and the qualifying relative, including any facts about the particular relationship that would either aggravate or lessen the hardship resulting from separation.</li><li>Qualifying relative’s age.</li><li>Length of qualifying relative’s residence in the United States.</li><li>Length of qualifying relative’s prior residence in the country of relocation, if any.</li><li>Prior or current military service of qualifying relative.</li><li>Impact on the cognitive, social, or emotional well-being of a qualifying relative who is left to replace the applicant as caregiver for someone else, or impact on the qualifying relative (for example, child or parent) for whom such care is required.</li></ul></td></tr><tr><td><strong>Social and Cultural Impact</strong></td><td><ul><li>Loss of access to the U.S. courts and the criminal justice system, including the loss of opportunity to request or provide testimony in criminal investigations or prosecutions; to participate in proceedings to enforce labor, employment, or civil rights laws; to participate in family law proceedings, victim’s compensation proceedings, or other civil proceedings; or to obtain court orders regarding protection, child support, maintenance, child custody, or visitation.</li><li>Fear of persecution or societal discrimination.</li><li>Prior grant of U nonimmigrant status.</li><li>Existence of laws and social practices in the country of relocation that would punish the qualifying relative because he or she has been in the United States or is perceived to have Western values.</li><li>Access or lack of access to social institutions and structures (official and unofficial) for support, guidance, or protection.</li><li>Social ostracism or stigma based on characteristics such as sex, sexual orientation, religion, race, national origin, ethnicity, citizenship, age, political opinion, marital status, or disability.<a class="ck-anchor" id="footnotelink-6"></a><a class="ck-anchor" href="#footnote-6"><strong><sup>[6]</sup></strong></a></li><li>Qualifying relative’s community ties in the United States and in the country of relocation.</li><li>Extent to which the qualifying relative has assimilated into U.S. culture, including language, skills, and acculturation.</li><li>Extent to which the qualifying relative would have difficulty integrating into the country of relocation, including understanding and adopting social norms and established customs, including ethical or moral codes.</li><li>Difficulty and expense of travel/communication to maintain ties between qualifying relative and applicant, if the qualifying relative does not relocate.</li><li>Qualifying relative’s present inability to communicate in the language of the country of relocation, as well as the time and difficulty that learning that language would entail.</li><li>Availability and quality of educational opportunities for qualifying relative (and children, if any) in the country of relocation.</li><li>Availability and quality of job training, including technical or vocational opportunities, for qualifying relative (and children, if any) in the country of relocation.</li></ul></td></tr><tr><td><strong>Economic Impact</strong></td><td><ul><li>Economic impact of applicant’s departure on the qualifying relative, including the applicant’s or qualifying relative’s ability to obtain employment in the country of relocation.</li><li>Economic impact resulting from the sale of a home, business, or other asset.</li><li>Economic impact resulting from the termination of a professional practice.</li><li>Decline in the standard of living, including due to significant unemployment, underemployment, or other lack of economic opportunity in the country of relocation.</li><li>Ability to recoup losses, or repay student loan debt.</li><li>Cost of extraordinary needs, such as special education or training for children.</li><li>Cost of care for family members, including children and elderly, sick, or disabled parents.</li></ul></td></tr><tr><td><strong>Health Conditions </strong><br><strong>​and Care</strong></td><td><ul><li>Health conditions and the availability and quality of any required medical treatment in the country to which the applicant would be returned, including length and cost of treatment.</li><li>Psychological impact on the qualifying relative due to either separation from the applicant or departure from the United States, including separation from other family members living in the United States.</li><li>Psychological impact on the qualifying relative due to the suffering of the applicant.</li><li>Prior trauma suffered by the qualifying relative that may aggravate the psychological impact of separation or relocation, including trauma evidenced by prior grants of asylum, refugee status, or other forms of humanitarian protection.</li></ul></td></tr><tr><td><strong>Country Conditions</strong><a class="ck-anchor" id="footnotelink-7"></a><a class="ck-anchor" href="#footnote-7"><strong><sup>[7]</sup></strong></a></td><td><ul><li>Conditions in the country of relocation, including civil unrest or generalized levels of violence, current U.S. military operations in the country, active U.S. economic sanctions against the country, ability of country to address significant crime, environmental catastrophes like flooding or earthquakes, and other socio-economic or political conditions that jeopardize safe repatriation or lead to reasonable fear of physical harm.</li><li>Temporary Protected Status (TPS) designation.<a class="ck-anchor" id="footnotelink-8"></a><a class="ck-anchor" href="#footnote-8"><strong><sup>[8]</sup></strong></a></li><li>Danger Pay for U.S. government workers stationed in the country of nationality.<a class="ck-anchor" id="footnotelink-9"></a><a class="ck-anchor" href="#footnote-9"><strong><sup>[9]</sup></strong></a></li><li>Withdrawal of Peace Corps from the country of nationality for security reasons.</li><li>DOS Travel Warnings or Alerts, whether or not they constitute a particularly significant factor, as set forth in Part E below.</li></ul></td></tr></tbody></table><h2><a class="ck-anchor" id="S-E"></a>E. Particularly Significant Factors</h2><p>The preceding list identifies factors that may bear on whether a denial of admission would result in extreme hardship. Below are factors that USCIS has determined often weigh heavily in support of finding extreme hardship. An applicant who seeks to demonstrate the presence of one of the enumerated circumstances must submit sufficient reliable evidence to support the existence of such circumstance(s) and show that the circumstance will cause extreme hardship to the qualifying relative. The mere presence of an enumerated circumstance does not create a presumption of extreme hardship. The ultimate determination of extreme hardship must be based on the totality of the circumstances present in the individual case.</p><p>It is important to emphasize that the enumerated circumstances listed below are specifically highlighted only because they are often likely to support findings of extreme hardship. Other hardships not enumerated may also rise to the level of extreme, even if they vary significantly than those listed below.<a class="ck-anchor" id="footnotelink-10"></a><a class="ck-anchor" href="#footnote-10"><strong><sup>[10]</sup></strong></a></p><p>Eligibility for an immigration benefit ordinarily must exist at the time of filing and at the time of adjudication.<a class="ck-anchor" id="footnotelink-11"></a><a class="ck-anchor" href="#footnote-11"><strong><sup>[11]</sup></strong></a> However, considering the nature of the particularly significant factors described below, the presence of one or more of these circumstances at the time of adjudication should be considered by a USCIS officer even if the circumstance arose after the filing of the waiver request.</p><h3><a class="ck-anchor" id="S-E-1"></a>1. Qualifying Relative Previously Granted Iraqi or Afghan Special Immigrant Status, T Nonimmigrant Status, or Asylum or Refugee Status</h3><p>If a qualifying relative was previously granted Iraqi or Afghan special immigrant status,<a class="ck-anchor" id="footnotelink-12"></a><a class="ck-anchor" href="#footnote-12"><strong><sup>[12]</sup></strong></a> T nonimmigrant status, asylum status, or refugee status in the United States from the country of relocation and the qualifying relative’s status has not been revoked, those factors would often weigh heavily in support of finding extreme hardship.<a class="ck-anchor" id="footnotelink-13"></a><a class="ck-anchor" href="#footnote-13"><strong><sup>[13]</sup></strong></a> The existence of this circumstance normally results in hardship greater than the common consequences denying admission, whether in cases involving relocation or separation.</p><p>The prior decision to grant the qualifying relative status as an Iraqi or Afghan special immigrant, T nonimmigrant, refugee, or asylee indicates the significantly heightened risk that relocation to the country from which he or she received protection could result in retaliatory violence, persecution or other danger to the qualifying relative. This prior assessment by USCIS would often weigh heavily in support of finding extreme hardship in a case involving relocation.</p><p>The same is also true in cases involving separation. The prior assessment by USCIS with respect to the qualifying relative indicates that he or she would likely face increased difficulty returning to that country to visit the applicant, thus generally resulting in hardship that is greater than that normally present in cases involving family separation. The applicant might also show that, due to their relationship, the applicant may experience persecution or other dangers similar to those that gave rise to the qualifying relative’s underlying status. The qualifying relative in such a case may suffer additional psychological trauma due to the potential for harm to the applicant in the country of relocation.</p><h3><a class="ck-anchor" id="S-E-2"></a>2. Qualifying Relative or Related Family Member’s Disability</h3><p>Cases involving disabled individuals often involve hardships that rise above the common consequences. If a government agency has made a formal disability determination<a class="ck-anchor" id="footnotelink-14"></a><a class="ck-anchor" href="#footnote-14"><strong><sup>[14]</sup></strong></a> with regard to the qualifying relative, or with regard to a family member of the qualifying relative who is dependent on the qualifying relative for care, that factor would often weigh heavily in support of finding that either relocation or separation would result in extreme hardship under the totality of the circumstances.</p><p>In cases involving either (1) relocation of the qualifying relative with a disability or (2) relocation of both the qualifying relative and the relevant family member with a disability, the applicant will need to show that the services available to the disabled individual in the country of relocation are unavailable or significantly inferior to those available to him or her in the United States. In such cases, the disability determination would often weigh heavily in support of a finding of extreme hardship.</p><p>In cases involving separation, the applicant will need to show that the qualifying relative with a disability, or the relevant family member with a disability, generally requires the applicant’s assistance for care due to the disability. Where replacement care is not realistically available and obtainable, the disability determination would often weigh heavily in support of a finding of extreme hardship.</p><p>Absent a formal disability determination, an applicant may provide other evidence that a qualifying relative or relevant individual suffers from a medical condition, whether mental or physical, that makes either travel to, or residence in, the country of relocation detrimental to the qualifying relative or family member’s health or safety. Similarly, an applicant may provide other evidence that the condition of the qualifying relative requires the applicant’s assistance for care.</p><h3><a class="ck-anchor" id="S-E-3"></a>3. Qualifying Relative’s Military Service</h3><p>Military service by a qualifying relative often results in hardships from denial of the applicant’s admission that rise above the common consequences of denying admission. If a qualifying relative is an Active Duty member of any branch of the U.S. armed forces,<a class="ck-anchor" id="footnotelink-15"></a><a class="ck-anchor" href="#footnote-15"><strong><sup>[15]</sup></strong></a> or is an individual in the Selected Reserve of the Ready Reserve, denial of an applicant’s admission often causes psychological and emotional harm that significantly exacerbates the stresses, anxieties and other hardships inherent in military service by a qualifying relative.</p><p>This may result in an impairment of the qualifying relative’s ability to serve the U.S. military, or to be quickly called into active duty in the case of reservists, which also affects military preparedness. This is often the case even if the qualifying relative’s military service already separates, or will separate, him or her from the applicant. In such circumstances, the applicant’s removal abroad may magnify the stress of military service to a level that would constitute extreme hardship.</p><h3><a class="ck-anchor" id="S-E-4"></a>4. DOS Travel Warnings</h3><p>DOS issues travel warnings to notify travelers of the risks of traveling to certain foreign countries.<a class="ck-anchor" id="footnotelink-16"></a><a class="ck-anchor" href="#footnote-16"><strong><sup>[16]</sup></strong></a> Reasons for issuing travel warnings include, but are not limited to, unstable government, civil war, ongoing intense crime or violence, or frequent terrorist attacks. A travel warning remains in place until changes in circumstances sufficiently mitigate the need for such a warning. With respect to some travel warnings, DOS advises of travel risks to a specific region or regions of the country at issue.</p><p>In some situations, DOS issues travel warnings that do more than notify travelers of the risks of traveling to a particular country or region(s) within a country. Rather, DOS affirmatively recommends against travel or affirmatively recommends that U.S. citizens depart. DOS may make such travel warnings country-wide. Such travel warnings may contain language in which:</p><ul><li>DOS urges avoiding all travel to the country or region because of safety and security concerns;</li><li>DOS warns against all but essential travel to the country or region;</li><li>DOS advises deferring all non-essential travel to the country or region; and/or</li><li>DOS advises U.S. citizens currently in the country or region to depart.</li></ul><p>In cases where a qualifying relative would relocate to a country or region that is the subject of such DOS recommendations against travel, the travel warning would often weigh heavily in support of a finding of extreme hardship. In assessing the dangers in the country of relocation, USCIS officers should give weight to DOS travel warnings, taking into account the nature and severity of such warnings.</p><p>Generally, the fact that the country of relocation is currently subject to a DOS country-wide travel warning against travel may indicate that a qualifying relative would face significantly increased danger if he or she were to relocate to that country with the applicant. This significantly increased danger would often support a finding of extreme hardship.</p><p>If the relevant travel warning covers only a part or region of the country of relocation, the USCIS officer must determine whether the qualifying relative would relocate to the part or region that is subject to the warning. If the officer finds that this part or region is one to which the qualifying relative plans to return despite the increased danger (for example, because of family relationships or employment opportunities), that may indicate that the qualifying relative would face significantly increased danger if he or she were to relocate to that part or region. This significantly increased danger would often support a finding of extreme hardship.</p><p>Alternatively, if the officer finds that the qualifying relative would relocate to a part of the country that is not subject to the travel warning (because of the danger in the part or region covered by the travel warning or for any other reason), that indicates that the qualifying relative would generally not face significantly increased danger upon relocation.</p><p>If the officer finds that the qualifying relative would remain in the United States while the applicant returns to a country or region that is subject to a DOS warning against travel, the officer should evaluate whether the separation may result in extreme hardship to the qualifying relative. In such cases, the officer should consider the hardship to the qualifying relative resulting from the increased danger to the applicant in the relevant country or region.</p><h3><a class="ck-anchor" id="S-E-5"></a>5. Substantial Displacement of Care of Applicant’s Children</h3><p>USCIS recognizes the importance of family unity and the ability of parents and other caregivers to provide for the well-being of children.<a class="ck-anchor" id="footnotelink-17"></a><a class="ck-anchor" href="#footnote-17"><strong><sup>[17]</sup></strong></a> Depending on the particular facts of a case, either the continuation of one’s existing caregiving duties under new and difficult circumstances or the need to assume someone else’s caregiving duties can be sufficiently burdensome to rise to the level of extreme hardship. The children do not need to be U.S. citizens or lawful permanent residents (LPRs) in such cases.<a class="ck-anchor" id="footnotelink-18"></a><a class="ck-anchor" href="#footnote-18"><strong><sup>[18]</sup></strong></a></p><p>In cases involving the separation of spouses in which the qualifying relative is the primary caretaker and the applicant is the primary income earner, the income earner’s refusal of admission often causes economic loss to the caregiver. Although economic loss alone is generally a common consequence of a denial of admission, depending on the particular circumstances the economic loss associated with the denial of admission may create burdens on the caregiver that are severe enough to rise to the level of extreme hardship. That can occur, for example, when the qualifying relative must take on the additional burdens of primary income earner while remaining the primary caregiver. That dual responsibility may significantly disrupt the qualifying relative’s ability to meet his or her own basic subsistence needs or those of the person(s) for whom the care is being provided. In such cases, the dual burden would often support a finding of extreme hardship. In addition, the qualifying relative may suffer significant emotional and psychological impacts from being the sole caregiver of the child(ren) that exceed the common consequences of being left as a sole parent.</p><p>In cases involving the separation of spouses in which the qualifying relative is the primary income earner and the applicant is the primary caretaker, the caretaker’s refusal of admission can result in a substantial shift of caregiving responsibility from the applicant to the qualifying relative. Such a shift may significantly affect the qualifying relative’s ability to earn income for the family; disrupt family, social, and cultural ties; or hinder the child(ren)’s psychological, cognitive, or emotional development.</p><p>The shift may also frustrate or complicate the qualifying relative’s efforts to provide a healthy, stable, and caring environment for the child(ren). Such additional emotional, psychological and/or economic stress for the qualifying relative could exceed the levels of hardship that ordinarily result from family separation, and rise to the level of extreme hardship.<a class="ck-anchor" id="footnotelink-19"></a><a class="ck-anchor" href="#footnote-19"><strong><sup>[19]</sup></strong></a></p><p>Under either scenario discussed above, the significant shifting of caregiving or income-earning responsibilities would often weigh heavily in support a finding of extreme hardship to the qualifying relative, provided the applicant shows:</p><ul><li>The existence of a bona fide relationship between the applicant and the child(ren);</li><li>The existence of a bona fide relationship between the qualifying relative and the child(ren); and</li><li>The substantial shifting of caregiving or income-earning responsibilities under circumstances in which the ability to adequately care for the children would be significantly compromised.</li></ul><p>To prove a bona fide relationship to the child(ren), the applicant and qualifying relative should have emotional and/or financial ties or a genuine concern and interest for the child(ren)’s support, instruction, and general welfare.<a class="ck-anchor" id="footnotelink-20"></a><a class="ck-anchor" href="#footnote-20"><strong><sup>[20]</sup></strong></a> Evidence that can establish such a relationship includes (but is not limited to):</p><ul><li>​Income tax returns;</li><li>Medical or insurance records;</li><li>School records;</li><li>Correspondence between the parties; or</li><li>​Affidavits of friends, neighbors, school officials, or other associates knowledgeable about the relationship.</li></ul><p>To prove the qualifying relative would take on the additional caregiving or income-earning responsibilities, the applicant needs to show that the qualifying relative either (1) is a parent of the child(ren) in question or (2) otherwise has the bona fide intent to assume those responsibilities. Evidence of such an intent could include (but is not limited to):</p><ul><li>Legal custody or guardianship of the child;</li><li>Other legal obligation to take over parental responsibilities;</li><li>Affidavit signed by qualifying relative to take over parental or other caregiving responsibilities; or</li><li>Affidavits of friends, neighbors, school officials, or other associates knowledgeable about the qualifying relative’s relationship with the children or intentions to assume parental or other caregiving responsibilities.</li></ul><h2><a class="ck-anchor" id="S-F"></a>F. Hypothetical Case Examples</h2><p>Below are hypothetical cases that can help officers determine when cases present factors that rise to the level of extreme hardship. These hypotheticals are not meant to be exhaustive or all-inclusive with respect to the facts or scenarios that may be presented for adjudication and that may give rise to extreme hardship. Although a USCIS officer presented with similar scenarios as those presented in the hypotheticals could reasonably reach the same conclusions described below, extreme hardship determinations are made on a case-by case basis in the totality of the circumstances. An extreme hardship determination will always depend on the facts of each individual case.</p><p>For purposes of the following hypotheticals, it is assumed that:</p><ul><li>The applicant is inadmissible under a ground that may be waived based on a showing of extreme hardship to a qualifying relative spouse or parent.<a class="ck-anchor" id="footnotelink-21"></a><a class="ck-anchor" href="#footnote-21"><strong><sup>[21]</sup></strong></a></li><li>The facts asserted in the hypotheticals are supported by appropriate documentation.</li></ul><p><em>Scenario 1</em></p><p>Tyler was admitted to the United States as a nonimmigrant 5 years ago. Three years after Tyler’s entry, Tyler married Pat, a U.S. citizen spouse. Tyler seeks a waiver claiming that Pat would suffer extreme hardship if Tyler were denied admission to the United States.</p><p>Pat submits a credible, sworn statement indicating that if Tyler is refused admission, Pat would relocate to Tyler’s native country. Tyler and Pat have been married for 2 years. Pat is a sales clerk. A similar job in the country of relocation would pay far less than Pat earns in the United States. In addition, although Pat has visited the country of relocation several times, Pat is not fluent in the country’s language and lacks the ties that would facilitate employment opportunities and social and cultural integration.</p><p>Tyler is a skilled laborer who similarly would command a much lower salary in the country of relocation, but who was, prior to coming to the United States, gainfully employed. The couple is renting an apartment in the United States, does not own any real estate or other significant property, and has no children. Pat and Tyler do not have any other family, either in the United States or in the country of relocation.</p><p><em>Analysis of Scenario 1</em></p><p>These facts alone generally would not favor a finding of extreme hardship. The hardships to Pat, even when aggregated, include only common consequences of relocation—economic loss and the social and cultural difficulties arising mainly from Pat ’s inability to speak the language fluently.</p><p><em>Scenario 2</em></p><p>The facts are the same as in Scenario 1 except that Pat (who is Tyler’s U.S. citizen spouse and would relocate) has a chronic medical condition requiring regular visits to the doctor, and Tyler is an unskilled worker who would command a much lower salary in the country of relocation. In addition, Pat has family that lives nearby and is a crucial part of Tyler’s support system. Pat and Tyler are also active members of their local community and have friends who often help out when Pat’s family is not available. Based on the care received from the doctor and the support received from family and friends, Pat is able to manage the chronic condition.</p><p>Pat submits a credible, sworn statement that Pat will relocate with Tyler despite Pat’s medical condition, and the evidence shows under the totality of the circumstances that Pat will relocate with Tyler. Pat’s doctor provides a statement that confirms that Pat will continue to progress and function well if Pat keeps receiving medical treatment and the support from family and other members of Pat’s existing social support network. While the doctor cannot fully attest to the availability of care in Tyler’s native country, the doctor is able to attest that moving to another country and disrupting Pat ’s medical care and support network will cause Tyler significant difficulties. The doctor’s statement also states that Pat will likely not be able to work without the support system Pat has in the United States.</p><p><em>Analysis of Scenario 2</em></p><p>These facts would generally favor a finding of extreme hardship. The aggregate hardships to Pat now include not only the economic losses, diminution of employment opportunities, and social, cultural, and linguistic difficulties (which are generally common consequences of relocation) but also the additional medical hardship that Pat would experience if Pat relocates to Tyler’s native country. The attestation of Pat’s doctor expressing concerns about the disruption in medical care, the effect of losing support from Pat’s family and social environment, and the possibility of Pat not being able to accept employment, would generally favor a finding of extreme hardship.</p><p><em>Scenario 3</em></p><p>Assume the facts are the same as originally presented in Scenario 1 (without the additional facts from Scenario 2), but now with the added facts that Tyler also has LPR parents who live in the United States. Pat submits a credible, sworn statement indicating that Pat would relocate with Tyler and that Tyler’s LPR parents would remain in the United States. Again, when analyzing the additional evidence under the totality of the circumstances, the evidence shows Pat will still relocate with Tyler.</p><p>Tyler and Pat both have a close relationship with Tyler’s parents, who are elderly and non-native English speakers. Tyler regularly transports the parents to medical appointments, translates medical and other instructions, and offers them significant emotional support. As a result of the separation from Tyler and Tyler’s spouse, Tyler’s parents would suffer significant emotional hardship.</p><p><em>Analysis of Scenario 3</em></p><p>Based on the totality of the evidence presented, the addition of these facts would generally favor a finding of extreme hardship. There are now 3 qualifying relatives (Tyler’s U.S. citizen spouse and Tyler’s two LPR parents). Although the aggregated hardships to Tyler’s spouse alone (under Scenario 1) include only common consequences of a refusal of admission, aggregating those hardships with the hardships to Tyler’s elderly parents, which include the potential disruption of their medical care, loss of ability to navigate their surroundings in English, and their significant emotional hardship resulting from the loss of their child’s support, would generally tip the balance in favor of a finding of extreme hardship.</p><p><em>Scenario 4</em></p><p>EF has lived continuously in the United States since entering without inspection 4 years ago. She has been married to GH, her U.S. Citizen husband, for 2 years. EF seeks a waiver claiming that GH would suffer extreme hardship if EF were denied admission to the United States. GH has a moderate income, and EF works as a housecleaner for low wages. GH submits a credible, sworn statement that he would remain in the United States, and thus would separate from EF, if she is denied the waiver. Upon separating, the couple would lose the income EF earns. In addition to losing EF’s income, GH is committed to sending remittances to EF once she leaves, in whatever amount GH can afford. EF and GH do not have children, and GH does not have family in the United States.</p><p><em>Analysis of Scenario 4</em></p><p>These facts alone generally would not rise to the level of extreme hardship, even if the hardships to the qualifying relative are aggregated. The hardships to GH do not rise above the common consequences of separation and economic loss.</p><p><em>Scenario 5</em></p><p>JK has lived continuously in the United States since entering without inspection 6 years ago. She married LM, her U.S. citizen husband, 2 years ago. JK seeks a waiver on the basis that LM would suffer extreme hardship if JK were denied admission to the United States. JK and LM live near LM’s family and friends, and LM has spent little time traveling abroad. He does not speak the language of the country to which JK would return if she is denied admission, and LM’s employment opportunities in that country would be less desirable than in the United States.</p><p>Additionally, DOS has issued a travel warning that strongly advises against travel to specific regions in the country to which JK would return, including the region where her family lives. The region-specific warning affirmatively recommends against non-essential travel to that region, citing the high rate of kidnapping and murder. LM submits a credible, sworn statement indicating that due to his recent marriage, the difficulties JK would face in her country, and his commitment to supporting her however possible, he would relocate to remain with JK if she is denied a waiver.</p><p><em>Analysis of Scenario 5</em></p><p>The totality of these circumstances generally would favor a finding of extreme hardship, significantly in light of the nature and severity of the DOS travel warning. Although the other hardships present in the case are common consequences of relocation, LM has also demonstrated that he will return to the region of a country that is the subject of the DOS travel warning, which advises against non-essential travel to that region. The travel warning recommending against travel to that particular region of that country to which LM would relocate is a particularly significant factor that would often weigh heavily in support of a finding of extreme hardship. If the travel warning were less severe or only temporary, the warning would not qualify as a particularly significant factor but would be another factor to be considered in the totality of the circumstances by the officer.</p><p>Alternatively, in some circumstances where DOS has issued travel warnings with regard to a particular region of a country, the applicant and qualifying relative may relocate to a different region of the country that is not subject to a travel warning. In such a situation, the fact of the region-specific travel warning would not itself constitute a particularly significant factor; however, the hardships arising from relocating to another region of the country remains a factor to be considered and may result in a finding of extreme hardship, based on the totality of the circumstances.<a class="ck-anchor" id="footnotelink-22"></a><a class="ck-anchor" href="#footnote-22"><strong><sup>[22]</sup></strong></a></p><p><em>Scenario 6</em></p><p>OP has lived continuously in the United States since entering without inspection 7 years ago. After dating and living together for 5 years, OP married her same-sex partner SQ, a U.S. citizen. OP seeks a waiver claiming that SQ would suffer extreme hardship if OP were denied admission to the United States. SQ submits a credible, sworn statement indicating that she would remain in the United States and separate from OP if the waiver is denied.</p><p>SQ owns a business in the United States, and OP has continuously supported the business, including by helping out as an office manager. SQ would not be able to keep the business running successfully without OP because of the expense of hiring an office manager. In addition, the DOS country report indicates that women in OP’s country of relocation generally may not work outside the home except in an extremely limited set of professions (such as teaching) for which OP is not qualified.</p><p>The country report also indicates that same-sex marriages are not recognized in that country, that same-sex sexual conduct is illegal, and that official societal discrimination and harassment (in some circumstances even giving rise to physical threats or harm) based on sexual orientation or sex is prevalent in many areas of life.</p><p>Based on these factors, SQ fears OP would be discriminated against and potentially be at risk of physical harm based on her sexual orientation. SQ has been in therapy due to depression and anxiety after she learned that her wife may be denied admission to the United States and that her wife would have to remain in a country where she risks discrimination and physical harm. The couple does not provide other evidence of hardship.</p><p><em>Analysis of Scenario 6</em></p><p>These facts would generally favor a finding of extreme hardship. SQ would face serious economic detriment if OP is denied admission. In addition, the country reports show that SQ’s marriage to OP would not be recognized in OP’s native country, and that OP’s marriage to a person of the same sex is a common cause for social ostracism, discrimination, and potential physical danger in OP’s native country. The country reports further show that OP’s access to education, employment and health care could be limited due to OP’s sexual orientation and sex, thereby negatively affecting OP’s subsistence.</p><p>SQ would face psychological trauma based on the fear that OP would be harassed or threatened because of her sexual orientation. SQ’s trauma based on her fear that OP will be ostracized and persecuted in OP’s native country based on her sexual orientation and sex are factors that in the totality of circumstances would ordinarily rise to the level of extreme hardship.</p><p><em>Scenario 7</em></p><p>TU married his U.S. citizen wife, VW, 3 years ago. TU seeks a waiver on the ground that VW would suffer extreme hardship if TU were denied admission to the United States. Before becoming a U.S. citizen, VW and some members of her family fled persecution from her native country, and they were granted asylum in the United States. TU is of the same nationality. VW submits a credible, sworn statement that she would remain in the United States and separate from TU if the waiver is denied. The evidence also supports the conclusion that the return of TU to that country would cause VW particular anxiety and psychological stress, due both to the limitations on VW’s ability to visit her husband and to the harm TU may face in the country of return due to his relationship to VW.</p><p><em>Analysis of Scenario 7</em></p><p>These facts generally would favor a finding of extreme hardship. TU and VW are of the same nationality, and TU would return to the country from which VW fled. The fact that VW was previously granted asylum from the country of relocation is a particularly significant factor that would often weigh heavily in support of a finding of extreme hardship. The fact that VW and members of her family were previously granted asylum from the country of return shows that she is at risk of persecution if she were to return to that country to even visit her husband.</p><p>She has also submitted credible evidence indicating that she would suffer additional anxiety and psychological stress from the harm her husband may face due to his relationship with her and her family. The totality of these circumstances, including the particularly significant factor of VW’s grant of asylum, would generally result in a finding of extreme hardship.</p><p><em>Scenario 8</em></p><p>XY married her U.S. citizen husband, ZA, 9 years ago. XY seeks a waiver on the basis that ZA would suffer extreme hardship if XY were denied admission to the United States. XY and ZA have a 3-year old son and a 2-year old daughter. XY submits credible evidence showing that she is the primary caretaker of the children and that ZA is the primary income earner. His wages are not sufficient to pay for childcare and the couple does not have family that can provide childcare for the children.</p><p>ZA submits a credible, sworn statement indicating that he will remain in the United States with their children separated from XY if the waiver is denied. The evidence also indicates that XY will have very limited employment opportunities in the country of return because of her limited education. Whatever income XY will be able to earn in the country of return will be spent on her subsistence and will be insufficient to allow her to contribute to childcare or other family needs in the United States. Due to the lack of childcare options available to ZA, he will be required to become the sole caregiver of the children, while simultaneously striving to maintain his role as the family’s sole income earner.</p><p>If ZA is unable to retain his job due to the assumption of primary caregiving responsibilities, he will lose the income necessary to support his children. The dual burden of being both the primary income earner and sole caregiver will create significant psychological, emotional, and financial stresses for ZA. Additionally, the evidence shows that the displacement of childcare would impact the emotional state and development of the children, which would require further care and attention on the part of ZA.</p><p><em>Analysis of Scenario 8</em></p><p>These facts would generally favor a finding of extreme hardship. Although ZA’s children are not qualifying relatives for purposes of demonstrating extreme hardship in this case, the hardship to ZA caused by becoming primarily responsible for the children’s care, while maintaining his role as primary income earner, would implicate the particularly significant factor for substantial displacement of care of the applicant’s children.</p><p>In this case, ZA and XY submitted credible evidence that XY cannot contribute to the family’s needs, that ZA is unable to earn sufficient income for family needs if he must assume primary caregiving responsibilities, and that ZA otherwise lacks the resources or support network to replace either the primary caregiving responsibilities he would need to assume or the primary income-earning role that has been the source of the family’s support.</p><p>The evidence also shows that the displacement of childcare would impact the children in a manner that would require additional care and attention by ZA and would thus further impact ZA’s ability to care for his children. Absent other facts that diminish the impacts of the separation, this scenario would generally rise to the level of extreme hardship based on the totality of the circumstances.</p><p>Alternatively, this particularly significant factor may also be presented in a case where the applicant is the primary income earner and the qualifying relative is the primary caretaker of the children. If the applicant is refused admission, the qualifying relative could be required, depending on the circumstances, to take on the additional responsibilities of being the primary income earner in addition to continuing his or her role as primary caretaker.</p><p>In cases where this heightened responsibility would threaten the qualifying relative’s ability to meet basic subsistence needs for the family, the significant emotional and psychological stress caused by the added burdens would often weigh heavily in support of a finding of extreme hardship.<a class="ck-anchor" id="footnotelink-23"></a><a class="ck-anchor" href="#footnote-23"><strong><sup>[23]</sup></strong></a></p><h2>Footnotes</h2><hr><p><a class="ck-anchor" id="footnote-1"></a><a class="ck-anchor" href="#footnotelink-1">[^ 1]</a> See <a href="https://www.justice.gov/sites/default/files/eoir/legacy/2014/07/25/3380.pdf"><em>Matter of Cervantes-Gonzalez  (PDF)</em></a>, 22 I&amp;N Dec. 560 (BIA 1999), aff’d, <em>Cervantes-Gonzales v. INS</em>, 244 F.3d 1001 (9th Cir. 2001). See <a href="https://www.justice.gov/sites/default/files/eoir/legacy/2014/07/25/3281.pdf"><em>Matter of L-O-G  (PDF)</em></a><em>-</em>, 21 I&amp;N Dec. 413 (BIA 1996). See <a href="https://www.justice.gov/sites/default/files/eoir/legacy/2012/08/17/2669.pdf"><em>Matter of Anderson  (PDF)</em></a>, 16 I&amp;N Dec. 596 (BIA 1978).</p><p><a class="ck-anchor" id="footnote-2"></a><a class="ck-anchor" href="#footnotelink-2">[^ 2]</a> See <a href="https://www.state.gov/j/drl/rls/hrrpt/">DOS Country Reports on Human Rights Practices</a> and <a href="https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/">DOS Travel Warnings</a>.</p><p><a class="ck-anchor" id="footnote-3"></a><a class="ck-anchor" href="#footnotelink-3">[^ 3]</a> See <a href="https://www.justice.gov/sites/default/files/eoir/legacy/2013/04/15/2989.pdf"><em>Matter of Ngai  (PDF)</em></a>, 19 I&amp;N Dec. 245 (BIA 1984) (“Common results of the bar, such as separation, financial difficulties, etc. in themselves are insufficient to warrant approval of an application unless combined with much more extreme impacts").</p><p><a class="ck-anchor" id="footnote-4"></a><a class="ck-anchor" href="#footnotelink-4">[^ 4]</a> See <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1229b&amp;num=0&amp;edition=prelim">INA 240A(b)(1)(D)</a>.</p><p><a class="ck-anchor" id="footnote-5"></a><a class="ck-anchor" href="#footnotelink-5">[^ 5]</a> See <a href="https://www.justice.gov/sites/default/files/eoir/legacy/2014/07/25/3280.pdf"><em>Matter of O-J-O-  (PDF)</em></a>, 21 I&amp;N Dec. 381, 383 (BIA 1996).</p><p><a class="ck-anchor" id="footnote-6"></a><a class="ck-anchor" href="#footnotelink-6">[^ 6]</a> The characteristics for which a person is ostracized or stigmatized may be actual or perceived (that is, the person may actually have that characteristic, or someone may perceive the person as having that characteristic).</p><p><a class="ck-anchor" id="footnote-7"></a><a class="ck-anchor" href="#footnotelink-7">[^ 7]</a> The officer should consider any submitted government or nongovernmental reports on country conditions specified in the hardship claim. In the absence of any evidence submitted on country conditions, the officer may refer to DOS information on country conditions, such as <a href="https://www.state.gov/j/drl/rls/hrrpt/">DOS Country Reports on Human Rights Practices</a> and the most recent <a href="https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/">DOS Travel Advisories</a>, to corroborate the claim. See Volume 1, General Policies and Procedures, Part H, Emergencies or Unforeseen Circumstances, Chapter 2, Emergencies or Unforeseen Circumstances-Related Flexibilities [<a href="/policy-manual/volume-1-part-h-chapter-2" data-entity-type="node" data-entity-uuid="6ed464fd-7f09-4bd2-a319-67bfd8f172f5" data-entity-substitution="canonical">1 USCIS-PM H.2</a>].</p><p><a class="ck-anchor" id="footnote-8"></a><a class="ck-anchor" href="#footnotelink-8">[^ 8]</a> For more information on TPS, see the <a href="/node/42051">USCIS website</a>.</p><p><a class="ck-anchor" id="footnote-9"></a><a class="ck-anchor" href="#footnotelink-9">[^ 9]</a> See <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5928&amp;num=0&amp;edition=prelim">5 U.S.C. 5928</a>. See DOS’ <a href="https://aoprals.state.gov/content.asp?content_id=271&amp;menu_id=75">Danger Pay Allowance Regulations</a> webpage.</p><p><a class="ck-anchor" id="footnote-10"></a><a class="ck-anchor" href="#footnotelink-10">[^ 10]</a> See Section D, Examples of Factors that Might Support Finding of Extreme Hardship [<a href="#S-D">9 USCIS-PM B.5(D)</a>].</p><p><a class="ck-anchor" id="footnote-11"></a><a class="ck-anchor" href="#footnotelink-11">[^ 11]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.103_12">8 CFR 103.2(b)(1)</a>.</p><p><a class="ck-anchor" id="footnote-12"></a><a class="ck-anchor" href="#footnotelink-12">[^ 12]</a> See, for example, Division F, Title VI of the Omnibus Appropriations Act of 2009, <a href="https://www.gpo.gov/fdsys/pkg/PLAW-111publ8/pdf/PLAW-111publ8.pdf">Pub. L. 111-8  (PDF)</a>, 123 Stat. 524, 807 (March 11, 2009). See Section 1244 of the National Defense Authorization Act for Fiscal Year 2008, <a href="https://www.gpo.gov/fdsys/pkg/STATUTE-122/pdf/STATUTE-122-Pg3.pdf">Pub. L. 110-181  (PDF)</a>, 122 Stat. 3, 396 (January 28, 2008). See Section 1059 of the National Defense Authorization Act for Fiscal Year 2006, <a href="https://www.gpo.gov/fdsys/pkg/PLAW-109publ163/pdf/PLAW-109publ163.pdf">Pub. L. 109-163  (PDF)</a>, 119 Stat. 3136, 3443 (January 6, 2006), as amended by <a href="https://www.gpo.gov/fdsys/pkg/PLAW-110publ36/pdf/PLAW-110publ36.pdf">Pub. L. 110-36  (PDF)</a>, 121 Stat. 227 (June 15, 2007).</p><p><a class="ck-anchor" id="footnote-13"></a><a class="ck-anchor" href="#footnotelink-13">[^ 13]</a> Although it is unlikely that a qualifying relative would have been granted withholding of removal under <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1231&amp;num=0&amp;edition=prelim">INA 241(b)(3)</a> or withholding or deferral of removal under the Convention Against Torture (CAT), if a qualifying relative was previously granted such a form of relief, this would often weigh heavily in support of a finding of extreme hardship to that qualifying relative, similar to situations involving qualifying relatives described in this particularly significant factor.</p><p><a class="ck-anchor" id="footnote-14"></a><a class="ck-anchor" href="#footnotelink-14">[^ 14]</a> Federal agency programs focusing on individuals with disabilities generally rely on definitions found in their authorizing legislation. These definitions may be unique to an agency’s program.</p><p><a class="ck-anchor" id="footnote-15"></a><a class="ck-anchor" href="#footnotelink-15">[^ 15]</a> See <a href="http://uscode.house.gov/view.xhtml?path=/prelim@title10/subtitleA/part1/chapter1&amp;edition=prelim">10 U.S.C. 101</a>. The term “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.</p><p><a class="ck-anchor" id="footnote-16"></a><a class="ck-anchor" href="#footnotelink-16">[^ 16]</a> See <a href="https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/">DOS Travel Warnings</a>.</p><p><a class="ck-anchor" id="footnote-17"></a><a class="ck-anchor" href="#footnotelink-17">[^ 17]</a> The term “child” includes those related to the applicant by birth, adoption, marriage, legal custody, or guardianship.</p><p><a class="ck-anchor" id="footnote-18"></a><a class="ck-anchor" href="#footnotelink-18">[^ 18]</a> In this scenario, the children are assumed to be under age 21. See <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)</a> and <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(c)(1)</a>.</p><p><a class="ck-anchor" id="footnote-19"></a><a class="ck-anchor" href="#footnotelink-19">[^ 19]</a> These scenarios are not exhaustive. For example, even when a qualifying relative is not the primary caretaker or breadwinner. Nonetheless, the loss of the applicant’s contribution to caretaking or support may have consequences that rise to the level of extreme hardship to the qualifying relative based on the totality of the circumstances.</p><p><a class="ck-anchor" id="footnote-20"></a><a class="ck-anchor" href="#footnotelink-20">[^ 20]</a> USCIS applies a similar principle when assessing whether there is a bona fide relationship between a father and his child born out of wedlock. See <a href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(b)(1)(D)</a> and <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.204_12">8 CFR 204.2(d)(2)(iii)</a>.</p><p><a class="ck-anchor" id="footnote-21"></a><a class="ck-anchor" href="#footnotelink-21">[^ 21]</a> None of these examples involves a waiver authority where the child is a qualifying relative under the Immigration and Nationality Act (INA). For more on qualifying relatives, see Chapter 4, Qualifying Relative [<a href="/node/73776">9 USCIS-PM B.4</a>].</p><p><a class="ck-anchor" id="footnote-22"></a><a class="ck-anchor" href="#footnotelink-22">[^ 22]</a> If the entire country is the subject of a travel warning that affirmatively recommends against travel or residence, the particularly significant factor will exist and would often weigh heavily in support of a finding of extreme hardship. For more on travel warnings, see Section E, Particularly Significant Factors, Subsection 4, DOS Travel Warnings [<a href="#S-E-4">9 USCIS-PM B.5(E)(4)</a>].</p><p><a class="ck-anchor" id="footnote-23"></a><a class="ck-anchor" href="#footnotelink-23">[^ 23]</a> For more on substantial displacement of care, see Section E, Particularly Significant Factors, Subsection 5, Substantial Displacement of Care of Applicant’s Children [<a href="#S-E-5">9 USCIS-PM B.5(E)(5)</a>].</p></div>
+      
+  </div>
+
+  <div id="resources" class="tabcontent tabcontent--resources hidden">
+    <h2>Resources</h2>
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Legal Authorities</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-b8a045fc07a853d59506cf2c41b34c86154f390697039bc7ca1f5cdc85c25e65 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-212/section-212.7">8 CFR 212.7</a> - Waiver of certain grounds of inadmissibility</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(a)(9)(B)(v)</a> - Waiver of the 3-year or 10-year unlawful presence bar</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(h)(1)(B)</a> - Waiver for certain criminal and related grounds</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&amp;num=0&amp;edition=prelim">INA 212(i)</a> - Admission of immigrant excludable for fraud or willful misrepresentation of material fact</p></div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Forms</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-59cab51f3f4b5c0bc3db9524f48a985144545526d4328e6a0c10690c43a7f9ae hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/g-1055" data-entity-type="node" data-entity-uuid="944bb8d1-cae6-467c-96b4-979e03f8ca66" data-entity-substitution="canonical">G-1055, Fee Schedule</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/node/41152">G-28, Notice of Entry of Appearance as Attorney or Accredited Representative</a></p>
+</div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/i-601">I-601, Application for Waiver of Grounds of Inadmissibility</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/i-601a">I-601A, Application for Provisional Unlawful Presence Waiver</a></p></div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Other Materials</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-453cdeabfe6f65c02a7d29c93a35d65613150a981327cc9a213e2928fe252d78 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="837656db-38a5-4ce9-a548-27a2b09d6b57" data-lang="en" href="/sites/default/files/document/policy-manual-resources/HowToUseTheUSCISPolicyManualWebsite.pdf" type="application/pdf; length=3130835">How to Use the USCIS Policy Manual Website</a></p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+  </div>
+
+  <div id="appendices" class="tabcontent tabcontent--appendices hidden">
+    <div class="pm-resource__container">
+      <h2>Appendices</h2>
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-2 pm-resources-block_2 js-view-dom-id-4eef34652c102dee2f76aaa5d99fc81e971adba76ecb20649075e74155982812 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="pm-resources empty"><p>No <em class="placeholder">appendices</em> available at this time.</p></div>
+  
+  
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="updates" class="tabcontent tabcontent--updates hidden">
+    <h2>Updates</h2>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-3 pm-resources-block_3 js-view-dom-id-4cbec375a85d118aa25fea7973b508c56cb896eb4e891d6af6a536a0f04b8009 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term "Noncitizen"</div>
+    <div><br><time datetime="2025-02-26T12:00:00Z" class="datetime">February 26, 2025</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-a233a9ef68ce87d7b2bccca1568b4f7f01e649cf040bed13b1dd84efd002ae39 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Alien”</div>
+    <div><br><time datetime="2021-05-11T12:00:00Z" class="datetime">May 11, 2021</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-351b8d5d6d8ac515d3f38fd1590403ac243e2ad1635a9826a865ebb19669d282 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Moving the Adjudicator’s Field Manual Content into the USCIS Policy Manual</div>
+    <div><br><time datetime="2020-05-21T12:00:00Z" class="datetime">May 21, 2020</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see the <a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="349de2b5-990b-4b61-b780-2eb4c0ed58cf" href="/sites/default/files/document/policy-manual-afm/afm-pmcrosswalk.pdf">crosswalk</a> between the AFM and the Policy Manual.</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-93e40739946deec872f70aed1b38dce408af016774f0e4e8f681730c470860d6 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Foreign National”</div>
+    <div><br><time datetime="2019-10-08T12:00:00Z" class="datetime">October 08, 2019</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-e395a5e7d1bec14e3291f098baa3f5020e734f75341101f2b7d5f84a48427f15 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Determining Extreme Hardship</div>
+    <div><br><time datetime="2016-10-21T12:00:00Z" class="datetime">October 21, 2016</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance on determinations of extreme hardship to qualifying relatives as required by certain statutory waiver provisions. This guidance becomes effective December 5, 2016.</p></div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20161021-ExtremeHardship.pdf" title="Select to read more about Determining Extreme Hardship" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-4076622fc61536226716004389febe7f04a989edb2b7b927eb7bee2c0dcec9f9 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-9-part-b"><span class="citation">9 USCIS-PM B</span> - <span>Part B - Extreme Hardship</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</section>
+
+  <span id="hidden-resources" class="hidden"></span>
+  <span id="hidden-appendices" class="hidden"></span>
+  <span id="hidden-updates" class="hidden"></span>
+  <span id="hidden-versions" class="hidden">0</span>
+
+
+  <nav class="nav-sub-tree" aria-labelledby="nav-sub-tree-label">
+    <div class="visually-hidden" id="nav-sub-tree-label">Page sub tree links</div>
+        
+  </nav>
+
+          <div class="current-date"><span class="current-date__label">Current as of</span><span class="current-date__value"> October 20, 2025</span></div>
+  
+        <div class="prev-next">
+          <div class="previous-container">
+        <a href="/policy-manual/volume-9-part-b-chapter-4" id="previous-button" class="usa-button" rel="prev" title="Go to previous page">Previous</a>
+      </div>
+              <div class="next-container">
+        <a href="/policy-manual/volume-9-part-b-chapter-6" id="next-button" class="usa-button" rel="next" title="Go to next page">Next</a>
+      </div>
+        </div>
+  
+      
+  
+        </div>
+      
+                </div>
+  
+  
+    
+  </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/policy-manual/volume-9-part-b-chapter-5" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="73778" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="73778" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="73778" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-ase6is4nqlbnc72mwo9utksrjjqnsrh-qs-duzdrpqo" type="hidden" name="form_build_id" value="form-ase6Is4NQlBnc72MWo9UTkSRjjqNsRh-Qs_DUzDRPQo"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="73778" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_f7zHONM931Ca8gnbX5D2rr4I9JXY3squQ33IJRVWJ9I.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_z29Okdt7hgaFcU0AxeQoxu6Pn68RoUSKbTmlZ77r4_o.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+
+  </body>

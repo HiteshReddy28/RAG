@@ -1,0 +1,346 @@
+H1: Chapter 5 - Waivers for T Nonimmigrants Applying for Adjustment of Status
+
+- Guidance
+
+- Resources (20)
+
+- Appendices (0)
+
+- Updates (6)
+
+H2: A. General
+
+To be eligible to adjust status to lawful permanent residence, all T nonimmigrants must establish that they are admissible to the United States at the time of adjudication of the Application to Register Permanent Residence or Adjust Status (Form I-485) or be granted a waiver of inadmissibility for any grounds not already waived in connection with the underlying Application for T Nonimmigrant Status (Form I-914) or Application for Derivative T Nonimmigrant Status (Form I-914, Supplement A).[1]
+
+If a ground of admissibility applies but was waived in connection with the underlying T nonimmigrant status application, officers do not re-adjudicate the waiver decision and consider the inadmissibility waived for purposes of the adjustment application.
+
+H2: B. Grounds of Inadmissibility Not Previously Waived
+
+If there are inadmissibility grounds that existed before approval of the underlying T nonimmigrant status that were not disclosed or addressed at the time of adjudication, the officer should consider whether revocation of the approval of T nonimmigrant status is appropriate. As part of that process, USCIS examines whether the inadmissibility can be waived based on the record or, if there is insufficient evidence in the record to waive the inadmissibility, the officer issues a Notice of Intent to Revoke.
+
+Principal and derivative T nonimmigrant applicants for adjustment of status who are inadmissible based on a pre-existing ground not previously waived in connection with the application for T nonimmigrant status must file an Application for Waiver of Grounds of Inadmissibility (Form I-601).[2]The applicant should submit any additional evidence that is relevant to the exercise of discretion.[3]
+
+H2: C. Waivers for Grounds of Inadmissibility
+
+USCIS has the authority underINA 245(l)(2)to waive any ground of inadmissibility for T nonimmigrant applicants for adjustment of status, with the exception of the following:
+
+- Security and related grounds -INA 212(a)(3);
+
+- International child abduction -INA 212(a)(10)(C); and
+
+- Renunciation of U.S. citizenship to avoid taxation -INA 212(a)(10)(E).[4]
+
+T nonimmigrant applicants for adjustment of status may apply for any other waivers of inadmissibility for which they may be eligible, in addition toINA 245(l)(2).
+
+H3: 1. Health-Related Inadmissibility Grounds
+
+The standard for waiving health-related[5]inadmissibility grounds is whether a waiver is in the national interest as a matter of discretion.[6]
+
+H3: 2. Other Inadmissibility Grounds
+
+For other grounds of inadmissibility, the standard is whether:
+
+- It is in the national interest to waive the inadmissibility ground; and
+
+- The activities rendering the applicant inadmissible were caused by, or were incident to, the T-1 principal applicant’s trafficking victimization.[7]
+
+H3: 3. Unlawful Presence Inadmissibility Grounds
+
+If an applicant is inadmissible only for their unlawful presence[8]in the United States and the trafficking was at least one central reason for their unlawful presence,[9]and they are not inadmissible on any other grounds, it is not necessary to fileForm I-601.[10]However, the applicant must submit evidence sufficient to demonstrate that the victimization suffered was at least one central reason for the unlawful presence in the United States. Such evidence may include:
+
+- Personal statement;
+
+- Psychologist report;
+
+- Medical records; or
+
+- Affidavits from relevant third parties.
+
+The victimization does not need be the sole reason for the unlawful presence, but the nexus between the victimization and the unlawful presence must be more than tangential, incidental, or superficial.[11]
+
+H3: 4. Exemption from Public Charge Ground of Inadmissibility
+
+There is a statutory exemption from the public charge ground of inadmissibility[12]for victims who apply for T nonimmigrant status.[13]This exemption also applies to T nonimmigrant adjustment of status applicants.[14]If, however, a T nonimmigrant is applying for adjustment of status based on an employment-based petition that requires an Affidavit of Support Under Section 213A of the INA (Form I-864), the applicant must submit an affidavit of support as described inINA 212(a)(4)(D).[15]
+
+H3: 5. Summary of Waivers Available to T Nonimmigrant Adjustment Applicants
+
+TABLE:
+Legal Authority | Waiver Available for | Standard
+INA 245(l)(2)(A) | INA 212(a)(1)(health related) | In the national or public interest
+INA 245(l)(2)(B) | All other grounds of inadmissibility except:INA 212(a)(3)(A)(espionage, sabotage, or export of sensitive technology or information)INA 212 (a)(3)(B)(terrorist activities)INA 212(a)(3)(C)(adverse foreign policy considerations)INA 212(a)(3)(D)(immigrant membership in totalitarian party)INA 212(a)(3)(E)(participation in Nazi persecution, genocide, or the commission of any acts of torture or extrajudicial killing)INA 212(a)(10)(C)(international child abductors)INA 212(a)(10)(E)(renunciation of U.S. citizenship to avoid taxation) | In the national or public interest and caused by or incident to victimization
+
+All other grounds of inadmissibility except:
+
+- INA 212(a)(3)(A)(espionage, sabotage, or export of sensitive technology or information)
+
+- INA 212 (a)(3)(B)(terrorist activities)
+
+- INA 212(a)(3)(C)(adverse foreign policy considerations)
+
+- INA 212(a)(3)(D)(immigrant membership in totalitarian party)
+
+- INA 212(a)(3)(E)(participation in Nazi persecution, genocide, or the commission of any acts of torture or extrajudicial killing)
+
+- INA 212(a)(10)(C)(international child abductors)
+
+- INA 212(a)(10)(E)(renunciation of U.S. citizenship to avoid taxation)
+
+H2: D. Waiver Analysis for Non-Health Related Grounds of Inadmissibility
+
+Step One: Caused by or Incident to Victimization
+
+The first step in determining whether a waiver is warranted is to determine whether the applicant has established that the activities rendering them inadmissible were caused by, or were incident to, the T-1 principal applicant’s victimization as a result of being trafficked.[16]Derivative family members applying for adjustment of status may be ineligible for a waiver under INA 245(l)(2)(B) if they are unable to establish a nexus to the principal’s victimization.
+
+If an officer determines that the applicant has not established the connection between the activities and the victimization, the officer does not proceed to step two and denies the waiver application.
+
+Step Two: National Interest Standard
+
+The next step in determining whether a waiver is warranted is to determine whether it is in the national interest to grant the waiver.
+
+“National interest” is not defined in the law or regulation but is interpreted broadly based on the purpose of the program, as established by Congress. Congress created T nonimmigrant status to provide immigration protection to alien victims of trafficking and to provide a tool for law enforcement to investigate and prosecute trafficking and other crimes by providing legal status for victims who cooperate.[17]
+
+Factors USCIS considers in determining whether a waiver is in the public or national interest include, but are not limited to:
+
+- Nature of the applicant’s victimization;
+
+- Level of victim’s cooperation with law enforcement;
+
+- Contributions to public safety by strengthening the ability of law enforcement to investigate and prosecute criminal activity;
+
+- Contributions to the community;
+
+- Family unity; and
+
+- Risk of harm if the applicant is returned to their home country.
+
+If an officer determines that the applicant has not established that it is in the national interest for USCIS to grant a waiver, the officer denies the waiver application.
+
+Step Three: Discretionary Analysis
+
+If the officer determines that the applicant has established that it is in the national interest for USCIS to grant a waiver, the officer must still determine whether the waiver should be granted as a matter of discretion.[18]The discretionary determination is the final step in the adjudication of a waiver application. The applicant bears the burden of establishing that they merit a favorable exercise of discretion.[19]
+
+The officer must weigh the social and humanitarian considerations against the adverse factors present in the applicant’s case.[20]The approval of a waiver as a matter of discretion depends on whether the favorable factors in the applicant’s case outweigh the unfavorable ones.[21]
+
+H2: Footnotes
+
+[^ 1]SeeINA 245(l)(2). See8 CFR 245.23(a)(4)and8 CFR 245.23(b)(4).
+
+[^ 2]If there is a T derivative adjustment applicant with a non-health-related inadmissibility ground that was not waived at the time of the derivative T nonimmigrant grant, and the inadmissibility basis has no nexus to the T-1 principal’s victimization, then the T derivative applicant may be ineligible for a waiver underINA 245(l)(2).
+
+[^ 3]See Part A, Waiver Policies and Procedures, Chapter 4, Waiver Eligibility and Evidence, Section C, Evidence [9 USCIS-PM A.4(C)], for a discussion of evidence that can be submitted.
+
+[^ 4]SeeINA 245(l)(2). See8 CFR 212.18(b).
+
+[^ 5]SeeINA 212(a)(1).
+
+[^ 6]SeeINA 245(l)(2)(A).
+
+[^ 7]SeeINA 245(l)(2)(A). See8 CFR 212.18(b).
+
+[^ 8]SeeINA 212(a)(9)(B)(i).
+
+[^ 9]SeeINA 212(a)(9)(B)(iii).
+
+[^ 10]See8 CFR 245.23(c)(4).
+
+[^ 11]See8 CFR 245.23(c)(4).
+
+[^ 12]SeeINA 212(a)(4).
+
+[^ 13]See8 CFR 212.23(a)(17).
+
+[^ 14]See8 CFR 212.23(a)(18).
+
+[^ 15]See8 CFR 212.23(b).
+
+[^ 16]SeeINA 245(l)(2)(A). The requirement to establish a connection to victimization is not required for waivers requested for health-related inadmissibility grounds. See8 CFR 212.18(b).
+
+[^ 17]See22 U.S.C. 7101  (PDF).
+
+[^ 18]SeeINA 245(l)(2)(indicating that waivers are granted as a matter of discretion).
+
+[^ 19]SeeMatter of De Lucia(PDF), 11 I&N Dec. 565 (BIA 1966). SeeMatter of T-S-Y-, 7 I&N Dec. 582 (BIA 1957).
+
+[^ 20]SeeMatter of Mendez-Moralez(PDF), 21 I&N Dec. 296 (BIA 1996).
+
+[^ 21]SeeMatter of Mendez-Moralez(PDF), 21 I&N Dec. 296 (BIA 1996) (relating to a criminal waiver underINA 212(h)(1)(B)). SeeMatter of Marin(PDF), 16 I&N Dec. 581 (BIA 1978) (relating to an INA 212(c) waiver). SeeMatter of Tijam(PDF), 22 I&N Dec. 408 (BIA 1998) (relating to a fraud or misrepresentation finding (INA 212(a)(6)(C)(i)) and the discretionary waiver under former INA 241(a)(1)(H) (redesignated asINA 237(a)(1)(H)by IIRIRA)). For a non-exhaustive list of relevant factors to consider in the discretionary analysis, see Part A, Waiver Policies and Procedures, Chapter 5, Discretion, Section A, Discretionary Factors [9 USCIS-PM A.5(A)].
+
+H2: Resources
+
+22 U.S.C. 7101        (PDF)- Purposes and findings on trafficking
+
+8 CFR 212.16- Applications for exercise of discretion relating to T nonimmigrant status
+
+8 CFR 212.18(b)- Treatment of applications for waivers of inadmissibility in connection with an application for adjustment of status by T nonimmigrant status holders
+
+8 CFR 212.23- Exemptions and waivers for public charge ground of inadmissibility
+
+8 CFR 212.7- Waiver of certain grounds of inadmissibility
+
+8 CFR 245.23- Adjustment of noncitizens in T nonimmigrant classification
+
+8 U.S.C. 1367- Penalties for disclosure of information
+
+INA 212(a)(3)- Security and related grounds of inadmissibility
+
+INA 212(d)(13);8 CFR 212.18- Waivers of inadmissibility
+
+INA 212(d)(3)(A)(ii);8 CFR 212.18- Waivers of inadmissibility
+
+INA 212(h)(1)(B)- Waiver for certain criminal and related grounds
+
+INA 245(l)(2)- Waivers for adjustment of status for victims of trafficking
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-192, Application for Advance Permission to Enter as a Nonimmigrant
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-601A, Application for Provisional Unlawful Presence Waiver
+
+I-864, Affidavit of Support Under Section 213A of the INA
+
+I-914, Application for T Nonimmigrant Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to incorporate changes from the Classification for Victims of Severe Forms of Trafficking in Persons; Eligibility for “T” Nonimmigrant Status Final Rule (T Final Rule), including updated citations, new definitions, and clarifications.
+
+3 USCIS-PM B.1-Chapter 1 - Purpose and Background
+
+3 USCIS-PM B.2-Chapter 2 - Eligibility Requirements
+
+3 USCIS-PM B.3-Chapter 3 - Documentation and Evidence for Principal Applicants
+
+3 USCIS-PM B.4-Chapter 4 - Family Members
+
+3 USCIS-PM B.5-Chapter 5 - Documentation and Evidence for Family Members
+
+3 USCIS-PM B.6-Chapter 6 - Bona Fide Determinations
+
+3 USCIS-PM B.7-Chapter 7 - Adjudication
+
+3 USCIS-PM B.8-Chapter 8 - Annual Cap and Waiting List
+
+3 USCIS-PM B.9-Chapter 9 - Applicants in Removal Proceedings
+
+3 USCIS-PM B.10-Chapter 10 - Duration and Extensions of Status
+
+3 USCIS-PM B.11-Chapter 11 - Federal Benefits and Work Authorization
+
+3 USCIS-PM B.12-Chapter 12 - Travel Outside the United States
+
+3 USCIS-PM B.13-Chapter 13 - Revocation of Status
+
+9 USCIS-PM O.2-Chapter 2 - Waivers for Victims of Trafficking
+
+9 USCIS-PM O.3-Chapter 3 - INA 212(d)(13) Waivers
+
+9 USCIS-PM O.5-Chapter 5 - Waivers for T Nonimmigrants Applying for Adjustment of Status
+
+9 USCIS-PM O.6-Chapter 6 - Adjudication and Post-Adjudication Matters
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual regarding the adjudication of applications for T nonimmigrant status for victims of severe forms of trafficking in persons.
+
+3 USCIS-PM B-Part B - Victims of Trafficking
+
+9 USCIS-PM O-Part O - Victims of Trafficking
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

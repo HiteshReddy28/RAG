@@ -1,0 +1,468 @@
+H1: Chapter 4 - Adjudication
+
+- Guidance
+
+- Resources (9)
+
+- Appendices (0)
+
+- Updates (8)
+
+H2: A. General
+
+Once USCIS accepts the Application for Employment Authorization (Form I-765), USCIS reviews the application for completeness and submission of the required initial evidence.[1]In reviewing the Form I-765, USCIS ensures that the fee was paid, a fee waiver was granted, or a fee exemption applies. USCIS also reviews the application to determine the applicant’s identity, current immigration status, and employment authorization eligibility category.
+
+If an alien fails to specify the employment authorization eligibility category on the application, USCIS reviews the file to determine the proper category. If USCIS is unable to determine the category, USCIS may issue a Request for Evidence (RFE) to provide the applicant the opportunity to specify the proper category.
+
+If the alien is eligible for employment authorization, which may include, if applicable, meriting a favorable exercise of discretion USCIS approves the application and issues an Employment Authorization Document (EAD) on Form I-766.
+
+In applicable cases, USCIS considers factors involving circumstances where an alien has endorsed, promoted, supported, or otherwise espoused the views of an anti-American or terrorist organization or group, including those who support or promote antisemitic terrorism, antisemitic terrorist organizations, and antisemitic ideologies, to be an overwhelmingly negative factor in any applicable case involving USCIS discretionary analysis. Accordingly, USCIS enforces all relevant immigration laws to the maximum degree, including the use of discretion, to deny the benefit request involving such cases.[2]
+
+H2: B. Determining Identity and Eligibility
+
+There are two elements common to all eligibility categories that USCIS must consider when adjudicating Form I-765: identity and eligibility verification. Additionally, applications filed under8 CFR 274a.12(c), with limited exceptions, are considered in the exercise of discretion.[3]
+
+H3: 1. Identity Verification
+
+To grant employment authorization, and issue an EAD, or both, USCIS must verify the applicant’s identity. USCIS may therefore require an applicant to appear at a USCIS Application Support Center to provide biometrics.[4]
+
+H3: 2. Eligibility Verification
+
+USCIS must verify that the applicant meets the requirements of one of the categories eligible for employment authorization, an EAD, or both and has submitted evidence establishing eligibility.[5]The specific type of evidence varies by eligibility category. In general, supporting evidence to establish eligibility includes, but is not limited to:
+
+- Visa(s) issued to applicant;
+
+- Arrival-Departure Record (Form I-94);[6]
+
+- Documents to establish a qualifying relationship; and
+
+- Documents that establish a qualifying pending or approved application, such as a Notice of Action (Form I-797).
+
+Generally, USCIS issues written notices in the form of an RFE or Notice of Intent to Deny (NOID) to request missing initial[7]or additional evidence.[8]
+
+H2: C. Decision
+
+H3: 1. Approval
+
+Once USCIS determines the applicant has established identity and eligibility for employment authorization including, if applicable, warranting a favorable exercise of discretion, USCIS approves Form I-765 and orders production of the EAD.[9]
+
+The approval of Form I-765 does not grant the applicant an immigration status; it simply provides authorization to work and accompanying evidence of such authorization, or evidence of authorization to work where an alien is already authorized to work by virtue of the applicant’s immigration status or circumstance.
+
+Validity Period
+
+Employment authorization and EAD validity periods are generally determined based on the eligibility category that is granted. USCIS determines validity periods as established by regulations, policy, or Federal Register Notices. When requests for employment authorization, an EAD, or both are based upon an underlying period of admission or status, the validity period generally coincides with that authorized period of admission or status. When USCIS calculates the validity dates based on a set number of years, USCIS issues the EAD with the length of time allowed, minus 1 day.
+
+The below charts illustrate the maximum validity period that may be granted for requests for initial employment authorization, EAD, or both and requests to renew employment authorization, EAD, or both. For employment authorization incident to status, the validity period is assigned to the document issued evidencing an alien’s authorization to work in the United States and does not limit the period of employment authorization while the alien maintains status.[10]
+
+TABLE:
+Category8 CFR 274a.12 | Purpose | Maximum Initial Validity Period | Maximum Renewal Validity Period
+(a)(2) | Lawful temporary resident | 43 months[11] | 2 years
+(a)(3) | Admitted as a refugee[12] | 5 years | 5 years
+(a)(4) | Paroled as a refugee[13] | Duration of parole, not to exceed 5 years | Duration of parole, not to exceed 5 years
+(a)(5) | Granted asylum[14] | 5 years | 5 years
+(a)(6) | K-1 fiance(e) or K-2 child | Period of authorized stay[15] | Remainder of 90-day period of admission
+(a)(7) | Parent and child of N-8 or N-9 nonimmigrant[16] | 1 year | 1 year
+(a)(8) | Citizen of Micronesia, the Marshall Islands or Palau | 5 years | 5 years
+(a)(9) | K-3 spouse or K-4 dependent | 2 years[17] | 2 years[18]
+(a)(10) | Granted withholding of deportation or removal | 5 years | 5 years
+(a)(11) | Deferred extended voluntary departure or deferred enforced departure | Variable[19] | Variable[20]
+(a)(12) | Temporary protected status (TPS)[21] | Variable, length of TPS designation, or any TPS renewals and TPS extensions | Variable, length of TPS designation, or any TPS renewals and TPS extensions
+(a)(13) | Granted voluntary departure under Family Unity Program of IMMACT 90[22] | 2 years[23] | 2 years[24]
+(a)(14) | Legal Immigration Family Equity (LIFE) Act Family Unity grantee[25] | Variable, not to exceed 2 years[26] | Variable, not to exceed 2 years[27]
+(a)(15) | V-1, V-2, or V-3 nonimmigrant | Duration of V-1, V-2, and V-3 status, not to exceed 2 years | Duration of V-1, V-2, and V-3 status, not to exceed 2 years[28]
+(a)(16) | Victims of human trafficking (T-1 nonimmigrant) | Duration of T-1 nonimmigrant status[29] | Duration of T-1 nonimmigrant status[30]
+(a)(17) | Spouse of E1, E-2, and E-3 | Duration of E-1, E-2, and E-3 status | Duration of E-1, E-2, and E-3 status
+(a)(18) | Spouse of L-1 nonimmigrant | Variable, up to end date of L-2 status, not to exceed principal’s L-1 status | Variable, up to end date of L-2 status, not to exceed principal’s L-1 status
+(a)(19) | Victims of qualifying criminal activity (U-1 nonimmigrant) | Duration of U-1 nonimmigrant status[31] | Duration of U-1 nonimmigrant status[32]
+(a)(20) | Family members of victims of qualifying criminal activity (U-2, U-3, U-4, or U-5 nonimmigrant)[33] | Duration of U-2, U-3, U-4, or U-5 nonimmigrant status | Duration of U-2, U-3, U-4, or U-5 nonimmigrant status[34]
+
+Category
+
+8 CFR 274a.12
+
+TABLE:
+Category8 CFR 274a.12 | Purpose | Maximum Initial Validity Period | Maximum Renewal Validity Period
+(c)(1) | Dependent of a diplomat or foreign government official (A-1 or A-2)[35] | 3 years or tour of duty end date on Form I-566, whichever is less | 3 years or tour of duty end date on Form I-566, whichever is less
+(c)(2) | Dependent of Taipei Economic and Cultural Representative Office (TECRO) (E-1)[36] | 3 years or end of principal E-1 status, whichever is less | 3 years or end of principal E-1 status, whichever is less
+(c)(3)(A) | Student pre-completion Optional Practical Training (OPT) | Variable, 12 months, date recommended by Designated School Official (DSO), or date course of study ends, whichever is earlier | Renewal not authorized
+(c)(3)(B) | Student post-completion OPT | Variable, up to 12 months | Renewal not authorized
+(c)(3)(C) | Student STEM OPT | 24 months[37] | Renewal not authorized
+(c)(3)(ii) | Off-campus employment – qualifying international organization | Variable, up to 12 months[38] | Variable, up to 12 months
+(c)(3)(iii) | Off-campus employment – student severe economic hardship under 8 CFR 214.2(f)(9)(ii)(C) | Variable, up to 1 year[39] | Variable, up to 1 year[40]
+(c)(3)(iii) | Off-campus employment – student severe economic hardship under 8 CFR 214.2(f)(9)(ii)(A) (special student relief) | Variable[41] | Variable[42]
+(c)(4) | Spouse or unmarried child, son or daughter of an employee of an international organization (G-1, G-3, or G-4)[43] | 3 years or tour of duty end date on Form I-566, whichever is less | 3 years or tour of duty end date on Form I-566, whichever is less
+(c)(5) | Dependent spouse or minor child of a J-1 exchange visitor | 2 years or end of principal J-1 status, whichever is less | 2 years or end of principal J-1 status, whichever is less
+(c)(6) | Nonacademic or vocational student (M-1) post-completion OPT | 6 months, not to exceed recommendation on Certificate of Eligibility for Nonimmigrant Student Status (Form I-20) or 1 month for each 4 months of completed full-time studies, whichever is earlier[44] | Renewal not authorized
+(c)(7) | Dependent of NATO-1 through NATO-7 employee | 3 years, not to exceed tour of duty listed onForm I-566 | 3 years, not to exceed tour of duty listed on Form I-566
+(c)(8) | Pending application for asylum or withholding of deportation or removal | 5 years | 5 years
+(c)(9) | Pending application for adjustment of status under INA 245[45] | 5 years | 5 years
+(c)(10) | Pending application for suspension of deportation, cancellation of removal, or relief under the Nicaraguan Adjustment and Central American Relief Act (NACARA)[46] | 5 years | 5 years
+(c)(11) | Parole[47] | Variable, to end date of the parole period | Variable, to end date of the parole period
+(c)(12) | Spouse of E-2 CNMI investor[48] | End of principal E-2 CNMI Investor status not to exceed 2 years | End of principal E-2 CNMI Investor status not to exceed 2 years
+(c)(14) | Deferred action (non-Deferred Action for Childhood Arrivals (DACA)) | Variable, end date of deferred action period[49] | Variable, end date of deferred action period[50]
+(c)(16) | Applicant for creation of record of lawful admission | 1 year | 1 year
+(c)(17)(i) | Domestic employee of nonimmigrant employer[51] | 1 year or validity of B-1, whichever is less | 1 year or validity of B-1, whichever is less
+(c)(17)(ii) | Domestic employee of U.S. citizen abroad[52] | 1 year or validity of B-1, whichever is less | 1 year or validity of B-1, whichever is less
+(c)(17)(iii) | B-1 foreign airline employee[53] | 1 year or validity of B-1, whichever is less | 1 year or validity of B-1, whichever is less
+(c)(18) | Final order of removal with order of supervision[54] | 1 year | 1 year
+(c)(19) | Application for TPS pending[55] | Variable, length of TPS designation, or any TPS renewals and TPS extensions | Variable, length of TPS designation, or any TPS renewals and TPS extensions
+(c)(20) | Pending application under INA 210 | 1 year | 1 year
+(c)(21) | S nonimmigrant law enforcement witness or informant[56] | Variable, up to 3 years[57] | Variable, up to 3 years
+(c)(22) | Pending application under INA 245A | 1 year | 1 year
+(c)(24) | Pending application for LIFE Act Legalization[58] | 1 year | 1 year
+(c)(25) | Family members of victims of human trafficking (T‐2, T‐3, T‐4, T-5, or T-6 nonimmigrant) | Duration of T-2, T-3, T-4, T-5, or T-6 nonimmigrant status | Duration of T-2, T-3, T-4, T-5, or T-6 nonimmigrant status
+(c)(26) | H‐4 nonimmigrant spouse of a H-1B nonimmigrant | Variable, up to end date of H-4 status, not to exceed principal’s H-1B status | Variable, up to end date of H-4 status, not to exceed principal’s H-1B status
+(c)(27) | Abused spouse of A nonimmigrant[59] | 2 years | 2 years
+(c)(28) | Abused spouse of E nonimmigrant[60] | 2 years | 2 years
+(c)(29) | Abused spouse of G nonimmigrant[61] | 2 years | 2 years
+(c)(30) | Abused spouse of H nonimmigrant[62] | 2 years | 2 years
+(c)(31) | Violence Against Women Act (VAWA) self-petitioner | 2 years | 2 years
+(c)(33) | Granted DACA[63] | Variable, 2 years or end date of deferred action period, whichever is earlier | Variable, 2 years or end date of deferred action period, whichever is earlier
+(c)(34) | Spouse of entrepreneur parolee under8 CFR 212.19(h)(3) | Variable, up to end date of parole | Variable, up to end date of parole
+(c)(35) | Form I-140 beneficiary with compelling circumstances | 1 year | 1 year
+(c)(36) | Dependents of (c)(35) | 1 year | 1 year
+(c)(37) | CNMI long-term residents | 5 years | 5 years
+
+Category
+
+8 CFR 274a.12
+
+USCIS considers various factors when establishing validity periods for EADs, including the validity period of the underlying immigration status or circumstance, anticipated adjudication timeframes for pending immigration benefits, and the periodic need to reevaluate eligibility for employment authorization, EAD, or both, and to ensure that such aliens continue to pose no known security risk to the United States.
+
+The validity date of the initial EAD begins on the date of approval. Generally, the same applies to Form I-765 renewal requests.
+
+Validity Period for Replacements
+
+USCIS approves a replacement EAD for the same validity dates and category as the original EAD.
+
+Validity Period for Age Outs
+
+For certain categories[64]where the applicant is a dependent child and will reach the age of 21 during the established validity period, USCIS provides an EAD expiration date that is the day before the applicant’s 21st birthday.
+
+H3: 2. Denial
+
+If USCIS cannot verify the applicant’s identity, the applicant fails to establish eligibility (including, if applicable, failing to warrant a favorable exercise of discretion) or abandons the application, USCIS denies the application. When USCIS denies Form I-765, USCIS notifies the applicant in writing of the decision and the reasons for denial.[65]There is no appeal from a denial of a Form I-765. However, an applicant may submit a motion to reopen or reconsider.[66]Furthermore, denial of Form I-765 does not preclude the applicant from filing again if eligibility for employment authorization can be established.
+
+H2: D. Early Filing
+
+If an applicant files for a renewal EAD more than 180 days before the current EAD expires and USCIS approves such request, USCIS generally does not backdate or postdate the renewal EAD in relation to the current EAD’s validity period.
+
+H2: E. Automatic Termination and Revocation on Notice
+
+Employment authorization automatically terminates if the applicant is no longer eligible due to certain circumstances outlined in the regulations.[67]No further action or notice by USCIS is necessary in the case of automatic termination.[68]
+
+A notice of intent to revoke (NOIR)[69]is necessary upon a determination that:
+
+- The statement of material facts contained in the application was not true and correct;
+
+- The applicant violated the terms and conditions of the approved application;
+
+- The basis for the EAD is no longer valid;[70]or
+
+- USCIS approved the application in error.
+
+A response with countervailing evidence may be submitted within 15 days from the date of service of the NOIR.
+
+H2: F. Withdrawing Application
+
+An applicant may withdraw Form I-765 at any time before USCIS makes a final decision on the application.[71]Any request to withdraw must be made in writing to the USCIS office listed on the receipt notice for Form I-765. The applicant or an authorized representative with a properly filed Notice of Entry of Appearance as Attorney or Accredited Representative (Form G-28) must sign the withdrawal request.
+
+H2: G. Motion to Reopen or Reconsider
+
+An applicant may submit a motion to reopen or a motion to reconsider by filing a Notice of Appeal or Motion (Form I-290B) within 30 days of the denial (33 days if denial notice was mailed to the applicant). Motions to reopen or reconsider are typically adjudicated by the same office that adjudicated Form I-765. USCIS issues a written decision on a motion to reopen or reconsider.
+
+An officer denies a motion if the applicant does not meet the motion requirements or has not submitted evidence to overcome the denial grounds. The written denial explains why the motion did not overcome the denial grounds.
+
+An officer approves a motion and reopens the Form I-765 if the applicant meets the motion requirements and has submitted evidence to overcome all reasons for the original denial.[72]
+
+If USCIS reopens the case, an officer may approve the Form I-765 or issue a new denial. In all cases where USCIS denies the application for reasons not contained in the original decision, USCIS first issues a NOID to provide the applicant with an opportunity to review and rebut the additional denial grounds.[73]
+
+When USCIS reopens the case but ultimately denies the Form I-765, the 30-day period during which the applicant may file a new motion restarts.
+
+H2: H. Effect of Motion or Appeal on Underlying Application or Petition
+
+The applicant is eligible to apply for employment authorization in cases where the applicant’s eligibility for employment authorization is based on an underlying application so long as that application remains pending. Generally, in cases where USCIS denies the underlying application, the applicant remains eligible for employment authorization if the applicant timely appeals or submits a motion to reopen the decision, and the appeal or motion remains pending. If USCIS grants a motion to reopen or an appeal on the underlying application, the applicant is eligible for employment authorization if all other requirements are met.
+
+If an applicant appeals an unfavorable decision from an application for relief from removal from the immigration judge (IJ) to the Board of Immigration Appeals (BIA), the application for relief from removal is considered pending. If the BIA sustains the IJ’s decision, however, the denial becomes administratively final, and the application may no longer serve as a basis for employment authorization.
+
+H2: I. Automatic Extensions of Employment Authorization Documents
+
+Aliens in certain employment eligibility categories who file Form I-765, to renew their EADs, may receive automatic extensions of their expiring EAD.[74]
+
+H2: Footnotes
+
+[^ 1]For a list of required initial evidence, seeInstructions for Form I-765and theChecklist of Required Initial Evidence for Form I-765webpage.
+
+[^ 2]See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis [1 USCIS-PM E.8]. For a list of factors that should be considered in the discretionary analysis, See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis, Section C, Adjudicating Discretionary Benefits, Subsection 2, Identifying Discretionary Factors [1 USCIS-PM E.8(C)(2)].
+
+[^ 3]See8 CFR 274a.13(a)(1). See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis [1 USCIS-PM E.8]. For a list of factors that should be considered in the discretionary analysis, See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis, Section C, Adjudicating Discretionary Benefits, Subsection 2, Identifying Discretionary Factors [1 USCIS-PM E.8(C)(2)].
+
+[^ 4]See8 CFR 103.2(b)(9). For further guidance on biometrics, see Volume 1, General Policies and Procedures, Part C, Biometrics Collection and Security Checks [1 USCIS-PM C].
+
+[^ 5]See8 CFR 103.2(b)(1).
+
+[^ 6]CBP implemented an electronic, automated I-94 process whereby CBP issues an electronic Form I-94. SeeArrival/Departure Forms: I-94 and I-94Wwebpage for more information.
+
+[^ 7]See8 CFR 103.2(b)(1).
+
+[^ 8]For further guidance on evidence, see Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 6, Evidence [1 USCIS-PM E.6].
+
+[^ 9]With limited exceptions, applications under8 CFR 274a.12(c)are granted in the discretion of USCIS. See8 CFR 274a.13(a)(1). In such cases, USCIS also determines whether the application should be granted in the exercise of discretion.
+
+[^ 10]See8 CFR 274a.12(a).
+
+[^ 11]Initial EAD validity period starts the day of adjudication of Application for Status as a Temporary Resident Under Section 245A of the Immigration and Nationality Act (Form I-687).
+
+[^ 12]SeeINA 207.
+
+[^ 13]SeeINA 207.
+
+[^ 14]SeeINA 208.
+
+[^ 15]SeeINA 101(a)(15)(K)(i).
+
+[^ 16]SeeINA 101(a)(27)(I).
+
+[^ 17]Validity period for EADs within this category is to expiration date of Arrival-Departure Record (Form I-94) or to the end of Application to Extend/Change Nonimmigrant Status (Form I-539) validity period not to exceed 2 years.
+
+[^ 18]Extension of stay is granted in 2-year intervals awaiting approval of Petition for Alien Relative (Form I-130).
+
+[^ 19]Based on Presidential declaration.
+
+[^ 20]Based on Presidential declaration.
+
+[^ 21]SeeINA 244A(b).
+
+[^ 22]Initial EAD is automatically issued upon approval of Application for Family Unity Benefits (Form I-817). Applicants filing under this category should only file Form I-765 if seeking a replacement EAD that was lost, stolen, mutilated, or destroyed, or that contain an error. For more information on how to request a replacement, see Volume 11, Travel and Identity Documents, Part A, Secure Identity Documents Policies and Procedures, Chapter 3, Reissuance of Secure Identity Documents [11 USCIS-PM A.3].
+
+[^ 23]AllForm I-817validity period.
+
+[^ 24]AllForm I-817validity period.
+
+[^ 25]Initial and renewal EADs are automatically issued upon approval of Application for Family Unity Benefits (Form I-817). Applicants filing under this category should only file Form I-765 if seeking a replacement EAD that was lost, stolen, mutilated, or destroyed, or that contain an error. For more information on how to request a replacement, see Volume 11, Travel and Identity Documents, Part A, Secure Identity Documents Policies and Procedures, Chapter 3, Reissuance of Secure Identity Documents [11 USCIS-PM A.3].
+
+[^ 26]See Section 1504 of the LIFE Act Amendments of 2000,Pub. L. 106-554  (PDF), 114 Stat. 2763, 2763A-325 (December 21, 2000). See8 CFR 245a.34(c).
+
+[^ 27]See Section 1504 of the LIFE Act Amendments of 2000,Pub. L. 106-554  (PDF), 114 Stat. 2763, 2763A-325 (December 21, 2000). See8 CFR 245a.34(c).
+
+[^ 28]If visa is extended.
+
+[^ 29]Initial EAD is automatically issued upon approval of the Application for T Nonimmigrant Status (Form I-914). Applicants filing under this category should only file Form I-765 if seeking a replacement EAD that was lost, stolen, mutilated, or destroyed, or that contain an error. For more information on how to request a replacement, see Volume 11, Travel and Identity Documents, Part A, Secure Identity Documents Policies and Procedures, Chapter 3, Reissuance of Secure Identity Documents [11 USCIS-PM A.3].
+
+[^ 30]Renewal EAD issuance is based on an approved Application to Extend/Change Nonimmigrant Status (Form I-539) extending T-1 nonimmigrant status.
+
+[^ 31]If the alien is in the United States, the initial EAD is automatically issued upon approval of the Petition for U Nonimmigrant Status (Form I-918). Applicants filing under this category should only file Form I-765 if Form I-918 was approved while the applicant was residing outside of the United States, has been lawfully admitted to the United States as a U-1 nonimmigrant, and now seeks to obtain an EAD as evidence of employment authorization. U-1 nonimmigrants may also file Form I-765 if seeking a replacement EAD that was lost, stolen, mutilated, or destroyed, or that contain an error. For more information on how to request a replacement, see Volume 11, Travel and Identity Documents, Part A, Secure Identity Documents Policies and Procedures, Chapter 3, Reissuance of Secure Identity Documents [11 USCIS-PM A.3].
+
+[^ 32]Renewal EAD issuance is based on an approved Application to Extend/Change Nonimmigrant Status (Form I-539) extending U nonimmigrant status.
+
+[^ 33]Derivative U nonimmigrants are employment authorized incident to status, however an EAD is not automatically issued. If a derivative U nonimmigrant seeks to obtain an EAD as evidence of employment authorization, the derivative may file Form I-765.
+
+[^ 34]Renewal EAD issuance is based on an approved Application to Extend/Change Nonimmigrant Status (Form I-539) extending U nonimmigrant status.
+
+[^ 35]See8 CFR 214.2(a)(2).
+
+[^ 36]See8 CFR 214.2(e).
+
+[^ 37]No more than two lifetime OPT extensions may be authorized.
+
+[^ 38]Validity period may not exceed program end date.
+
+[^ 39]See8 CFR 214.2(f)(9)(ii)(D). Employment authorization is not to exceed the recommendation from the designated school official (DSO) or the student’s program end date. However, USCIS may grant special student relief (SSR) applicants employment authorization for periods longer than 1 year, dependent on the validity period of the Federal Register notice.
+
+[^ 40]See8 CFR 214.2(f)(9)(ii)(D). Renewal of the employment authorization is not to exceed the recommendation from the DSO or the F-1 student’s program end date.
+
+[^ 41]By notice in the Federal Register, USCIS may grant SSR applicants employment authorization for the duration of the Federal Register notice, although this period of authorization is not to exceed the F-1 student’s academic program end date. For more information on SSR, see Volume 2, Nonimmigrants, Part F, Students (F, M), Chapter 6, Employment, Section C, Severe Economic Hardship Due to Emergent Circumstances [2 USCIS-PM F.6(C)].
+
+[^ 42]By notice in the Federal Register, USCIS may grant SSR applicants employment authorization for the duration of the Federal Register notice, not to exceed the F-1 student’s academic program end date. For more information on SSR, see Volume 2, Nonimmigrants, Part F, Students (F, M), Chapter 6, Employment, Section C, Severe Economic Hardship Due to Emergent Circumstances [2 USCIS-PM F.6(C)].
+
+[^ 43]See8 CFR 214.2(g), and who presents an endorsement from an authorized representative from DOS.
+
+[^ 44]The alien may be employed only in an occupation or vocation directly related to the alien’s course of study as recommended by the endorsement of the designated school official on Form I-20.
+
+[^ 45]Certain other types of adjustment applicants may also apply for employment authorization under the (c)(9) category, such as applicants seeking to adjust under the Cuban Adjustment Act,Pub. L. 89-732  (PDF)(November 2, 1966), as amended, and applicants seeking to adjust status under other public laws. For more information, see theForm I-765instructions andUSCIS.gov.
+
+[^ 46]Includes two types of applicants who may be eligible for employment authorization: an applicant who filed an Application for Suspension of Deportation or Special Rule Cancellation of Removal (Pursuant to Section 203 of Public Law 105-100 (NACARA) (Form I-881) and the application remains pending with the asylum office or with Executive Office for Immigration Review (EOIR), and an applicant who filed an Application for Suspension of Deportation (Form EOIR-40), or Application for Cancellation of Removal and Adjustment of Status for Certain Nonpermanent Residents (Form EOIR-42B) directly with EOIR.
+
+[^ 47]SeeINA 212(d)(5)(A). See8 CFR 212.5. However, DHS has decided as a matter of policy to provide the benefit of employment authorization incident to parole akin to what is normally accorded to refugees (as well as a no-fee initial and replacement of an initial Employment Authorization Document) to certain Afghan parolees and certain Ukrainian parolees so that they receive similar treatment as refugees, which aligns with the spirit of legislation that states that certain Afghan parolees and certain Ukrainian parolees “shall be eligible for . . . other benefits available to refugees . . . .” See Section 2502(b) of the Extending Government Funding and Delivering Emergency Assistance Act,Pub. L. 117-43  (PDF), 135 Stat. 344, 377 (September 30, 2021), amended by Section 1501 of Division M of the Consolidated Appropriations Act of 2023,Pub. L. 117-328  (PDF), 136 Stat. 4459, 5189 (December 29, 2022), and Section 401(b) of the Additional Ukraine Supplemental Appropriations Act,Pub. L. 117-128  (PDF), 136 Stat. 1211, 1218 (May 21, 2022). Consequently, individuals covered by these circumstances are employment authorized incident to parole. For more information on employment eligibility for aliens, see Chapter 2, Eligibility Requirements [10 USCIS-PM A.2].
+
+[^ 48]CNMI refers to the Commonwealth of the Northern Mariana Islands. This category includes a spouse of a long-term investor in the CNMI other than an E-2 CNMI investor who obtained such status based on a foreign retiree investment certificate. See8 CFR 214.2(e)(23).
+
+[^ 49]Generally, the alien must establish an economic necessity for employment, see8 CFR 274a.12(c)(14). However, principal petitioners for U nonimmigrant status and their qualifying family members living in the United States do not need to submit proof of economic necessity to receive a bona fide determination EAD under category (c)(14) as there is a presumption of economic necessity. SeeU Nonimmigrant Status Bona Fide Determination Process FAQs.
+
+[^ 50]Generally, the alien must establish an economic necessity for employment, see8 CFR 274a.12(c)(14). However, principal petitioners for U nonimmigrant status and their qualifying family members living in the United States do not need to submit proof of economic necessity to receive a bona fide determination EAD under category (c)(14) as there is a presumption of economic necessity. SeeU Nonimmigrant Status Bona Fide Determination Process FAQs.
+
+[^ 51]Includes a nonimmigrant visitor for business (B-1) who is a personal or domestic employee of an alien admitted as a nonimmigrant. See8 CFR 214.2(b), (e), (f), (h), (i), (j), (l), (m), (o), (p), (q), (r)or underINA 214(e).
+
+[^ 52]Includes a B-1 nonimmigrant who is the domestic employee of a U.S. citizen who has a permanent foreign home or is stationed in a foreign country, and who is temporarily visiting the United States.
+
+[^ 53]Includes a B-1 nonimmigrant who is an employee of a foreign airline engaged in international transport.
+
+[^ 54]Includes an alien with a final order of deportation or removal, and who is released on an order of supervision. SeeINA 241(a)(3).
+
+[^ 55]SeeINA 244.
+
+[^ 56]Includes a principal nonimmigrant witness or informant in S classification and qualified dependent family members.
+
+[^ 57]Evidentiary requirements and validity time frame is determined by law enforcement agency (LEA) need.
+
+[^ 58]See Section 1104 of the LIFE Act Amendments,Pub. L. 106-554  (PDF), 114 Stat. 2763, 2763A-325 (December 21, 2000).
+
+[^ 59]Initial and renewal requests for employment authorization under this category are adjudicated on Application for Employment Authorization for Abused Nonimmigrant Spouse (Form I-765V).
+
+[^ 60]Initial and renewal requests for employment authorization under this category are adjudicated on Form I-765V.
+
+[^ 61]Initial and renewal requests for employment authorization under this category are adjudicated on Form I-765V.
+
+[^ 62]Initial and renewal requests for employment authorization under this category are adjudicated on Form I-765V.
+
+[^ 63]This covers the eligibility category for employment authorization based on a grant of deferred action. See8 CFR 274a.12(c)(14). The (c)(33) code is used to distinguish DACA from other forms of deferred action.
+
+[^ 64]See8 CFR 274a.12(c)(5)and8 CFR 274a.12(c)(35).
+
+[^ 65]See8 CFR 103.3.
+
+[^ 66]See Section G, Motion to Reopen or Reconsider [10 USCIS-PM A.4(G)]. See Notice of Appeal or Motion (Form I-290B). See8 CFR 103.5.
+
+[^ 67]See8 CFR 274a.14.
+
+[^ 68]See8 CFR 274a.14(a)(2).
+
+[^ 69]See8 CFR 274a.14(b).
+
+[^ 70]For example, for a Form I-765 filed on the basis of an Application to Register Permanent Residence or Adjust Status (Form I-485), and USCIS denied the Form I-485.
+
+[^ 71]See8 CFR 103.2(b)(6).
+
+[^ 72]See8 CFR 103.5.
+
+[^ 73]See8 CFR 103.2(b)(16). Generally, USCIS issues a statutory denial without prior issuance of a Request for Evidence (RFE) or a NOID on any application, petition, or request that does not have any basis upon which the applicant may be approved.
+
+[^ 74]For more information on automatic EAD extension requirements, see4.4 Automatic Extensions of Employment Authorization Documents (EADs) in Certain Circumstancesin the USCISHandbook for Employers M-274. For eligible automatic extension EAD categories, see theAutomatic Employment Authorization (EAD) Extensionwebpage.
+
+H2: Resources
+
+8 CFR 274a Subpart B- Employment authorization
+
+INA 103,8 CFR 103- Powers and duties of the Secretary, the Under Secretary, and the Attorney General
+
+INA 274A- Unlawful employment of aliens
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-765, Application for Employment Authorization
+
+I-9, Employment Eligibility Verification
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual regarding the factors that officers may consider in certain benefit requests where an exercise of discretion is required, including factors relating to aliens’ past requests for parole and any involvement in anti-American or terrorist organizations.
+
+1 USCIS-PM E.8-Chapter 8 - Discretionary Analysis
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+2 USCIS-PM F.8-Chapter 8 - Change of Status, Extension of Stay, and Length of Stay
+
+7 USCIS-PM A.10-Chapter 10 - Legal Analysis and Use of Discretion
+
+10 USCIS-PM A.4-Chapter 4 - Adjudication
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual regarding maximum validity periods for Employment Authorization Documents (EADs, Form I-766) issued to refugees and asylees, noncitizens paroled as refugees, noncitizens granted withholding of removal, noncitizens with pending applications for asylum or withholding of removal, noncitizens with pending applications for adjustment of status under INA 245, and noncitizens seeking suspension of deportation or cancellation of removal. USCIS is also clarifying that the Arrival/Departure Record (Form I-94) may be used as evidence of both status and employment authorization for certain EAD categories that are employment authorized incident to status or parole.
+
+3 USCIS-PM F.1-Chapter 1 - Purpose and Background
+
+10 USCIS-PM A.2-Chapter 2 - Eligibility Requirements
+
+10 USCIS-PM A.4-Chapter 4 - Adjudication
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to clarify the validity period of employment authorization for F-1 students experiencing severe economic hardship due to emergent circumstances (also known as special student relief (SSR)).
+
+2 USCIS-PM F.6-Chapter 6 - Employment
+
+10 USCIS-PM A.4-Chapter 4 - Adjudication
+
+U.S. Citizenship and Immigration Services (USCIS) is updating guidelines in the USCIS Policy Manual regarding validity periods for Employment Authorization Documents (EADs) for asylees and refugees, noncitizens with withholding of deportation or removal, noncitizens with deferred action, parolees, and Violence Against Women Act (VAWA) self-petitioners.
+
+10 USCIS-PM A.4-Chapter 4 - Adjudication
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is providing policy guidance in the USCIS Policy Manual regarding applications for discretionary employment authorization based on 8 CFR 274a.12(c)(9) (pending application for adjustment of status under INA 245) or 8 CFR 274a.12(c)(14) (grant of deferred action). USCIS is also providing guidance outlining the categories of aliens eligible for discretionary employment authorization.
+
+10 USCIS-PM A-Part A - Employment Authorization Policies and Procedures
+
+10 USCIS-PM B-Part B - Specific Categories
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

@@ -1,0 +1,465 @@
+H1: Chapter 5 - Waiver of Joint Filing Requirement
+
+- Guidance
+
+- Resources (15)
+
+- Appendices (0)
+
+- Updates (5)
+
+If a conditional permanent resident (CPR) is unable to meet the joint filing requirements, the CPR may request a waiver of the joint filing requirement when filing the Petition to Remove Conditions on Residence (Form I-751).[1]
+
+CPRs may file waiver requests at any time before, during, or after the 90-day period immediately preceding the second anniversary of the CPR receiving status as a permanent resident. A CPR does not have to wait until the 90-day period begins. Instead, the CPR may file a waiver as soon as the CPR is eligible for the waiver.[2]However, a CPR who is in exclusion, deportation, or removal proceedings may only apply for a waiver up until the time the immigration court issues the final order of exclusion, deportation, or removal.[3]
+
+Basis for Waiver
+
+A CPR may seek a waiver based on one or more of the following circumstances:
+
+- The CPR’s removal from the United States would result in extreme hardship.[4]
+
+- The CPR entered into the qualifying marriage in good faith, but the marriage was terminated other than by death of the petitioning spouse.[5]
+
+- The CPR spouse entered into the qualifying marriage in good faith, but during the marriage the petitioning spouse battered or subjected the CPR spouse or the CPR spouse’s child to extreme cruelty.[6]
+
+- The CPR child’s parent entered into the qualifying marriage in good faith, but during the marriage the petitioning stepparent or the CPR parent battered or subjected the CPR child to extreme cruelty.[7]
+
+The CPR should indicate all applicable reasons for requesting a waiver on the Form I-751.[8]Generally, a CPR who initially files a waiver under one waiver filing basis may change to or add another waiver filing basis by making the request in writing to the USCIS office that issued the receipt notice or most recent correspondence. The CPR may also make this request at the interview. However, in cases involving changes to or from a filing basis involving battery or extreme cruelty, certain procedures must be followed.[9]In certain cases described in this chapter, the CPR may not amend the filing basis but instead must file a new Form I-751.
+
+Evidence
+
+When filing Form I-751 as a waiver, the CPR must submit evidence:
+
+- To establish the facts underlying the basis on which the CPR is seeking a waiver; and
+
+- Evidence that the marriage was not entered into for the purpose of evading immigration laws (except in the case of a CPR filing a waiver solely based on extreme hardship).
+
+USCIS considers any credible evidence relevant to a waiver. The determination of what evidence is credible and the weight given to the evidence is within the sole discretion of USCIS.[10]
+
+H2: A. Extreme Hardship
+
+To establish eligibility for the extreme hardship waiver, a CPR must establish that the CPR’s removal from the United States would result in extreme hardship.[11]In determining extreme hardship, USCIS only considers circumstances that occurred during the 2-year period following the CPR’s admission to the United States for conditional permanent residence. USCIS does not consider factors arising or events occurring after that period.[12]
+
+However, circumstances that arose before the 2-year period and continued into the 2-year period may be considered. USCIS may consider whether the continued circumstances amount to extreme hardship, regardless of whether the circumstances initially arose before the 2-year period.
+
+For example, if there was a coup in the CPR’s home country before the 2-year period, but the coup triggered other events occurring during the 2-year period, and the CPR’s removal from the United States in light of these events would result in extreme hardship, the CPR may qualify for the waiver.
+
+USCIS considers only extreme hardship that would result from the CPR’s removal from the United States, presumably to the CPR’s home country. Any removal from the United States is likely to result in a certain degree of hardship; however, only in those cases where the hardship is extreme does USCIS grant a waiver.[13]
+
+In order to establish eligibility for the extreme hardship waiver, the CPR does not need to have a qualifying relative, as is the case in some other immigration contexts. The CPR must establish that extreme hardship would result from the CPR’s removal, but there is no requirement that the extreme hardship must be to any specific person.[14]
+
+Unlike all other bases for filingForm I-751, there is no requirement that the CPR establish that the marriage had been entered into in good faith in order to qualify for the extreme hardship waiver.[15]However, indications that the marriage had been in bad faith may be considered when weighing the discretionary factors.
+
+Although the approval of an extreme hardship waiver is discretionary, only the most significant negative factors would justify denial of an extreme hardship waiver where the CPR has sufficiently established that extreme hardship would result if the CPR was removed from the United States. The burden of establishing extreme hardship rests solely with the CPR.[16]
+
+A CPR who filed Form I-751 under another filing basis may change to or add extreme hardship as a basis for filing by notifying the USCIS office that issued the receipt notice or most recent correspondence in writing. This request may also be made at the interview. Similarly, a CPR who initially filed Form I-751 as an extreme hardship waiver may change to or add another waiver basis for filing by notifying USCIS in writing or in person at the interview.
+
+However, a CPR seeking to change from an extreme hardship waiver to a joint filing must file a new Form I-751 jointly with the CPR’s petitioning spouse or stepparent since the spouse or stepparent never signed the prior Form I-751.
+
+H2: B. Good Faith Marriage (Divorce)
+
+H3: 1. Marriages Terminated by Divorce or Annulment
+
+Bona fide marriages may dissolve in less than 2 years. The Immigration Marriage Fraud Amendments (IMFA) of 1986 were not meant to be used as a tool against bona fide yet brief marriages. Instead, Congress enacted the amendments to prevent immigration fraud based on marriages entered into in bad faith.[17]
+
+Accordingly, the INA provides for a waiver if the CPR can establish that the qualifying marriage was entered into in good faith and that the CPR was not at fault in failing to meet the filing requirements forForm I-751.[18]CPRs whose marriages have been terminated by divorce or annulment may request this waiver, but CPRs whose marriages were terminated by death of the petitioning spouse should instead submit an individual filing request.[19]
+
+Despite the termination of the marriage, the CPR is still responsible for submitting evidence that the marriage was entered into in good faith and not for the purpose of evading immigration laws.
+
+USCIS looks at the evidence relating to the actions of the parties following immigration to the United States in evaluating the spouses’ intentions at the time of marriage.[20]Evidence may include:
+
+- The degree to which the parties combined financial assets and liabilities of the parties;[21]
+
+- Length of time the parties cohabited after the marriage and after the CPR obtained conditional resident status;[22]
+
+- Children born to the marriage;[23]and
+
+- Any other evidence that USCIS considers relevant.[24]
+
+In general, the Immigration and Nationality Act (INA) permits a CPR to file a Form I-751 waiver if the CPR is not at fault in failing to meet the joint filing requirement.[25]While there is no binding legal guidance on how to apply the “at fault” requirement, it has not been interpreted to mean that the CPR is at fault for the terminated marriage. Therefore, it does not matter if the CPR left the marriage or initiated divorce proceedings. The CPR does not need to establish that the CPR is not at fault for the terminated marriage.
+
+H3: 2. Separated But Not Yet Divorced
+
+A CPR is only eligible for a good faith (divorce) waiver if the parties have already terminated the qualifying marriage.[26]There is no basis for a waiver of the joint filing requirement based on a legal or informal separation.
+
+Initially Filed Joint Petition
+
+If USCIS receives aForm I-751filed jointly by a CPR and the petitioning spouse and the spouses are still married but legally separated or in pending divorce or annulment proceedings, USCIS issues a Request for Evidence (RFE).[27]In the RFE, USCIS asks the CPR to provide a copy of the final divorce decree or annulment along with a written request stating that the CPR would like to have the joint petition amended to a waiver based on divorce.
+
+This gives the CPR an opportunity to provide evidence that the divorce or annulment proceedings were finalized and request a waiver of the joint filing requirement without refiling. The legal termination of the qualifying marriage may occur during the response period to the RFE, giving the CPR the opportunity to establish eligibility for the waiver, even if the CPR did not qualify at the time of filing.
+
+The CPR is also responsible for proactively notifying USCIS of a separation or pending or finalized divorce or annulment proceedings, even if no RFE is issued. In these instances, the CPR should contact the USCIS office that issued the receipt notice or most recent correspondence.
+
+If the CPR provides evidence that the divorce or annulment is final and requests that USCIS amend the joint petition, then USCIS amends the petition to indicate that the CPR is applying for a waiver of the joint filing requirement based on termination of the qualifying marriage. USCIS then determines whether there is sufficient evidence that the CPR spouse entered the qualifying marriage in good faith.
+
+If the CPR does not respond to the RFE, USCIS may issue a denial for failure to respond (abandonment denial).
+
+If the CPR’s response does not include evidence that the qualifying marriage was terminated, and the CPR does not provide such evidence, the CPR is not eligible to amend the joint petition to a waiver. However, USCIS may approve the joint petition if all other eligibility requirements are met or schedule an interview to determine whether the CPR may file a Form I-751 divorce waiver. USCIS may not deny a joint petition solely because the spouses are separated or have initiated divorce or annulment proceedings.
+
+Initially Filed Waiver Request
+
+If USCIS receives a Form I-751 filed by a CPR as a waiver request based on termination of marriage and the spouses are still married but legally separated or in pending divorce or annulment proceedings, USCIS issues an RFE. In many cases, the divorce takes place during the response period to the RFE, which gives the CPR the opportunity to establish eligibility for the waiver by submitting a copy of the final divorce decree or annulment.
+
+If the CPR establishes eligibility for the waiver, then USCIS adjudicates the Form I-751 in accordance with established procedure.
+
+If the CPR does not respond to the RFE or the CPR’s response does not establish eligibility for the waiver, USCIS denies the Form I-751. In the denial notice, USCIS informs the CPR that the CPR is ineligible for a waiver of the joint filing requirement because the divorce or annulment is not final.
+
+H2: C. Battery or Extreme Cruelty
+
+H3: 1. Battery or Extreme Cruelty Waiver
+
+Background
+
+The original IMFA did not contain a separate waiver provision for victims of battery or extreme cruelty.[28]The “battery or extreme cruelty waiver” was created with the passage of the Immigration Act of 1990, which amended the INA at section 216(c)(4).[29]
+
+CPRs who are eligible for the battery or extreme cruelty waiver were then included in the INA definition of a “VAWA self-petitioner” when the term was created by section 811 of the Violence Against Women and Department of Justice Reauthorization Act of 2005.[30]VAWA self-petitioners are afforded certain protections and special considerations under the INA and other statutory provisions as victims of abuse.
+
+Eligibility
+
+CPR spouses who entered into a qualifying marriage in good faith and were battered or subjected to extreme cruelty by their petitioning spouse may request a waiver of the joint filing requirement.[31]Additionally, if the CPR spouse is a parent of a child battered or subjected to extreme cruelty by the petitioning spouse, the CPR spouse may also apply for the waiver regardless of the child’s citizenship or immigration status.[32]
+
+A CPR child may request a waiver of the joint filing requirement if the CPR spouse (the child’s parent) entered into a qualifying marriage in good faith, and the child was battered or subjected to extreme cruelty by either the CPR spouse (the child’s parent) or the petitioning spouse (the child’s stepparent).[33]
+
+CPRs may request a battery or extreme cruelty waiver at any time after they are granted CPR status and may file the waiver at any time before they are subject to a final order of removal. The CPR’s present marital status or living situation is also not relevant to the filing of the waiver. They may still be married to their abusive spouse, or CPR children may still be living with their abusive parent. The CPR may be divorced or separated or still residing with the petitioning spouse.[34]
+
+The phrase “battered by or was the subject of extreme cruelty” includes, but is not limited to:
+
+- Being the victim of any act or threatened act of violence, including any forceful detention, which results or threatens to result in physical or mental injury;[35]and
+
+- Psychological or sexual abuse or exploitation, including rape, molestation, incest (if the victim is a minor), or forced prostitution, which USCIS considers acts of violence.[36]
+
+Evidence of battery or extreme cruelty may include, but is not limited to, reports and affidavits from police, judges, medical personnel, school officials, counselors, or the CPR. CPRs seeking a waiver due to battery or extreme cruelty are not required to submit a recommendation from a mental health professional.[37]
+
+If a CPR child’s parent filed a waiver based on battery or extreme cruelty, and the CPR parent dies, the CPR child may continue to be eligible for the abuse waiver underINA 204(l).[38]
+
+H3: 2. Any Credible Evidence Provision for VAWA
+
+Congress created the “any credible evidence” provision in recognition of the evidentiary challenges faced by abused spouses and children. An abused CPR may not have access to necessary evidence because the abusive spouse may control access to documents, or the abused CPR may have had to flee the abusive situation without being able to take important documents.
+
+In recognition of these evidentiary challenges, officers cannot deny a case because the CPR spouse or child was unable to provide a particular piece of evidence or could not demonstrate the unavailability of primary or secondary evidence. Officers must consider whatever evidence is available, use agency records, and consider all evidence in the totality of the circumstances in the case. Therefore, when adjudicating a waiver based on battery or extreme cruelty, officers consider any credible evidence relevant to the waiver request submitted by the CPR.[39]
+
+USCIS has sole discretion to determine what evidence is credible and to determine what weight to give that evidence.[40]The determination of what evidence is credible must be made on a case-by-case basis.
+
+The CPR bears the burden of proof to establish eligibility by a preponderance of the evidence.
+
+H3: 3. Intended Spouse
+
+The Violence Against Women Act of 2013 (VAWA 2013) provided protection to abused CPRs who believed that they entered into a valid marriage with a U.S. citizen, but the marriage was invalid due to bigamy on the part of the intended U.S. citizen spouse.[41]In such cases, the CPR may be eligible for a waiver based on battery or extreme cruelty perpetrated by the intended spouse. To qualify, the CPR must meet the following criteria:
+
+- The CPR’s petitioning spouse, through whom the CPR obtained conditional permanent residence, battered or subjected the CPR to extreme cruelty;
+
+- The CPR believed that a legal marriage was created with the U.S. citizen spouse who was not already married and therefore free to enter into a valid marriage;
+
+- A marriage ceremony was actually performed; and
+
+- The CPR otherwise met all applicable requirements to establish the bona fides of a marriage.[42]
+
+CPRs must submit evidence to demonstrate that they believed that they entered into a legally valid marriage in good faith with the U.S. citizen. USCIS focuses its inquiry on the intent of the CPR and not on that of the alleged abuser.
+
+The intended spouse provision does not extend to CPR children who file separately from their CPR parent, but CPR parents who are applying under the intended spouse provision may include their CPR children who are eligible to be included on the CPR parent’s own waiver filing.[43]
+
+If USCIS grants a battery or extreme cruelty waiver for a CPR who unwittingly entered into a bigamous marriage as described above, the officer annotates the case accordingly.
+
+H3: 4. Confidentiality Protections and Safe Address
+
+In accordance with8 U.S.C. 1367, USCIS protects the confidentiality of any information concerning an abused CPR spouse or child, including, but not limited to, information regarding the whereabouts of the spouse or child or whether the abused CPR spouse or child has filed a waiver based on battery or extreme cruelty.[44]
+
+Officers are prohibited from making an adverse determination of admissibility, deportability, or removability on a protected person using information furnished solely by a prohibited source. The officer must not use information provided by the following prohibited sources to make an adverse determination:
+
+- The abuser, or perpetrator of the offense;
+
+- Family member of the abuser; or
+
+- Someone acting at the request of the abuser.
+
+If the officer can independently corroborate the information from a non-prohibited source, the officer may use the information from the non-prohibited source in the adjudication process.[45]
+
+Once the CPR has submitted a waiver based on battery or extreme cruelty, officers must follow proper confidentiality protection procedures and update all applicable electronic systems to reflect a safe address for the CPR.[46]
+
+H3: 5. Changing or Supplementing the Filing Basis
+
+The CPR may make a request to change the filing basis in writing to the USCIS office that issued the receipt notice or most recent correspondence. The CPR may also make the request in person at an interview. In cases involving changes to or from a filing basis involving battery or extreme cruelty, however, certain additional procedures must be followed, as noted below. In certain cases, the CPR is not able to amend the filing basis but, instead, needs to file a newForm I-751.
+
+Changing the Filing Basis from a Joint Petition to a Waiver Based on Battery or Extreme Cruelty
+
+Upon receipt of a written or in-person request to change the filing basis from a joint petition to a waiver based on battery or extreme cruelty, USCIS assigns a new receipt number for the waiver and applies safe address handling procedures.
+
+In addition to the above procedures, if the CPR requests to change the filing basis at an interview, the interviewing officer should conduct the interview and adjudicate the petition after providing the CPR an opportunity to submit evidence in support of the new filing basis.
+
+Withdrawing a Waiver Based on Battery or Extreme Cruelty to File a Joint Petition
+
+As noted above, USCIS provides confidentiality protections under8 U.S.C. 1367to CPRs who have filed a request for a waiver based on battery or extreme cruelty by their spouse or stepparent.[47]A CPR seeking to change the filing basis of aForm I-751from a waiver based on battery or extreme cruelty to a joint petition must withdraw the waiver based on battery or extreme cruelty and file a new joint Form I-751. USCIS is unable to change the basis of the filing, as the CPR’s petitioning spouse or stepparent must file and sign the joint petition with the CPR.
+
+If the CPR chooses to pursue the removal of conditions on residence with the cooperation of the CPR’s spouse or stepparent, then the provisions of 8 U.S.C. 1367 will terminate. This is required so that USCIS can communicate with both the CPR and the petitioning spouse or stepparent and allows USCIS to rely upon evidence and testimony provided by the petitioning spouse or stepparent in the adjudication of the joint petition.[48]
+
+In order to withdraw the waiver based on battery or extreme cruelty and file a joint petition, the CPR must complete the following requirements:
+
+- Request to withdraw the waiver based on battery or extreme cruelty in writing to the USCIS office that issued the receipt notice or most recent correspondence, or in person at an interview;
+
+- Attend an in-person interview or appointment at a USCIS field office to withdraw the waiver based on battery or extreme cruelty in writing if a written request was not previously provided and to confirm withdrawal of the waiver in person; and
+
+- File a new joint Form I-751 that includes both the CPR and petitioning spouse or stepparent’s signatures with the correct fee or fee waiver request.[49]
+
+To ensure efficient processing of the request, USCIS encourages the CPR to withdraw the waiver based on battery or extreme cruelty before filing a new joint Form I-751 with the appropriate fee or fee waiver request. If the waiver filing is at a USCIS service center, USCIS schedules the CPR for an in-person appointment to confirm the CPR’s withdrawal of the waiver.
+
+If the CPR completes the above requirements, USCIS processes the withdrawal of the waiver based on battery and extreme cruelty, sends notification to the CPR acknowledging the withdrawal, and adjudicates the newly filed joint petition. If the joint petition is filed late, USCIS excuses the late filing based on good cause and extenuating circumstances as long as the initial waiver was properly filed.[50]The CPR and petitioning spouse or stepparent may be required to attend an in-person interview together for the joint petition.[51]
+
+If the CPR does not complete the above requirements or decides to continue with the waiver filing, USCIS holds the joint filing in abeyance until the waiver based on battery or extreme cruelty is adjudicated. USCIS generally does not adjudicate the joint filing until 8 U.S.C. 1367 no longer applies to the CPR. Withdrawing the waiver does not impact a CPR’s ability to file a new waiver or change the filing basis of the joint petition to a waiver request based on battery or extreme cruelty in the future.
+
+Changing the Filing Basis from a Waiver Based on Battery or Extreme Cruelty to Another Waiver
+
+CPRs may change the basis of their filing from a waiver based on battery or extreme cruelty to another waiver by submitting a written request to the USCIS office that issued the receipt notice or most recent correspondence. The request may also be made in person at an interview. If the CPR requests to change the filing basis at an interview, the interviewing officer should conduct the interview and adjudicate the petition after providing the CPR an opportunity to submit evidence in support of the new filing basis. A new receipt number is not required.
+
+Adding a Filing Basis in Cases Involving a Battery or Extreme Cruelty Waiver
+
+A CPR who filed a Form I-751 waiver may add another basis to the waiver filing. There are no restrictions on the number of bases upon which a CPR may file. The request to add a filing basis may be made in writing to the USCIS office that issued the receipt notice or most recent correspondence. The request may also be made in person at an interview. The CPR may submit supplemental evidence at the time of the request or in response to an RFE.
+
+When there are multiple filing bases, USCIS only approves a waiver based on one category. If the CPR establishes eligibility for the battery or extreme cruelty waiver, USCIS approves on this basis before any other bases the CPR may establish. Officers must adjudicate waivers using any credible evidence, and the confidentiality protections of8 U.S.C. 1367attach to the entire petition in any case involving a waiver based on battery or extreme cruelty.
+
+H2: Footnotes
+
+[^ 1]SeeINA 216(c)(4). See8 CFR 216.5(a)(1).
+
+[^ 2]SeeMatter of Stowers(PDF), 22 I&N Dec. 605 (BIA 1999).
+
+[^ 3]See8 CFR 216.5(a)(2).
+
+[^ 4]SeeINA 216(c)(4)(A). See8 CFR 216.5(a)(1)(i).
+
+[^ 5]SeeINA 216(c)(4)(B). See8 CFR 216.5(a)(1)(ii). SeeMatter of Rose(PDF), 25 I&N Dec. 181 (BIA 2010) (If the petitioning spouse dies during the 2-year conditional period, the CPR may file the petition individually without qualifying for aINA 216(c)(4)waiver.).
+
+[^ 6]SeeINA 216(c)(4)(C). See8 CFR 216.5(a)(1)(iii).
+
+[^ 7]SeeINA 216(c)(4)(C). See8 CFR 216.5(a)(1)(iii).
+
+[^ 8]SeeForm I-751.
+
+[^ 9]For more information, see Section C, Battery or Extreme Cruelty, Subsection 5, Changing or Supplementing the Filing Basis [6 USCIS-PM I.5(C)(5)].
+
+[^ 10]SeeINA 216(c)(4).
+
+[^ 11]See8 CFR 216.5(e)(1).
+
+[^ 12]SeeINA 216(c)(4). SeeMatter of Munroe(PDF), 26 I&N Dec. 428 (BIA 2014). SeeMatter of Balsillie(PDF), 20 I&N Dec. 486 (BIA 1992) (An alien may file an application for a waiver of the requirement to file the joint petition under INA 216(c)(4), which provides three distinct grounds for a waiver.).
+
+[^ 13]See8 CFR 216.5(e)(1). SeeSingh v. Holder, 591 F.3d 1190 (9th Cir. 2010) (family separation, economic and cultural difficulty resulting from removal will not cause extreme hardship where a person spent most of his life in his home country and is young and healthy). SeeMatter of Chumpitazi(PDF), 16 I&N Dec. 629, 635 (BIA 1978) (“e[E]xtreme hardship … encompasses more than the mere economic deprivation that might result from [a person’s] deportation from the United States…. [T]he readjustment of [a person] to life in his native country after having spent a number of years in the United States is not the type of hardship that we have characterized as extreme….”).
+
+[^ 14]For a comprehensive discussion of factors that can be considered in extreme hardship determinations, see Volume 9, Waivers, Part B, Extreme Hardship, Chapter 5, Extreme Hardship Considerations and Factors, Section D, Examples of Factors that ​May​ ​Support ​a ​Finding of Extreme Hardship​ [9 USCIS-PM B.5(D)]. This and other sections of that Policy Manual part may be useful when examining extreme hardship waivers for CPRs. However, while the factors to be considered may be applied in the CPR context, the discussion of qualifying relatives and other requirements specific to other waivers of inadmissibility do not apply to CPRs applying for an extreme hardship waiver.
+
+[^ 15]SeeINA 216(c)(4).
+
+[^ 16]See8 CFR 216.5(e)(1).
+
+[^ 17]See H.R. Rep. 99-906.
+
+[^ 18]See8 CFR 216.5(a)(1)(ii).
+
+[^ 19]See Chapter 4, Joint Petitions and Individual Filing Requests, Section B, Deceased Petitioning Spouse [6 USCIS-PM I.4(B)].
+
+[^ 20]See8 CFR 216.5(e)(2).
+
+[^ 21]See8 CFR 216.5(e)(2)(i).
+
+[^ 22]See8 CFR 216.5(e)(2)(ii).
+
+[^ 23]See8 CFR 216.5(e)(2)(iii).
+
+[^ 24]See8 CFR 216.5(e)(2)(iv).
+
+[^ 25]SeeINA 216(c)(4)(B).
+
+[^ 26]SeeINA 216(c)(4)(B).
+
+[^ 27]For additional information about RFEs, see Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 6, Evidence, Section F, Requests for Evidence and Notices of Intent to Deny [1 USCIS-PM E.6(F)].
+
+[^ 28]See Immigration Marriage Fraud Amendments of 1986,Pub. L. 99-639  (PDF)(November 10, 1986).
+
+[^ 29]See Section 701 of Immigration Act of 1990,Pub. L. 101-649  (PDF), 104 Stat. 4978, 5085 (November 29, 1990), amendingINA 216(c)(4).
+
+[^ 30]See Violence Against Women and Department of Justice Reauthorization Act of 2005,Pub. L. 109-162  (PDF), 119 Stat. 2960, 3057 (January 5, 2006), adding the definition of a VAWA self-petitioner at INA 101(a)(51).
+
+[^ 31]SeeINA 216(c)(4)(C). See8 CFR 216.5(a)(1)(iii).
+
+[^ 32]See8 CFR 216.5(e)(3).
+
+[^ 33]SeeINA 216(c)(4)(C).
+
+[^ 34]See8 CFR 216.5(e)(3)(ii).
+
+[^ 35]See8 CFR 216.5(e)(3)(i).
+
+[^ 36]See8 CFR 216.5(e)(3)(i).
+
+[^ 37]See Section 40702 of the Violent Crime Control and Law Enforcement Act of 1994, Title IV ofPub. L. 103-322  (PDF), 108 Stat. 1796, 1955 (September 13, 1994). The regulations at8 CFR 216.5(e)(3)were promulgated in March 1991 and have not been updated to include superseding statutory provisions. Although8 CFR 216.5(e)(3)(iv)-(vii)requires CPRs filing waivers based on battery or extreme cruelty to submit evaluations by mental health professionals, section 40702 of the Violent Crime Control and Law Enforcement Act of 1994, Title IV ofPub. L. 103-322  (PDF), 108 Stat. 1796, 1955 (September 13, 1994) supersedes this part of the regulations.
+
+[^ 38]For more information on INA 204(l) benefits, see Volume 7, Adjustment of Status, Part A, Adjustment of Status Policies and Procedures, Chapter 9, Death of Petitioner or Principal Beneficiary [7 USCIS-PM A.9].
+
+[^ 39]For more information on evidentiary requirements, see Volume 3, Humanitarian Protection and Parole, Part D, Violence Against Women Act, Chapter 5, Adjudication, Section B, Review of Evidence, Subsection 2, Any Credible Evidence Provision [3 USCIS-PM D.5(B)(2)].
+
+[^ 40]SeeINA 216(c)(4).
+
+[^ 41]See Violence Against Women Reauthorization Act of 2013 (VAWA 2013),Pub. L. 113-4  (PDF), 127 Stat. 54 (March 7, 2013). SeeINA 204(a)(1)(A)(iii)(II)(aa)(BB)as amended by Section 1503(b)(1) of the Battered Immigrant Women Protection Act of 2000 (BIWPA),Pub. L. 106-386  (PDF), 114 Stat. 1464, 1518 (October 28, 2000). SeeINA 216(c)(4)(D)as amended by Section 806 of VAWA 2013,Pub. L. 113-4  (PDF), 127 Stat. 54, 112 (March 7, 2013).
+
+[^ 42]SeeINA 204(a)(1)(A)(iii)(II)(aa)(BB). SeeINA 216(c)(4)(D).
+
+[^ 43]SeeINA 216(c)(4)(D).
+
+[^ 44]See8 U.S.C. 1367(a)(2). See8 CFR 216.5(e)(3)(viii). See Volume 1, General Policies and Procedures, Part A, Public Services, Chapter 7, Privacy and Confidentiality, Section E, VAWA, T, and U Cases [1 USCIS-PM A.7(E)].
+
+[^ 45]See8 U.S.C. 1367(a)(1). SeeImplementation of Section 1367 Information Provisions  (PDF), DHS Instruction 002-02-001, Revision 00.1, issued November 7, 2013.
+
+[^ 46]See Volume 1, General Policies and Procedures, Part A, Public Services, Chapter 7, Privacy and Confidentiality, Section E, VAWA, T, and U Cases [1 USCIS-PM A.7(E)].
+
+[^ 47]For more information on confidentiality protections under8 U.S.C. 1367, see Subsection 4, Confidentiality Protections and Safe Address [6 USCIS-PM I.5(C)(4)].
+
+[^ 48]SeeInformation for Conditional Permanent Residents Seeking to Change the Basis of Form I-751 From a Waiver Based on Battery or Extreme Cruelty to a Joint Petition.
+
+[^ 49]See8 CFR 216.4(a)(1). For information on filing a Form I-751 and where to file the form, see theForm I-751webpage.
+
+[^ 50]SeeINA 216(d)(2)(B). See8 CFR 216.4(a)(6).
+
+[^ 51]SeeINA 216(c)(1)(B). See8 CFR 216.4(b).
+
+H2: Resources
+
+INA 201- Worldwide level of immigration
+
+INA 202- Numerical limitations on individual foreign states
+
+INA 203- Allocation of immigrant visas
+
+INA 204,8 CFR 204- Procedure for granting immigrant status
+
+INA 216,8 CFR 216- Conditional permanent resident status for certain alien spouses and sons and daughters
+
+Section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act           (PDF)- Penalties for disclosure of information
+
+The Immigration Marriage Fraud Amendments of 1986           (PDF)
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-290B, Notice of Appeal or Motion
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-751, Petition to Remove Conditions on Residence
+
+DHS Implementation of Section 1367 Information Provisions            (PDF)
+
+How to Use the USCIS Policy Manual Website
+
+Information for Conditional Permanent Residents Seeking to Change the Basis of Form I-751 From a Waiver Based on Battery or Extreme Cruelty to a Joint Petition
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual regarding family-based conditional permanent residents (CPRs).
+
+6 USCIS-PM I.1-Chapter 1 - Purpose and Background
+
+6 USCIS-PM I.2-Chapter 2 - Terms and Conditions of CPR Status
+
+6 USCIS-PM I.3-Chapter 3 - Petition to Remove Conditions on Residence
+
+6 USCIS-PM I.4-Chapter 4 - Joint Petitions and Individual Filing Requests
+
+6 USCIS-PM I.5-Chapter 5 - Waiver of Joint Filing Requirement
+
+6 USCIS-PM I.6-Chapter 6 - Decision and Post-Adjudication
+
+6 USCIS-PM I.7-Chapter 7 - Effect of Removal Proceedings
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

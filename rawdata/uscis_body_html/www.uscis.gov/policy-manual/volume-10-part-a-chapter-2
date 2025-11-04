@@ -1,0 +1,1804 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+        
+  
+      <div class="book-utility-menu hide-print" role="navigation" aria-label="Book utility menu">
+  <div class="content-container">
+    <div class="container-1">
+      <a href="/policy-manual" hreflang="en">Policy Manual</a>
+      <div class="mobile-chevron">
+        <button id="util-menu" class="menu-toggle__link highlight-strong" aria-label="Toggle Menu">
+          <i id="util-chevron" class="fas fa-chevron-down"></i>
+        </button>
+      </div>
+    </div>
+    <div class="container-2" id="util-links">
+      <div class="menu-items">
+                  <div class="menu__elem"><a href="/policy-manual/table-of-contents">Contents</a></div>
+                  <div class="menu__elem"><a href="/policy-manual/updates" hreflang="en">Updates</a></div>
+                  <div class="menu__elem"><a href="/legal-resources/immigration-and-nationality-act">INA</a></div>
+                  <div class="menu__elem"><a href="https://www.ecfr.gov/current/title-8">8 CFR</a></div>
+                  <div class="menu__elem"><a href="/tools/glossary" hreflang="en">Glossary</a></div>
+                  <div class="menu__elem"><a href="https://www.uscis.gov/outreach/feedback-opportunities/policy-manual-feedback/policy-manual-feedback">Feedback</a></div>
+              </div>
+    </div>
+      <div class="book-search" id="pm-search">
+        <div class="line-sep"> </div>
+                    <form accept-charset="UTF-8" action="/policy-manual/search" name="custom-search" method="get" id="custom-search">
+          <div class="input-group">
+            <input name="pm_query" id="pm-query" type="text" class="book-search-box book-utility-menu__search" title="Search USCIS Policy Manual" autocomplete="off" size="25" maxlength="200" value="" placeholder="Search USCIS Policy Manual">
+            <div class="input-group__btn--icon">
+              <button id="pm-btn-search-submit" aria-label="Search USCIS Policy Manual" class="btn-icon btn--search-submit" type="submit">
+                <svg class="usa-icon fa-search" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/uswds/img/sprite.svg#search"></use>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </form>
+              <div class="line-sep after-search"> </div>
+      </div>
+  </div>
+</div>
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+      <div id="block-booknavigation">
+    
+        
+            <nav id="book-block-menu-68600" class="book-block-menu" aria-labelledby="book-menu-label">
+    <div class="visually-hidden" id="book-menu-label">Book outline for Policy Manual</div>
+    
+
+                  <ul class="leftnav-menu book-title" data-level="0">
+    
+              
+              <li class="leftnav-menu__item leftnav-menu__item--0 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual" class="leftnav-menu__link leftnav-menu__title" hreflang="en">Policy Manual</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Policy Manual" aria-controls="leftnav-menu" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="leftnav-menu"><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/search" class="leftnav-menu__link" hreflang="en">Search</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/updates" class="leftnav-menu__link" hreflang="en">Updates</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/table-of-contents" class="leftnav-menu__link" hreflang="en">Table of Contents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-1" class="leftnav-menu__link" hreflang="en">Volume 1 - General Policies and Procedures</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-2" class="leftnav-menu__link" hreflang="en">Volume 2 - Nonimmigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-3" class="leftnav-menu__link" hreflang="en">Volume 3 - Humanitarian Protection and Parole</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-4" class="leftnav-menu__link" hreflang="en">Volume 4 - Refugees and Asylees</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5" class="leftnav-menu__link" hreflang="en">Volume 5 - Adoptions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-6" class="leftnav-menu__link" hreflang="en">Volume 6 - Immigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-7" class="leftnav-menu__link" hreflang="en">Volume 7 - Adjustment of Status</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8" class="leftnav-menu__link" hreflang="en">Volume 8 - Admissibility</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9" class="leftnav-menu__link" hreflang="en">Volume 9 - Waivers and Other Forms of Relief</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10" class="leftnav-menu__link" hreflang="en">Volume 10 - Employment Authorization</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2" data-level="2"><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10-part-a" class="leftnav-menu__link" hreflang="en">Part A - Employment Authorization Policies and Procedures</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3" data-level="3"><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10-part-a-chapter-1" class="leftnav-menu__link" hreflang="en">Chapter 1 - Purpose and Background</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3 leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10-part-a-chapter-2" class="is-active leftnav-menu__link">Chapter 2 - Eligibility Requirements</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Chapter 3 - Documentation and Evidence [Reserved]
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10-part-a-chapter-4" class="leftnav-menu__link" hreflang="en">Chapter 4 - Adjudication</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Chapter 5 - Reserved
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Chapter 6 - Card Production and Card Correction [Reserved]
+        </div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Chapter 7 - Post-Decision Actions [Reserved]
+        </div></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10-part-b" class="leftnav-menu__link" hreflang="en">Part B - Specific Categories</a></div></div></li></ul></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-11" class="leftnav-menu__link" hreflang="en">Volume 11 - Travel and Identity Documents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12" class="leftnav-menu__link" hreflang="en">Volume 12 - Citizenship and Naturalization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 redacted"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Volume 13 - Fraud and National Security [USCIS Only]
+        </div></div></div></li></ul></li>
+      
+         </ul>
+  
+
+
+  </nav>
+
+      </div>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                                <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual">Policy Manual</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-10">Volume 10 - Employment Authorization</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-10-part-a">Part A - Employment Authorization Policies and Procedures</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Chapter 2 - Eligibility Requirements</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+
+
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-book">
+      <div class="container container--main">
+            
+                        
+            <h1 class="page-title js-page-title">
+              <span>Chapter 2 - Eligibility Requirements</span>
+            </h1>
+          
+              
+                    
+              <div>
+                        
+<nav id="pm-tabs" aria-labelledby="pm-tabs-label">
+  <div class="visually-hidden" id="pm-tabs-label">Content navigation tabs</div>
+  <ul>
+    <li><a href="#" aria-controls="guidance" class="pm-tab__guidance tablinks active tab1">Guidance</a></li>
+    <li><a href="#" id="resource_tab" aria-controls="resources" class="pm-tab__resource tablinks tab2">Resources (<span id="resources_count">10</span>)</a></li>
+    <li><a href="#" id="appendices_tab" aria-controls="appendices" class="pm-tab__appendices tablinks tab3">Appendices (<span id="appendices_count">0</span>)</a></li>
+    <li><a href="#" id="updates_tab" aria-controls="updates" class="pm-tab__updates tablinks tab4">Updates (<span id="updates_count">6</span>)</a></li>
+  </ul>
+</nav>
+<section id="book-content">
+  <div id="guidance" class="tabcontent tabcontent--guidance">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>Whether or not an alien is authorized to work in the United States depends on the alien's immigration status or circumstances.<a class="ck-anchor" id="footnotelink-1"></a><a class="ck-anchor" href="#footnote-1" title><strong><sup>[1]</sup></strong></a> The regulations outline three classes of eligibility for employment authorization:</p><ul><li>Authorization to work for any employer, as well as to engage in self-employment, based on immigration status or circumstances;<a class="ck-anchor" id="footnotelink-2"></a><a class="ck-anchor" href="#footnote-2" title><strong><sup>[2]</sup></strong></a></li><li>Authorization to work for a specific employer based on immigration status or circumstances;<a class="ck-anchor" id="footnotelink-3"></a><a class="ck-anchor" href="#footnote-3" title><strong><sup>[3]</sup></strong></a> and</li><li>Authorization to work for any employer, as well as to engage in self-employment, upon approval, in the discretion of USCIS, of an Application for Employment Authorization (<a href="/i-765" data-entity-type="node" data-entity-uuid="983b2b27-2406-41b0-a21b-c5c916fc669c" data-entity-substitution="canonical">Form I-765</a>).<a class="ck-anchor" id="footnotelink-4"></a><a class="ck-anchor" href="#footnote-4" title><strong><sup>[4]</sup></strong></a></li></ul><h2><a class="ck-anchor" id="S-A"></a>A. Authorized to Work for Any Employer Based on Status or Circumstances</h2><h3><a class="ck-anchor" id="S-A-1"></a>1. Aliens Who Must Apply for Documentation of Employment Authorization</h3><p>Certain aliens are authorized to work in the United States without restriction based on their underlying immigration status or circumstances.<a class="ck-anchor" id="footnotelink-5"></a><a class="ck-anchor" href="#footnote-5" title><strong><sup>[5]</sup></strong></a> However, aliens seeking employment in the United States must present an acceptable document or combination of documents to their employer as evidence of both identity and employment authorization.<a class="ck-anchor" id="footnotelink-6"></a><a class="ck-anchor" href="#footnote-6" title><strong><sup>[6]</sup></strong></a> In general, most aliens authorized to work for any employer based on their status or circumstance must apply to USCIS for a document evidencing employment authorization.</p><p>The following aliens are authorized to work in the United States without restriction, based on their status or circumstance, but generally must apply to USCIS for a document evidencing employment authorization if seeking employment in the United States:<a class="ck-anchor" id="footnotelink-7"></a><a class="ck-anchor" href="#footnote-7" title><strong><sup>[7]</sup></strong></a></p><ul><li>Refugees;<a class="ck-anchor" id="footnotelink-8"></a><a class="ck-anchor" href="#footnote-8" title><strong><sup>[8]</sup></strong></a></li><li>Certain Afghan parolees and certain Ukrainian parolees;<a class="ck-anchor" id="footnotelink-9"></a><a class="ck-anchor" href="#footnote-9" title><strong><sup>[9]</sup></strong></a></li><li>Fiancé(e)s of U.S. citizens or children of such fiancé(e)s (K-1 or K-2 nonimmigrants);<a class="ck-anchor" id="footnotelink-10"></a><a class="ck-anchor" href="#footnote-10" title><strong><sup>[10]</sup></strong></a></li><li>Parents or dependent children of aliens granted LPR status based on being an employee of a recognized international organization (or such an employee’s family member);<a class="ck-anchor" id="footnotelink-11"></a><a class="ck-anchor" href="#footnote-11" title><strong><sup>[11]</sup></strong></a></li><li>Citizens of Palau;<a class="ck-anchor" id="footnotelink-12"></a><a class="ck-anchor" href="#footnote-12" title><strong><sup>[12]</sup></strong></a></li><li>Aliens granted withholding of deportation or removal;<a class="ck-anchor" id="footnotelink-13"></a><a class="ck-anchor" href="#footnote-13" title><strong><sup>[13]</sup></strong></a></li><li>Aliens under Deferred Enforced Departure (DED);<a class="ck-anchor" id="footnotelink-14"></a><a class="ck-anchor" href="#footnote-14" title><strong><sup>[14]</sup></strong></a></li><li>Aliens granted temporary protected status (TPS);<a class="ck-anchor" id="footnotelink-15"></a><a class="ck-anchor" href="#footnote-15" title><strong><sup>[15]</sup></strong></a></li><li>Aliens granted voluntary departure under the Family Unity Program or granted Family Unity benefits;<a class="ck-anchor" id="footnotelink-16"></a><a class="ck-anchor" href="#footnote-16" title><strong><sup>[16]</sup></strong></a></li><li>V nonimmigrants; and</li><li>Aliens granted Commonwealth of the Northern Mariana Islands (CNMI) resident status (employment authorization is limited to the CNMI).<a class="ck-anchor" id="footnotelink-17"></a><a class="ck-anchor" href="#footnote-17" title><strong><sup>[17]</sup></strong></a></li></ul><p>Generally, aliens in the above categories need to submit <a href="/i-765" data-entity-type="node" data-entity-uuid="983b2b27-2406-41b0-a21b-c5c916fc669c" data-entity-substitution="canonical">Form I-765</a> to USCIS with the appropriate fee, in accordance with the form instructions,<a class="ck-anchor" id="footnotelink-18"></a><a class="ck-anchor" href="#footnote-18" title><strong><sup>[18]</sup></strong></a> to receive an Employment Authorization Document (EAD) as evidence of such authorization if they intend to work in the United States.<a class="ck-anchor" id="footnotelink-19"></a><a class="ck-anchor" href="#footnote-19" title><strong><sup>[19]</sup></strong></a></p><h3><a class="ck-anchor" id="S-A-2"></a>2. Aliens Who Do Not Need to Apply for Documentation of Employment Authorization</h3><p>The following aliens are authorized to work in the United States without restriction, based on their status or circumstance, and generally do not need to apply to USCIS for a document evidencing employment authorization if seeking employment in the United States because the documentation they receive showing their status or circumstance may generally also be used to show employment authorization:</p><ul><li>Lawful permanent residents (LPRs) (with or without conditions);<a class="ck-anchor" id="footnotelink-20"></a><a class="ck-anchor" href="#footnote-20" title><strong><sup>[20]</sup></strong></a></li><li>Lawful temporary residents;<a class="ck-anchor" id="footnotelink-21"></a><a class="ck-anchor" href="#footnote-21" title><strong><sup>[21]</sup></strong></a></li><li>Asylees;<a class="ck-anchor" id="footnotelink-22"></a><a class="ck-anchor" href="#footnote-22" title><strong><sup>[22]</sup></strong></a></li><li>Citizens of Micronesia or the Marshall Islands;<a class="ck-anchor" id="footnotelink-23"></a><a class="ck-anchor" href="#footnote-23" title><strong><sup>[23]</sup></strong></a></li><li>Spouses of U.S. citizens or children of such spouses (K-3 or K-4 nonimmigrants);<a class="ck-anchor" id="footnotelink-24"></a><a class="ck-anchor" href="#footnote-24" title><strong><sup>[24]</sup></strong></a></li><li>Victims of severe forms of trafficking in persons (T-1 nonimmigrants);<a class="ck-anchor" id="footnotelink-25"></a><a class="ck-anchor" href="#footnote-25" title><strong><sup>[25]</sup></strong></a></li><li>Spouses of principal E nonimmigrants;<a class="ck-anchor" id="footnotelink-26"></a><a class="ck-anchor" href="#footnote-26" title><strong><sup>[26]</sup></strong></a></li><li>Spouses of principal L-1 nonimmigrants;<a class="ck-anchor" id="footnotelink-27"></a><a class="ck-anchor" href="#footnote-27" title><strong><sup>[27]</sup></strong></a> and</li><li>Victims of qualifying criminal activity (U-1 nonimmigrants)<a class="ck-anchor" id="footnotelink-28"></a><a class="ck-anchor" href="#footnote-28" title><strong><sup>[28]</sup></strong></a> and certain qualifying family members (U-2, U-3, U-4, and U-5 nonimmigrants).<a class="ck-anchor" id="footnotelink-29"></a><a class="ck-anchor" href="#footnote-29" title><strong><sup>[29]</sup></strong></a></li></ul><p>Although these aliens are not required to apply to USCIS for a document evidencing employment authorization, they must still present acceptable evidence of identity and employment authorization when seeking employment in the United States.<a class="ck-anchor" id="footnotelink-30"></a><a class="ck-anchor" href="#footnote-30" title><strong><sup>[30]</sup></strong></a></p><p><em>Documentation DHS Issues as Evidence of Employment Authorization</em></p><p>LPRs may present a Permanent Resident Card (Form I-551), a foreign passport that contains a temporary I-551 stamp, or a temporary I-551 notation on a machine-readable visa as evidence of both identity and employment authorization.<a class="ck-anchor" id="footnotelink-31"></a><a class="ck-anchor" href="#footnote-31" title><strong><sup>[31]</sup></strong></a></p><p>Asylees, spouses of U.S. citizens or children of such spouses (K-3 and K-4 nonimmigrants), victims of severe forms of trafficking in persons (T-1 nonimmigrants), spouses of E nonimmigrants (E-1S, E-2S, or E-3S nonimmigrants) with limited exceptions,<a class="ck-anchor" id="footnotelink-32"></a><a class="ck-anchor" href="#footnote-32" title><strong><sup>[32]</sup></strong></a> spouses of L nonimmigrants (L-2S nonimmigrants), and victims of qualifying criminal activity (U-1 nonimmigrants) and certain qualifying family members (U-2, U-3, U-4, and U-5 nonimmigrants) may present their Arrival/Departure Record (Form I-94)<a class="ck-anchor" id="footnotelink-33"></a><a class="ck-anchor" href="#footnote-33" title><strong><sup>[33]</sup></strong></a> as acceptable evidence of employment authorization under <a href="/i-9-central/form-i-9-acceptable-documents" data-entity-type="node" data-entity-uuid="c1a9bc2d-ac18-46a7-8310-00885523da05" data-entity-substitution="canonical">List C of Employment Eligibility Verification (Form I-9)</a>.<a class="ck-anchor" id="footnotelink-34"></a><a class="ck-anchor" href="#footnote-34" title><strong><sup>[34]</sup></strong></a></p><p>However, aliens seeking employment in the United States who present their Form I-94 to an employer as evidence of employment authorization must also present a document to show evidence of identity.<a class="ck-anchor" id="footnotelink-35"></a><a class="ck-anchor" href="#footnote-35" title><strong><sup>[35]</sup></strong></a> The Form I-94 is not evidence of identity and for the categories of aliens listed above can be presented as evidence of employment authorization.</p><p>To obtain a document evidencing both identity and employment authorization, these aliens may apply for an EAD, with the appropriate fee (or request a fee waiver), if applicable. However, certain categories of aliens are automatically issued an EAD showing both identity and employment authorization based on their status and are not required to apply separately for an EAD.<a class="ck-anchor" id="footnotelink-36"></a><a class="ck-anchor" href="#footnote-36" title><strong><sup>[36]</sup></strong></a></p><h2><a class="ck-anchor" id="S-B"></a>B. Authorized to Work for Specific Employer Based on Status or Circumstances</h2><p>The following nonimmigrants and parolees are automatically authorized to work for a specific employer based on their particular nonimmigrant status or parole:<a class="ck-anchor" id="footnotelink-37"></a><a class="ck-anchor" href="#footnote-37" title><strong><sup>[37]</sup></strong></a></p><ul><li>Foreign government officials (A-1 or A-2 nonimmigrants), or employees of such official (A-3 nonimmigrants);<a class="ck-anchor" id="footnotelink-38"></a><a class="ck-anchor" href="#footnote-38" title><strong><sup>[38]</sup></strong></a></li><li>Foreign government officials in transit (C-2 or C-3 nonimmigrants);<a class="ck-anchor" id="footnotelink-39"></a><a class="ck-anchor" href="#footnote-39" title><strong><sup>[39]</sup></strong></a></li><li>Treaty traders (E-1 nonimmigrants) or treaty investors (E-2 nonimmigrants);<a class="ck-anchor" id="footnotelink-40"></a><a class="ck-anchor" href="#footnote-40" title><strong><sup>[40]</sup></strong></a></li><li>Students (F-1 nonimmigrants) who are seeking:<a class="ck-anchor" id="footnotelink-41"></a><a class="ck-anchor" href="#footnote-41" title><strong><sup>[41]</sup></strong></a><ul><li>On-campus employment;</li><li>Curricular practical training;</li><li>An EAD based on a STEM Optional Practical Training (OPT) extension,<a class="ck-anchor" id="footnotelink-42"></a><a class="ck-anchor" href="#footnote-42" title><strong><sup>[42]</sup></strong></a> and whose timely filed Form I-765 or successor form is pending and whose employment authorization and accompanying Form I-766 or successor form was issued based on post-completion OPT;<a class="ck-anchor" id="footnotelink-43"></a><a class="ck-anchor" href="#footnote-43" title><strong><sup>[43]</sup></strong></a> or</li><li>H-1B nonimmigrant status and whose duration of status and employment authorization have been extended as provided in regulations;<a class="ck-anchor" id="footnotelink-44"></a><a class="ck-anchor" href="#footnote-44" title><strong><sup>[44]</sup></strong></a></li></ul></li><li>Representatives of an international organization (G-1, G-2, G-3, or G-4 nonimmigrants)<a class="ck-anchor" id="footnotelink-45"></a><a class="ck-anchor" href="#footnote-45" title><strong><sup>[45]</sup></strong></a> and their personal employees (G-5 nonimmigrants);<a class="ck-anchor" id="footnotelink-46"></a><a class="ck-anchor" href="#footnote-46" title><strong><sup>[46]</sup></strong></a></li><li>Temporary workers or trainees (H-1, H-2, or H-3 nonimmigrants);<a class="ck-anchor" id="footnotelink-47"></a><a class="ck-anchor" href="#footnote-47" title><strong><sup>[47]</sup></strong></a></li><li>Representatives of foreign information media (I nonimmigrants);<a class="ck-anchor" id="footnotelink-48"></a><a class="ck-anchor" href="#footnote-48" title><strong><sup>[48]</sup></strong></a></li><li>Exchange visitors (J-1 nonimmigrants);<a class="ck-anchor" id="footnotelink-49"></a><a class="ck-anchor" href="#footnote-49" title><strong><sup>[49]</sup></strong></a></li><li>Intra-company transferees (L-1 nonimmigrants);<a class="ck-anchor" id="footnotelink-50"></a><a class="ck-anchor" href="#footnote-50" title><strong><sup>[50]</sup></strong></a></li><li>"Aliens of extraordinary ability in sciences, arts, education, business, or athletics" (O-1 nonimmigrants), "and an accompanying alien" (O-2 nonimmigrants);<a class="ck-anchor" id="footnotelink-51"></a><a class="ck-anchor" href="#footnote-51" title><strong><sup>[51]</sup></strong></a></li><li>Athletes, artists, or entertainers (P-1, P-2, or P-3 nonimmigrants) and essential support personnel;<a class="ck-anchor" id="footnotelink-52"></a><a class="ck-anchor" href="#footnote-52" title><strong><sup>[52]</sup></strong></a></li><li>International cultural exchange visitors (Q-1 nonimmigrants);<a class="ck-anchor" id="footnotelink-53"></a><a class="ck-anchor" href="#footnote-53" title><strong><sup>[53]</sup></strong></a></li><li>Religious workers (R-1 nonimmigrants);<a class="ck-anchor" id="footnotelink-54"></a><a class="ck-anchor" href="#footnote-54" title><strong><sup>[54]</sup></strong></a></li><li>North Atlantic Treaty Organization (NATO) civilian employees<a class="ck-anchor" id="footnotelink-55"></a><a class="ck-anchor" href="#footnote-55" title><strong><sup>[55]</sup></strong></a> and their personal employees;<a class="ck-anchor" id="footnotelink-56"></a><a class="ck-anchor" href="#footnote-56" title><strong><sup>[56]</sup></strong></a></li><li>United States-Mexico-Canada Agreement (USMCA) professionals (TN nonimmigrants);<a class="ck-anchor" id="footnotelink-57"></a><a class="ck-anchor" href="#footnote-57" title><strong><sup>[57]</sup></strong></a></li><li>Temporary workers<a class="ck-anchor" id="footnotelink-58"></a><a class="ck-anchor" href="#footnote-58" title><strong><sup>[58]</sup></strong></a> who filed a Petition for a Nonimmigrant Worker (<a href="/i-129" data-entity-type="node" data-entity-uuid="5c210fe6-2270-43ff-a7e4-b26246f1ab8b" data-entity-substitution="canonical">Form I-129</a>);<a class="ck-anchor" id="footnotelink-59"></a><a class="ck-anchor" href="#footnote-59" title><strong><sup>[59]</sup></strong></a></li><li>CNMI investors (E-2 nonimmigrants);<a class="ck-anchor" id="footnotelink-60"></a><a class="ck-anchor" href="#footnote-60" title><strong><sup>[60]</sup></strong></a></li><li>CNMI transitional workers (CW-1 nonimmigrants);<a class="ck-anchor" id="footnotelink-61"></a><a class="ck-anchor" href="#footnote-61" title><strong><sup>[61]</sup></strong></a></li><li>"Nonimmigrant treaty alien[s] in a specialty occupation" (E-3 nonimmigrants);<a class="ck-anchor" id="footnotelink-62"></a><a class="ck-anchor" href="#footnote-62" title><strong><sup>[62]</sup></strong></a> and</li><li>"Alien[s] paroled" as an entrepreneur for the period of authorized parole.<a class="ck-anchor" id="footnotelink-63"></a><a class="ck-anchor" href="#footnote-63" title><strong><sup>[63]</sup></strong></a></li></ul><p>Nonimmigrants authorized to work for a specific employer based on status or circumstances are not required to file a <a href="/i-765" data-entity-type="node" data-entity-uuid="983b2b27-2406-41b0-a21b-c5c916fc669c" data-entity-substitution="canonical">Form I-765</a> to obtain authorization to work in the United States; they receive employment authorization automatically once they are admitted into the United States in, or change to, the qualifying nonimmigrant status or parole. These aliens are, however, subject to certain restrictions as a condition of their status or parole. Generally, they are only allowed to work for the employer named in their respective nonimmigrant petition or parole application and only allowed to perform the type of work specified in their petition or application.<a class="ck-anchor" id="footnotelink-64"></a><a class="ck-anchor" href="#footnote-64" title><strong><sup>[64]</sup></strong></a> Certain classes of nonimmigrants may continue their employment with the same employer for up to 240 days after the expiration of a prior authorized period of stay, provided they are the beneficiary of a timely filed petition or application for an extension of stay using the Petition for a Nonimmigrant Worker (<a href="/i-129" data-entity-type="node" data-entity-uuid="5c210fe6-2270-43ff-a7e4-b26246f1ab8b" data-entity-substitution="canonical">Form I-129</a>) or Application to Extend/Change Nonimmigrant Status (<a href="/i-539" data-entity-type="node" data-entity-uuid="debc7fed-381c-404a-9ea1-4997363cdefb" data-entity-substitution="canonical">Form I-539</a>).<a class="ck-anchor" id="footnotelink-65"></a><a class="ck-anchor" href="#footnote-65" title><strong><sup>[65]</sup></strong></a></p><h2><a class="ck-anchor" id="S-C"></a>C. Aliens Required to Apply for Employment Authorization</h2><p>The following aliens are not authorized to work incident to their immigration status or circumstance but may request employment authorization from USCIS:<a class="ck-anchor" id="footnotelink-66"></a><a class="ck-anchor" href="#footnote-66" title><strong><sup>[66]</sup></strong></a></p><ul><li>Alien spouses or unmarried dependent children or sons or daughters of a foreign government official (A-1 or A-2 nonimmigrants) who present an endorsement from the U.S. Department of State;<a class="ck-anchor" id="footnotelink-67"></a><a class="ck-anchor" href="#footnote-67" title><strong><sup>[67]</sup></strong></a></li><li>Alien spouses or unmarried dependent sons or daughters of alien employees of the Coordination Council for North American Affairs, also known as Taipei Economic and Cultural Representative Office (TECRO) (E-1 nonimmigrants);<a class="ck-anchor" id="footnotelink-68"></a><a class="ck-anchor" href="#footnote-68" title><strong><sup>[68]</sup></strong></a></li><li>Aliens in nonimmigrant student (F-1 nonimmigrant) status who:<ul><li>Are seeking pre-completion optional practical training, authorization to engage in up to 12 months of post-completion Optional Practical Training (OPT), or a 24-month STEM OPT extension;</li><li><span style="font-size:1rem;">Have been offered employment under the sponsorship of an international organization; or</span></li><li>Are seeking employment because of severe economic hardship;<a class="ck-anchor" id="footnotelink-69"></a><a class="ck-anchor" href="#footnote-69" title><strong><sup>[69]</sup></strong></a></li></ul></li><li>Alien spouses or unmarried dependent children or sons or daughters of representatives of international organization (G-1, G-3, or G-4 nonimmigrants);<a class="ck-anchor" id="footnotelink-70"></a><a class="ck-anchor" href="#footnote-70" title><strong><sup>[70]</sup></strong></a></li><li>Alien spouses or minor children of an exchange visitor (J-2 nonimmigrants);<a class="ck-anchor" id="footnotelink-71"></a><a class="ck-anchor" href="#footnote-71" title><strong><sup>[71]</sup></strong></a></li><li>Students (M-1 nonimmigrants) seeking employment for practical training;<a class="ck-anchor" id="footnotelink-72"></a><a class="ck-anchor" href="#footnote-72" title><strong><sup>[72]</sup></strong></a></li><li>Dependents of NATO-1 through NATO-6 nonimmigrants;<a class="ck-anchor" id="footnotelink-73"></a><a class="ck-anchor" href="#footnote-73" title><strong><sup>[73]</sup></strong></a></li><li>Applicants for asylum;<a class="ck-anchor" id="footnotelink-74"></a><a class="ck-anchor" href="#footnote-74" title><strong><sup>[74]</sup></strong></a></li><li>Applicants for adjustment of status under INA 245;<a class="ck-anchor" id="footnotelink-75"></a><a class="ck-anchor" href="#footnote-75" title><strong><sup>[75]</sup></strong></a></li><li>Applicants for cancellation of removal;<a class="ck-anchor" id="footnotelink-76"></a><a class="ck-anchor" href="#footnote-76" title><strong><sup>[76]</sup></strong></a></li><li>Most parolees;<a class="ck-anchor" id="footnotelink-77"></a><a class="ck-anchor" href="#footnote-77" title><strong><sup>[77]</sup></strong></a></li><li>Alien spouses of an E-2 CNMI investor;<a class="ck-anchor" id="footnotelink-78"></a><a class="ck-anchor" href="#footnote-78" title><strong><sup>[78]</sup></strong></a></li><li>Aliens granted deferred action;<a class="ck-anchor" id="footnotelink-79"></a><a class="ck-anchor" href="#footnote-79" title><strong><sup>[79]</sup></strong></a></li><li>Registry applicants based on continuous residence since January 1, 1972;<a class="ck-anchor" id="footnotelink-80"></a><a class="ck-anchor" href="#footnote-80" title><strong><sup>[80]</sup></strong></a></li><li>Certain visitors for business (B-1 nonimmigrants) who are the personal or domestic servants<a class="ck-anchor" id="footnotelink-81"></a><a class="ck-anchor" href="#footnote-81" title><strong><sup>[81]</sup></strong></a> of a:<ul><li>Nonimmigrant employer;<a class="ck-anchor" id="footnotelink-82"></a><a class="ck-anchor" href="#footnote-82" title><strong><sup>[82]</sup></strong></a> or</li><li>U.S. citizen.<a class="ck-anchor" id="footnotelink-83"></a><a class="ck-anchor" href="#footnote-83" title><strong><sup>[83]</sup></strong></a></li></ul></li><li>Certain visitors for business (B-1 nonimmigrants) employed by a foreign airline;<a class="ck-anchor" id="footnotelink-84"></a><a class="ck-anchor" href="#footnote-84" title><strong><sup>[84]</sup></strong></a></li><li>Applicants under a final order of deportation or removal, including deferral of removal under the Convention against Torture (CAT);<a class="ck-anchor" id="footnotelink-85"></a><a class="ck-anchor" href="#footnote-85" title><strong><sup>[85]</sup></strong></a></li><li>Applicants with pending applications for TPS;<a class="ck-anchor" id="footnotelink-86"></a><a class="ck-anchor" href="#footnote-86" title><strong><sup>[86]</sup></strong></a></li><li>Applicants for adjustment as a special agricultural worker;<a class="ck-anchor" id="footnotelink-87"></a><a class="ck-anchor" href="#footnote-87" title><strong><sup>[87]</sup></strong></a></li><li>Witnesses or informants and their qualified family members (S nonimmigrants);<a class="ck-anchor" id="footnotelink-88"></a><a class="ck-anchor" href="#footnote-88" title><strong><sup>[88]</sup></strong></a></li><li>Applicants for legalization under INA 245A;<a class="ck-anchor" id="footnotelink-89"></a><a class="ck-anchor" href="#footnote-89" title><strong><sup>[89]</sup></strong></a></li><li>Applicants for adjustment under the Legal Immigration Family Equity (LIFE) Act;<a class="ck-anchor" id="footnotelink-90"></a><a class="ck-anchor" href="#footnote-90" title><strong><sup>[90]</sup></strong></a></li><li>Derivative family members of victims of a severe form of trafficking in persons (T-2, T-3, T-4, T-5, and T-6 nonimmigrants);<a class="ck-anchor" id="footnotelink-91"></a><a class="ck-anchor" href="#footnote-91" title><strong><sup>[91]</sup></strong></a></li><li>Spouses of certain H-1B nonimmigrants;<a class="ck-anchor" id="footnotelink-92"></a><a class="ck-anchor" href="#footnote-92" title><strong><sup>[92]</sup></strong></a></li><li>Violence Against Women Act (VAWA) self-petitioners and derivative beneficiaries;<a class="ck-anchor" id="footnotelink-93"></a><a class="ck-anchor" href="#footnote-93" title><strong><sup>[93]</sup></strong></a></li><li>Spouses of entrepreneur parolees;<a class="ck-anchor" id="footnotelink-94"></a><a class="ck-anchor" href="#footnote-94" title><strong><sup>[94]</sup></strong></a> and</li><li>Principal beneficiaries of an approved Immigrant Petition for Alien Workers (<a href="/i-140" data-entity-type="node" data-entity-uuid="da160f98-a26e-4dff-aeed-90c66d3dfc0a" data-entity-substitution="canonical">Form I-140</a>) facing compelling circumstances<a class="ck-anchor" id="footnotelink-95"></a><a class="ck-anchor" href="#footnote-95" title><strong><sup>[95]</sup></strong></a> and their spouse or children.<a class="ck-anchor" id="footnotelink-96"></a><a class="ck-anchor" href="#footnote-96" title><strong><sup>[96]</sup></strong></a></li></ul><p>These aliens are not automatically authorized to work and must have an EAD from USCIS as evidence of their authorization to work in the United States. Upon approval of Form I-765, the alien’s type and location of employment is unrestricted.</p><h2>Footnotes</h2><hr><p><a class="ck-anchor" id="footnote-1"></a><a class="ck-anchor" href="#footnotelink-1" title>[^ 1]</a> There are no age restrictions for requesting an Employment Authorization Document (EAD, Form I-766); the EAD functions as an identity document for some aliens.</p><p><a class="ck-anchor" id="footnote-2"></a><a class="ck-anchor" href="#footnotelink-2" title>[^ 2]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)</a>.</p><p><a class="ck-anchor" id="footnote-3"></a><a class="ck-anchor" href="#footnotelink-3" title>[^ 3]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)</a>.</p><p><a class="ck-anchor" id="footnote-4"></a><a class="ck-anchor" href="#footnotelink-4" title>[^ 4]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)</a>. See <a href="https://www.justice.gov/sites/default/files/eoir/legacy/2012/08/17/2668.pdf"><em>Matter of Tong  (PDF)</em></a>, 16 I&amp;N Dec. 593, 593 (BIA 1978).</p><p><a class="ck-anchor" id="footnote-5"></a><a class="ck-anchor" href="#footnotelink-5" title>[^ 5]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)</a>. Employment authorization under this category may not necessarily be associated with an immigration status. For example, aliens who have received voluntary departure or withholding of deportation do not have an immigration status, but the provision of law under which they are permitted to be in the United States also provides employment authorization.</p><p><a class="ck-anchor" id="footnote-6"></a><a class="ck-anchor" href="#footnotelink-6" title>[^ 6]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324a&amp;num=0&amp;edition=prelim">INA 274A(b)</a>. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.2">8 CFR 274a.2</a>.</p><p><a class="ck-anchor" id="footnote-7"></a><a class="ck-anchor" href="#footnotelink-7" title>[^ 7]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)</a>.</p><p><a class="ck-anchor" id="footnote-8"></a><a class="ck-anchor" href="#footnotelink-8" title>[^ 8]</a> Including those paroled into the United States as a refugee for a period of time. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(3)-(4)</a>. For those admitted as refugees or those paroled into the United States as refugees, a Form I-94 is a valid receipt establishing identity and employment authorization for a period of 90 days for purposes of Employment Eligibility Verification (Form I-9). See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-A/section-274a.2">8 CFR 274a.2(b)(1)(vi)(C)</a>. For guidance USCIS has given employers regarding this document as acceptable DHS-issued evidence of employment authorization for Form I-9 completion, see <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/40-completing-section-2-employer-review-and-verification/44-acceptable-receipts" data-entity-type="node" data-entity-uuid="395734b8-b43a-4806-9d6f-b920eacf257c" data-entity-substitution="canonical">Handbook for Employers (M-274), Section 4.4, Acceptable Receipts</a> and <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/73-refugees-and-asylees" data-entity-type="node" data-entity-uuid="90ab6887-bb84-4063-aac9-eaf856e5e489" data-entity-substitution="canonical">Section 7.3, Refugees and Asylees</a>.</p><p><a class="ck-anchor" id="footnote-9"></a><a class="ck-anchor" href="#footnotelink-9" title>[^ 9]</a> DHS has decided as a matter of policy to provide the benefit of employment authorization incident to parole akin to what is normally accorded to refugees (as well as a no-fee initial and replacement of an initial Employment Authorization Document) to certain Afghan parolees and certain Ukrainian parolees so that they receive similar treatment as refugees, which aligns with the spirit of legislation that states that certain Afghan parolees and certain Ukrainian parolees “shall be eligible for . . . other benefits available to refugees . . . .” See Section 2502(b) of the Extending Government Funding and Delivering Emergency Assistance Act, <a href="https://www.govinfo.gov/content/pkg/PLAW-117publ43/pdf/PLAW-117publ43.pdf">Pub. L. 117-43  (PDF)</a>, 135 Stat. 344, 377 (September 30, 2021), amended by Section 1501 of Division M of the Consolidated Appropriations Act of 2023, <a href="https://www.govinfo.gov/content/pkg/PLAW-117publ328/pdf/PLAW-117publ328.pdf">Pub. L. 117-328  (PDF)</a>, 136 Stat. 4459, 5189 (December 29, 2022), and Section 401(b) of the Additional Ukraine Supplemental Appropriations Act, <a href="https://www.govinfo.gov/content/pkg/PLAW-117publ128/pdf/PLAW-117publ128.pdf">Pub. L. 117-128  (PDF)</a>, 136 Stat. 1211, 1218 (May 21, 2022). An unexpired Form I-94 is an acceptable receipt for Form I-9 that establishes identity and employment authorization for a period of up to 90 days from the date of hire (or in the case of reverification, the date employment authorization expires) for Ukrainian parolees with a class of admission of UHP, Afghan parolees with a class of admission of OAR, Ukrainians paroled between February 24, 2022 and September 30, 2023 whose Form I-94 indicates Ukraine as the country of citizenship and contains a class of admission of DT, and Afghans paroled on or after July 31, 2021 whose Form I-94 lists Afghanistan as the country of citizenship and contains a class of admission of PAR. For guidance USCIS has given employers regarding this document as acceptable DHS-issued evidence of employment authorization for Form I-9 completion, see <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/40-completing-section-2-employer-review-and-verification/44-acceptable-receipts" data-entity-type="node" data-entity-uuid="395734b8-b43a-4806-9d6f-b920eacf257c" data-entity-substitution="canonical">Handbook for Employers (M-274), Section 4.4, Acceptable Receipts</a>.</p><p><a class="ck-anchor" id="footnote-10"></a><a class="ck-anchor" href="#footnotelink-10" title>[^ 10]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(6)</a>.</p><p><a class="ck-anchor" id="footnote-11"></a><a class="ck-anchor" href="#footnotelink-11" title>[^ 11]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(7)</a> (N-8 and N-9 nonimmigrants).</p><p><a class="ck-anchor" id="footnote-12"></a><a class="ck-anchor" href="#footnotelink-12" title>[^ 12]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(8)</a>.</p><p><a class="ck-anchor" id="footnote-13"></a><a class="ck-anchor" href="#footnotelink-13" title>[^ 13]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(10)</a>.</p><p><a class="ck-anchor" id="footnote-14"></a><a class="ck-anchor" href="#footnotelink-14" title>[^ 14]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(11)</a>. DED is in the President’s discretion to authorize as part of the President's constitutional power to conduct foreign relations. Although DED is not a specific immigration status, aliens covered by DED are not subject to removal from the United States, usually for a designated period of time.</p><p><a class="ck-anchor" id="footnote-15"></a><a class="ck-anchor" href="#footnotelink-15" title>[^ 15]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(12)</a>.</p><p><a class="ck-anchor" id="footnote-16"></a><a class="ck-anchor" href="#footnotelink-16" title>[^ 16]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(13)-(14)</a>.</p><p><a class="ck-anchor" id="footnote-17"></a><a class="ck-anchor" href="#footnotelink-17" title>[^ 17]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1806&amp;num=0&amp;edition=prelim">48 U.S.C. 1806(e)(6)(A)(iv)(V)-(VI)</a>.</p><p><a class="ck-anchor" id="footnote-18"></a><a class="ck-anchor" href="#footnotelink-18" title>[^ 18]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.13">8 CFR 274a.13</a>. For more information, see the Application for Employment Authorization (<a href="/i-765" data-entity-type="node" data-entity-uuid="983b2b27-2406-41b0-a21b-c5c916fc669c" data-entity-substitution="canonical">Form I-765</a>) webpage.</p><p><a class="ck-anchor" id="footnote-19"></a><a class="ck-anchor" href="#footnotelink-19" title>[^ 19]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)</a>.</p><p><a class="ck-anchor" id="footnote-20"></a><a class="ck-anchor" href="#footnotelink-20" title>[^ 20]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(1)</a>.</p><p><a class="ck-anchor" id="footnote-21"></a><a class="ck-anchor" href="#footnotelink-21" title>[^ 21]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(2)</a>.</p><p><a class="ck-anchor" id="footnote-22"></a><a class="ck-anchor" href="#footnotelink-22" title>[^ 22]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(5)</a>.</p><p><a class="ck-anchor" id="footnote-23"></a><a class="ck-anchor" href="#footnotelink-23" title>[^ 23]</a> Aliens from the Federated States of Micronesia (FSM) or Republic of the Marshall Islands (RMI) admitted as nonimmigrants and who have an FSM or RMI passport might not need to apply for a document evidencing employment authorization. These individuals may present their passport, along with a Form I-94 or Form I-94A, as evidence of both identity and employment authorization. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-A/section-274a.2">8 CFR 274a.2(b)(1)(v)(A)(6)</a>.</p><p><a class="ck-anchor" id="footnote-24"></a><a class="ck-anchor" href="#footnotelink-24" title>[^ 24]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(9)</a>.</p><p><a class="ck-anchor" id="footnote-25"></a><a class="ck-anchor" href="#footnotelink-25" title>[^ 25]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(16)</a>.</p><p><a class="ck-anchor" id="footnote-26"></a><a class="ck-anchor" href="#footnotelink-26" title>[^ 26]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1184&amp;num=0&amp;edition=prelim">INA 214(e)(2)</a>. As of January 30, 2022, an unexpired Form I-94 notated with E-1S, E-2S, or E-3S nonimmigrant status is acceptable as evidence of employment authorization for dependent spouses under <a href="/i-9-central/form-i-9-acceptable-documents" data-entity-type="node" data-entity-uuid="c1a9bc2d-ac18-46a7-8310-00885523da05" data-entity-substitution="canonical">List C of Form I-9</a>. Form I-94 for dependents solely notated with E-1, E-2, E-2C, E-3, E-3D, or E-3R nonimmigrant status is insufficient to evidence employment authorization. Not all spouses of principal E nonimmigrants are considered employment authorized incident to status; exceptions apply. For more information, see Part B, Specific Categories, Chapter 2, Employment Authorization for Certain H-4, E, and L Nonimmigrant Dependent Spouses [<a href="/policy-manual/volume-10-part-b-chapter-2" data-entity-type="node" data-entity-uuid="f9337b40-8615-4c89-b320-ccd08176cd44" data-entity-substitution="canonical">10 USCIS-PM B.2</a>].</p><p><a class="ck-anchor" id="footnote-27"></a><a class="ck-anchor" href="#footnotelink-27" title>[^ 27]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1184&amp;num=0&amp;edition=prelim">INA 214(c)(2)(E)</a>. As of January 30, 2022, an unexpired Form I-94 notated with L-2S nonimmigrant status is acceptable as evidence of employment authorization for dependent spouses under List C of Form I-9. Form I-94 for dependents solely notated with L-2 nonimmigrant status is insufficient to evidence employment authorization. For more information, see Part B, Specific Categories, Chapter 2, Employment Authorization for Certain H-4, E, and L Nonimmigrant Dependent Spouses [<a href="/policy-manual/volume-10-part-b-chapter-2" data-entity-type="node" data-entity-uuid="f9337b40-8615-4c89-b320-ccd08176cd44" data-entity-substitution="canonical">10 USCIS-PM B.2</a>].</p><p><a class="ck-anchor" id="footnote-28"></a><a class="ck-anchor" href="#footnotelink-28" title>[^ 28]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(19)</a>.</p><p><a class="ck-anchor" id="footnote-29"></a><a class="ck-anchor" href="#footnotelink-29" title>[^ 29]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(a)(20)</a>. For guidance USCIS has given regarding acceptable DHS-issued evidence of employment authorization that U derivative employees may present to their employers completing Form I-9, see <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/78-t-and-u-nonimmigrant-status" data-entity-type="node" data-entity-uuid="003d9520-7a58-4015-b00a-ece9045601ea" data-entity-substitution="canonical">Handbook for Employers (M-274), Section 7.8, T and U Nonimmigrant Status</a>.</p><p><a class="ck-anchor" id="footnote-30"></a><a class="ck-anchor" href="#footnotelink-30" title>[^ 30]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324a&amp;num=0&amp;edition=prelim">INA 274A(b)</a>. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.2">8 CFR 274a.2</a>.</p><p><a class="ck-anchor" id="footnote-31"></a><a class="ck-anchor" href="#footnotelink-31" title>[^ 31]</a> For guidance USCIS has provided to employers regarding these documents as acceptable DHS-issued evidence of employment authorization for Form I-9 completion, see <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/71-lawful-permanent-residents-lpr" data-entity-type="node" data-entity-uuid="2e6da69d-df91-4644-a73d-d826dbcaef75" data-entity-substitution="canonical">Handbook for Employers (M-274), Section 7.1, Lawful Permanent Residents (LPR)</a>.</p><p><a class="ck-anchor" id="footnote-32"></a><a class="ck-anchor" href="#footnotelink-32" title>[^ 32]</a> This does not apply to dependents (including spouses) of Employees of the Taipei Economic and Cultural Representative Office (TECRO) and Taipei Economic and Cultural Offices (TECO), who continue to be required to apply for employment authorization per <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(2)</a>. Further, this does not apply to spouses of Long-Term Investors in the Commonwealth of the Northern Mariana Islands (E-2 CNMI Investors) who are also required to apply for employment authorization per <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(12)</a>. Additionally, as noted in <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2">8 CFR 214.2(e)(23)(x)(B)</a>, spouses of E-2 CNMI investors who obtained such status based upon a Foreign Retiree Investment Certificate are not eligible for work authorization.</p><p><a class="ck-anchor" id="footnote-33"></a><a class="ck-anchor" href="#footnotelink-33" title>[^ 33]</a> For more information on Form I-94, see Volume 11, Travel and Identity Documents, Part F, Arrival-Departure Records [<a href="/policy-manual/volume-11-part-f" data-entity-type="node" data-entity-uuid="2189f379-88aa-44d4-b913-775b337bae43" data-entity-substitution="canonical">11 USCIS-PM F</a>].</p><p><a class="ck-anchor" id="footnote-34"></a><a class="ck-anchor" href="#footnotelink-34" title>[^ 34]</a> In some situations, DHS has designated certain Forms I-94 as evidence of employment eligibility. For guidance USCIS has given employers regarding this document as acceptable DHS-issued evidence of employment authorization for Form I-9 completion, see <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/73-refugees-and-asylees" data-entity-type="node" data-entity-uuid="90ab6887-bb84-4063-aac9-eaf856e5e489" data-entity-substitution="canonical">Handbook for Employers (M-274), Section 7.3, Refugees and Asylees</a>, <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/78-t-and-u-nonimmigrant-status" data-entity-type="node" data-entity-uuid="003d9520-7a58-4015-b00a-ece9045601ea" data-entity-substitution="canonical">Section 7.8, T and U Nonimmigrant Status</a>, <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/79-other-temporary-workers" data-entity-type="node" data-entity-uuid="83010dbe-8450-456b-9855-998c84b84bae" data-entity-substitution="canonical">Section 7.9, Other Temporary Workers</a>, and  <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/130-acceptable-documents-for-verifying-employment-authorization-and-identity" data-entity-type="node" data-entity-uuid="88437dc8-7d1b-4bba-8401-b7ee6455f7af" data-entity-substitution="canonical">Section 13.0, Acceptable Documents for Verifying Employment Authorization and Identity</a>.</p><p><a class="ck-anchor" id="footnote-35"></a><a class="ck-anchor" href="#footnotelink-35" title>[^ 35]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-A/section-274a.2">8 CFR 274a.2(b)(1)(v)</a>. For guidance USCIS has given employers regarding the acceptable documents to establish identity and employment authorization for Form I-9 completion, see <a href="/i-9-central/form-i-9-resources/handbook-for-employers-m-274/130-acceptable-documents-for-verifying-employment-authorization-and-identity" data-entity-type="node" data-entity-uuid="88437dc8-7d1b-4bba-8401-b7ee6455f7af" data-entity-substitution="canonical">Handbook for Employers (M-274), Section 13.0, Acceptable Documents for Verifying Employment Authorization and Identity</a>.</p><p><a class="ck-anchor" id="footnote-36"></a><a class="ck-anchor" href="#footnotelink-36" title>[^ 36]</a> For example, LPRs, lawful temporary residents, affirmative asylees, trafficking victims (T-1 nonimmigrants), and crime victims (U-1 nonimmigrants) do not need to file Form I-765 to receive an EAD.</p><p><a class="ck-anchor" id="footnote-37"></a><a class="ck-anchor" href="#footnotelink-37" title>[^ 37]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)</a>.</p><p><a class="ck-anchor" id="footnote-38"></a><a class="ck-anchor" href="#footnotelink-38" title>[^ 38]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(1)-(2)</a>.</p><p><a class="ck-anchor" id="footnote-39"></a><a class="ck-anchor" href="#footnotelink-39" title>[^ 39]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(3)</a>.</p><p><a class="ck-anchor" id="footnote-40"></a><a class="ck-anchor" href="#footnotelink-40" title>[^ 40]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(5)</a>. </p><p><a class="ck-anchor" id="footnote-41"></a><a class="ck-anchor" href="#footnotelink-41" title>[^ 41]</a>For information concerning the employment of F students, see Volume 2, Nonimmigrants, Part F, Students (F, M), Chapter 6, Employment [<a href="/policy-manual/volume-2-part-f-chapter-6" data-entity-type="node" data-entity-uuid="4efba6a7-a0e8-4359-8cbf-aa1ca877213f" data-entity-substitution="canonical">2 USCIS-PM F.6</a>].</p><p><a class="ck-anchor" id="footnote-42"></a><a class="ck-anchor" href="#footnotelink-42" title>[^ 42]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(3)(i)(C)</a>.</p><p><a class="ck-anchor" id="footnote-43"></a><a class="ck-anchor" href="#footnotelink-43" title>[^ 43]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(3)(i)(B)</a>.</p><p><a class="ck-anchor" id="footnote-44"></a><a class="ck-anchor" href="#footnotelink-44" title>[^ 44]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2">8 CFR 214.2(f)(5)(vi)</a>. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(6)</a>.</p><p><a class="ck-anchor" id="footnote-45"></a><a class="ck-anchor" href="#footnotelink-45" title>[^ 45]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(7)</a>.</p><p><a class="ck-anchor" id="footnote-46"></a><a class="ck-anchor" href="#footnotelink-46" title>[^ 46]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(8)</a>.</p><p><a class="ck-anchor" id="footnote-47"></a><a class="ck-anchor" href="#footnotelink-47" title>[^ 47]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(9)</a>.</p><p><a class="ck-anchor" id="footnote-48"></a><a class="ck-anchor" href="#footnotelink-48" title>[^ 48]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(10)</a>.</p><p><a class="ck-anchor" id="footnote-49"></a><a class="ck-anchor" href="#footnotelink-49" title>[^ 49]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(11)</a>.</p><p><a class="ck-anchor" id="footnote-50"></a><a class="ck-anchor" href="#footnotelink-50" title>[^ 50]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(12)</a>.</p><p><a class="ck-anchor" id="footnote-51"></a><a class="ck-anchor" href="#footnotelink-51" title>[^ 51]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(13)</a>.</p><p><a class="ck-anchor" id="footnote-52"></a><a class="ck-anchor" href="#footnotelink-52" title>[^ 52]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(14)</a>.</p><p><a class="ck-anchor" id="footnote-53"></a><a class="ck-anchor" href="#footnotelink-53" title>[^ 53]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(15)</a>.</p><p><a class="ck-anchor" id="footnote-54"></a><a class="ck-anchor" href="#footnotelink-54" title>[^ 54]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(16)</a>.</p><p><a class="ck-anchor" id="footnote-55"></a><a class="ck-anchor" href="#footnotelink-55" title>[^ 55]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(17)</a>.</p><p><a class="ck-anchor" id="footnote-56"></a><a class="ck-anchor" href="#footnotelink-56" title>[^ 56]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(18)</a>.</p><p><a class="ck-anchor" id="footnote-57"></a><a class="ck-anchor" href="#footnotelink-57" title>[^ 57]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(19)</a>.</p><p><a class="ck-anchor" id="footnote-58"></a><a class="ck-anchor" href="#footnotelink-58" title>[^ 58]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2">8 CFR 214.2(h)(1)(ii)(C)</a>.</p><p><a class="ck-anchor" id="footnote-59"></a><a class="ck-anchor" href="#footnotelink-59" title>[^ 59]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(21)</a>.</p><p><a class="ck-anchor" id="footnote-60"></a><a class="ck-anchor" href="#footnotelink-60" title>[^ 60]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(22)</a>.</p><p><a class="ck-anchor" id="footnote-61"></a><a class="ck-anchor" href="#footnotelink-61" title>[^ 61]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(23)</a>.</p><p><a class="ck-anchor" id="footnote-62"></a><a class="ck-anchor" href="#footnotelink-62" title>[^ 62]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(25)</a>.</p><p><a class="ck-anchor" id="footnote-63"></a><a class="ck-anchor" href="#footnotelink-63" title>[^ 63]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(37)</a>.</p><p><a class="ck-anchor" id="footnote-64"></a><a class="ck-anchor" href="#footnotelink-64" title>[^ 64]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.1">8 CFR 214.1(e)</a>. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-212/section-212.19">8 CFR 212.19(g)</a>.</p><p><a class="ck-anchor" id="footnote-65"></a><a class="ck-anchor" href="#footnotelink-65" title>[^ 65]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(20)</a>.</p><p><a class="ck-anchor" id="footnote-66"></a><a class="ck-anchor" href="#footnotelink-66" title>[^ 66]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)</a>. <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)</a> may not be comprehensive. Other authorities may exist for some categories of aliens whom USCIS may authorize to work in the United States following an application for and approval of employment authorization. For example, see <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154&amp;num=0&amp;edition=prelim">INA 204(a)(1)(K)</a> (Violence Against Women Act self-petitioners).</p><p><a class="ck-anchor" id="footnote-67"></a><a class="ck-anchor" href="#footnotelink-67" title>[^ 67]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(1)</a>.</p><p><a class="ck-anchor" id="footnote-68"></a><a class="ck-anchor" href="#footnotelink-68" title>[^ 68]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(2)</a>.</p><p><a class="ck-anchor" id="footnote-69"></a><a class="ck-anchor" href="#footnotelink-69" title>[^ 69]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(3)</a>. For information concerning the employment of F students, see Volume 2, Nonimmigrants, Part F, Students (F, M), Chapter 6, Employment [<a href="/policy-manual/volume-2-part-f-chapter-6" data-entity-type="node" data-entity-uuid="4efba6a7-a0e8-4359-8cbf-aa1ca877213f" data-entity-substitution="canonical">2 USCIS-PM F.6</a>].</p><p><a class="ck-anchor" id="footnote-70"></a><a class="ck-anchor" href="#footnotelink-70" title>[^ 70]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(4)</a>.</p><p><a class="ck-anchor" id="footnote-71"></a><a class="ck-anchor" href="#footnotelink-71" title>[^ 71]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(5)</a>.</p><p><a class="ck-anchor" id="footnote-72"></a><a class="ck-anchor" href="#footnotelink-72" title>[^ 72]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(6)</a>. For information concerning the employment of M students, see Volume 2, Nonimmigrants, Part F, Students (F,M), Chapter 6, Employment [<a href="/policy-manual/volume-2-part-f-chapter-6" data-entity-type="node" data-entity-uuid="4efba6a7-a0e8-4359-8cbf-aa1ca877213f" data-entity-substitution="canonical">2 USCIS-PM F.6</a>].</p><p><a class="ck-anchor" id="footnote-73"></a><a class="ck-anchor" href="#footnotelink-73" title>[^ 73]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(7)</a>.</p><p><a class="ck-anchor" id="footnote-74"></a><a class="ck-anchor" href="#footnotelink-74" title>[^ 74]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(8)</a>.</p><p><a class="ck-anchor" id="footnote-75"></a><a class="ck-anchor" href="#footnotelink-75" title>[^ 75]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(9)</a>.</p><p><a class="ck-anchor" id="footnote-76"></a><a class="ck-anchor" href="#footnotelink-76" title>[^ 76]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(10)</a>.</p><p><a class="ck-anchor" id="footnote-77"></a><a class="ck-anchor" href="#footnotelink-77" title>[^ 77]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(11)</a>. However, entrepreneurs paroled under <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-212/section-212.19">8 CFR 212.19</a> are employment authorized with a specific employer incident to their parole. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(b)(37)</a>. In addition, USCIS has decided as a matter of policy to provide the benefit of employment authorization incident to parole akin to what is normally accorded to refugees (as well as a no-fee initial and replacement of an initial Employment Authorization Document) to certain Afghan parolees and certain Ukrainian parolees so that they receive similar treatment as refugees, which aligns with the spirit of legislation that states that certain Afghan parolees and certain Ukrainian parolees “shall be eligible for . . . other benefits available to refugees . . . .” See Section 2502(b) of the Extending Government Funding and Delivering Emergency Assistance Act, <a href="https://www.govinfo.gov/content/pkg/PLAW-117publ43/pdf/PLAW-117publ43.pdf">Pub. L. 117-43  (PDF)</a>, 135 Stat. 344, 377 (September 30, 2021), amended by Section 1501 of Division M of the Consolidated Appropriations Act of 2023, <a href="https://www.govinfo.gov/content/pkg/PLAW-117publ328/pdf/PLAW-117publ328.pdf">Pub. L. 117-328  (PDF)</a>, 136 Stat. 4459, 5189 (December 29, 2022), and Section 401(b) of the Additional Ukraine Supplemental Appropriations Act, <a href="https://www.govinfo.gov/content/pkg/PLAW-117publ128/pdf/PLAW-117publ128.pdf">Pub. L. 117-128  (PDF)</a>, 136 Stat. 1211, 1218 (May 21, 2022).</p><p><a class="ck-anchor" id="footnote-78"></a><a class="ck-anchor" href="#footnotelink-78" title>[^ 78]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(12)</a>.</p><p><a class="ck-anchor" id="footnote-79"></a><a class="ck-anchor" href="#footnotelink-79" title>[^ 79]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(14)</a>.</p><p><a class="ck-anchor" id="footnote-80"></a><a class="ck-anchor" href="#footnotelink-80" title>[^ 80]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(16)</a>.</p><p><a class="ck-anchor" id="footnote-81"></a><a class="ck-anchor" href="#footnotelink-81" title>[^ 81]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(17)</a>.</p><p><a class="ck-anchor" id="footnote-82"></a><a class="ck-anchor" href="#footnotelink-82" title>[^ 82]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(17)(i)</a>.</p><p><a class="ck-anchor" id="footnote-83"></a><a class="ck-anchor" href="#footnotelink-83" title>[^ 83]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(17)(ii)</a>.</p><p><a class="ck-anchor" id="footnote-84"></a><a class="ck-anchor" href="#footnotelink-84" title>[^ 84]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(17)(iii)</a>.</p><p><a class="ck-anchor" id="footnote-85"></a><a class="ck-anchor" href="#footnotelink-85" title>[^ 85]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(18)</a>.</p><p><a class="ck-anchor" id="footnote-86"></a><a class="ck-anchor" href="#footnotelink-86" title>[^ 86]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(19)</a>.</p><p><a class="ck-anchor" id="footnote-87"></a><a class="ck-anchor" href="#footnotelink-87" title>[^ 87]</a> Under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1160&amp;num=0&amp;edition=prelim">INA 210</a>. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(20)</a>.</p><p><a class="ck-anchor" id="footnote-88"></a><a class="ck-anchor" href="#footnotelink-88" title>[^ 88]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(21)</a>.</p><p><a class="ck-anchor" id="footnote-89"></a><a class="ck-anchor" href="#footnotelink-89" title>[^ 89]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(22)</a>.</p><p><a class="ck-anchor" id="footnote-90"></a><a class="ck-anchor" href="#footnotelink-90" title>[^ 90]</a> See Title XI of <a href="https://www.govinfo.gov/content/pkg/PLAW-106publ553/pdf/PLAW-106publ553.pdf">Pub. L. 106-553  (PDF)</a> (December 21, 2000). See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(24)</a>.</p><p><a class="ck-anchor" id="footnote-91"></a><a class="ck-anchor" href="#footnotelink-91" title>[^ 91]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(25)</a>.</p><p><a class="ck-anchor" id="footnote-92"></a><a class="ck-anchor" href="#footnotelink-92" title>[^ 92]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(26)</a>.</p><p><a class="ck-anchor" id="footnote-93"></a><a class="ck-anchor" href="#footnotelink-93" title>[^ 93]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154&amp;num=0&amp;edition=prelim">INA 204(a)(1)(K)</a>. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154&amp;num=0&amp;edition=prelim">INA 204(a)(1)(D)(i)(II)</a>. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154&amp;num=0&amp;edition=prelim">INA 204(a)(1)(D)(i)(IV)</a>. See Title IV of the Violent Crime Control and Law Enforcement Act of 1994, <a href="https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg1796.pdf">Pub. L. 103-322  (PDF)</a>, 108 Stat. 1796, 1902 (September 13, 1994) as amended by Title V of the Victims of Trafficking and Violence Protection Act of 2000, <a href="https://www.govinfo.gov/content/pkg/PLAW-106publ386/pdf/PLAW-106publ386.pdf">Pub. L. 106-386  (PDF)</a>, 114 Stat. 1464, 1518 (October 28, 2000) and Title VIII of the Violence Against Women and Department of Justice Reauthorization Act of 2005, <a href="https://www.govinfo.gov/content/pkg/STATUTE-119/pdf/STATUTE-119-Pg2960.pdf">Pub. L. 109-162  (PDF)</a>, 119 Stat. 2960, 3053 (January 5, 2006) (providing self-petitioners eligibility for employment authorization).</p><p><a class="ck-anchor" id="footnote-94"></a><a class="ck-anchor" href="#footnotelink-94" title>[^ 94]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(34)</a>. See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-212/section-212.19">8 CFR 212.19(h)(3)</a>.</p><p><a class="ck-anchor" id="footnote-95"></a><a class="ck-anchor" href="#footnotelink-95" title>[^ 95]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(35)</a>.</p><p><a class="ck-anchor" id="footnote-96"></a><a class="ck-anchor" href="#footnotelink-96" title>[^ 96]</a> See <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.12">8 CFR 274a.12(c)(36)</a>.</p></div>
+      
+  </div>
+
+  <div id="resources" class="tabcontent tabcontent--resources hidden">
+    <h2>Resources</h2>
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Legal Authorities</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-9b8218c7aa5f7978ac250acac9218175e36137c4eac49f1738c55bb7c2484100 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B">8 CFR 274a Subpart B</a> - Employment authorization</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-B/section-274a.13">8 CFR 274a.13</a> - Application for employment authorization</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1103&amp;num=0&amp;edition=prelim">INA 103</a>, <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-103">8 CFR 103</a> - Powers and duties of the Secretary, the Under Secretary, and the Attorney General</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324a&amp;num=0&amp;edition=prelim">INA 274A</a> - Unlawful employment of aliens</p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Forms</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-d8a5ca68fb8bddb109559ac8471f322db3545ab57cc127848bd7ca6aab74d887 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/ar-11">AR-11, Change of Address</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/g-1055" data-entity-type="node" data-entity-uuid="944bb8d1-cae6-467c-96b4-979e03f8ca66" data-entity-substitution="canonical">G-1055, Fee Schedule</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/node/41152">G-28, Notice of Entry of Appearance as Attorney or Accredited Representative</a></p>
+</div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/i-765">I-765, Application for Employment Authorization</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/i-9">I-9, Employment Eligibility Verification</a></p></div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Other Materials</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-2aa0cd100fb3fd776d2faa97e1245080e1c804840cd319301046d915ebcd1dc4 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="837656db-38a5-4ce9-a548-27a2b09d6b57" data-lang="en" href="/sites/default/files/document/policy-manual-resources/HowToUseTheUSCISPolicyManualWebsite.pdf" type="application/pdf; length=3130835">How to Use the USCIS Policy Manual Website</a></p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+  </div>
+
+  <div id="appendices" class="tabcontent tabcontent--appendices hidden">
+    <div class="pm-resource__container">
+      <h2>Appendices</h2>
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-2 pm-resources-block_2 js-view-dom-id-9ce93089f25cd7a141365df206756b627d02d4065a4996a96740acd9d1047157 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="pm-resources empty"><p>No <em class="placeholder">appendices</em> available at this time.</p></div>
+  
+  
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="updates" class="tabcontent tabcontent--updates hidden">
+    <h2>Updates</h2>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-3 pm-resources-block_3 js-view-dom-id-d183124e8846275e5a3593ef929f0312c01d3169e50eeb6f8b1da5eba4c0f217 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term "Noncitizen"</div>
+    <div><br><time datetime="2025-02-26T12:00:00Z" class="datetime">February 26, 2025</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-d78541fdfe5128fea7f1a2aa7015f0301ab8794992f2041934ec181524ffe07f hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Employment Authorization Document Validity Period for Certain Categories</div>
+    <div><br><time datetime="2023-09-27T12:00:00Z" class="datetime">September 27, 2023</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual regarding maximum validity periods for Employment Authorization Documents (EADs, Form I-766) issued to refugees and asylees, noncitizens paroled as refugees, noncitizens granted withholding of removal, noncitizens with pending applications for asylum or withholding of removal, noncitizens with pending applications for adjustment of status under INA 245, and noncitizens seeking suspension of deportation or cancellation of removal. USCIS is also clarifying that the Arrival/Departure Record (Form I-94) may be used as evidence of both status and employment authorization for certain EAD categories that are employment authorized incident to status or parole.</p>
+</div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20230927-EmploymentAuthorizationValidity.pdf" title="Select to read more about Employment Authorization Document Validity Period for Certain Categories" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-1315c996ff57dd391cd9f1ee632204362c4cffcd2416a419057be99febfdac45 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-3-part-f-chapter-1"><span class="citation">3 USCIS-PM F.1</span> - <span>Chapter 1 - Purpose and Background</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10-part-a-chapter-2"><span class="citation">10 USCIS-PM A.2</span> - <span>Chapter 2 - Eligibility Requirements</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10-part-a-chapter-4"><span class="citation">10 USCIS-PM A.4</span> - <span>Chapter 4 - Adjudication</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Documentation of Employment Authorization for Certain E and L Nonimmigrant Dependent Spouses</div>
+    <div><br><time datetime="2022-03-18T12:00:00Z" class="datetime">March 18, 2022</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to address the documentation that certain E and L spouses may use as evidence of employment authorization incident to their status.</p>
+</div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20220318-EmploymentAuthorization.pdf" title="Select to read more about Documentation of Employment Authorization for Certain E and L Nonimmigrant Dependent Spouses" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-09900dd333c113c8e914f37ab8d37bdfcf139e52e94a02c317701ed0af8cad35 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-10-part-a-chapter-2"><span class="citation">10 USCIS-PM A.2</span> - <span>Chapter 2 - Eligibility Requirements</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10-part-b-chapter-2"><span class="citation">10 USCIS-PM B.2</span> - <span>Chapter 2 - Employment Authorization for Certain H-4, E, and L Nonimmigrant Dependent Spouses</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Alien”</div>
+    <div><br><time datetime="2021-05-11T12:00:00Z" class="datetime">May 11, 2021</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-04686db9bdbf84cd119b8aa9d2e5518d878718071df073054df2c6567029da52 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Applications for Discretionary Employment Authorization Involving Certain Adjustment Applications or Deferred Action</div>
+    <div><br><time datetime="2021-01-14T12:00:00Z" class="datetime">January 14, 2021</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is providing policy guidance in the USCIS Policy Manual regarding applications for discretionary employment authorization based on 8 CFR 274a.12(c)(9) (pending application for adjustment of status under INA 245) or 8 CFR 274a.12(c)(14) (grant of deferred action). USCIS is also providing guidance outlining the categories of aliens eligible for discretionary employment authorization.</p>
+</div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20210114-DiscretionaryEADForAOSAndDA.pdf" title="Select to read more about Applications for Discretionary Employment Authorization Involving Certain Adjustment Applications or Deferred Action" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-a88a1b686d247a5835e67854d398e9d79cb9352af70f5f1fe32744e7dc2ecedf hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-10-part-a"><span class="citation">10 USCIS-PM A</span> - <span>Part A - Employment Authorization Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10-part-b"><span class="citation">10 USCIS-PM B</span> - <span>Part B - Specific Categories</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Foreign National”</div>
+    <div><br><time datetime="2019-10-08T12:00:00Z" class="datetime">October 08, 2019</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-d6520a7884faa1a78f1b7d01c4a54264051a1a091d6cbf543d39f6128ee5ade7 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</section>
+
+  <span id="hidden-resources" class="hidden"></span>
+  <span id="hidden-appendices" class="hidden"></span>
+  <span id="hidden-updates" class="hidden"></span>
+  <span id="hidden-versions" class="hidden">0</span>
+
+
+  <nav class="nav-sub-tree" aria-labelledby="nav-sub-tree-label">
+    <div class="visually-hidden" id="nav-sub-tree-label">Page sub tree links</div>
+        
+  </nav>
+
+          <div class="current-date"><span class="current-date__label">Current as of</span><span class="current-date__value"> October 20, 2025</span></div>
+  
+        <div class="prev-next">
+          <div class="previous-container">
+        <a href="/policy-manual/volume-10-part-a-chapter-1" id="previous-button" class="usa-button" rel="prev" title="Go to previous page">Previous</a>
+      </div>
+              <div class="next-container">
+        <a href="/policy-manual/volume-10-part-a-chapter-4" id="next-button" class="usa-button" rel="next" title="Go to next page">Next</a>
+      </div>
+        </div>
+  
+      
+  
+        </div>
+      
+                </div>
+  
+  
+    
+  </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/policy-manual/volume-10-part-a-chapter-2" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="89026" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="89026" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="89026" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-rzxkco0qxctvltgevxiuzsqzx1-vhl-9hupdrzptve0" type="hidden" name="form_build_id" value="form-RzXkCO0QxCtVLtgEVXiuZSQZx1-VHl_9HUPdRZPtVE0"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="89026" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_f7zHONM931Ca8gnbX5D2rr4I9JXY3squQ33IJRVWJ9I.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_z29Okdt7hgaFcU0AxeQoxu6Pn68RoUSKbTmlZ77r4_o.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+
+  </body>

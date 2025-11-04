@@ -1,0 +1,1326 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+      
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+    <nav aria-labelledby="block-uscis-design-mainnavigation-menu" id="block-uscis-design-mainnavigation">
+            
+  <div class="visually-hidden" id="block-uscis-design-mainnavigation-menu">Main navigation</div>
+  
+
+        
+<a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+
+      <ul class="menu--main leftnav-menu" data-level="0">
+          <li class="menu__item-title leftnav-menu__item leftnav-menu__item--0 has-sub-items" data-id="id12926"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/tools" class="leftnav-menu__link leftnav-menu__title" data-drupal-link-system-path="node/50433">Tools</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Tools" aria-controls="id12926" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="id12926"><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id42111"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/alienregistration" class="leftnav-menu__link" data-drupal-link-system-path="node/99098">Alien Registration Requirement</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id42151"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/projecthomecoming" class="leftnav-menu__link" data-drupal-link-system-path="node/99738">Project Homecoming</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id34210"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/uscis-tools-and-resources" class="leftnav-menu__link" data-drupal-link-system-path="node/88549">USCIS Tools and Resources</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for USCIS Tools and Resources" aria-controls="id34210" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id34210"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41096"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/uscis-tools-and-resources/immigration-documents-and-how-to-correct-update-or-replace-them" class="leftnav-menu__link" data-drupal-link-system-path="node/94573">Immigration Documents and How to Correct, Update, or Replace Them</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41579"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="leftnav-menu__link" data-drupal-link-system-path="node/96434">Online Account and Technical Support</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id33847"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/multilingual-resource-center" class="leftnav-menu__link" data-drupal-link-system-path="node/41887">Multilingual Resource Center</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13035"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/designated-civil-surgeons" class="leftnav-menu__link" data-drupal-link-system-path="node/41839">Designated Civil Surgeons</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Designated Civil Surgeons" aria-controls="id13035" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13035"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41160"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/find-a-civil-surgeon" class="leftnav-menu__link" data-drupal-link-system-path="node/94969">Find a Civil Surgeon</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25818"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/designated-civil-surgeons/vaccination-requirements" class="leftnav-menu__link" data-drupal-link-system-path="node/43740">Vaccination Requirements</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id13245"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/employers/how-do-i-guides-for-employers" class="leftnav-menu__link" data-drupal-link-system-path="node/45434">Employers</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id12918"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/a-z-index" class="leftnav-menu__link" data-drupal-link-system-path="node/48452">A-Z Index</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id13038"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/glossary" class="leftnav-menu__link" data-drupal-link-system-path="node/50660">Glossary</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items leftnav-menu__active-trail" data-id="id34042"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="leftnav-menu__link" data-drupal-link-system-path="node/67825">Immigration and Citizenship Data</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Immigration and Citizenship Data" aria-controls="id34042" aria-expanded="true" role="button"><i class="fas fa-chevron-up"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2" data-level="2" id="id34042"><li class="leftnav-menu__item leftnav-menu__item--2 leftnav-menu__active-trail" data-id="id13048"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies" class="leftnav-menu__link" data-drupal-link-system-path="node/42283">Reports and Studies</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id24415"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/h-1b-employer-data-hub" class="leftnav-menu__link" data-drupal-link-system-path="node/73350">H-1B Employer Data Hub</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for H-1B Employer Data Hub" aria-controls="id24415" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id24415"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id40909"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/h-1b-employer-data-hub-files" class="leftnav-menu__link" data-drupal-link-system-path="node/73915">H-1B Employer Data Hub Files</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id40910"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/h-1b-employer-data-hub/understanding-our-h-1b-employer-data-hub" class="leftnav-menu__link" data-drupal-link-system-path="node/73914">Understanding Our H-1B Employer Data Hub</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id40887"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/h-2a-employer-data-hub" class="leftnav-menu__link" data-drupal-link-system-path="node/93528">H-2A Employer Data Hub</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for H-2A Employer Data Hub" aria-controls="id40887" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id40887"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id40890"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/h-2a-employer-data-hub-files" class="leftnav-menu__link" data-drupal-link-system-path="node/93547">H-2A Employer Data Hub Files</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id40895"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/h-2a-employer-data-hub/understanding-our-h-2a-employer-data-hub" class="leftnav-menu__link" data-drupal-link-system-path="node/93558">Understanding our H-2A Employer Data Hub</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id39356"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/h-2b-employer-data-hub" class="leftnav-menu__link" data-drupal-link-system-path="node/92471">H-2B Employer Data Hub</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for H-2B Employer Data Hub" aria-controls="id39356" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id39356"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id39358"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/h-2b-employer-data-hub-files" class="leftnav-menu__link" data-drupal-link-system-path="node/92473">H-2B Employer Data Hub Files</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id39357"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/h-2b-employer-data-hub/understanding-our-h-2b-employer-data-hub" class="leftnav-menu__link" data-drupal-link-system-path="node/92472">Understanding our H-2B Employer Data Hub</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41130"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/immigration-and-citizenship-data/eligible-to-naturalize-dashboard" class="leftnav-menu__link" data-drupal-link-system-path="node/94744">Eligible to Naturalize Dashboard</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id39737"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/refugee-processing-data/refugee-processing-data" class="leftnav-menu__link" data-drupal-link-system-path="node/82228">Refugee Processing Data</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Refugee Processing Data" aria-controls="id39737" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id39737"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id39738"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/refugee-processing-data/fy2021-appropriations-reporting-requirement-refugee-data-fy2018-to-fy2021" class="leftnav-menu__link" data-drupal-link-system-path="node/92417">FY2021 APPROPRIATIONS REPORTING REQUIREMENT REFUGEE DATA – FY2018 TO FY2021</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41217"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/refugee-processing-data/fy2022-appropriations-reporting-requirement-refugee-data-fy2018-to-fy2021-update" class="leftnav-menu__link" data-drupal-link-system-path="node/95153">FY2022 APPROPRIATIONS REPORTING REQUIREMENT REFUGEE DATA – FY2018 TO FY2021 UPDATE</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id39739"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/refugee-processing-data/fy2020-appropriations-reportingrequirement-refugee-data-fy2016-to-fy2019" class="leftnav-menu__link" data-drupal-link-system-path="node/92399">FY2020 APPROPRIATIONS REPORTINGREQUIREMENT REFUGEE DATA –FY2016 TO FY2019</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25821"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/reports-and-studies/understanding-our-data" class="leftnav-menu__link" data-drupal-link-system-path="node/70904">Understanding Our Data</a></div></div></li></ul></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13050"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/resources-for-congress" class="leftnav-menu__link" data-drupal-link-system-path="node/41539">Resources for Congress</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Resources for Congress" aria-controls="id13050" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13050"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id33856"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/resources-for-congress/testimonies" class="leftnav-menu__link" data-drupal-link-system-path="node/34823">Testimonies</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id35431"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/tools/while-my-case-is-pending" class="leftnav-menu__link" data-drupal-link-system-path="node/46093">While My Case is Pending</a></div></div></li></ul></li>    
+    </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                            <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/tools">Tools</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/tools/reports-and-studies/immigration-and-citizenship-data">Immigration and Citizenship Data</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/tools/reports-and-studies">Reports and Studies</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Semi-Monthly Credible Fear and Reasonable Fear Receipts and Decisions</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-article">
+      <div class="container container--main">
+                
+
+                        
+            <h1 class="page-title js-page-title">
+              <span>Semi-Monthly Credible Fear and Reasonable Fear Receipts and Decisions</span>
+            </h1>
+          
+              
+                    
+      
+  <div>
+                      <div class="clearfix text-formatted field field--name-body field__item"><p>Showing number of cases received and number of cases completed by outcome per semi-monthly period (1st - 15th and 16th - end of month). Case receipts are grouped by date of receipt, decisions are grouped by date of completion.</p><h2>Data from January 1, 2024 to January 15, 2025</h2><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-1-1-24-to-1-15-25.xlsx" data-entity-type="media" data-entity-uuid="070e52ea-9dda-454d-90d6-aaf2e47a3a44" data-entity-substitution="media">Congressional Semi-Monthly Report - Jan. 1, 2024 to Jan. 15, 2025</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-1-1-24-to-1-15-25.csv" data-entity-type="media" data-entity-uuid="a3ca96a0-74b9-4f99-936a-205d54da8d9d" data-entity-substitution="media">Congressional Semi-Monthly Report - Jan. 1, 2024 to Jan. 15, 2025</a></li></ul><p>All credible fear and reasonable fear screening determinations were reviewed by either a supervisory asylum officer, occupational series 0930 or one of a small number of supervisory refugee officers, occupational series 1801, serving in the capacity of supervisory asylum officers. The supervisory refugee officers are either former asylum officers or have been trained and have experience consistent with the regulatory and statutory requirements to conduct reviews of these cases.</p><p>For more information on our reports, visit the <a href="/tools/reports-and-studies/understanding-our-data" data-entity-type="node" data-entity-uuid="461f044b-fe1f-407e-869d-a06882f6e6f0" data-entity-substitution="canonical">Understanding Our Data</a> page.</p><h2>Previous Reports</h2><div class="content-accordion"><h4 class="accordion__header" tabindex="0">2024</h4><div class="accordion__panel"><p><strong>December</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-12-01-23-to-12-15-24.xlsx" data-entity-type="media" data-entity-uuid="45ebeb60-64e8-4e07-9f35-0e793b974f5e" data-entity-substitution="media">Congressional Semi-Monthly Report - Dec. 1, 2023 to Dec. 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-12-01-23-to-12-15-24.csv" data-entity-type="media" data-entity-uuid="7afc27e2-9a48-482e-b950-b5bbdfdfe6a4" data-entity-substitution="media">Congressional Semi-Monthly Report - Dec. 1, 2023 to Dec. 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-12-16-23-to-12-31-24.xlsx" data-entity-type="media" data-entity-uuid="4ee2c54f-4ea4-47e8-90e9-2fcd2b7fa32a" data-entity-substitution="media">Congressional Semi-Monthly Report - Dec. 16, 2023 to Dec. 31, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-12-16-23-to-12-31-24.csv" data-entity-type="media" data-entity-uuid="31f0d736-7c5f-43c0-89b6-d9d53a95be53" data-entity-substitution="media">Congressional Semi-Monthly Report - Dec. 16, 2023 to Dec. 31, 2024</a></li></ul><p><strong>November</strong></p><ul><li><a href="/sites/default/files/document/charts/Congressional-Semi-Monthly-CF%26RF-Report-11-01-23-to-11-15-24.csv" data-entity-type="media" data-entity-uuid="60f00f3e-e3be-4394-bbee-b7f858d071da" data-entity-substitution="media">Congressional Semi-Monthly Report - Nov. 1, 2023 to Nov 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly-CF%26RF-Report-11-01-23-to-11-15-24.xlsx" data-entity-type="media" data-entity-uuid="f52aaac9-8c30-4d22-9291-212d6899cb80" data-entity-substitution="media">Congressional Semi-Monthly Report - Nov. 1, 2023 to Nov 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-11-16-23-to-11-30-24.csv" data-entity-type="media" data-entity-uuid="d77937b5-cd87-472e-b3d6-f0d1ce3eec2e" data-entity-substitution="media">Congressional Semi-Monthly Report - Nov. 16, 2023 to Nov 30, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-11-16-23-to-11-30-24.xlsx" data-entity-type="media" data-entity-uuid="a2013e38-e26e-401b-8c66-97e2bc91e6a5" data-entity-substitution="media">Congressional Semi-Monthly Report - Nov. 16, 2023 to Nov 30, 2024</a></li></ul><p><strong>October</strong></p><ul><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CFRF%20-Report-10-1-23-to%2010-15-24.csv" data-entity-type="media" data-entity-uuid="95acd734-f642-41bb-a6a5-a722f8b310b3" data-entity-substitution="media">Congressional Semi-Monthly Report - Oct. 1, 2023 to Oct. 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional%20Semi-Monthly%20Revised_100123_101624.xlsx" data-entity-type="media" data-entity-uuid="8992f645-2001-40bc-af41-7fbed17bff07" data-entity-substitution="media">Congressional Semi-Monthly Report - Oct. 1, 2023 to Oct. 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-10-16-23-to-10-31-24.xlsx" data-entity-type="media" data-entity-uuid="5fe7078d-f5d7-4dd8-8b12-b1c6b3b16ef9" data-entity-substitution="media">Congressional Semi-Monthly Report - Oct. 16, 2023 to Oct. 31, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-10-16-23-to-10-31-24.csv" data-entity-type="media" data-entity-uuid="3b50e8b0-e5dc-455b-bdc8-ce6a3b51a6b0" data-entity-substitution="media">Congressional Semi-Monthly Report - Oct. 16, 2023 to Oct. 31, 2024</a></li></ul><p><strong>September</strong></p><ul><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-9-1-23-to%209-15-24.csv" data-entity-type="media" data-entity-uuid="3d7cf8ce-b3f4-41c4-ba43-cb7b541a7c51" data-entity-substitution="media">Congressional Semi-Monthly Report - Sept. 1, 2023 to Sept. 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CFRF-Report-9-1-23-to%209-15-24.xlsx" data-entity-type="media" data-entity-uuid="9e8b9f65-cf1e-4bb5-a0bf-4e2c5c11c933" data-entity-substitution="media">Congressional Semi-Monthly Report - Sept. 1, 2023 to Sept. 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CFRF%20-Report-9-16-23-to%209-30-24.csv" data-entity-type="media" data-entity-uuid="02bcbef6-6379-4e43-975a-91329539d561" data-entity-substitution="media">Congressional Semi-Monthly Report - Sept. 16, 2023 to Sept. 30, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CFRF%20-Report-9-16-23-to%209-30-24.xlsx" data-entity-type="media" data-entity-uuid="0b0e4c72-be58-4e01-9bff-34e26cd99010" data-entity-substitution="media">Congressional Semi-Monthly Report - Sept. 16, 2023 to Sept. 30, 2024</a></li></ul><p><strong>August</strong></p><ul><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-8-1-23-to%208-15-24.csv" data-entity-type="media" data-entity-uuid="83b61453-ee83-4ba0-bee7-91b7720ae2e0" data-entity-substitution="media">Congressional Semi-Monthly Report - August  1, 2023 to August 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-8-1-23-to%208-15-24.xlsx" data-entity-type="media" data-entity-uuid="9515f29b-b64b-47ee-945c-0d284e922d05" data-entity-substitution="media">Congressional Semi-Monthly Report - August 1, 2023 to August 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-8-16-23-to%208-31-24.xlsx" data-entity-type="media" data-entity-uuid="30ba62f7-cfd8-43a3-b0dc-9ce5cb481d52" data-entity-substitution="media">Congressional Semi-Monthly Report - August  16, 2023 to August 31, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-8-16-23-to%208-31-24.csv" data-entity-type="media" data-entity-uuid="f0bdf963-1936-46c8-9a2f-5f8045fcb852" data-entity-substitution="media">Congressional Semi-Monthly Report - August  16, 2023 to August 31, 2024</a></li></ul><p><strong>July</strong></p><ul><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-7-1-23-to%207-15-24.xlsx" data-entity-type="media" data-entity-uuid="363ffeee-1496-4fc8-888c-559da6bba113" data-entity-substitution="media">Congressional Semi-Monthly Report - July 1, 2023 to July 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-7-1-23-to%207-15-24.csv" data-entity-type="media" data-entity-uuid="f9cefa84-bc60-4e74-873d-16c07052c649" data-entity-substitution="media">Congressional Semi-Monthly Report - July 1, 2023 to July 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-7-16-23-to%207-31-24.xlsx" data-entity-type="media" data-entity-uuid="3320067c-0632-40bf-bd18-55093bdb32cb" data-entity-substitution="media">Congressional Semi-Monthly Report - July 16, 2023 to July 31, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-7-16-23-to%207-31-24.csv" data-entity-type="media" data-entity-uuid="1cbc0569-51fd-423a-a109-14c4e7013b68" data-entity-substitution="media">Congressional Semi-Monthly Report - July 16, 2023 to July 31, 2024</a></li></ul><p><strong>June</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly%20CF%26RF%20-Report-6-1-23-to%206-15-24.csv" data-entity-type="media" data-entity-uuid="2d2e9375-f5d4-4cc3-ab69-2b4fb22843e4" data-entity-substitution="media">Congressional Semi-Monthly Report - June 1, 2023 to June 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly%20CF%26RF%20-Report-6-1-23-to%206-15-24.xlsx" data-entity-type="media" data-entity-uuid="4d084ef8-46cb-4631-831d-d9ed5e663138" data-entity-substitution="media">Congressional Semi-Monthly Report - June 1, 2023 to June 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-6-16-23-to%206-30-24.csv" data-entity-type="media" data-entity-uuid="72a0c78d-c58b-43dc-81c0-cf2a47f9f13b" data-entity-substitution="media">Congressional Semi-Monthly Report - June 16, 2023 to June 30, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-6-16-23-to%206-30-24.xlsx" data-entity-type="media" data-entity-uuid="ac89ae75-642a-4264-a712-07c79bdae839" data-entity-substitution="media">Congressional Semi-Monthly Report - June 16, 2023 to June 30, 2024</a></li></ul><p><strong>May</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-5-1-23-to-5-15-24.xlsx" data-entity-type="media" data-entity-uuid="f89dcb3e-ebee-4abf-970e-83933028afbb" data-entity-substitution="media">Congressional Semi-Monthly Report - May 1, 2023 - May 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-5-1-23-to-5-15-24.csv" data-entity-type="media" data-entity-uuid="78bf2427-6b84-480b-80ef-90b4470d8b59" data-entity-substitution="media">Congressional Semi-Monthly Report - May 1, 2023 - May 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-5-16-23-to%205-31-24.csv" data-entity-type="media" data-entity-uuid="9e4a2345-0a2c-4697-a3cc-706150bd3513" data-entity-substitution="media">Congressional Semi-Monthly Report - May 16, 2023 to May 31, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly%20CF%26RF%20-Report-5-16-23-to%205-31-24.xlsx" data-entity-type="media" data-entity-uuid="e7292555-ea21-4e89-8c41-5fb4d3f050c1" data-entity-substitution="media">Congressional Semi-Monthly Report - May 16, 2023 to May 31, 2024</a></li></ul><p><strong>April</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-04-01-23-to-04-15-24.xlsx" data-entity-type="media" data-entity-uuid="b02a6b74-2b82-4cf5-8f63-08dc22592897" data-entity-substitution="media">Congressional Semi-Monthly Report - April 1, 2023 - April 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-04-01-23-to-04-15-24.csv" data-entity-type="media" data-entity-uuid="7952686e-8708-4786-b023-16057487982e" data-entity-substitution="media">Congressional Semi-Monthly Report - April 1, 2023 - April 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-4-16-23-to-4-30-24.xlsx" data-entity-type="media" data-entity-uuid="690bdc8c-b98d-4aaa-b293-0cd278d66cec" data-entity-substitution="media">Congressional Semi-Monthly Report - April 16, 2023 - April 30, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-4-16-23-to-4-30-24.csv" data-entity-type="media" data-entity-uuid="edb401f6-0778-4c1e-8e66-efe1dfb88586" data-entity-substitution="media">Congressional Semi-Monthly Report - April 16, 2023 - April 30, 2024</a></li></ul><p><strong>March</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-03-01-23-to-03-15-24.csv" data-entity-type="media" data-entity-uuid="76280332-97c7-4bfd-9e93-933562159b7e" data-entity-substitution="media">Congressional Semi-Monthly Report - March 1, 2023 - March 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-03-01-23-to-03-15-24.xlsx" data-entity-type="media" data-entity-uuid="141bf47d-f3cc-4bf0-b023-506974fa5ce5" data-entity-substitution="media">Congressional Semi-Monthly Report - March 1, 2023 - March 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-03-16-23-to-03-31-24.csv" data-entity-type="media" data-entity-uuid="1f590f39-8360-4730-8ed4-8cd9d6f23497" data-entity-substitution="media">Congressional Semi-Monthly Report - March 15, 2023 - March 31, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-03-16-23-to-03-31-24.xlsx" data-entity-type="media" data-entity-uuid="98b2960f-39d1-4ceb-ba6c-c928e550a6bf" data-entity-substitution="media">Congressional Semi-Monthly Report - March 15, 2023 - March 31, 2024</a></li></ul><p><strong>February</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-02-01-23-to-02-15-24.xlsx" data-entity-type="media" data-entity-uuid="325232d7-ec7f-49e0-a2de-65c33fe5ee52" data-entity-substitution="media">Congressional Semi-Monthly Report - February 1, 2023 - February 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-02-01-23-to-02-15-24.csv" data-entity-type="media" data-entity-uuid="4ad15910-9ee8-4cf0-901e-be25d5efa3b5" data-entity-substitution="media">Congressional Semi-Monthly Report - February 1, 2023 - February 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-02-16-23-to-02-29-24.xlsx" data-entity-type="media" data-entity-uuid="2e6acc35-200e-4857-830e-b95e3fc7ff01" data-entity-substitution="media">Congressional Semi-Monthly Report - February 16, 2023 - February 29, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-02-16-23-to-02-29-24.csv" data-entity-type="media" data-entity-uuid="1cc1dec2-7056-480b-81f2-57a0631e0181" data-entity-substitution="media">Congressional Semi-Monthly Report - February 16, 2023 - February 29, 2024</a></li></ul><p><strong>January</strong></p><ul><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_CF%26RF_Report_01_01_23_to_01_15_24.xlsx" data-entity-type="media" data-entity-uuid="808b00ed-872a-4783-9e43-31fb6bad40d2" data-entity-substitution="media">Congressional Semi-Monthly Report - January 1, 2023 - January 15, 2024</a></li><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_CF%26RF_Report_01_01_23_to_01_15_24.csv" data-entity-type="media" data-entity-uuid="472d8712-f057-467f-9097-d0a007ed9b19" data-entity-substitution="media">Congressional Semi-Monthly Report - January 1, 2023 - January 15, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-1-16-23-to-1-31-24.xlsx" data-entity-type="media" data-entity-uuid="a99c3590-1c81-4342-9b85-fc56412016b4" data-entity-substitution="media" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=34206" data-lang="en">Congressional Semi-Monthly Report - January 16, 2023 - January 31, 2024</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-1-16-23-to-1-31-24.csv" data-entity-type="media" data-entity-uuid="016056e1-f52f-4227-888e-f0b66d87aabf" data-entity-substitution="media" type="text/csv; length=16628" data-lang="en">Congressional Semi-Monthly Report - January 16, 2023 - January 31, 2024</a></li></ul></div><h4 class="accordion__header" tabindex="0">2023</h4><div class="accordion__panel"><p><strong>December</strong></p><ul><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_CF%26RF_Report_12_16_22_to_12_31_23.xlsx" data-entity-type="media" data-entity-uuid="a33405eb-3c42-4d58-bad7-2a65991b1c83" data-entity-substitution="media">Congressional Semi-Monthly Report - December 16, 2022 - December 31, 2023</a></li><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_CF%26RF_Report_12_16_22_to_12_31_23.csv" data-entity-type="media" data-entity-uuid="b230e1c7-508b-4bf5-8e31-72166c5ec27a" data-entity-substitution="media">Congressional Semi-Monthly Report - December 16, 2022 - December 31, 2023</a></li><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_CF%26RF_Report_12_01_22_to_12_15_23.xlsx" data-entity-type="media" data-entity-uuid="95db8fe0-da19-4aec-b868-7ee769a6ad65" data-entity-substitution="media">Congressional Semi-Monthly Report - December 1, 2022 - December 15, 2023</a></li><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_CF%26RF_Report_12_01_22_to_12_15_23.csv" data-entity-type="media" data-entity-uuid="b728109f-6622-430e-8e8e-c4326f45e9a9" data-entity-substitution="media">Congressional Semi-Monthly Report - December 1, 2022 - December 15, 2023</a></li></ul><p><strong>October</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional_Semi-Monthly_CF%26RF_Report_10_16_22_to_10_31_23.csv" data-entity-type="media" data-entity-uuid="4b866886-2778-4421-9cd1-665e60a79867" data-entity-substitution="media">Congressional Semi-Monthly Report - October 16, 2022 - October 31, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional_Semi-Monthly_CF%26RF_Report_10_16_22_to_10_31_23.xlsx" data-entity-type="media" data-entity-uuid="4ae25031-b88f-4263-b13f-f2135cb45bdb" data-entity-substitution="media">Congressional Semi-Monthly Report - October 16, 2022 - October 31, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional_Semi-Monthly_CF%26RF_Report_10_01_22_to_10_15_23.csv" data-entity-type="media" data-entity-uuid="a5c60ba0-360b-4694-b0fa-195557bef330" data-entity-substitution="media">Congressional Semi-Monthly Report - October 1, 2022 - October 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional_Semi-Monthly_CF%26RF_Report_10_01_22_to_10_15_23.xlsx" data-entity-type="media" data-entity-uuid="a030f861-de02-4a30-b22e-05f31596ef60" data-entity-substitution="media">Congressional Semi-Monthly Report - October 1, 2022 - October 15, 2023</a></li></ul><p><strong>September</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional_Semi-Monthly_CF%26RF_Report_9_16_22_to_9_30_23.csv" data-entity-type="media" data-entity-uuid="564b7429-8967-49f8-944a-485119007a9c" data-entity-substitution="media">Congressional Semi-Monthly Report - September 16, 2022 - September 30, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional_Semi-Monthly_CF%26RF_Report_9_16_22_to_9_30_23.xlsx" data-entity-type="media" data-entity-uuid="89a872f0-000e-4cfd-bc3c-589e40542f5e" data-entity-substitution="media">Congressional Semi-Monthly Report - September 16, 2022 - September 30, 2023</a></li><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_CF%26RF_Report_9_1_22_to_9_15_23.xlsx" data-entity-type="media" data-entity-uuid="ccc51528-66aa-4e5f-99f0-df382e1262fe" data-entity-substitution="media">Congressional Semi-Monthly Report - September 1, 2022 - September 15, 2023</a></li><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_CF%26RF_Report_9_1_22_to_9_15_23.csv" data-entity-type="media" data-entity-uuid="f272f3d7-4de5-46b0-b14e-7059a359b39f" data-entity-substitution="media">Congressional Semi-Monthly Report - September 1, 2022 - September 15, 2023</a></li></ul><p><strong>August</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-8-16-22-to-8-31-23.xlsx" data-entity-type="media" data-entity-uuid="a8445cdb-3692-40f6-9953-955fad991cc2" data-entity-substitution="media">Congressional Semi-Monthly Report - August 16, 2022 - August 31, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-8-16-22-to-8-31-23.csv" data-entity-type="media" data-entity-uuid="8cf30757-dbbf-439a-9d84-2147ea6a41a5" data-entity-substitution="media">Congressional Semi-Monthly Report - August 16, 2022 - August 31, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly%20CF%26RF%20-Report-8-1-22-to-8-15-23.csv" data-entity-type="media" data-entity-uuid="03742920-d913-47e1-9894-b41ff4a62e92" data-entity-substitution="media">Congressional Semi-Monthly Report - August 1, 2022 - August 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly%20CF%26RF%20-Report-8-1-22-to-8-15-23.xlsx" data-entity-type="media" data-entity-uuid="353effaa-3796-4624-b5a7-77b480489594" data-entity-substitution="media">Congressional Semi-Monthly Report - August 1, 2022 - August 15, 2023</a></li></ul><p><strong>July</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-7-1-22-to-7-15-23.xlsx" data-entity-type="media" data-entity-uuid="4b30d4ed-29e5-497c-a10b-698adb464c0b" data-entity-substitution="media">Congressional Semi-Monthly Report - July 1, 2022 to July 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-7-1-22-to-7-15-23.csv" data-entity-type="media" data-entity-uuid="4d35fb47-61a4-4410-858e-9d25ada3d64c" data-entity-substitution="media">Congressional Semi-Monthly Report - July 1, 2022 to July 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly%20CF%26RF%20-Report-7-16-22-to-7-31-23_updated.csv" data-entity-type="media" data-entity-uuid="68305c19-5ca7-4b9a-a32e-cdef77c7521e" data-entity-substitution="media">Congressional Semi-Monthly Report - July 16, 2022 to July 31, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly%20CF%26RF%20-Report-7-16-22-to-7-31-23_updated.xlsx" data-entity-type="media" data-entity-uuid="039e52e1-1921-47f1-a033-da5f654af908" data-entity-substitution="media">Congressional Semi-Monthly Report - July 16, 2022 to July 31, 2023</a></li></ul><p><strong>June</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-6-1-22-to%206-15-23.xlsx" data-entity-type="media" data-entity-uuid="e46b9df5-f908-4638-b254-6baa93a9a433" data-entity-substitution="media">Congressional Semi-Monthly Report - June 1, 2022 to June 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-6-1-22-to%206-15-23.csv" data-entity-type="media" data-entity-uuid="664797ab-ede1-4900-bb6e-db4a96df7bdb" data-entity-substitution="media">Congressional Semi-Monthly Report - June 1, 2022 to June 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-6-16-22-to%206-30-23.xlsx" data-entity-type="media" data-entity-uuid="ec47ac94-2042-4356-9497-02f43f3c1838" data-entity-substitution="media">Congressional Semi-Monthly Report - June 16, 2022 to June 30, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-6-16-22-to%206-30-23.csv" data-entity-type="media" data-entity-uuid="2a046ceb-cf77-4ae4-ba7a-fd1f58120c45" data-entity-substitution="media">Congressional Semi-Monthly Report - June 16, 2022 to June 30, 2023</a></li></ul><p><strong>May</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-5-1-22-to%205-15-23.xlsx" data-entity-type="media" data-entity-uuid="9efaf6db-c454-4d9a-af38-6b79696945bd" data-entity-substitution="media">Congressional Semi-Monthly Report - May 1, 2022 to May 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-5-1-22-to%205-15-23.csv" data-entity-type="media" data-entity-uuid="8bc58d86-69db-468d-994e-0496ad1ef9ac" data-entity-substitution="media">Congressional Semi-Monthly Report - May 1, 2022 to May 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly%20CFRF%20-Report-5-16-22-to%205-31-23.xlsx" data-entity-type="media" data-entity-uuid="e5170928-40ea-4616-bd9d-b110b58e5b35" data-entity-substitution="media">Congressional Semi-Monthly Report - May 16, 2022 to May 31, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly%20CFRF%20-Report-5-16-22-to%205-31-23.csv" data-entity-type="media" data-entity-uuid="7de06fee-71c0-4fb8-8081-5c19c46cafe5" data-entity-substitution="media">Congressional Semi-Monthly Report - May 16, 2022 to May 31, 2023</a></li></ul><p><strong>April</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-4-1-22-to-4-15-23.xlsx" data-entity-type="media" data-entity-uuid="4206dc41-cb86-420e-8233-5abda6299415" data-entity-substitution="media">Congressional Semi-Monthly Report - April 1, 2022 to April 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-4-1-22-to-4-15-23.csv" data-entity-type="media" data-entity-uuid="0e84bf9a-954b-4939-a8e5-7c6b0345c088" data-entity-substitution="media">Congressional Semi-Monthly Report - April 1, 2022 to April 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-4-16-22-to-4-30-23.xlsx" data-entity-type="media" data-entity-uuid="7db44653-7488-4308-87a7-84e40ba6db02" data-entity-substitution="media">Congressional Semi-Monthly Report - April 16, 2022 to April 30, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-4-16-22-to-4-30-23.csv" data-entity-type="media" data-entity-uuid="d0d8aedc-9843-413e-9bf8-c865dac8bfd4" data-entity-substitution="media">Congressional Semi-Monthly Report - April 16, 2022 to April 30, 2023</a></li></ul><p><strong>March </strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-3-1-22-to-3-15-23.csv" data-entity-type="media" data-entity-uuid="97c36b52-05c9-4689-a1fc-38567d806e21" data-entity-substitution="media">Congressional Semi-Monthly Report - Mar. 1, 2022 to Mar. 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-3-1-22-to-3-15-23.xlsx" data-entity-type="media" data-entity-uuid="ee31f7a0-7f9a-4e33-9ad9-8bb574465146" data-entity-substitution="media">Congressional Semi-Monthly Report - Mar. 1, 2022 to Mar. 15, 2023</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly-Report-3-16-22-to-3-31-23.csv" data-entity-type="media" data-entity-uuid="71dd2fd0-af2d-41c7-8ea0-a3c985898bb7" data-entity-substitution="media">Congressional Semi-Monthly Report - Mar. 16, 2022 to Mar. 31, 2023</a></li><li><a href="/sites/default/files/document/data/Congressional-Semi-Monthly-Report-3-16-22-to-3-31-23.xlsx" data-entity-type="media" data-entity-uuid="ed1f8256-2355-42d3-ac8e-3029d9ed8f2e" data-entity-substitution="media">Congressional Semi-Monthly Report - Mar. 16, 2022 to Mar. 31, 2023</a></li></ul><p><strong>February</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-2-16-22-to-2-28-23.csv" data-entity-type="media" data-entity-uuid="7135b9ea-d37b-4af8-9625-2b4a4bd1ae16" data-entity-substitution="media">Congressional Semi-Monthly Report - Feb. 1, 2022 to Feb. 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-2-16-22-to-2-28-23.xlsx" data-entity-type="media" data-entity-uuid="fd61e5a1-066a-4dd2-98f4-f0436e49c3c4" data-entity-substitution="media">Congressional Semi-Monthly Report - Feb. 1, 2022 to Feb. 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-2-16-22-to-2-28-23.csv" data-entity-type="media" data-entity-uuid="7135b9ea-d37b-4af8-9625-2b4a4bd1ae16" data-entity-substitution="media">Congressional Semi-Monthly Report - Feb. 16, 2022 to Feb. 28, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-2-16-22-to-2-28-23.xlsx" data-entity-type="media" data-entity-uuid="fd61e5a1-066a-4dd2-98f4-f0436e49c3c4" data-entity-substitution="media">Congressional Semi-Monthly Report - Feb. 16, 2022 to Feb. 28, 2023</a></li></ul><p><strong>January</strong></p><ul><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_Credible_and%20Reasonable_Fear_Report%20-%20Jan%201%202022%20to%20Jan%2015%202023.csv" data-entity-type="media" data-entity-uuid="89903c71-c88e-46d5-ac93-f66af16cb3cb" data-entity-substitution="media">Congressional Semi-Monthly Report - Jan. 1, 2022 to Jan. 15, 2023</a></li><li><a href="/sites/default/files/document/data/Congressional_Semi-Monthly_Credible_and%20Reasonable_Fear_Report%20-%20Jan%201%202022%20to%20Jan%2015%202023.xlsx" data-entity-type="media" data-entity-uuid="ef1a9467-e310-4e71-b8f2-7ad3b10ab8d3" data-entity-substitution="media">Congressional Semi-Monthly Report - Jan. 1, 2022 to Jan. 15, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-1-16-22-to-1-31-23.csv" data-entity-type="media" data-entity-uuid="d5623967-a977-491e-969e-43107a0207db" data-entity-substitution="media">Congressional Semi-Monthly Report - Jan. 16, 2022 to Jan. 31, 2023</a></li><li><a href="/sites/default/files/document/reports/Congressional-Semi-Monthly-Report-1-16-22-to-1-31-23.xlsx" data-entity-type="media" data-entity-uuid="69c35d20-929f-489c-af06-95c493d3d743" data-entity-substitution="media">Congressional Semi-Monthly Report - Jan. 16, 2022 to Jan. 31, 2023</a></li></ul></div><h4 class="accordion__header" tabindex="0">2022</h4><div class="accordion__panel"><p><strong>December</strong></p><ul><li><a href="/sites/default/files/document/reports/Congressional_Semi-Monthly_Credible_and%20Reasonable_Fear_Report%20-%20Dec%2016%202021%20to%20Dec%2031%202022.xlsx" data-entity-type="media" data-entity-uuid="a4510c48-3c2e-4884-820b-d4c92a35995b" data-entity-substitution="media">Congressional Semi-Monthly Report - Dec. 15, 2021 to Dec. 31, 2022</a></li><li><a href="/sites/default/files/document/reports/Congressional_Semi-Monthly_Credible_and%20Reasonable_Fear_Report%20-%20Dec%2016%202021%20to%20Dec%2031%202022.csv" data-entity-type="media" data-entity-uuid="f62a4c4a-a67a-46bb-9923-4ac9b9441969" data-entity-substitution="media">Congressional Semi-Monthly Report - Dec. 15, 2021 to Dec. 31, 2022</a></li></ul></div></div></div>
+      
+      </div>
+
+                </div>
+  
+  
+    
+              <div class="reviewed-date">
+    <div class="reviewed-date__label">Last Reviewed/Updated:</div>
+                <div class="field field--name-field-display-date field__item"><time datetime="2025-01-22T21:18:00Z" class="datetime">01/22/2025</time>
+</div>
+      
+  </div>
+
+      </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/tools/reports-and-studies/semi-monthly-credible-fear-and-reasonable-fear-receipts-and-decisions" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="80717" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="80717" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="80717" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-ofisznxyp77pppugmxhbxbiblvlu7mcyu36rgwrqho4" type="hidden" name="form_build_id" value="form-OFisZnXyP77PPPUgmXhbxBIBLvLu7McyU36RgwRQHO4"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="80717" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_0pX_SnfPDMf7vwrzbDcQ_nJ4OxbrxKFiBZO-ck0gvU4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_AsKNwrz_GL8MOvSFwxCjaawni6tz6q3D931E8dkUKrI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+
+  </body>

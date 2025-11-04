@@ -1,0 +1,307 @@
+H1: Chapter 7 - Other Barred Adjustment Applicants
+
+- Guidance
+
+- Resources (8)
+
+- Appendices (0)
+
+- Updates (8)
+
+There are additional classes of applicants barred from adjusting status. When determining whether the bars below apply, an officer should only consider the applicant’s current period of stay since the most recent admission into the United States prior to filing his or her adjustment application, unless the applicant is an alien removable for engagement in terrorist activity.
+
+When reviewing whether the bar for aliens removable for engagement in terrorist activity applies, an officer should examine every entry, admission, and time spent in the United States by the applicant. It is irrelevant how much time has passed since each entry or whether the applicant subsequently left the United States and returned lawfully.
+
+H2: A. Alien Crewmen
+
+An alien crewman is barred from adjusting status.[1]This bar applies to an applicant serving as a crewman who is permitted to land as a D-1 or D-2 nonimmigrant, as shown on the applicant’s Arrival/Departure Record (Form I-94) or Crewman’s Landing Permit (Form I-95), and by the corresponding visa contained in the crewman’s passport. The bar also applies to an applicant who was admitted as a C-1 nonimmigrant to join a crew.[2]
+
+In addition, the applicant’s service as a crewman is controlling regardless of the applicant’s actual nonimmigrant status, if any. For example, an applicant admitted in B-2 nonimmigrant visitor status while serving as a crewman is barred from adjustment.[3]The bar applies even if the applicant was not employed as a crewman in the sense of serving as a crewman for pay.[4]The bar does not apply, however, to Violence Against Women Act (VAWA)-based applicants.
+
+H2: B. Alien Admitted in Transit Without Visa
+
+Any alien admitted to the United States in transit without a visa (TWOV) is barred from adjusting status.[5]This bar does not apply to an alien who was admitted as a transit alien with a C-1 or C-2 or C-3 nonimmigrant visa.
+
+On August 2, 2003, DHS and the Department of State suspended the TWOV program. On August 7, 2003, DHS published an interim rule implementing the suspension.[6]Aliens who transit through the United States after that date are required to obtain a C nonimmigrant visa.[7]Thus, the bar does not apply to an alien (other than crewmen) admitted as a C-1 or C-2 or C-3 nonimmigrant if the alien had a C-1, C-2, or C-3 nonimmigrant visa in order to transit through the United States. Nevertheless,INA 245(c)(3)still bars an applicant who, in fact, was admitted as a TWOV when he or she last came to the United States. The bar does not apply, however, to VAWA-based applicants.
+
+H2: C. Visa Waiver Programs
+
+An alien admitted as a nonimmigrant without a visa under a Visa Waiver Program is barred from adjustment of status.[8]Similarly, an alien admitted as a nonimmigrant without a visa to Guam or to the CNMI is barred from adjustment of status.[9]These bars do not apply, however, to those seeking to adjust status as an immediate relative of a U.S. citizen or VAWA-based applicants.
+
+H2: D. Alien Admitted as Witness or Informant
+
+An alien admitted to the United States as an informant of terrorist or criminal activity (S nonimmigrant) is barred from adjusting status.[10]The state or federal law enforcement agency (LEA) that originally requested the alien's S nonimmigrant status may request that the S nonimmigrant be allowed to adjust status to that of a lawful permanent resident. The LEA initiates this special process through a filing with the Department of Justice.[11]Aliens admitted as S nonimmigrants are prohibited from seeking adjustment of status apart from this process. The bar does not apply, however, to VAWA-based applicants.
+
+H2: E. Alien Removable for Engagement in Terrorist Activity
+
+An alien is barred from adjusting status if:
+
+- He or she is deportable for having engaged in or incited terrorist activity;
+
+- ​He or she has been a member of or received military training from a terrorist organization; or
+
+- ​He or she has been associated with terrorist organizations, and he or she intends to engage in such activities while in the United States that could endanger the welfare, safety, or security of the United States.[12]
+
+The officer should consider all entries and time periods spent inside the United States when determining whether this bar applies. Furthermore, any restricted activity, whether it occurs before or after an applicant files the adjustment application, bars the applicant from adjusting status. Finally, in addition to the adjustment bar, the applicant may also be inadmissible for such activity.[13]While the bar does not apply to VAWA-based applicants, VAWA-based applicants may still be inadmissible for such activity.
+
+H2: F. Nonimmigrant Admitted as Fiancé(e) of U.S. Citizen
+
+A nonimmigrant fiancé(e) of a U.S. citizen cannot adjust status except on the basis of the marriage to the U.S. citizen who filed a Petition for Alien Fiancé(e) (Form I-129F) on behalf of the fiancé(e).[14]Likewise, a child of the fiancé(e) may only adjust on the basis of his or her parent’s marriage to the U.S. citizen petitioner.[15]
+
+​The terms of the nonimmigrant fiancé(e) status require that the nonimmigrant fiancé(e) marry the petitioner within 90 days after becoming a nonimmigrant.[16]Furthermore, if the nonimmigrant has not been married for two years or more at the time of adjustment, the nonimmigrant fiancé(e) and any children of the fiancé(e) may only obtain permanent residence on a conditional basis.[17]
+
+Marriage Legally Terminated
+
+A nonimmigrant fiancé(e) who contracts a valid and bona fide marriage to the U.S. citizen petitioner within the requisite 90-day time period remains eligible to adjust status on that basis, even if the marriage is legally terminated (whether by death, dissolution, or divorce) prior to adjustment of status and regardless of whether the nonimmigrant fiancé(e) remarries thereafter.[18]The applicant remains subject to all conditional permanent residency requirements, if applicable.[19]
+
+H2: G. Conditional Permanent Residents
+
+In general, an alien granted lawful permanent resident status on a conditional basis[20]is ineligible to adjust status on a new basis under the provisions of INA 245(a).[21]Instead, conditional permanent residents (CPRs) must generally comply with the requirements of INA 216 or 216A to remove the conditions on their lawful permanent resident status.[22]
+
+This bar to adjustment, however, only applies to an alien in the United States in lawful CPR status. InMatter of Stockwell  (PDF),[23]the Board of Immigration Appeals adopted a narrow interpretation of the regulation implementing this adjustment bar,[24]stating that the bar no longer applies if USCIS terminates the alien’s CPR status.[25]
+
+USCIS can terminate CPR status for reasons specified in INA 216 or INA 216A.[26]Although the immigration judge may review the termination in removal proceedings, the bar no longer applies upon USCIS terminating the CPR status; it is not necessary that an immigration judge have affirmed USCIS’ decision to terminate CPR status before the alien may file a new adjustment application.
+
+Therefore, under INA 245(a), USCIS may adjust the status of an alien whose CPR status was previously terminated, if:[27]
+
+- The alien has a new basis for adjustment;
+
+- The alien is otherwise eligible to adjust;[28]and
+
+- USCIS has jurisdiction over the adjustment application.[29]
+
+When seeking adjustment of status again, the applicant may not reuse the immigrant petition associated with the previous CPR adjustment or admission. Therefore, the applicant must have a new basis to adjust.
+
+An applicant seeking to adjust status again who was admitted as a fiancé(e) (K nonimmigrant) may only re-adjust based on an approved Petition for Alien Relative (Form I-130) filed by the same U.S. citizen who filed the Petition for Alien Fiancé(e) (Form I-129F) on his or her behalf.[30]
+
+The applicant must also be otherwise eligible to adjust status including not being inadmissible or barred by INA 245(c).
+
+Adjudication and Decision
+
+If the applicant successfully adjusts status on a new basis, USCIS generally considers the date of admission to be the date USCIS approved the subsequent adjustment application.[31]Time spent in the prior CPR status does not count toward the residency requirement for naturalization purposes.[32]
+
+If USCIS determines the applicant is not eligible to adjust, USCIS denies the application.[33]USCIS officers should follow current agency guidance on issuing a Notice to Appear after denying the application.[34]
+
+H2: Footnotes
+
+[^ 1]SeeINA 245(c)(1).
+
+[^ 2]SeeMatter of Tzimas  (PDF), 10 I&N Dec. 101 (BIA 1962).
+
+[^ 3]SeeMatter of Campton  (PDF), 13 I&N Dec. 535, 538 (BIA 1970). SeeMatter of G-D-M-  (PDF), 25 I&N Dec. 82 (BIA 2009) (service as crewman, not nonimmigrant status, is controlling for determining eligibility for non-lawful permanent resident cancellation).
+
+[^ 4]SeeMatter of Campton  (PDF), 13 I&N Dec. 535, 538 (BIA 1970).
+
+[^ 5]SeeINA 245(c)(3).
+
+[^ 6]See68 FR 46926  (PDF)(Aug. 7, 2003).
+
+[^ 7]SeeINA 101(a)(15)(C). See68 FR 46926, 46926-28  (PDF)(Aug. 7, 2003). See68 FR 46948, 46948-49  (PDF)(Aug. 7, 2003).
+
+[^ 8]SeeINA 217. SeeINA 245(c)(4).
+
+[^ 9]SeeINA 212(l). SeeINA 245(c)(4).
+
+[^ 10]SeeINA 245(c)(5).
+
+[^ 11]SeeINA 245(j). See8 CFR 245.11.
+
+[^ 12]SeeINA 245(c)(6). SeeINA 237(a)(4)(B). SeeINA 212(a)(3)(B)andINA 212(a)(3)(F). SeeINA 212(a)(3)(B)in general for definitions related to terrorist activities and exceptions.
+
+[^ 13]SeeINA 212(a)(3).
+
+[^ 14]SeeINA 101(a)(15)(K). SeeINA 245(d).
+
+[^ 15]SeeINA 245(d).
+
+[^ 16]SeeINA 214(d). SeeINA 101(a)(15)(K).
+
+[^ 17]SeeINA 245(d)andINA 216. SeeMatter of Sesay  (PDF), 25 I&N Dec. 431 (2011).
+
+[^ 18]SeeMatter of Sesay  (PDF), 25 I&N Dec. 431 (2011). SeeMatter of Dixon  (PDF), 16 I&N Dec. 355 (BIA 1977). SeeMatter of Blair  (PDF), 14 I&N Dec. 153 (Reg. Comm.1972). The marriage upon which the alien obtained K nonimmigrant status must have been bona fide, even if it was terminated, in order to adjust status. SeeLutwak v. United States, 344 U.S. 604 (1953). SeeMatter of Laureano  (PDF), 19 I&N Dec. 1 (BIA 1983). If the evidence would permit a reasonable fact finder to conclude that the marriage was not bona fide, adjustment would properly be denied. It is necessary to follow the standard procedure in8 CFR 103.2(b)(16)before denying adjustment based on evidence of which the applicant may not be aware.
+
+[^ 19]SeeINA 245(d)andINA 216.
+
+[^ 20]SeeINA 216andINA 216A.
+
+[^ 21]SeeINA 245(d)andINA 245(f). See8 CFR 245.1(c)(5).
+
+[^ 22]See Petition to Remove the Conditions on Residence (Form I-751) and Petition by Investor to Remove Conditions on Permanent Resident Status (Form I-829).
+
+[^ 23]SeeMatter of Stockwell  (PDF), 20 I&N Dec. 309 (BIA 1991).
+
+[^ 24]See8 CFR 245.1(c)(5)(previously 8 CFR 245.1(b)(12), whichMatter of Stockwellcites to).
+
+[^ 25]The same is also true if the alien loses his or her CPR status, for example, through abandonment, rescission, or the entry of an administratively final order of removal. SeeINA 246and8 CFR 1.2.
+
+[^ 26]USCIS issues a Notice to Appear upon termination. See8 CFR 216.3(a),216.4(b)(3), 216.4(d)(2),216.5(f),216.6(a)(5), 216.6(b)(3), and 216.6(d)(2). An alien whose CPR status is terminated by USCIS may request an immigration judge review that termination decision during removal proceedings.
+
+[^ 27]If an alien’s adjustment application was denied before the effective date of this guidance, November 21, 2019, the alien may file a new adjustment application (unless he or she is still able to timely file a motion to reopen or reconsider) for USCIS to adjudicate his or her application based on this guidance. See Notice of Appeal or Motion (Form I-290B) for more information.
+
+[^ 28]For general information on eligibility for adjustment, see Part A, Adjustment of Status Policies and Procedures [7 USCIS-PM A].
+
+[^ 29]Once removal proceedings have commenced, jurisdiction over an application for adjustment of status generally rests with the Executive Office for Immigration Review (EOIR). Therefore, USCIS generally does not have jurisdiction to adjudicate adjustment applications for applicants in removal proceedings, unless EOIR subsequently terminates those proceedings. Additionally, it is not necessary that an immigration judge have affirmed USCIS’ decision to terminate CPR status before the new adjustment application may be filed. For more information, see Part A, Adjustment of Status Policies and Procedures, Chapter 3, Filing Instructions, Section D, Jurisdiction [7 USCIS-PM A.3(D)].
+
+[^ 30]SeeINA 245(d)and8 CFR 245.1(c)(6). SeeCaraballo-Tavera v. Holder, 683 F.3d 49 (2nd Cir. 2012). However, a K-1 nonimmigrant who is subsequently granted U nonimmigrant status (for victims of qualifying criminal activity) or T nonimmigrant status (for victims of a severe form of trafficking in persons) while in the United States may apply to adjust status based on any eligibility category that applies to him or her. SeeINA 248(b).
+
+[^ 31]For more information, see Part A, Adjustment of Status Policies and Procedures, Chapter 11, Decision Procedures, Section A, Approvals, Subsection 1, Effective Date of Permanent Residence [7 USCIS-PM A.11(A)(1)].
+
+[^ 32]For more information, see Volume 12, Citizenship and Naturalization, Part D, General Naturalization Requirements, Chapter 3, Continuous Residence [12 USCIS-PM D.3].
+
+[^ 33]For more information on denials, see Part A, Adjustment of Status Policies and Procedures, Chapter 11, Section C, Denials [7 USCIS-PM A.11(C)].
+
+[^ 34]SeeIssuance of Notices to Appear (NTAs) in Cases Involving Inadmissible and Deportable Aliens, PM-602-0187, issued February 28, 2025.
+
+H2: Resources
+
+8 CFR 208.24- Termination of Asylum
+
+INA 245(a)- Adjustment of status
+
+INA 245(c)- Bars to adjustment of status
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-129F, Petition for Alien Fiancé(e)
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update revises references in the Policy Manual to refer to the memorandumIssuance of Notices to Appear(NTAs) in Cases Involving Inadmissible and Deportable Aliens, issued on February 28, 2025.
+
+1 USCIS-PM E.8-Chapter 8 - Discretionary Analysis
+
+7 USCIS-PM A.10-Chapter 10 - Legal Analysis and Use of Discretion
+
+7 USCIS-PM B.7-Chapter 7 - Other Barred Adjustment Applicants
+
+7 USCIS-PM Q.2-Chapter 2 - Eligibility
+
+7 USCIS-PM Q.3-Chapter 3 - Rescission Process
+
+7 USCIS-PM Q.5-Chapter 5 - Adjudication Procedures
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to update and clarify when USCIS may adjust the status of an applicant whose conditional permanent resident (CPR) status was terminated.
+
+7 USCIS-PM B.7-Chapter 7 - Other Barred Adjustment Applicants
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to remove references to Biographic Information (Form G-325A).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM L-Part L - Refugee Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+7 USCIS-PM O-Part O - Registration
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance addressing the general policies and procedures of adjustment of status as well as adjustment under section 245(a) of the Immigration and Nationality Act (INA).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment

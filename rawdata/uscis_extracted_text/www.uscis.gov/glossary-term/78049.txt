@@ -1,0 +1,13 @@
+H1: Country of -
+
+- Birth: The country where a person is born.
+
+- Chargeability: The independent country to which an alien entering under the preference system is accredited for purposes of numerical limitations.
+
+- Citizenship: The country a person is born in or naturalized in (and has not renounced or lost citizenship).
+
+- Former allegiance: The previous country of citizenship of a naturalized U.S. citizen.
+
+- (Last) Residence: The country that an alien habitually resided in before entering the United States.
+
+- Nationality: The country of a person’s citizenship or country in which the person is deemed a national.

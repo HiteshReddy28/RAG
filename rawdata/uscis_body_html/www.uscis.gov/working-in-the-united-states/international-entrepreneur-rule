@@ -1,0 +1,1333 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/trabajar-en-estados-unidos/regla-para-empresarios-internacionales" class="language-link" hreflang="es" data-drupal-link-system-path="node/64977">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+      
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+    <nav aria-labelledby="block-uscis-design-mainnavigation-menu" id="block-uscis-design-mainnavigation">
+            
+  <div class="visually-hidden" id="block-uscis-design-mainnavigation-menu">Main navigation</div>
+  
+
+        
+<a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+
+      <ul class="menu--main leftnav-menu" data-level="0">
+          <li class="menu__item-title leftnav-menu__item leftnav-menu__item--0 has-sub-items" data-id="id12934"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states" class="leftnav-menu__link leftnav-menu__title" data-drupal-link-system-path="node/41823">Working in the United States</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Working in the United States" aria-controls="id12934" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="id12934"><li class="leftnav-menu__item leftnav-menu__item--1 leftnav-menu__active-trail" data-id="id25752"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/international-entrepreneur-rule" class="leftnav-menu__link is-active" data-drupal-link-system-path="node/64977" aria-current="page">International Entrepreneur Rule</a></div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13003"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="leftnav-menu__link" data-drupal-link-system-path="node/41868">Temporary Workers</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Temporary Workers" aria-controls="id13003" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13003"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13463"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/cw-1-cnmi-only-transitional-worker" class="leftnav-menu__link" data-drupal-link-system-path="node/41876">CW-1: CNMI-Only Transitional Worker</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13464"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/e-1-treaty-traders" class="leftnav-menu__link" data-drupal-link-system-path="node/41924">E-1 Treaty Traders</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13465"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/e-2-visa-cnmi-only-investor" class="leftnav-menu__link" data-drupal-link-system-path="node/41413">E-2 CNMI Investor</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13466"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/e-2-treaty-investors" class="leftnav-menu__link" data-drupal-link-system-path="node/41819">E-2 Treaty Investors</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13467"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/e-3-specialty-occupation-workers-from-australia" class="leftnav-menu__link" data-drupal-link-system-path="node/41666">E-3 Certain Specialty Occupation Professionals from Australia</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id13468"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/h-1b-specialty-occupations" class="leftnav-menu__link" data-drupal-link-system-path="node/47603">H-1B Specialty Occupations</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for H-1B Specialty Occupations" aria-controls="id13468" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id13468"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41270"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-cap-season" class="leftnav-menu__link" data-drupal-link-system-path="node/43468">H-1B Cap Season</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41922"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/faqs-for-individuals-in-h-1b-nonimmigrant-status" class="leftnav-menu__link" data-drupal-link-system-path="node/98078">FAQs for Individuals in H-1B Nonimmigrant Status</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41274"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-electronic-registration-process" class="leftnav-menu__link" data-drupal-link-system-path="node/80860">H-1B Electronic Registration Process</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41645"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/organizational-accounts-FAQ" class="leftnav-menu__link" data-drupal-link-system-path="node/96903">Organizational Accounts Frequently Asked Questions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41273"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/extension-of-post-completion-optional-practical-training-opt-and-f-1-status-for-eligible-students" class="leftnav-menu__link" data-drupal-link-system-path="node/45861">Extension of Post Completion Optional Practical Training (OPT) and F-1 Status for Eligible Students under the H-1B Cap-Gap Regulations</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41271"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/employment-authorization-for-certain-h-4-dependent-spouses" class="leftnav-menu__link" data-drupal-link-system-path="node/48037">Employment Authorization for Certain H-4 Dependent Spouses</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13470"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/h-2a-temporary-agricultural-workers" class="leftnav-menu__link" data-drupal-link-system-path="node/42002">H-2A Agricultural Workers</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13471"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/h-2b-temporary-non-agricultural-workers" class="leftnav-menu__link" data-drupal-link-system-path="node/42173">H-2B Non-Agricultural Workers</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13472"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/h-3-nonimmigrant-trainee-or-special-education-exchange-visitor" class="leftnav-menu__link" data-drupal-link-system-path="node/41591">H-3 Nonimmigrant Trainee</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13473"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/i-representatives-of-foreign-media" class="leftnav-menu__link" data-drupal-link-system-path="node/41858">I Representatives of Foreign Media</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13474"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/l-1a-intracompany-transferee-executive-or-manager" class="leftnav-menu__link" data-drupal-link-system-path="node/41590">L-1A Intracompany Transferee Executive or Manager</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13475"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge" class="leftnav-menu__link" data-drupal-link-system-path="node/41988">L-1B Intracompany Transferee Specialized Knowledge</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id13476"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/o-1-visa-individuals-with-extraordinary-ability-or-achievement" class="leftnav-menu__link" data-drupal-link-system-path="node/42236">O-1 Individuals with Extraordinary Ability or Achievement</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for O-1 Individuals with Extraordinary Ability or Achievement" aria-controls="id13476" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id13476"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id34150"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/o-1-individuals-with-extraordinary-ability-or-achievement/o-nonimmigrant-classifications-question-and-answers" class="leftnav-menu__link" data-drupal-link-system-path="node/44166">O Nonimmigrant Classifications: Question and Answers</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13477"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/p-1a-athlete" class="leftnav-menu__link" data-drupal-link-system-path="node/41919">P-1A Internationally Recognized Athlete</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13478"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/p-1b-a-member-of-an-internationally-recognized-entertainment-group" class="leftnav-menu__link" data-drupal-link-system-path="node/42275">P-1B Member of Internationally Recognized Entertainment Group</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13479"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/p-2-individual-performer-or-part-of-a-group-entering-to-perform-under-a-reciprocal-exchange-program" class="leftnav-menu__link" data-drupal-link-system-path="node/41744">P-2 Performer or Group Performing under Reciprocal Exchange Program</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13480"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/p-3-artist-or-entertainer-coming-to-be-part-of-a-culturally-unique-program" class="leftnav-menu__link" data-drupal-link-system-path="node/42150">P-3 Artist or Entertainer Part of a Culturally Unique Program</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13481"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/q-cultural-exchange" class="leftnav-menu__link" data-drupal-link-system-path="node/41542">Q Cultural Exchange</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13482"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/r-1-nonimmigrant-religious-workers" class="leftnav-menu__link" data-drupal-link-system-path="node/41788">R-1 Temporary Religious Workers</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13483"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-workers/tn-usmca-professionals" class="leftnav-menu__link" data-drupal-link-system-path="node/41996">TN USMCA Professionals</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13000"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers" class="leftnav-menu__link" data-drupal-link-system-path="node/41415">Permanent Workers</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Permanent Workers" aria-controls="id13000" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13000"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13359"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1" class="leftnav-menu__link" data-drupal-link-system-path="node/41759">Employment-Based Immigration: First Preference EB-1</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13361"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2" class="leftnav-menu__link" data-drupal-link-system-path="node/41726">Employment-Based Immigration: Second Preference EB-2</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13362"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3" class="leftnav-menu__link" data-drupal-link-system-path="node/42265">Employment-Based Immigration: Third Preference EB-3</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id13360"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fourth-preference-eb-4" class="leftnav-menu__link" data-drupal-link-system-path="node/41502">Employment-Based Immigration: Fourth Preference EB-4</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Employment-Based Immigration: Fourth Preference EB-4" aria-controls="id13360" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id13360"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id34156"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-US/eb4/SIJ" class="leftnav-menu__link" data-drupal-link-system-path="node/66253">Special Immigrant Juveniles</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41444"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fourth-preference-eb-4/special-immigrant-juveniles/special-immigrant-juvenile-sij-frequently-asked-questions" class="leftnav-menu__link" data-drupal-link-system-path="node/96093">Special Immigrant Juvenile (SIJ) Frequently Asked Questions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13584"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fourth-preference-eb-4/special-immigrant-religious-workers" class="leftnav-menu__link" data-drupal-link-system-path="node/42169">Religious Workers</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id13358"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program" class="leftnav-menu__link" data-drupal-link-system-path="node/82543">Employment-Based Immigration: Fifth Preference EB-5</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Employment-Based Immigration: Fifth Preference EB-5" aria-controls="id13358" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id13358"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13616"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-regional-centers" class="leftnav-menu__link" data-drupal-link-system-path="node/61308">EB-5 Immigrant Investor Regional Centers</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id41285"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/IntegrityFund" class="leftnav-menu__link" data-drupal-link-system-path="node/95529">EB-5 Integrity Fund</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id34159"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/about-the-eb-5-visa-classification" class="leftnav-menu__link" data-drupal-link-system-path="node/41903">About the EB-5 Visa Classification</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13615"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process" class="leftnav-menu__link" data-drupal-link-system-path="node/41906">EB-5 Immigrant Investor Process</a></div></div></li></ul></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id41078"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/options-for-alien-stem-professionals-to-work-in-the-united-states" class="leftnav-menu__link" data-drupal-link-system-path="node/94477">STEM Employment Pathways</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for STEM Employment Pathways" aria-controls="id41078" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id41078"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41079"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/stem-employment-pathways/immigrant-pathways-for-stem-employment-in-the-united-states" class="leftnav-menu__link" data-drupal-link-system-path="node/94479">Immigrant Pathways for STEM Employment in the United States</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41080"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/stem-employment-pathways/nonimmigrant-pathways-for-stem-employment-in-the-united-states" class="leftnav-menu__link" data-drupal-link-system-path="node/94478">Nonimmigrant Pathways for STEM Employment in the United States</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id41318"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/options-for-alien-entrepreneurs-to-work-in-the-united-states" class="leftnav-menu__link" data-drupal-link-system-path="node/95595">Entrepreneur Employment Pathways</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Entrepreneur Employment Pathways" aria-controls="id41318" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id41318"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41319"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/entrepreneur-employment-pathways/immigrant-pathways-for-entrepreneur-employment-in-the-united-states" class="leftnav-menu__link" data-drupal-link-system-path="node/95596">Immigrant Pathways for Entrepreneur Employment in the United States</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41320"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/entrepreneur-employment-pathways/nonimmigrant-or-parole-pathways-for-entrepreneur-employment-in-the-united-states" class="leftnav-menu__link" data-drupal-link-system-path="node/95597">Nonimmigrant or Parole Pathways for Entrepreneur Employment in the United States</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13001"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/students-and-exchange-visitors" class="leftnav-menu__link" data-drupal-link-system-path="node/41515">Students and Exchange Visitors</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Students and Exchange Visitors" aria-controls="id13001" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13001"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13223"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/students-and-exchange-visitors/conrad-30-waiver-program" class="leftnav-menu__link" data-drupal-link-system-path="node/42043">Conrad 30 Waiver Program</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13224"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/students-and-exchange-visitors/exchange-visitors" class="leftnav-menu__link" data-drupal-link-system-path="node/41603">Exchange Visitors</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13225"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/students-and-exchange-visitors/students-and-employment" class="leftnav-menu__link" data-drupal-link-system-path="node/41638">Students and Employment</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13002"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-visitors-for-business" class="leftnav-menu__link" data-drupal-link-system-path="node/41375">Temporary Visitors for Business</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Temporary Visitors for Business" aria-controls="id13002" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13002"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13453"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-visitors-for-business/b-1-temporary-business-visitor" class="leftnav-menu__link" data-drupal-link-system-path="node/41685">B-1 Temporary Business Visitor</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13454"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-visitors-for-business/gb-temporary-visitor-to-guam" class="leftnav-menu__link" data-drupal-link-system-path="node/41928">GB Temporary Business Visitor to Guam</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13455"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/temporary-visitors-for-business/wb-temporary-business-visitor-under-visa-waiver-program" class="leftnav-menu__link" data-drupal-link-system-path="node/41431">WB Temporary Business Visitor under Visa Waiver Program</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id12999"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/information-for-employers-and-employees" class="leftnav-menu__link" data-drupal-link-system-path="node/42048">Information for Employers and Employees</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Information for Employers and Employees" aria-controls="id12999" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id12999"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41000"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/eadautoextend" class="leftnav-menu__link" data-drupal-link-system-path="node/56451">Automatic Employment Authorization Document (EAD) Extension</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id13257"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/information-for-employers-and-employees/employer-information" class="leftnav-menu__link" data-drupal-link-system-path="node/42182">Employer Information</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Employer Information" aria-controls="id13257" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id13257"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id34162"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/employment-authorization" class="leftnav-menu__link" data-drupal-link-system-path="node/45834">Employment Authorization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id13617"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/information-for-employers-and-employees/employer-information/validation-instrument-for-business-enterprises-vibe-program" class="leftnav-menu__link" data-drupal-link-system-path="node/41469">VIBE</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41198"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/information-for-employers-and-employees/employment-authorization-in-compelling-circumstances" class="leftnav-menu__link" data-drupal-link-system-path="node/56446">Employment Authorization in Compelling Circumstances</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41213"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/options-for-nonimmigrant-workers-following-termination-of-employment-0" class="leftnav-menu__link" data-drupal-link-system-path="node/95129">Options for Nonimmigrant Workers Following Termination of Employment</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25835"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/information-for-employers-and-employees/report-labor-abuses" class="leftnav-menu__link" data-drupal-link-system-path="node/52624">Report Labor Abuses</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id13258"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/working-in-the-united-states/information-for-employers-and-employees/petition-process-overview" class="leftnav-menu__link" data-drupal-link-system-path="node/41525">Petition Process Overview</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id41492"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/important-information-about-working-legally-in-the-united-states" class="leftnav-menu__link" data-drupal-link-system-path="node/96343">Important Information About Working Legally in the United States</a></div></div></li></ul></li>    
+    </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                            <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/working-in-the-united-states">Working in the United States</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">International Entrepreneur Rule</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-article">
+      <div class="container container--main">
+                
+
+                        
+            <h1 class="page-title js-page-title">
+              <span>International Entrepreneur Rule</span>
+            </h1>
+          
+              
+                    
+      
+  <div>
+                      <div class="clearfix text-formatted field field--name-body field__item">
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <div><p paraid="710161022" paraeid="{c4b3f673-14a2-4a8b-9d98-c8480677d5c1}{202}"><strong>ALERT</strong>: On Oct. 1, 2024, the new investment and revenue amounts in the International Entrepreneur Rule (IER) will become effective and apply to applications filed on or after Oct. 1, 2024. USCIS will update Form I-941, Application for Entrepreneur Parole, and its instructions to reflect these updated amounts in the near future.</p><p paraid="710161022" paraeid="{c4b3f673-14a2-4a8b-9d98-c8480677d5c1}{202}">By regulation, the investment and revenue amounts must be automatically adjusted every three years by the Consumer Price Index for All Urban Consumers (CPI-U) and posted on the USCIS website. In a <a href="https://www.federalregister.gov/documents/2024/07/25/2024-16138/international-entrepreneur-program-fiscal-year-2025-automatic-increase-of-investment-and-revenue" target="_blank" rel="noreferrer noopener">final rule</a> published on July 25, 2024, DHS calculated the new investment and revenue amounts and revised the applicable provisions to adjust for inflation. The new amounts will take effect at the start of fiscal year 2025, which begins on Oct. 1, 2024. As explained in the 2024 final rule:</p><ul><li><p paraid="710161022" paraeid="{c4b3f673-14a2-4a8b-9d98-c8480677d5c1}{202}">If relying on an investment from a qualifying investor, the amount is increasing from $264,147 to $311,071.</p></li></ul></div><div><ul role="list"><li data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' aria-setsize="-1" data-aria-posinset="1" data-aria-level="1" role="listitem"><p paraid="515699643" paraeid="{8ad5b7c4-f314-4c23-991d-3a2b6b564f73}{46}">If relying on a government award or grant, the amount is increasing from $105,659 to $124,429.</p></li></ul></div><div><ul role="list"><li data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' aria-setsize="-1" data-aria-posinset="2" data-aria-level="1" role="listitem"><p paraid="1373573176" paraeid="{8ad5b7c4-f314-4c23-991d-3a2b6b564f73}{52}">The revenue amount for consideration of re-parole is increasing from $528,293 to $622,142.</p></li></ul></div><div><ul role="list"><li data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' aria-setsize="-1" data-aria-posinset="3" data-aria-level="1" role="listitem"><p paraid="1971196551" paraeid="{8ad5b7c4-f314-4c23-991d-3a2b6b564f73}{58}">An individual or organization may be a qualified investor if they made investments in start-up entities comprising a total of no less than $746,571 (rather than $633,952) in a specified 5-year period and, subsequent to those investments, at least two of those entities have each created at least five jobs or generated at least $622,142 (rather than $528,293) in revenue with annualized revenue growth of at least 20%.</p></li></ul></div><div><p paraid="1086285384" paraeid="{8ad5b7c4-f314-4c23-991d-3a2b6b564f73}{86}">For more information, see the <a href="https://www.federalregister.gov/documents/2024/07/25/2024-16138/international-entrepreneur-program-fiscal-year-2025-automatic-increase-of-investment-and-revenue" target="_blank" rel="noreferrer noopener">Federal Register notice</a>. </p></div>
+          </div>
+      </div>
+</div>
+<p>Under the <a href="https://www.federalregister.gov/documents/2017/01/17/2017-00481/international-entrepreneur-rule">International Entrepreneur Rule</a> (IER), the Department of Homeland Security (DHS) may use its authority to grant a period of authorized stay, on a case-by-case basis, to alien entrepreneurs who show that their stay in the United States would provide a significant public benefit through their business venture and that they merit a favorable exercise of discretion. This period of authorized stay is called “parole.”</p><p>Under this rule, entrepreneurs granted parole will be eligible to work only for their startup business. The spouse and children of the alien entrepreneur may also be eligible for parole.</p><p>Threshold criteria and key elements of the International Entrepreneur Rule include:</p><ul><li>Entrepreneurs may be either living abroad or already in the United States.</li><li>Startup entities must have been formed in the United States within the past five years.</li><li>Startup entities must show substantial potential for rapid growth and job creation by showing at least $311,071 in qualified investments from qualifying investors, at least $124,429 in qualified government awards or grants, <em>or</em> alternative evidence.</li><li>The spouse of the entrepreneur may apply for employment authorization after being paroled into the United States. (Children are not eligible for employment authorization.)</li><li>The entrepreneur may be granted an initial parole period of up to 2.5 years. If approved for re-parole, based on additional benchmarks in funding, job creation, or revenue described below, the entrepreneur may receive up to another 2.5 years, for a maximum of 5 years. (At that point or earlier, there are other <a href="/working-in-the-united-states/options-for-alien-entrepreneurs-to-work-in-the-united-states" data-entity-type="node" data-entity-uuid="daf68054-8788-4f34-b301-04e5871ce42f" data-entity-substitution="canonical">Options for Alien Entrepreneurs to Work in the United States</a>.)</li><li>Up to 3 entrepreneurs per startup can be eligible for parole under the International Entrepreneur Rule.</li></ul><p>See the drop-down menus below for more detailed information and frequently asked questions (FAQs) for each section. For full details about the International Entrepreneur Rule, you should review:</p><ul><li><a href="/policy-manual/volume-3-part-g" data-entity-type="node" data-entity-uuid="9f3babf8-b05a-42dd-b1ba-f59f20097837" data-entity-substitution="canonical">Comprehensive guidance on the International Entrepreneur Rule</a> in our Policy Manual;</li><li>Our <a href="/i-941" data-entity-type="node" data-entity-uuid="2519edb3-e474-4944-a55f-6fc6d2e93a89" data-entity-substitution="canonical">Form I-941</a> page, where you can find both the <a href="/sites/default/files/document/forms/i-941.pdf" data-entity-type="media" data-entity-uuid="d3bbc685-d5e4-45dc-9ee2-11ba3b743a3c" data-entity-substitution="media">Application for Entrepreneur Parole</a> and <a href="/sites/default/files/document/forms/i-941instr.pdf" data-entity-type="media" data-entity-uuid="b5c10d5f-0160-4180-afc2-20ae72b544f2" data-entity-substitution="media">form instructions</a>; and</li><li>The International Entrepreneur Rule itself, as published in the <a href="https://www.federalregister.gov/documents/2017/01/17/2017-00481/international-entrepreneur-rule">Federal Register</a> and codified in <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-212/section-212.19">8 CFR section 212.19</a>.</li></ul><div class="content-accordion"><h4 class="accordion__header" tabindex="0">Overview of the International Entrepreneur Rule (FAQs)</h4><div class="accordion__panel"><p><em><strong>What level of ownership and role in the startup entity is required?</strong></em></p><p>You must have a substantial ownership (which we consider to be at least 10% at time of the initial application’s adjudication) in the startup business and have a central and active role in its operations.</p><p><em><strong>What are the requirements for the startup entity?</strong></em></p><p>The startup must be a U.S. business entity that is lawfully conducting business in the United States and was formed within the 5 years immediately preceding the application for initial parole. It must also have substantial potential for rapid growth and job creation.</p><p><em><strong>What type and level of funding are required to demonstrate that the startup entity has the substantial potential for rapid growth and job creation?</strong></em></p><p>You must be able to document that, within the past 18 months, the entity received the following funding:</p><ul><li>A qualified investment of at least the required amount from a qualifying investor ($311,071 as of Oct. 1, 2024);</li><li>A qualified award or grant of at least the required amount from a U.S. federal, state, or local government entity ($124,429 as of Oct. 1, 2024); or</li><li>Alternatively, if the startup entity partially meets one or both above funding levels, you may submit additional reliable and compelling evidence of the startup entity’s substantial potential for rapid growth and job creation.</li></ul><p>While nothing precludes you from personally investing in the startup entity or otherwise securing additional funding, only qualified investments from a qualifying investor count towards the minimum investment amount.</p><p>A qualified investor:</p><ul><li>Is an individual who is a U.S. citizen or lawful permanent resident of the United States, or an organization located in the United States and that operates through a legal entity organized under the laws of the United States or any state, that is majority owned and controlled, directly and indirectly, by U.S. citizens or lawful permanent residents of the United States;</li><li>Regularly makes substantial investments in startup entities that subsequently exhibit substantial growth in terms of revenue generation or job creation; and</li><li>During the preceding 5 years:<ul><li>Made investments in startup entities in exchange for equity, convertible debt or other security convertible into equity commonly used in financing transactions within their respective industries for a total in such 5-year period of no less than a certain investment amount ($746,571 as of Oct. 1, 2024); and</li><li>After such investment by such individual or organization, at least two such entities each created at least 5 qualified jobs or generated revenue of at least a certain amount ($622,142 as of Oct. 1, 2024), with average annualized revenue growth of at least 20%.</li></ul></li></ul><p>A qualified investor is <em>not</em>:</p><ul><li>You or any of your immediate relatives;</li><li>An organization you or your immediate relatives have a direct or indirect ownership interest in;</li><li>Permanently or temporarily enjoined from participating in the offer or sale of a security or in the provision of services as an investment adviser, broker, dealer, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, or credit rating agency;</li><li>Barred from association with any entity involved in the offer or sale of securities or provision of such services; or</li><li>Otherwise found to have participated in the offer or sale of securities or provision of such services in violation of law.</li></ul><p>A qualified investment means a purchase from a startup entity of its equity, convertible debt, or other security convertible into its equity commonly used in financing transactions in such entity's industry.</p><p>We have also published <a href="/policy-manual/volume-3-part-g" data-entity-type="node" data-entity-uuid="9f3babf8-b05a-42dd-b1ba-f59f20097837" data-entity-substitution="canonical">comprehensive guidance on the International Entrepreneur Rule</a> in our Policy Manual.</p><p><em><strong>Can my spouse and children accompany me to the United States?</strong></em></p><p>Your spouse and children (unmarried, minor child under 21 years of age) can also apply for parole by filing <a href="/i-131" data-entity-type="node" data-entity-uuid="190cf238-4e01-4e33-950f-f57dca4bb670" data-entity-substitution="canonical">Form I-131, Application for Travel Documents, Parole Documents, and Arrival/Departure Records</a>, either when you file your Form I-941, or after you file it.</p><p><em><strong>Can my spouse work in the United States?</strong></em></p><p>Spouses of aliens, after being paroled into the United States under the International Entrepreneur Rule, may apply for employment authorization by filing <a href="/i-765" data-entity-type="node" data-entity-uuid="983b2b27-2406-41b0-a21b-c5c916fc669c" data-entity-substitution="canonical">Form I-765, Application for Employment Authorization</a>.</p><p><em><strong>What is the maximum time I may remain in the United States under the International Entrepreneur Rule?</strong></em></p><p>You may be granted an initial period of parole for up to 2.5years. If approved for a new period of parole (also known as re-parole), you may receive another period of parole for up to 2.5 years, for a maximum of 5 years.</p><p><em><strong>Can I apply for parole from outside the United States?</strong></em></p><p>Yes, if you and the startup entity meet all the criteria for consideration. If you are outside the United States and seeking an initial period of parole under the International Entrepreneur Rule, you must submit biometrics (fingerprints and photo). We will send you a notice explaining where to submit biometrics after we coordinate with the Department of State or the international USCIS field office closest to you.</p><p><em><strong>Can I change to an immigrant or nonimmigrant status?</strong></em></p><p>At any time during the authorized stay, you may apply for classification as an immigrant or nonimmigrant, if you are eligible. However, as parole is not admission, you would generally be ineligible for adjustment or change of status while in the United States. As a result, if your nonimmigrant or immigrant petition is approved, you may have to depart the United States to apply for a visa based on the petition approval (unless visa exempt) before traveling to a port of entry to request admission into the United States as an immigrant or nonimmigrant, as applicable.</p><p><em><strong>Can I apply if I am in nonimmigrant status, such as B-1 or F-1? Can I apply if I have overstayed the term of my nonimmigrant status, but I believe I fulfill the other criteria?</strong></em></p><p>If you are currently in the United States in nonimmigrant status, you can apply, but you would have to depart the United States to be paroled back in if authorized. If you are not presently maintaining nonimmigrant status you may also apply, but you would have to depart the United States to be paroled back in if authorized. However, a failure to maintain your nonimmigrant status may result in immigration consequences including but not limited to removal, inadmissibility, and being barred from adjustment of status in some categories.</p></div><h4 class="accordion__header" tabindex="0">How to Apply as an Entrepreneur</h4><div class="accordion__panel"><p><strong>Filing Form I-941, Application for Entrepreneur Parole</strong></p><ul><li>You must file <a href="/i-941" data-entity-type="node" data-entity-uuid="2519edb3-e474-4944-a55f-6fc6d2e93a89" data-entity-substitution="canonical">Form I-941, Application for Entrepreneur Parole</a>, with the required fee and supporting documents according to the Form I-941 instructions.</li><li>Filing and obtaining approval of a Form I-941 under this rule will not, by itself, constitute a grant of parole. If your Form I-941 is conditionally approved and you are outside the United States, you must visit a U.S. embassy or consulate abroad to complete parole processing and obtain travel documentation (for example, a boarding foil) before appearing at a U.S. port of entry for a final parole determination. If your Form I-941 is approved and you are within the United States, you will be mailed travel documentation to the U.S. address listed on your Form I-941, unless you requested to receive the travel documentation through a U.S. embassy or consulate abroad. You would have to depart the United States before appearing at a U.S. port of entry using your travel documentation for a final parole determination. A Canadian national traveling directly from Canada to a U.S. port of entry may present an approved or conditionally approved Form I-941 at the U.S. port of entry without first obtaining travel documentation.</li><li>You (as the Form I-941 applicant) do not need to file a Form I-765 to obtain employment authorization. If your Form I-941 is approved and you are paroled into the United States under the International Entrepreneur Rule after appearing at a U.S. port of entry, you are employment authorized for your startup entity incident to the grant of parole.</li><li>You (as the Form I-941 applicant) do not need to file a Form I-131 to obtain travel documentation. If your Form I-941 is approved, USCIS will provide you with further instructions for obtaining and using your travel documentation dependent on whether you selected to receive your travel documentation at your U.S. mailing address or at a U.S. embassy or consulate abroad.</li></ul><p>IMPORTANT: If you are requesting to receive your travel document at your U.S. mailing address, please note that the I-512L Advance Parole document is a secure document that will only be sent to you at the U.S. mailing address you provided in your Form I-941 application. If you are represented by an attorney, an extra copy will not be sent to your attorney. Please ensure that your U.S. mailing address is correct, including any apartment, floor, or suite number if applicable, as well as providing any “In Care of Name” information, if any.</p><p>If you are requesting to receive your travel documentation through a U.S. embassy or consulate, please ensure your phone number and e-mail address are included and accurate as the U.S. embassy or consulate may try to contact you to schedule an appointment.</p><p>File your completed form(s) at the USCIS Dallas Lockbox facility.</p><table class="dataTable"><thead><tr><th scope="col">For U.S. Postal Service (USPS):</th><th scope="col">For FedEx, UPS, and DHL deliveries:</th></tr></thead><tbody><tr><td>USCIS<br>Attn: IER<br>PO Box 650890<br>Dallas, TX 75265</td><td>USCIS<br>Attn: IER (Box 650890)<br>2501 S. State Highway 121 Business<br>Suite 400<br>Lewisville, TX 75067</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">How to Apply as a Spouse or Child of an Entrepreneur</h4><div class="accordion__panel"><p><strong>Filing Form I-131, Application for Travel Document</strong></p><ul><li>While the entrepreneur submits Form I-941, the spouse and children (unmarried minors under 21 years of age) of the entrepreneur may file <a href="/i-131" data-entity-type="node" data-entity-uuid="190cf238-4e01-4e33-950f-f57dca4bb670" data-entity-substitution="canonical">Form I-131, Application for Travel Document</a>, with the required application fee, to request parole to accompany or join the entrepreneur. They may file the Form I-131 concurrently with the Form I-941 or separately.</li><li>Do not file your Form I-131 online.<ul><li>You must file your application by mailing it to the address listed below.</li><li>For Part 2, Application Type, write “IER” in the margin of Form I-131.</li><li>If you are filing Form I-131 <em>after</em> the filing of your spouse or parent filing Form I-941, write your spouse or parent’s Form I-941 receipt number in “Part 3. Processing Information.”</li><li>Additionally, if you are requesting to receive your travel document at a U.S. mailing address, please check box “Part 2. Item 1.d.” Please also fill out the corresponding section in “Part 3. Item 5.”</li><li>If you are requesting to receive your travel document at a U.S. embassy or consulate, please check box “Part 2. Item 1.e.” Please also fill out the corresponding section in “Part 3. Item 6 and sub-items 6.a. and 6.b.”</li><li>You must file Form I-131 with evidence establishing your relationship as the spouse or child of an entrepreneur parolee or an applicant for entrepreneur parole. Please submit all the following documents:<ul><li>A copy of a marriage certificate, birth certificate, or other documentation establishing your qualifying relationship to an entrepreneur parolee or an applicant for entrepreneur parole; and</li><li>If you are filing the Form I-131 after the filing of the entrepreneur’s Form I-941, include documentation indicating that the entrepreneur has a pending Form I-941 requesting parole, that such request was granted, or that the entrepreneur is a parolee. Such documentation may include a copy of:<ul><li>Form I-797, Notice of Action, indicating our receipt of the entrepreneur’s Form I-941;</li><li>The entrepreneur’s Form I-512L, Authorization for Parole of an Alien into the United States; or</li><li>Form I-94, Arrival-Departure Record, indicating that the entrepreneur has been paroled into the United States.</li></ul></li></ul></li></ul></li></ul><p>IMPORTANT: If you are requesting to receive your travel document at your U.S. mailing address, please note that the I-512L Advance Parole document is a secure document that will only be sent to you at the U.S. mailing address you provided in your Form I-941 application. If you are represented by an attorney, an extra copy will not be sent to your attorney. Please ensure your U.S. mailing address is correct, including any apartment, floor, or suite number if applicable, as well as providing any “In Care of Name” information, if any.</p><p>If you are requesting to receive your travel documentation through a U.S. embassy or consulate, please ensure your phone number and e-mail address are included and accurate as the U.S. embassy or consulate may try to contact you to schedule an appointment. You may include your phone number in the designated section in “Part 3, Processing Information” and write your e-mail address in “Part 3, Processing information” in the blank space underneath “Phone Number.” If you are a minor child and you are in care of a guardian, please write the phone number and e-mail address of your guardian in this section.</p><p>File your completed form(s) at the USCIS Dallas Lockbox facility.</p><table><thead><tr><th scope="col">For U.S. Postal Service (USPS):</th><th scope="col">For FedEx, UPS, and DHL deliveries:</th></tr></thead><tbody><tr><td>USCIS<br>Attn: IER<br>PO Box 650890<br>Dallas, TX 75265</td><td>USCIS<br>Attn: IER (Box 650890)<br>2501 S. State Highway 121 Business<br>Suite 400<br>Lewisville, TX 75067</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">How to Apply for Employment Authorization (Spouse of an Entrepreneur Only)</h4><div class="accordion__panel"><p><strong>Filing Form I-765, Application for Employment Authorization</strong></p><ul><li>If we approve the Form I-131 and the spouse of the entrepreneur is paroled into the United States, the spouse may then apply for employment authorization by filing <a href="/i-765" data-entity-type="node" data-entity-uuid="983b2b27-2406-41b0-a21b-c5c916fc669c" data-entity-substitution="canonical">Form I-765, Application for Employment Authorization</a>. (Children of the entrepreneur will not be eligible to apply for employment authorization under the International Entrepreneur rule.)</li><li>When filing Form I-765, for Item Number 27, Eligibility Category, enter “(C)(34).” File Form I-765 with evidence of your parole, such as your Form I-94, and evidence you are the spouse of an International Entrepreneur Parolee, such as a copy of the entrepreneur’s Form I-94 and a copy of your marriage certificate.</li><li>Note: If you submit a Form I-765 to USCIS before you (the spouse of the entrepreneur) have been paroled into the United States, we may deny the application and not refund your fees.</li></ul><p>File your completed form at the USCIS Dallas Lockbox facility after you have been paroled into the United States.</p><table><thead><tr><th scope="col">For U.S. Postal Service (USPS):</th><th scope="col">For FedEx, UPS, and DHL deliveries:</th></tr></thead><tbody><tr><td>USCIS<br>Attn: IER<br>PO Box 650890<br>Dallas, TX 75265</td><td>USCIS<br>Attn: IER (Box 650890)<br>2501 S. State Highway 121 Business<br>Suite 400<br>Lewisville, TX 75067</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Biometrics Information and FAQs</h4><div class="accordion__panel"><p>Any applicant applying for parole under the International Entrepreneur Rule, including the entrepreneur (Form I-941 applicant) and the spouse and children of an entrepreneur (Form I-131 applicant), will be required to submit biometrics (fingerprints and photograph).</p><ul><li>If you request to receive your parole documentation at your U.S. mailing address listed on your application, we will send you a Biometrics Appointment Notice for an Application Support Center based on your U.S. mailing address. We will mail this notice to your U.S. mailing address.<ul><li>If you request to receive your parole documentation at a U.S. embassy or consulate abroad, we will give you further instructions on how to appear for biometrics collection and identity verification at the U.S. embassy or consulate you listed on your application.</li><li>If you do not appear for your first biometrics appointment, we will send a second Biometrics Appointment Notice to your U.S. mailing address.</li></ul></li><li>If you do not appear for your biometrics appointment after we have issued you 2 separate Biometrics Appointment Notices, we may issue you an Abandonment Denial.</li></ul><p><strong>Q. How do you collect my biometrics if I am an I-941 applicant inside the United States?</strong></p><p>A. If you selected on your Form I-941 to receive your parole documentation at your U.S. mailing address, we will schedule a biometrics appointment based on your U.S. mailing address. You will receive a Biometrics Appointment Notice at your U.S. mailing address outlining the process to appear for a biometrics appointment at a USCIS application support center. If your <a href="/addresschange" data-entity-type="node" data-entity-uuid="9e08bcb0-aec9-4643-81ed-720de3dac4b6" data-entity-substitution="canonical">U.S. mailing address changes</a>, please ensure that you notify USCIS.</p><p><strong>Q. If I am an applicant outside the United States, how do you collect my biometrics?</strong></p><p>A. If you have selected on your Form I-941 to receive your travel documentation at a U.S. embassy or consulate, we may make an initial decision on your application before collecting biometrics. If we determine that you meet the threshold criteria for parole under the International Entrepreneur Rule and that you merit favorable discretion to receive parole, we will issue you a Conditional Approval Notice with instructions for further parole processing, including biometrics collection and identity verification, at the U.S. embassy or consulate you listed on your Form I-941. We will also contact the U.S. embassy or consulate to request that they schedule you for an appointment with the Department of State consular section.</p><p><strong>Q. I filed a Form I-941 while in the United States as a nonimmigrant. My nonimmigrant status expired, and I had to leave the United States before my biometrics appointment was scheduled. Will I have to return to the United States for my biometrics appointment, and what will happen if I cannot return to the United States?</strong></p><p>A. The location of biometrics collection depends on your response in your Form I-941 about where you choose to receive your parole document. If you have chosen to receive your parole document at your U.S. mailing address but are no longer in the United States and cannot return, you should contact the <a href="mailto:uscis.immigrantinvestorprogram@uscis.dhs.gov">USCIS Immigrant Investor Program Office</a> immediately to notify us of your change of address and request for overseas processing at a U.S. embassy or consulate. Please be sure to include your application receipt number in your communication.</p></div><h4 class="accordion__header" tabindex="0">Form I-9 Information</h4><div class="accordion__panel"><p>Given that DHS does not anticipate that sole proprietors will be eligible to participate in this program, an alien entrepreneur granted parole will typically be an employee of the startup entity. Employees will need to complete Form I-9, Employment Eligibility Verification.</p><p>The following documents establish identity and employment authorization for employment with a specific employer for Form I-9 purposes under List A for an employee who is an entrepreneur granted parole:</p><ul><li>Foreign passport; and</li><li>Form I-94, Arrival/Departure Record, indicating entrepreneur parole (PE-1) as the class of admission. The Form I-94 must include the following:<ul><li>The same name that appears on the passport; and</li><li>An endorsement of the individual’s parole, if that period of endorsement has not yet expired and the proposed employment is not in conflict with any restrictions or limitations identified on the form.</li></ul></li></ul><p>For information on Form I-9 requirements, see <a href="/i-9-central" data-entity-type="node" data-entity-uuid="1888aa98-b970-4183-82f9-6149f79645f5" data-entity-substitution="canonical">I-9 Central</a><em>.</em></p><p>The spouse of an alien entrepreneur granted parole may also be eligible for parole and apply for employment authorization once the spouse is paroled into the United States (see more details above). The spouse is only authorized to work if DHS has issued them a Form I-766, Employment Authorization Document. Children of entrepreneurs granted parole under this rule are not eligible for employment based on this parole.</p></div><h4 class="accordion__header" tabindex="0">Threshold Criteria for the Entrepreneur (FAQs)</h4><div class="accordion__panel"><p><strong>Q. How much of my startup must I own as an entrepreneur for it to be “substantial ownership?” Is there a minimum, such as 10%?</strong></p><p>A. We are guided by DHS regulations at <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-212/section-212.19">8 CFR section 212.19.</a> We consider ownership interest “substantial” if you (the Form I-941 applicant) have at least a 10% ownership interest in the startup entity at the time of adjudication of the initial grant of parole, and if you have at least a 5% ownership interest in the startup entity at the time of adjudication of a subsequent period of re-parole.</p><p><strong>Q. What types of evidence can I provide to meet the regulatory requirement of having a central and active role in the operations of the startup entity?</strong></p><p>A. See below under <a href="/working-in-the-united-states/international-entrepreneur-rule" data-entity-type="node" data-entity-uuid="f29cba78-8d66-4670-9ac9-c4573cff2e2a" data-entity-substitution="canonical">Filing Tips and Evidence Checklist</a> for more detailed information.</p><p><strong>Q. What types of evidence can I provide to meet the regulatory requirement of being well-positioned, due to my knowledge, skills, or experience, to substantially assist the startup entity with the growth and success of its business?</strong></p><p>A. See below under <a href="/working-in-the-united-states/international-entrepreneur-rule" data-entity-type="node" data-entity-uuid="f29cba78-8d66-4670-9ac9-c4573cff2e2a" data-entity-substitution="canonical">Filing Tips and Evidence Checklist</a> for more detailed information.</p></div><h4 class="accordion__header" tabindex="0">Threshold Criteria for the Startup Entity (FAQs)</h4><div class="accordion__panel"><p><strong>Q. What factors indicate “substantial potential for rapid growth and job creation”?</strong></p><p>A. You can show substantial potential for rapid growth and job creation by the receipt of significant capital investment from U.S. investors with established records of successful investments in startup entities.</p><p>You can also show this through significant awards or grants from certain federal, state, or local government entities that regularly provide awards or grants to startup entities.</p><p>DHS regulations also include alternative criteria for applicants who partially meet the thresholds for capital investment or government awards or grants and can provide additional reliable and compelling evidence of their entities' significant potential for rapid growth and job creation.</p><p><strong>Q. Can investments or grants be to a parent, subsidiary, affiliated or related company?</strong></p><p>A. No. The investment or grants must be made to the qualifying startup entity itself.</p><p><strong>Q. What is the minimum amount that USCIS considers a significant investment of capital?</strong></p><p>A. The startup entity must have received a qualified investment (at least $311,071 as of Oct. 1, 2024) from one or more qualified investors  within 18 months immediately preceding the filing of your Form I-941.</p><p>A qualified investment means a purchase from a startup entity of its equity, convertible debt, or other security convertible into its equity, commonly used in financing transactions within the startup entity's industry.</p><p>A bank loan or personal loan that is <em>not</em> convertible into equity would typically <em>not</em> meet the regulatory definition of “qualified investment.”</p><p><strong>Q. What types of evidence can an entrepreneur submit to demonstrate that an investor in their startup entity meets the definition of a “qualified investor”?</strong></p><p>A. The regulation defines the term “qualified investor” to include an organization located in the United States and that operates through a legal entity organized under the laws of the United States or any state that is majority owned and controlled, directly and indirectly, by U.S. citizens or lawful permanent residents.</p><p>Although we do not require the applicant to establish that at least 50% of the capital contributed to the fund is sourced from U.S. citizens or lawful permanent residents, the applicant must nevertheless show that the firm is majority owned and controlled, directly and indirectly, by U.S. citizens or lawful permanent residents. For example, we recognize that many investment firms based in the United States, such as venture capital firms, have a wide range of funding from limited partners that vest control in U.S. citizen partners who manage and even “control” the fund.</p><p>The applicant must also establish, among other things, that the investor has a successful history of accomplishment making investments in startup entities, and that the investment is a good faith investment of lawfully derived capital.</p><p><strong>Q. What is the minimum threshold for an established record of successful investments?</strong></p><p>A. The definition of a “qualified investor” requires the investor to have a history of substantial investment in successful startup entities. For this requirement, we consider such an individual or organization a qualified investor if, during the preceding 5 years, the following apply:</p><ul><li>The individual or organization made sufficient total investments in startup entities ($746,571 as of Oct. 1, 2024) in exchange for equity, convertible debt, or other security convertible into equity commonly used in financing transactions within the startup entities’ respective industries; and</li><li>After such investment by such individual or organization, at least 2 such startup entities each created at least 5 qualified jobs or generated at sufficient revenue ($528,293, as of Oct. 1, 2024) with average annualized revenue growth of at least 20%.</li></ul><p>A “qualified job” means full-time employment located in the United States that has been filled for at least 1 year by one or more U.S. citizens, lawful permanent residents, or other aliens lawfully authorized to be employed in the United States, who is not an entrepreneur of the relevant startup entity (or the parent, spouse, brother, sister, son, or daughter of such entrepreneur) nor an independent contractor.</p><p><strong>Q. What is the minimum threshold for government grants or awards?</strong></p><p>A. You can show “substantial potential for rapid growth and job creation” if the startup entity has received at least  $124,429 (for applications filed on or after Oct. 1, 2024) through one or more qualified government awards or grants within 18 months immediately preceding the filing of Form I-941.</p><p><strong>Q. What types of government awards or grants would meet this requirement?</strong></p><p>A. A “qualified government award or grant” means an award or grant for economic development, research and development, or job creation (or other similar monetary award typically given to startup entities) made by a federal, state, or local government entity (not including foreign government entities) that regularly provides such awards or grants to startup entities. This definition excludes any contractual commitment for goods or services.</p><p>Some examples of qualified government awards and grants may include:</p><ul><li>Small Business Innovation Research and Small Business Technology Transfer awards (see <a href="https://www.sbir.gov/">SBIR.gov</a>)</li><li>Research and development (R&amp;D) awards under the <a href="https://www.nist.gov/chips">CHIPS for America</a> program</li><li>R&amp;D awards from the <a href="https://www.energy.gov/">U.S. Department of Energy</a>, the <a href="https://new.nsf.gov/funding/industry">National Science Foundation</a>, and other federal government agencies</li><li>Certain R&amp;D or commercialization awards from state or local government economic development agencies, such as the Ohio <a href="https://development.ohio.gov/business/third-frontier-and-technology/technology-validation-start-up-fund">Technology Validation and Startup Fund</a>.</li></ul><p><strong>Q. Does the government award or grant for the startup entity need to be initiated by the parole applicant or just by the entity that parole applicant is applying to work for?</strong></p><p>A. The government award or grant may be initiated by either the parole applicant or the startup entity. However, the grant must be awarded to the startup entity.</p><p><strong>Q. Can government awards or grants be from nations outside of the United States?</strong></p><p>A. No. Awards or grants from foreign government entities are not considered qualified government awards or grants under the International Entrepreneur Rule.</p><p><strong>Q. Why are the monetary thresholds for investment, revenue, and government awards and grants so specific?</strong></p><p>A. Every 3 years, by regulation, the threshold monetary amounts must increase according to the Consumer Price Index for All Urban Consumers. We will publish the new amounts on our website, and a technical update to the regulation itself will appear in the Federal Register. We expect that the next automatic update will go into effect at the beginning of Fiscal Year 2025 (Oct. 1, 2024).</p></div><h4 class="accordion__header" tabindex="0">Alternative Criteria</h4><div class="accordion__panel"><p id="alt-criteria"><strong>Q. What if my startup entity does not reach the monetary thresholds for “qualified investment” or “qualified government award or grant” described above?</strong></p><p>A. If the startup-entity has raised less than the threshold “qualified investment” and/or “qualified government awards or grants,” the applicant may still be able to demonstrate “substantial potential for rapid growth and job creation” through alternative reliable and compelling evidence.</p><p>The International Entrepreneur Rule recognizes that reliable and compelling evidence of the startup entity’s “substantial potential for rapid growth and job creation” may vary depending on the nature of the business and the industry it operates in. Therefore, applicants providing other reliable and compelling evidence of the startup entity’s potential are not limited to certain types of evidence.</p><p>This additional supporting evidence may include, but is not limited to:</p><ul><li>Evidence of rapid growth, such as:<ul><li>Number of users or customers;</li><li>Revenue generated by the startup entity; and</li><li>Additional investments/fundraising, including crowdfunding platforms;</li></ul></li><li>Social impact of the startup entity;</li><li>National scope of the startup entity;</li><li>Positive effects on the startup entity’s locality or region;</li><li>Success using alternative funding platforms, including crowdfunding platforms;</li><li>The applicant’s academic degrees;</li><li>The applicant’s prior success in operating startup entities as shown by patented innovations, annual revenue, job creation, or other factors;</li><li>Selection of the startup entity to participate in one or more established reputable startup accelerators or incubators; and</li><li>Any other reliable and compelling evidence that the startup entity has substantial potential for rapid growth and job creation.</li></ul><p><strong>Q. What if an investor in my startup entity meets some, but not all, of the criteria for a “qualified investor”?</strong></p><p>A. Only an investor that fully satisfies the definition of “qualified investor” can make a “qualified investment” under the International Entrepreneur Rule. There is no alternative evidence to establish that an individual or organization is a “qualified investor.”</p><p><strong>Q. What if my startup entity has multiple investors that add to up to more than the threshold amount in “qualified investment,” but not if USCIS determines that one of my investors is not a “qualified investor”?</strong></p><p>A. In your application, you can indicate that you want your startup entity to be considered based on raising more than the threshold amount <em>or</em> based on raising less than the threshold amount plus alternative evidence. To do so, you can check “Yes” for both Question 10 and Question 14 on Form I-941, along with providing alternative evidence.</p></div><h4 class="accordion__header" tabindex="0">Filing Tips and Evidence (FAQs)</h4><div class="accordion__panel"><p id="tips">The following checklist of required initial evidence is for informational purposes only. Please do not submit this checklist with your Form I-941. The checklist is an optional tool to use as you prepare your form, but does not replace statutory, regulatory, and form instruction requirements. We recommend that you review these requirements before completing and submitting your form. Do not send original documents unless specifically requested in the form instructions or applicable regulations.</p><p>If you submit any documents (copies or original documents, if requested) in a foreign language, you must include a full English translation along with a certification from the translator verifying that the translation is complete and accurate, and that they are competent to translate from the foreign language into English.</p><p>USCIS will evaluate all the evidence submitted, and will assess its credibility, relevance, and probative value, before determining whether the threshold criteria have been met and whether the applicant merits a favorable exercise of discretion. In addition to the examples of evidence listed below, an applicant is permitted (but not required) to submit alternative evidence that the applicant believes is credible, relevant, and probative. USCIS may also use open-source evidence to corroborate evidence submitted by the applicant.</p><p><strong>How can I demonstrate that I have a central and active role in my startup entity?</strong></p><ul><li>A copy of your employment agreement with the startup entity;</li><li>Documentation from the startup entity’s other founders, the director of human resources, or another employee in a position that can attest to your role at the startup entity; and/or</li><li>Similar evidence that provides a detailed description of your central and active role in the startup entity, including the day-to-day role you are currently performing for the startup entity.</li></ul><p><strong>How can I demonstrate that I am well-positioned, due to my knowledge, skills, and experience, to substantially assist the startup entity with the growth and success of its business?</strong></p><ul><li>Your resume or curriculum vitae (CV);</li><li>Letters from relevant government agencies, qualified investors, or established business associations with knowledge of the startup entity’s research, products or services, and your knowledge, skills or experience that would advance the entity’s business;</li><li>News articles or other similar evidence that you or your startup entity has received significant attention or recognition;</li><li>Evidence that you or your startup entity has been recently invited to participate in, is currently participating in, or has graduated from one or more established and reputable startup accelerators;</li><li>Evidence that you have played an active and central role in the success of prior startup entities;</li><li>Degrees or other documentation indicating that you have knowledge, skills or experience that would significantly advance the startup entity’s business;</li><li>Documentation pertaining to intellectual property of the startup entity, such as a patent, that you obtained or that was a result of your efforts and expertise; and/or</li><li>Similar evidence that you are well positioned, due to your knowledge, skills, and experience, to substantially assist the startup entity with the growth and success of its business.</li></ul><p><strong>How can I demonstrate my ownership stake in the startup entity?</strong></p><ul><li>Organizational documents;</li><li>Equity ledger or certificates;</li><li>Contracts;</li><li>Bank records;</li><li>Wire transfers; and/or</li><li>Similar evidence that demonstrates your ownership interest in the startup entity.</li></ul><p><strong>How can I demonstrate that my business meets the definition of “startup entity” under the International Entrepreneur Rule?</strong></p><ul><li>Articles of Incorporation;</li><li>Articles of Formation; and/or</li><li>Similar evidence that your startup entity was created within the 5 years immediately preceding the filing date of your application (Form I-941) and evidence that your startup entity has lawfully done business during g any period of operation since its date of formation.</li></ul><p><strong>How can I demonstrate that my startup entity has received a qualified investment?</strong></p><ul><li>Equity purchase agreements;</li><li>Convertible debt agreements;</li><li>Equity certificates;</li><li>Equity ledgers;</li><li>Capitalization tables;</li><li>Audited financial statements;</li><li>Bank records;</li><li>Wire transfers; and/or</li><li>Other evidence that the investment is a purchase from the startup entity of its equity, convertible debt, or other security convertible into its equity commonly used in financing transactions within such entity’s industry.</li></ul><p><strong>How can I demonstrate that my investment comes from a U.S. investor?</strong></p><ul><li>Copy of the investor’s passport or lawful permanent resident card;</li><li>Ownership structure chart outlining direct and indirect ownership of the investment organization;</li><li>Organizational documents, including articles of incorporation, bylaws, articles of organization, operating agreement, certificate of partnership, partnership agreement; and/or</li><li>Other evidence that the investor is a U.S. citizen or lawful permanent resident or that individuals ultimately owning and controlling most of the organization are U.S. citizens or lawful permanent residents.</li></ul><p><strong>How can I demonstrate that the investor has an established record of successful investments in other startup entities?</strong></p><ul><li>Equity purchase agreements;</li><li>Tax and/or payroll records;</li><li>Bank records;</li><li>Wire transfers;</li><li>Convertible debt agreements;</li><li>Equity certificates;</li><li>Equity ledgers;</li><li>Capitalization tables;</li><li>I-9 records;</li><li>Audited financial statements;</li><li>Information from news articles or websites that provide relevant employment and/or revenue information about these other startup entities;</li><li>Information from news articles or websites relating to the investor’s previous investments and subsequent success of the startup entities, including information from the investor’s website; and/or</li><li>Other evidence that the investor, during the preceding 5 years:</li></ul><p>Made investments in startup entities in exchange for equity, convertible debt, or other security convertible into equity commonly used in financing transactions within their respective industries for a total in such 5-year period of no less than the threshold amount ($746,571 as of Oct. 1, 2024); and</p><p>After such investment, at least two such entities each created at least 5 qualified jobs or generated revenue of the threshold amount (at least $622,142 as of Oct. 1, 2024), with average annualized revenue growth of at least 20%.</p><p><strong>How can I demonstrate that my startup entity has received significant awards or grants from federal, state, or local government entities that regularly provide such awards or grants to startup entities?</strong></p><ul><li>Notice of grant or award;</li><li>Information from news articles or websites demonstrating that the government entity regularly makes such awards or grants to startup entities; and/or</li><li>Similar evidence showing that a qualified government award or grant was made by a federal, state, or local government entity to the startup entity, and that the government entity regularly makes such awards or grants to startup entities.</li></ul><p><strong>How can I demonstrate alternative criteria if I have only partially satisfied the investment or government grant or award criteria?</strong></p><p>A. See the section on <a href="https://www.uscis.gov/working-in-the-united-states/international-entrepreneur-rule?acc=1&amp;sec=9&amp;ref=alt-criteria">Alternative Criteria</a> above.</p><p><strong>If I have evidence that I meet all the eligibility requirements for an entrepreneur and a startup entity described above, should I submit any additional supporting evidence?</strong></p><p>A. When considering an application under the International Entrepreneur Rule, the USCIS officer must decide whether granting parole would provide a “significant public benefit” to the United States. This is a case-by-case discretionary determination, considering the totality of the circumstances of each case.</p><p>You <em>must</em> demonstrate through evidence that both you and your startup entity meet the rule’s threshold criteria. You <em>may</em> also provide additional supporting evidence that an approval of your application would provide a “significant public benefit” to the United States, based on your role as an entrepreneur with the startup entity.</p><p>Such supporting evidence may include:</p><ul><li>Evidence of investments from any investors (not only “qualified investors”), or government awards or grants (not only “qualified government awards or grants”). Such evidence could include bank records, wire transfers, equity purchase agreements, equity certificates, equity ledgers, or capitalization tables.</li><li>Evidence of revenue generation.</li><li>Letters from relevant government agencies, qualified investors, or established business associations with knowledge of your entity’s research, products, or services, and confirming that your knowledge, skills, or experience would advance your entity’s business.</li><li>News articles or other similar evidence that you or your startup entity have received significant attention or recognition.</li><li>Evidence that you or your startup entity have been recently invited to participate in, are participating in, or have graduated from one or more established and reputable startup accelerators.</li><li>Patent awards or other documents indicating that you or your startup entity are focused on developing new technologies or innovative research.</li><li>Evidence that the startup-entity is furthering a critical and emerging technology or other science, technology, engineering, and math (STEM) area important to U.S. competitiveness. To identify a critical and emerging technology field, USCIS will consider governmental, academic, and other authoritative and instructive sources, and all other evidence submitted by the applicant. One such governmental source is the Critical and Emerging Technologies List Update published by the National Science and Technology Council.</li><li>Evidence that you have played an active and central role in the success of prior startups, such as letters from relevant government agencies, qualified investors, or established business associations with knowledge of your prior startup activities.</li><li>Academic degrees or other documentation indicating that you have knowledge, skills, or experience that would significantly advance your entity’s business.</li><li>Tax or payroll records, Form I-9 records, or other documents indicating that your entity has created “qualified jobs” before you filed Form I-941.</li><li>Any other reliable evidence indicating your startup entity’s potential for growth and your ability to advance your startup entity’s business in the United States.</li></ul></div><h4 class="accordion__header" tabindex="0">What Happens After Approval (FAQs)</h4><div class="accordion__panel"><p><strong>Q. If my Form I-941 is approved and I am already in the United States, how do I receive my parole documentation? What is the process if I am outside the United States?</strong></p><p>A. If USCIS finds that you meet the criteria for consideration and appear to merit a favorable exercise of discretion, then your Form I-941 will be conditionally approved and the following processes will then apply:</p><ul><li>If you are in the United States, you selected on your Form I-941 to receive your parole documentation at your U.S. mailing address, and we approve your Form I-941, we will also send you a multi-use Form I-512L Advance Parole document under separate cover that may arrive after your approval notice. After you receive your Form I-512L, you must depart the United States before appearing at a U.S. port of entry for a final parole determination by U.S. Customs and Border Protection (CBP).</li><li>If you are outside the United States, or you have selected on your Form I-941 to receive your travel documentation at a U.S. embassy or consulate, and you are not a Canadian national traveling directly from Canada to a U.S. port of entry, we will conditionally approve your Form I-941 because you must visit a U.S. embassy or consulate to undergo biometrics collection and identity verification before you can obtain travel documentation (for example, a boarding foil). Instructions on contacting the U.S. embassy or consulate you selected on your Form I-941 will be in your Conditional Approval Notice. We will also contact the U.S. embassy or consulate to request that they schedule you for an appointment for biometrics collection and identity verification. After you receive your travel documentation, you can appear at a U.S. port of entry for a final parole determination by CBP. If you are paroled into the United States, you must contact USCIS as outlined in the instructions on your Conditional Approval Notice to receive a multi-use Form I-512L Advance Parole document, if you wish to travel outside the United States and seek parole back in during the period parole was authorized for.</li><li>If you are a Canadian national traveling directly from Canada to a U.S. port of entry, you may present an approved or conditionally approved Form I-941 at the U.S. port of entry without first obtaining travel documentation.</li></ul><p>If circumstances do not meaningfully change after USCIS approves (or conditionally approves) your Form I-941, and DHS does not discover material information that was previously unavailable, CBP is likely to grant you parole at the port of entry.</p><p><strong>Q. Does the Department of State (including U.S. embassies and consulates), as distinct from DHS, have different requirements for the International Entrepreneur Rule?</strong></p><p>A. DHS is guided by the requirements of the International Entrepreneur Rule. The Department of State does not make parole determinations under this rule. USCIS first determines whether to authorize parole, and if authorized, U.S. Customs and Border Protection (CBP) makes a final parole determination at the port of entry (both USCIS and CBP are components of DHS).</p><p>If you are outside the United States and need to appear at a U.S. embassy or consulate to complete parole processing, the Department of State conducts additional vetting and, if no new derogatory information or identities are discovered as a result of this process, issues travel documentation on behalf of USCIS. If new information is found by the Department of State through the vetting process, the U.S. embassy or consulate will notify USCIS, which will determine if the new information affects the parole authorization.</p><p>Once travel documentation is issued, parole is authorized. However, advance authorization of parole by USCIS does not guarantee that you will be paroled by CBP upon your appearance at a port of entry. CBP will make a separate, discretionary determination whether to grant parole at the port of entry. If circumstances do not meaningfully change and DHS does not discover material information that was previously unavailable during the inspection process, however, CBP is likely to grant you parole at a port of entry.</p><p><strong>Q. If I am an applicant who has been inspected and admitted to the United States on the Visa Waiver Program, can I remain in the United States past my I-94 expiration date until my request for parole is either conditionally approved or denied?</strong></p><p>A. A pending or conditionally approved Form I-941 application does not authorize you, if you are present in the United States in nonimmigrant status, to remain in the United States beyond the expiration of your authorized period of stay. Remaining in the United States beyond your authorized period of stay may have immigration consequences.</p><p><strong>Q. Am I allowed multiple entries to the United States if I have parole under the International Entrepreneur Rule?</strong></p><p>A. Yes, you may be allowed multiple entries to the United States if you have parole under the International Entrepreneur Rule. The maximum initial parole period is 2.5 years, which begins at the time of initial parole by CBP at a U.S. port of entry. If you then depart the United States and are granted parole upon your return at the U.S. port of entry, you may receive parole for up to the remainder of the 2.5years (the initial parole period). Any time you spend outside the United States during your parole period counts toward the maximum initial period of parole.</p><p>If you are in the United States when we authorize parole, and you selected on your Form I-941 to receive your parole documentation at your U.S. mailing address, we will mail you a multi-entry travel document that allows you to seek parole multiple times at a port of entry during its validity period.</p><p>If you are applying from abroad and receive a boarding foil from a U.S. embassy or consulate to authorize your initial parole into the United States, we will give you further instructions on how to receive a multi-use Form I-512L, Advance Parole document, after you have notified USCIS that CBP has paroled you in the United States.</p><p><strong>Q. What is the longest time I may remain in the United States if I receive parole through the International Entrepreneur Rule?</strong></p><p>A. You may be given an initial parole period of up to 2.5years. If approved for re-parole, you may receive up to another 2.5years, for a maximum of 5 years.</p><p><strong>Q. Can I change from International Entrepreneur Rule parolee to an immigrant or nonimmigrant status without leaving the United States?</strong></p><p>A. While in the United States in a period of parole, you may apply for classification as an immigrant or nonimmigrant, if you are eligible. However, because parole is not admission, you may be ineligible for adjustment of status or for a change of status to another nonimmigrant classification while in the United States. As a result, if your nonimmigrant or immigrant petition is approved, you may have to depart the United States to apply for a visa based on the petition approval (unless visa exempt) before traveling to a port of entry to request admission into the United States as an immigrant or nonimmigrant, as applicable.</p><p>For more information on immigrant and nonimmigrant options that may be available, see <a href="/working-in-the-united-states/options-for-alien-entrepreneurs-to-work-in-the-united-states" data-entity-type="node" data-entity-uuid="daf68054-8788-4f34-b301-04e5871ce42f" data-entity-substitution="canonical">Options for Alien Entrepreneurs to Work in the United States</a>.</p></div><h4 class="accordion__header" tabindex="0">Spouses and Children (FAQs)</h4><div class="accordion__panel"><p><strong>Q. How do my spouse and children obtain parole under the International Entrepreneur Rule?</strong></p><p>A. Your dependents may file Form I-131 at the same time you file Form I-941, regardless of whether they are inside or outside of the United States at the time of filing. Alternatively, your dependents may file Form I-131 after you file your Form I-941. For any I-131 or I-941 applicants outside the United States, we will send you a notice explaining where to submit biometrics in coordination with the Department of State or the international USCIS field office closest to you.</p><p>If you or your dependents are present in the United States and have requested to receive your parole document at the U.S. mailing address you indicated on Form I-941 (Part 1, Item 18) or Form I-131 (Part 3, Item 5), you will receive a notice to appear for biometrics collection at a USCIS Application Support Center based on the mailing address you listed on Form I-941 (Part 1, Item 19) or on Form I-131 (Part 1, Item 2). If you are in the United States, you must appear for your biometrics collection at an Application Support Center for your Form I-941 to be considered for approval, unless you requested to receive your parole document at the U.S. embassy or consulate.</p><p>If you or your dependents are currently outside of the United States and have requested to receive your parole document at the U.S. embassy or consulate you indicated on Form I-941 (Part 1, Item 18) or Form I-131 (Part 3, Item 6), you will receive a notification from USCIS about processing at the U.S. embassy or consulate if we have conditionally approved your application.</p><p>You and your dependents do not have to be in the same location to apply for parole under the International Entrepreneur Rule. However, if the physical locations are different, the processing of the applications may differ based on location as previously described.</p><p><strong>Q. When will my spouse be authorized to work?</strong></p><p>A. Spouses who are paroled into the United States by U.S. Customs and Border Protection may immediately apply for employment authorization by filing <a href="/i-765" data-entity-type="node" data-entity-uuid="983b2b27-2406-41b0-a21b-c5c916fc669c" data-entity-substitution="canonical">Form I-765, Application for Employment Authorization</a>. A spouse may submit the application only after they are paroled into the United States. The spouse will not be authorized to work in the United States until the Form I-765 is approved and an Employment Authorization Document is issued.</p></div><h4 class="accordion__header" tabindex="0">Re-parole (FAQs)</h4><div class="accordion__panel"><p><strong>Q. After the first parole period of up to 2.5 years, how do I extend my period of stay?</strong></p><p>A. You can apply for one additional period of re-parole for up to 2.5 years. Before the expiration of the initial period of parole, you must timely file another Form I-941, along with another Form I-131 for any spouse or children whose parole period would otherwise expire.</p><p><strong>Q. What are the eligibility requirements for re-parole?</strong></p><p>A. You are no longer required to demonstrate an ownership interest of 10 percent when applying for re-parole. Instead, as of the date USCIS adjudicates the application for re-parole, you must have retained at least a 5 percent ownership in the startup entity.</p><p>In general, you must demonstrate that this second grant of parole would continue to provide a significant public benefit, by establishing that during the initial parole period the startup entity has:</p><ul><li>Received a qualified investment, qualified government grants or awards, or a combination of such funding, of at least $622,142 (for applications filed on or after Oct. 1, 2024);</li><li>Created at least 5 qualified jobs with the startup entity; <u>or</u></li><li>Reached annual revenue in the United States of at least $622,142 (for applications filed on or after Oct. 1, 2024), and averaged at least 20 percent in annual revenue growth.</li></ul><p>If the startup entity partially meets one or more of the general criteria above, you may provide alternative reliable and compelling evidence of the startup entity’s substantial potential for rapid growth and job creation.</p><p><strong>Q. What are my options after the 5 years of parole and re-parole?</strong></p><p>A. Although the International Entrepreneur Rule provides for a maximum of 5 years, the intent is for this to provide enough time for the entrepreneur to transition to a more durable status as they become eligible. For more information about both nonimmigrant and immigrant pathways, see our resources on <a href="/working-in-the-united-states/options-for-alien-entrepreneurs-to-work-in-the-united-states" data-entity-type="node" data-entity-uuid="daf68054-8788-4f34-b301-04e5871ce42f" data-entity-substitution="canonical">Options for Alien Entrepreneurs to Work in the United States</a>.</p></div><h4 class="accordion__header" tabindex="0">Processing Times (FAQs)</h4><div class="accordion__panel"><p><strong>Q. How long does it take to process an International Entrepreneur Rule application?</strong></p><p>A. As of May 2024, we have either completed or sent a Request for Evidence for all previously filed Form I-941 applications and associated Form I-131 applications. We look forward to adjudicating new applications as expeditiously as possible.</p><p><strong>Q. What if I need faster processing?</strong></p><p>A. At present, Form I-941 is not eligible for <a href="/forms/all-forms/how-do-i-request-premium-processing" data-entity-type="node" data-entity-uuid="3eee8d6a-750f-4141-9c65-23dc0b2a4cc7" data-entity-substitution="canonical">premium processing</a>, because under current regulations we may only provide this service for Form I-129, Form I-140, Form I-765, and Form I-539.</p><p>You may, however, make an <a href="/forms/filing-guidance/expedite-requests" data-entity-type="node" data-entity-uuid="86ffed6e-154a-4bc3-85f9-35977283c664" data-entity-substitution="canonical">expedite request</a>. The decision to expedite is within the sole discretion of USCIS. Expediting your case generally means that we would adjudicate your application ahead of other applications, including those who may have filed earlier, so we carefully weigh the urgency and merit of each expedite request.</p><p><strong>Q. Given wait times at most U.S. embassies and consulates around the world, are USCIS and the Department of State taking any steps to ensure timely processing?</strong></p><p>A. We are coordinating closely with the Department of State to ensure timely and efficient processing of International Entrepreneur Rule applicants who have opted for processing abroad and have received a Conditional Approval. Processing at a U.S. embassy or consulate may occur within weeks after we issue a Conditional Approval. Biometrics submission and boarding foil processing also depend on the availability of the applicant to appear at the U.S. embassy or consulate for biometrics collection and identity verification.</p><p>To avoid processing delays, please make sure that your contact information, including your mailing address, e-mail address, and phone number, are correct on your Form I-941 or Form I-131 and that you provide timely updates to USCIS of any changes in your mailing address by following <a href="/addresschange" data-entity-type="node" data-entity-uuid="9e08bcb0-aec9-4643-81ed-720de3dac4b6" data-entity-substitution="canonical">these instructions</a>. A U.S. embassy or consulate may try to contact you by phone or e-mail. If you are an entrepreneur, you may provide your phone number and e-mail address on Form I-941. If you are a spouse or child of an entrepreneur, you may provide your phone number on Form I-131 in the designated section in “Part 3, Processing Information” and your e-mail address in Part 3 in the blank space underneath the “Phone Number.”</p><p>Additionally, please make sure that you select the correct location where you will receive your travel documents, as your response to this question will also determine where the U.S. government will collect your biometrics. If you are an entrepreneur, you may select your processing location on Form I-941 (Part 1, Item 18). If you are the spouse or child of an entrepreneur, you may select your processing location on Form I-131 (Part 3, Item 6).</p><p><strong>Q. How is processing affected if I have chosen to receive my parole document at my U.S. mailing address?</strong></p><p>A. If you are in the United States and have opted in Form I-941 to receive your parole document at a U.S. mailing address (Part 1, Item 18), you will receive a notice to appear for a biometrics appointment at an Application Support Center based on your U.S. mailing address (Part 1, Item 19). You must appear for your biometrics appointment for us to consider your Form I-941 application for approval. To avoid delays, please ensure you notify us of any address change within the U.S. by following <a href="/addresschange" data-entity-type="node" data-entity-uuid="9e08bcb0-aec9-4643-81ed-720de3dac4b6" data-entity-substitution="canonical">these instructions</a>. If applicable, please ensure that you include the apartment, floor, or suite number of your U.S. mailing address. Please also provide any “In Care Of Name” information, if any.</p><p>IMPORTANT: If you opted to receive your parole document at your U.S. mailing address, please note that the I-512L Advance Parole document is a secure document that will only be sent to you at the U.S. mailing address you provided in your Form I-941 application. If you are represented by an attorney, an extra copy will not be sent to your attorney. If your designated mailing address is your attorney’s address, please ensure you write “In Care of Name” on your application.</p></div><h4 class="accordion__header" tabindex="0">Contact Us</h4><div class="accordion__panel"><p>We recommend that you review this FAQ page, as well as the <a href="/policy-manual/volume-3-part-g" data-entity-type="node" data-entity-uuid="9f3babf8-b05a-42dd-b1ba-f59f20097837" data-entity-substitution="canonical">comprehensive guidance on the International Entrepreneur Rule</a> in our Policy Manual and our <a href="https://www.uscis.gov/i-941">Form I-941</a> page before you e-mail a question.</p><p>You may <a href="mailto:uscis.immigrantinvestorprogram@uscis.dhs.gov">email the USCIS Immigrant Investor Program Office</a> to:</p><ul><li>Change the contact or attorney information on an IER application;</li><li>Change the address where USCIS sends the travel documents abroad;</li><li>Report problems with IER biometrics processing;</li><li>Report that an IER application receipt notice or Application Support Center notice has not been received or contains incorrect information; or</li><li>Report any IER notice or decision that appears to contain a gross error.</li></ul></div></div></div>
+      
+      </div>
+
+                </div>
+  
+  
+    
+              <div class="reviewed-date">
+    <div class="reviewed-date__label">Last Reviewed/Updated:</div>
+                <div class="field field--name-field-display-date field__item"><time datetime="2025-01-25T09:00:00Z" class="datetime">01/25/2025</time>
+</div>
+      
+  </div>
+
+      </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/working-in-the-united-states/international-entrepreneur-rule" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="64977" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="64977" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="64977" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-oxfqw1w3eigdrbidyohgg5qbyl3jgm5qai9k2wzlyxg" type="hidden" name="form_build_id" value="form-oXfQW1w3eIgdrBIdyOhgg5Qbyl3JGM5QAI9K2WZlYxg"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="64977" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_0pX_SnfPDMf7vwrzbDcQ_nJ4OxbrxKFiBZO-ck0gvU4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_AsKNwrz_GL8MOvSFwxCjaawni6tz6q3D931E8dkUKrI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+
+  </body>

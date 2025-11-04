@@ -1,0 +1,323 @@
+H1: Chapter 2 - Biometrics Collection
+
+- Guidance
+
+- Resources (6)
+
+- Appendices (0)
+
+- Updates (9)
+
+H2: A. Biometric Services Appointments
+
+After a person files an application, petition, or other benefit request, USCIS may schedule a biometric services appointment at a local Application Support Center (ASC).[1]The appointment notice indicates the date, time, and location of the appointment. The person submitting biometrics should bring the appointment notice and valid, unexpired photo identification (for example, Permanent Resident Card (Form I-551), passport, or driver’s license), or other identity documentation[2]as authorized by USCIS to the appointment.
+
+USCIS considers a person to have abandoned an application, petition, or request if the person fails to appear for the biometric services appointment unless, by the appointment time, USCIS receives a change of address or rescheduling request that it concludes warrants excusing the failure to appear.[3]
+
+H3: 1. Timely Requests to Reschedule
+
+Benefit requestors[4]who need to reschedule a biometric services appointment should follow the instructions provided in the appointment notice. USCIS only accepts rescheduling requests made through amyUSCISonline account or to theUSCIS Contact Centerand does not accept requests to reschedule submitted by mail or in person at a USCIS office.[5]
+
+An authorized representative with a properly filed Notice of Entry of Appearance as Attorney or Accredited Representative (Form G-28) may also request to reschedule an appointment on behalf of their client through a myUSCIS online account or the USCIS Contact Center.
+
+Any person required to appear for a biometric services appointment may, before the scheduled date and time, request that USCIS reschedule the appointment for good cause.[6]For the purposes of determining whether to grant a biometric services appointment reschedule request, good cause exists when the benefit requestor provides a sufficient reason for their inability to appear on the scheduled date.
+
+Sufficient reasons may include, but are not limited to:
+
+- Illness, medical appointment, or hospitalization;
+
+- Previously planned travel;
+
+- Significant life events such as a wedding, funeral, or graduation ceremony;
+
+- Inability to obtain transportation to the appointment location;
+
+- Inability to obtain leave from employment or caregiver responsibilities; and
+
+- Late delivered or undelivered biometric services appointment notice.[7]
+
+H3: 2. Missed Biometric Services Appointments[8]
+
+In accordance with regulations, USCIS considers a benefit request abandoned and denied[9]if the benefit requestor fails to appear for a biometric services appointment unless, by the appointment time, USCIS receives a notice of a change of address or a request to reschedule the appointment that USCIS concludes warrants excusing the failure to appear.[10]
+
+Applicants who have filed an Application for Asylum and for Withholding of Removal (Form I-589) who fail to comply with fingerprint processing without good cause will not have their applications denied for abandonment. Instead, USCIS may dismiss[11]the asylum application if the applicant is in lawful immigration status or paroled, or refer the application to an immigration judge if the applicant is not in lawful immigration status or paroled.
+
+Timely Notice of Change of Address
+
+Before USCIS denies a benefit request for abandonment, USCIS reviews the record of proceeding and relevant systems for evidence of a notice of a change of address.[12]USCIS reschedules the biometric services appointment when a change of address is received by the appointment time.
+
+Timely Request to Reschedule
+
+Before denying for abandonment, USCIS reviews the record of proceeding and relevant systems for reschedule requests. USCIS reschedules the biometric services appointment when the benefit requestor submits, by the appointment time, a request to reschedule and provides a sufficient reason for the inability to appear.[13]
+
+Untimely Request to Reschedule
+
+A benefit request is considered abandoned and is denied when a requestor fails to appear for a biometric services appointment and USCIS has not received a rescheduling request by the appointment time.[14]However, notwithstanding the regulation and based on case law, agencies have some latitude to relax procedural rules adopted for the orderly transaction of business if justice so requires under the circumstances.[15]
+
+Therefore, when a benefit requestor submits a request to reschedule the appointment after the appointment date has passed, and if the benefit request remains pending, USCIS may, in its discretion and based on the applicant’s circumstances, consider whether the benefit request has been abandoned. In considering abandonment and whether the officer should exercise discretion to reschedule based on the applicant’s circumstances, USCIS reviews such factors as:
+
+- The length of time between the missed appointment and the reschedule request;
+
+- Whether the benefit requestor has a sufficient reason[16]for failing to appear; and
+
+- Whether a denial would cause undue hardship or expense.
+
+USCIS only accepts untimely rescheduling requests made to the USCIS Contact Center and does not accept untimely requests to reschedule by mail or in person at a USCIS office or through the myUSCIS online rescheduling tool.
+
+No Evidence of Change of Address or Request to Reschedule
+
+USCIS considers a benefit request abandoned if the requestor fails to appear for a biometric services appointment and there is no evidence of a change of address or a request to reschedule.[17]
+
+When USCIS denies an application for abandonment, USCIS notifies the requestor and the authorized representative, as appropriate, of the decision in writing.[18]The priority or processing date of an abandoned benefit request may not be applied to a later benefit request.[19]
+
+H2: B. Mobile Biometrics Collection
+
+Mobile biometrics collection refers to a service USCIS provides in which the agency collects biometrics (for example, fingerprints and photographs, etc.) from persons with pending benefit requests (including derivatives, beneficiaries, or both), at pre-determined locations outside of an ASC. Mobile biometrics collection is typically performed by USCIS employees or contractors.[20]USCIS has sole discretion to conduct mobile biometrics collection.[21]
+
+USCIS may provide domestic mobile biometric services to persons with a disability or health reason that prevents them from appearing in person at an ASC.[22]In very limited circumstances, USCIS may, in its sole discretion, provide domestic mobile biometric services to other benefit requestors who are unable to attend scheduled ASC appointments in person.[23]
+
+Remote Locations
+
+USCIS may, in its sole discretion and on a case-by-case basis, provide mobile biometrics collection services to persons residing in remote locations within the United States who are unable to attend scheduled ASC appointments in person.
+
+When determining whether to exercise its discretion after a request for mobile biometrics collection, USCIS considers circumstances such as the difficulty of travel, the distance a person must travel to an ASC, and efficient use of USCIS resources. If USCIS can provide mobile biometric services, USCIS will inform the person.
+
+Persons in Custody
+
+USCIS does not grant requests to collect biometrics from persons in custody at correctional institutions. USCIS officers and contract staff therefore do not travel to jails, prisons, or similar non-DHS detention facilities to perform biometric collections for any detained or incarcerated persons (including applicants, petitioners, beneficiaries, derivatives, sponsors, or other requestors, regardless of their immigration status or country of citizenship). In the case of an incarcerated person, USCIS officers must continue to follow all applicable regulations and procedures in issuing ASC notices to those whose appearance is required for biometrics collection. Per intradepartmental agreement, U.S. Immigration and Customs Enforcement, Enforcement and Removal Operations is responsible for completing background and security checks for those who are incarcerated at DHS facilities and applying for benefits with USCIS.
+
+USCIS generally does not approve requests to reschedule a biometrics appointment for reason of detention or incarceration. The person must follow the procedures listed in the biometrics appointment notice to request their appointment be rescheduled.[24]
+
+H2: C. Fingerprint Waivers
+
+A person may qualify for a waiver of the fingerprint requirement if he or she is unable to provide fingerprints because of a medical condition,[25]including but not limited to disability, birth defects, physical deformities, skin conditions, and psychiatric conditions.[26]Only certain USCIS employees are authorized to grant a fingerprint waiver.
+
+A USCIS employee responsible for overseeing a person’s fingerprinting may grant the waiver if all of the following requirements are met:
+
+- The applicant, petitioner, beneficiary, sponsor, derivative, requestor, or individual person filing or associated with a benefit request appeared in person for the biometrics collection;
+
+- ​The officer or authorized technician attempted to fingerprint the person (or determined that such an attempt was impossible); and
+
+- ​The officer determines that the person is unable to be fingerprinted at all or is unable to provide a single legible fingerprint.
+
+A USCIS employee should not grant a waiver if the waiver is solely based on the following situations:
+
+- The person has fewer than 10 fingers;
+
+- The officer considers the person’s fingerprints as unclassifiable; or
+
+- ​The person’s condition preventing the fingerprint collection is temporary.
+
+If a fingerprint waiver is granted, the waiver is valid only for the particular application(s), petition(s), or benefit request(s) listed on the ASC notice for which biometrics are collected. The person must request a fingerprint waiver for each individual application, petition, or benefit request subsequently filed if the subsequent filing has a biometrics collection requirement.
+
+A person who is granted a fingerprint waiver must bring local police clearance letters or other form-specific documentation[27]covering the relevant periods to the interview. All clearance letters become part of the record. In cases where the person is granted a fingerprint waiver or has two unclassifiable fingerprint results, USCIS must take a sworn statement from the person covering the relevant periods.
+
+USCIS’ decision to deny a fingerprint waiver is final and may not be appealed.
+
+H2: D. Biometrics Collected [Partially Reserved]
+
+[Partially Reserved]
+
+H3: 1. Fingerprints [Reserved]
+
+[Reserved]
+
+H3: 2. Photographs
+
+USCIS imbeds a photograph when creating secure documents as a security feature.[28]There are instances where USCIS requires a photograph be submitted with an application, petition, or request in order to create a secure document and the application, petition, or request does not have an associated biometrics collection requirement.[29]Where the applicant, petitioner, or requestor fails to submit a photograph at time of filing, USCIS may issue a Request for Evidence.
+
+H3: 3. Signatures [Reserved]
+
+[Reserved]
+
+H2: Footnotes
+
+[^ 1]See8 CFR 103.2(b)(9). For benefit requestors residing outside of the United States, USCIS may schedule biometrics collection at a USCIS office abroad, at a U.S. embassy or consulate, or at a U.S. military installation abroad. See8 CFR 103.16. An exception to the requirement to collect new biometrics exists in the case of military naturalization. For military naturalization cases, a biometric background check must be performed, but USCIS may use previously collected fingerprints from a different immigration filing or may use fingerprints collected as part of enlistment processing to perform the check. For more information relating to biometrics collection for military members, see Volume 12, Citizenship and Naturalization, Part I, Military Members and their Families, Chapter 6, Required Background Checks, Section C, Ways Service Members may Meet Fingerprint Requirement [12 USCIS-PM I.6(C)].
+
+[^ 2]Some aliens classified as special immigrant juvenile (SIJs) may not have government-issued photo identification. In this situation, USCIS may accept as evidence of identity a court-issued order citing the SIJ as the subject of the order, or official documentation issued by the U.S. Department of Health and Human Services (HHS) for unaccompanied children who are or have been in the custody of HHS. For more information on how to prepare for a biometric services appointment, see thePreparing for Your Biometric Services Appointmentwebpage.
+
+[^ 3]See8 CFR 103.2(b)(13)(ii).
+
+[^ 4]For purposes of this Policy Manual part, the term requestor means any applicant, petitioner, sponsor, beneficiary, or individual filing a benefit request. See8 CFR 103.2(b)(9).
+
+[^ 5]For more information on rescheduling a biometric services appointment, see thePreparing for Your Biometric Services Appointmentwebpage.
+
+[^ 6]See8 CFR 103.2(b)(9)(ii). A benefit requestor may also appear at the ASC before the scheduled date or withdraw the benefit request. See8 CFR 103.2(b)(9)(i)and8 CFR 103.2(b)(9)(iii).
+
+[^ 7]Benefit requestors may become aware of an undelivered biometric services appointment notice through theirmyUSCISaccount or USCIS’Case Status Onlinetool.
+
+[^ 8]This subsection does not apply to applicants who have filed an Application for Asylum and for Withholding of Removal (Form I-589). See instead8 CFR 208.10(Failure to comply with fingerprint processing without good cause may result in dismissal of the application. Failure to appear at the fingerprint appointment will be excused if the applicant demonstrates that such failure was the result of exceptional circumstances.).
+
+[^ 9]See Part E, Adjudications, Chapter 9, Rendering a Decision, Section B, Denials, Subsection 2, Abandonment Denials [1 USCIS-PM E.9(B)(2)].
+
+[^ 10]See8 CFR 103.2(b)(13)(ii).
+
+[^ 11]See8 CFR 208.10.
+
+[^ 12]Evidence of such notice may include written correspondence from the benefit requestor or authorized representative, notice of change of address to the USCIS Contact Center, U.S. Postal Service address correction services, or Alien’s Change of Address Card (Form AR-11). For more information, see theHow to Change Your Addresswebpage.
+
+[^ 13]For examples of what warrants excusing a failure to appear, see Subsection 1, Timely Requests to Reschedule [1 USCIS-PM C.2(A)(1)].
+
+[^ 14]See8 CFR 103.2(b)(13)(ii).
+
+[^ 15]While generally regulations must be followed by an agency as well as the regulated public, courts have allowed agencies some latitude to relax their procedural requirements in the interest of justice. SeeAmerican Farm Lines v. Black Ball Freight Services, 397 U.S. 533, 539 (1970).
+
+[^ 16]For examples of sufficient reasons, see Subsection 1, Timely Requests to Reschedule [1 USCIS-PM C.2(A)(1)].
+
+[^ 17]See8 CFR 103.2(b)(13).
+
+[^ 18]See8 CFR 103.3(a)(1)(i). A denial due to abandonment may not be appealed, but an applicant or petitioner may file a motion to reopen. See8 CFR 103.2(b)(15). A denial due to abandonment may only be reopened in limited circumstances. See8 CFR 103.5(a)(2)(i)-(iii).
+
+[^ 19]See8 CFR 103.2(b)(15).
+
+[^ 20]In some instances, USCIS may use other government agencies to perform remote biometrics collection. See Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act of 1998, Title I,Pub. L. 105-119  (PDF), 111 Stat. 2440, 2447-2448 (November 26, 1997). See8 CFR 103.2(b)(9)and8 CFR 103.16(a).
+
+[^ 21]See8 CFR 103.16and8 CFR 103.2(b).
+
+[^ 22]The USCIS website provides a definition of the termaccommodation; mobile biometrics is only one subset of accommodations. For more information on accommodations generally, see theDisability Accommodations for the Publicwebpage.
+
+[^ 23]See theUSCIS Contact Centerwebpage.
+
+[^ 24]If the person is no longer in custody, he or she must also submit a change of address request on an Alien’s Change of Address Card (Form AR-11) for the appointment to be rescheduled at the new address.
+
+[^ 25]The regulations at8 CFR 204.3(c)(3)allow USCIS to waive the fingerprint requirement for prospective adoptive couples or additional adult members of the prospective adoptive parents’ household when it determines that such adult is “physically unable to be fingerprinted because ofageor medical condition.” (Emphasis added.) As such, solely with respect to Petition to Classify Orphan as an Immediate Relative (Form I-600) and Application for Advance Processing of an Orphan Petition (Form I-600A) adjudications, USCIS must also consider whether the person is unable to be fingerprinted due to age in addition to medical condition.
+
+[^ 26]The officer responsible for overseeing fingerprinting may request that a licensed mental health professional (that is, a psychologist, psychiatrist, or similar practitioner) or a licensed medical practitioner who has responsibility for the person’s care submit reasonable documentation in accordance with the procedure laid out in Part A, Public Services, Chapter 6, Disability Accommodation Requests [1 USCIS-PM-A.6].
+
+[^ 27]For example, affidavits under8 CFR 204.310(b)for an Application for Determination of Suitability to Adopt a Child from a Convention Country (Form I-800A) if the person is “physically unable to comply” with biometrics collection.
+
+[^ 28]For example, Permanent Resident Card (Form I-551) and Employment Authorization Document (Form I-766).
+
+[^ 29]See the relevant form instructions for more information.
+
+H2: Resources
+
+8 CFR 103.16- Collection, use and storage of biometric information
+
+8 CFR 103.2- Submission and adjudication of benefit requests
+
+INA 103,8 CFR 103- Powers and duties of the Secretary, the Under Secretary, and the Attorney General
+
+INA 105- Liaison with internal security officers
+
+INA 335,8 CFR 335- Investigation of applicants, examination of applications
+
+Noformsavailable at this time.
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating guidance in the USCIS Policy Manual to further clarify existing policy on providing mobile biometrics collection services to benefit requestors residing in remote locations within the United States.
+
+1 USCIS-PM C.2-Chapter 2 - Biometrics Collection
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address procedures related to biometric services appointments at an Application Support Center (ASC).
+
+1 USCIS-PM C.2-Chapter 2 - Biometrics Collection
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address mobile biometrics collection and the biometrics collection of benefit requestors in remote locations.
+
+1 USCIS-PM C.2-Chapter 2 - Biometrics Collection
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is incorporating general information on USCIS’ use of photographs as biometrics.
+
+1 USCIS-PM C-Part C - Biometrics Collection and Security Checks
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address the availability of mobile biometrics services and clarify guidance on the validity period for fingerprint waivers.
+
+1 USCIS-PM C.2-Chapter 2 - Biometrics Collection
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

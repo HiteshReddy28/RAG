@@ -1,0 +1,49 @@
+H1: 14.0 Some Questions You May Have About Form I-9
+
+Employers and employees can find more Form I-9 information on I-9 Central atuscis.gov/i-9-central.
+
+1.  Do citizens and noncitizen nationals of the United States need to complete Form I-9?
+
+Yes. While citizens and noncitizen nationals of the United States are automatically eligible for employment, they too must present the required documents and complete Form I-9, Employment Eligibility Verification. U.S. citizens include persons born in the United States, Puerto Rico, Guam, the U.S. Virgin Islands, and the Commonwealth of the Northern Mariana Islands. U.S. noncitizen nationals are persons who owe permanent allegiance to the United States, which include those born in American Samoa, including Swains Island.
+
+2.  Do I need to complete Form I-9 for independent contractors or their employees?
+
+No. For example, if you contract with a construction company to perform renovations on your building, you do not have to complete Form I-9 for that company’s employees. The construction company is responsible for completing Form I-9 for its own employees. However, you may not use a contract, subcontract, or exchange to obtain the labor or services of an employee you know is unauthorized to work.
+
+3.  What happens if I properly complete and retain a Form I-9 and DHS discovers that my employee is not actually authorized to work?
+
+You will have a good faith defense against the imposition of employer sanctions penalties for knowingly hiring an unauthorized individual, unless the government can show you had knowledge of the employee’s unauthorized status.
+
+4.  Can I ask an employee to show a specific document when completing Form I-9?
+
+No. The employee may choose which document(s) they present from the Lists of Acceptable Documents. You must accept any document (from List A) or combination of documents (one from List B and one from List C) listed on Form I-9 and found in Section 13.0 that reasonably appear to be genuine and to relate to the person presenting them. To do otherwise could be an unfair immigration-related employment practice that violates the anti-discrimination provision in the INA. You must not treat individuals who look and/or sound foreign differently in the recruiting, hiring, or verification process.
+
+For more information about discrimination during the Form I-9 process, contact IER’s employer hotline at 800-255-8155 (TTY for the deaf or hard of hearing: 800-237-2515) or visit their website atjustice.gov/ier.
+
+Note:Employers who participate in E-Verify can only accept a List B document if it contains a photograph.
+
+5.  What is my responsibility concerning the authenticity of document(s) an employee presents to me?
+
+You must examine the original documentation, and if it reasonably appears to be genuine and to relate to the person presenting them, you must accept it. To do otherwise could be an unfair immigration-related employment practice. If the documentation does not reasonably appear to be genuine or to relate to the person presenting it, you must not accept it.
+
+However, you must provide the employee with an opportunity to present other documents from the Lists of Acceptable Documents.
+
+6.  May I accept a copy of a document from an employee?
+
+Employers examining employees’ documents in person may only accept original documentation from employees. The only exception is that an employee may present a certified copy of a birth certificate. E-Verify participants in good standing that choose to remotely examine employees’ Form I-9 documentation may accept copies of documentation, but must then view original documentation in a live video interaction, as explained in the Form I-9 instructions and inSection 4.5, Remote Document Examination (Optional Alternative Procedure to Physical Document Examination).
+
+7.  When can employees present receipts for documents in place of actual documents from the Lists of Acceptable Documents?
+
+The “receipt rule” is designed to cover situations in which an employee is authorized to work at the time of initial hire or reverification, but does not have the actual document listed on the Lists of Acceptable Documents.You cannot accept a receipt showing the employee has applied for an initial grant of employment authorization and/or an EAD. SeeSection 4.4, Acceptable Receipts, for more information.
+
+8.  My new employee presented two documents to complete Form I-9, each containing a different last name. One document matches the name she entered in Section 1. The employee explained that she had just gotten married and changed her last name, but had not yet changed the name on the other document. Can I accept the document with the different name?
+
+You may accept a document with a diﬀerent name than the name entered in Section 1 if the document reasonably relates to the employee. You also may attach a brief memo to the employee’s Form I-9 stating the reason for the name discrepancy, along with any supporting documentation she provides. An employee may provide documentation to support a name change, but is not required to do so. If you determine the document containing a different name does not reasonably appear to be genuine and to relate to the employee, you may ask her to provide other documents from the Lists of Acceptable Documents on Form I-9.
+
+9.  The name on the document my employee presented to me is spelled slightly differently than the name they entered in Section 1 of Form I-9. Can I accept this document?
+
+If the document contains a slight spelling variation, and the employee has a reasonable explanation for the variation, the document is acceptable if you are satisfied that the document otherwise reasonably appears to be genuine and to relate to the employee.
+
+10.  My employee’s EAD expired and now they want to show me a Social Security card. Do I need to see a current DHS document?
+
+No. During reverification, you must allow an employee to choose what document to present from either List A or List C. If the employee presents an unrestricted Social Security card, the employee does not also need to present a current DHS document. However, if the employee presents a restricted Social Security card, you must reject it since it is not an acceptable Form I-9 document and ask the employee to choose a diﬀerent document from List A or C.

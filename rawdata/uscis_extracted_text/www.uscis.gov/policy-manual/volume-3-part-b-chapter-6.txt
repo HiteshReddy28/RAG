@@ -1,0 +1,431 @@
+H1: Chapter 6 - Bona Fide Determinations
+
+- Guidance
+
+- Resources (26)
+
+- Appendices (1)
+
+- Updates (4)
+
+H2: A. Bona Fide Determination Process
+
+Federal statutes provide certain benefits to individuals with a bona fide application for T nonimmigrant status.[1]Consequently, USCIS implemented the Bona Fide Determination (BFD) process.[2]Through the BFD process, USCIS may exercise discretion to grant deferred action[3]and a BFD Employment Authorization Document (BFD EAD) to aliens with pending, bona fide applications for T nonimmigrant status. This process promotes victim stability and continued cooperation with law enforcement.
+
+The BFD process contains two steps. In the first step, USCIS determines whether an application is bona fide. This involves determining whether the pending application is complete, and whether the results of initial background checks are complete, have been reviewed, and do not present national security concerns. In the second step, USCIS considers whether to grant deferred action and employment authorization as part of the discretionary determination, considering all relevant factors.[4]
+
+If USCIS grants the applicant deferred action as a result of the BFD process, USCIS then also exercises its discretion to grant that applicant a BFD EAD for the duration of the deferred action period. If the annual cap[5]on available visas has been met, USCIS places all applications that have been issued a BFD on the waiting list. Once an application is on the waiting list, the next step is final adjudication when a visa becomes available.
+
+Only applicants living in the United States may receive deferred action, since those outside the United States have no potential removal to be deferred. Likewise, USCIS may only issue BFD EADs to applicants in the United States since those outside the United States cannot as a practical matter work in the United States.[6]
+
+H2: B. Bona Fide Determination
+
+Bona fide generally means “made in good faith; without fraud or deceit.”[7]Accordingly, when interpreting the statutory term within the context of T nonimmigrant status, USCIS determines whether an application is bona fide based on the applicant’s compliance with initial evidence requirements and successful completion of background checks.
+
+H3: 1. Principal Applicants
+
+USCIS determines a principal application is bona fide if:
+
+- The principal applicant properly filed a complete Application for T Nonimmigrant Status (Form I-914); and
+
+- USCIS received and reviewed the results of the principal applicant’s initial background checks and determined that the applicant does not present national security concerns.[8]
+
+H3: 2. Eligible Family Members
+
+An eligible family member is not guaranteed a BFD solely because the principal applicant receives a BFD.[9]The record must independently demonstrate the Application for Derivative T Nonimmigrant Status (Form I-914, Supplement A) is bona fide.
+
+USCIS determines an eligible family member’s application is bona fide when:
+
+- USCIS determined the principal applicant’s Form I-914 is bona fide;
+
+- The derivative applicant properly filed a complete Application for Derivative T Nonimmigrant Status (Form I-914, Supplement A);
+
+- The application is supported by credible evidence that the derivative applicant qualifies as an eligible family member; and
+
+- USCIS received and reviewed the results of the derivative applicant’s initial background checks and determined that the applicant does not present national security concerns.[10]
+
+H2: C. Exercise of Discretion
+
+Once USCIS determines an application is bona fide, USCIS then considers whether the applicant poses a risk to public safety or national security. USCIS makes this determination based on background and security checks results from biometrics, any additional background check information, and review of any other relevant discretionary factors. For individuals who are required to provide biometrics, USCIS does not make this discretionary determination until it has received the results of the biometrics-based background and security checks.
+
+USCIS uses the results of the background checks and other information in the record to make the discretionary determination of whether deferred action is warranted. During secondary review,[11]USCIS also uses such information to determine whether an applicant is admissible for the purposes of receiving a grant of T nonimmigrant status or merits a favorable exercise of discretion to waive any grounds of inadmissibility.
+
+USCIS may choose not to exercise its discretion to grant deferred action and a BFD EAD where an applicant appears to pose a risk to national security or public safety or presents other negative discretionary factors.
+
+H3: 1. National Security and Public Safety Concerns
+
+Where a principal applicant or eligible family member has been convicted of or arrested for certain acts, USCIS may not issue deferred action and a BFD EAD and instead may proceed to secondary review, which involves a full adjudication of T nonimmigrant eligibility for the principal applicant and any family members.
+
+The following concerns generally overlap with inadmissibility grounds[12]and may include:
+
+- National security concerns;[13]and
+
+- Public safety concerns, which include but are not limited to:Murder, rape, or sexual abuse;Offenses involving firearms, explosive materials, or destructive devices;[14]Offenses relating to peonage, slavery, involuntary servitude, and trafficking in persons;[15]Aggravated assault;An offense relating to child pornography; andManufacturing, distributing, or selling of drugs or narcotics.[16]
+
+- Murder, rape, or sexual abuse;
+
+- Offenses involving firearms, explosive materials, or destructive devices;[14]
+
+- Offenses relating to peonage, slavery, involuntary servitude, and trafficking in persons;[15]
+
+- Aggravated assault;
+
+- An offense relating to child pornography; and
+
+- Manufacturing, distributing, or selling of drugs or narcotics.[16]
+
+- Murder, rape, or sexual abuse;
+
+- Offenses involving firearms, explosive materials, or destructive devices;[14]
+
+- Offenses relating to peonage, slavery, involuntary servitude, and trafficking in persons;[15]
+
+- Aggravated assault;
+
+- An offense relating to child pornography; and
+
+- Manufacturing, distributing, or selling of drugs or narcotics.[16]
+
+USCIS may determine that other adverse factors beyond those listed above weigh against a favorable exercise of discretion.
+
+However, USCIS may also exercise discretion favorably notwithstanding the above concerns if warranted based on the totality of the circumstances.
+
+H3: 2. Comprehensive Review of Adverse Factors During Secondary Review
+
+Recognizing that many factors may influence whether criminal activity is prosecuted and results in a conviction, an arrest for a serious crime may be relevant to whether USCIS should exercise its discretion favorably. Therefore, a determination about whether to favorably exercise discretion when there are any adverse concerns requires a comprehensive review of the available evidence. For example, officers may need to request additional evidence or information in certain cases where security checks indicate that an applicant has an arrest record.
+
+USCIS does not conduct this in-depth, discretionary review during the BFD process. Instead, if USCIS determines that an applicant’s case presents relevant adverse factors that would require further review, USCIS proceeds to secondary review, which is a full T nonimmigrant status eligibility adjudication. During the full adjudication of the Form I-914, applicants have the opportunity to provide USCIS with potentially mitigating information or other evidence pertaining to arrests or convictions.
+
+H2: D. Adjudicative Process
+
+H3: 1. Bona Fide Determination
+
+When USCIS determines a principal applicant and any eligible family members have a bona fide application and warrant a favorable exercise of discretion, USCIS may grant deferred action and issues a BFD EAD.
+
+H3: 2. Prima Facie Case for Approval
+
+Where USCIS determines that an application is bona fide, the applicant is also considered to have established a prima facie case for approval for purposes of an administrative stay of removal.[17]The term “prima facie” refers to an application appearing sufficient on its face.
+
+The steps taken to determine whether an application is bona fide and whether an applicant may receive deferred action through the BFD process rely on the initial evidence submitted with an application for T nonimmigrant status, as well as the results of background checks. The determination of whether an applicant is eligible for T nonimmigrant status is a more complex evaluation.
+
+Impact of Past Grants on Future Determinations
+
+An initial grant or renewal of deferred action and issuance of a BFD EAD does not guarantee that USCIS will approve the principal applicant or their eligible family members for T nonimmigrant status.
+
+When the application is under final adjudication, an officer assesses eligibility requirements for T nonimmigrant status. This adjudication does not include consideration of prior grants of deferred action or BFD EAD.
+
+H3: 3. Secondary Review
+
+A determination that an applicant will not receive deferred action and a BFD EAD is not a denial ofForm I-914or the Application for Employment Authorization (Form I-765). USCIS does not accept or process motions to reopen or reconsider, appeals,[18]or requests to re-apply for deferred action and a BFD EAD.
+
+When USCIS determines an application does not initially appear to be bona fide or does not merit a favorable exercise of discretion, USCIS proceeds to secondary review of the application, which consists of a full adjudication of T nonimmigrant status eligibility.[19]
+
+H3: 4. BFD EAD Issuance
+
+Previously Filed Applications for Employment Authorization
+
+USCIS uses the pendingForm I-765filed by a principal or derivative applicant under the T visa employment authorization category[20]to issue a BFD EAD. Using the pending application limits the burden on applicants to file additional paperwork.
+
+Once USCIS has determined that an applicant present in the United States has a bona fide application for T nonimmigrant status and merits a favorable exercise of discretion, and therefore may receive deferred action and a BFD EAD, USCIS issues a notice to inform the applicant of the decision.[21]
+
+Applicants who have already filed aForm I-765receive a grant of deferred action and an EAD valid for 4 years from the date of approval of the Form I-765.
+
+Application for Employment Authorization Needed
+
+Where an applicant has filed a bona fide application for T nonimmigrant status but has not filed an accompanyingForm I-765under the relevant category, USCIS issues a notice indicating that the applicant has received a BFD and may receive a BFD EAD. To obtain an EAD, the applicant must file a Form I-765 after receiving this notice.
+
+Applicants who file a new Form I-765 after receiving the BFD notice from USCIS may receive deferred action and employment authorization valid for 4 years from the date of approval of the Form I-765.
+
+Applicants who do not file a Form I-765 in conjunction with their application for T nonimmigrant status will likely experience delays in receiving any deferred action and BFD EAD. As such, USCIS strongly encourages all applicants to file their Form I-765 at the same time as their application for T nonimmigrant status to ensure efficient processing.
+
+H3: 5. Eligible Family Members Residing Outside of the United States
+
+USCIS only issues deferred action and BFD EADs to eligible family members living in the United States. As deferred action is an exercise of prosecutorial discretion to make an alien a lower priority for removal from the United States, it is only applicable to aliens in the United States. Additionally, USCIS only has authority over alien employment authorization in the United States.[22]
+
+Because the BFD EAD is only for applicants living in the United States, eligible family members who live outside of the United States proceed to full adjudication when the principal’s application has been fully adjudicated.
+
+H2: E. Post Adjudicative Actions
+
+H3: 1. Requests to Renew Deferred Action and BFD EAD
+
+An applicant who requires a renewal of the grant of the BFD EAD and deferred action while their application for T nonimmigrant status remains pending may submit a request to renew the EAD under existing procedures. USCIS reviews the application for the BFD EAD and considers whether deferred action and employment authorization are still warranted as a matter of discretion.
+
+An initial BFD EAD grant does not guarantee future renewals. Principal applicants and eligible family members are evaluated independently for each deferred action and EAD renewal to ensure that the grant of deferred action and BFD EAD are still warranted as a matter of discretion.
+
+H3: 2. Background and Security Checks
+
+USCIS updates and reviews background and security checks at regular intervals during the validity period of a principal applicant or eligible family member’s deferred action. Additionally, USCIS retains discretion to update background and security checks at any time when case-specific circumstances warrant.
+
+During those reviews, USCIS evaluates whether the applicant and eligible family members who have been granted deferred action and BFD EADs continue to merit a favorable exercise of discretion while their applications for T nonimmigrant status are pending with USCIS.
+
+If USCIS determines that adverse information may impact a principal applicant’s or eligible family member’s ability to maintain deferred action and a BFD EAD, USCIS places the application in line for a full adjudication.
+
+H3: 3. Termination and Revocation
+
+USCIS may terminate the grant of deferred action and revoke the BFD EAD[23]at any time if it determines the favorable exercise of discretion or BFD EAD are no longer warranted, or the prior deferred action and BFD EAD were granted in error. For example, USCIS may terminate deferred action and revoke the BFD EAD if USCIS identifies any adverse information, such as new information pertaining to the risks the applicant poses to national security or public safety, or any other relevant adverse discretionary factor.
+
+H2: Footnotes
+
+[^ 1]See22 U.S.C. 7105(b)(1)(E)(i)(II)(aa). SeeINA 237(d)(1)(authorizing the Secretary of Homeland Security to grant an administrative stay of removal to an individual whose application for T nonimmigrant status sets forth a “prima facie case for approval,” until the application is approved or there is a final administrative denial after exhaustion of administrative appeals; “prima facie” is encompassed by the bona fide determination described at8 CFR 214.205).
+
+[^ 2]See8 CFR 214.205. USCIS implemented the bona fide determination (BFD) process on August 28, 2024, the effective date of the Classification for Victims of Severe Forms of Trafficking in Persons; Eligibility for “T” Nonimmigrant Status Final Rule. See89 FR 34864(Apr. 30, 2024). USCIS applies the BFD process to all applications for T nonimmigrant status filed on or after August 28, 2024. However, if an application was pending as of that date, and additional evidence is required to establish eligibility for principal T nonimmigrant status, USCIS conducts a bona fide review. In such cases, USCIS issues a Request for Evidence informing the applicant that they may be eligible for deferred action and an EAD and may file an Application for Employment Authorization (Form I-765).
+
+[^ 3]INA 103(a)grants the Secretary of Homeland Security the authority to administer and enforce the immigration laws and6 U.S.C. 202(5)provides authority to set national immigration enforcement policies and priorities. Decisions made to either initiate or terminate enforcement proceedings are under the purview of the executive branch,and therefore fall within DHS’s authority. SeeHeckler v. Chaney, 470 U.S. 821, 831 (1985). The executive branch has exercised its discretion to grant deferred action, and the federal courts have consistently recognized the existence of this authority, since the mid-1970s. See, for example,Soon Bok Yoon v. INS, 538 F.2d 1211, 1213 (5th Cir. 1976);Vergel v. INS, 536 F.2d 755, 757-58 (8th Cir. 1976); andNicholas v. INS, 590 F.2d 802, 806-08 (9th Cir. 1979), superseded by rule on other grounds, as stated inRomeiro de Silva v. Smith, 773 F.2d 1021, 1024 (9th Cir. 1985).
+
+[^ 4]In exercising its discretion, USCIS may consider the results of background checks resulting from biometrics submission, which is required for principal applicants under8 CFR 214.204(k)as well as eligible family members under8 CFR 214.211(c)(1).
+
+[^ 5]See Chapter 8, Annual Cap and Waiting List [3 USCIS-PM B.8].
+
+[^ 6]SeeINA 274A. See8 CFR 274a.12(a)-(c)(referring to employment in the United States).
+
+[^ 7]See Black’s Law Dictionary (12th ed. 2024).
+
+[^ 8]See8 CFR 214.205.
+
+[^ 9]Generally, USCIS will not consider an eligible family member for deferred action and employment authorization until the principal applicant has received deferred action and employment authorization, unless there is an operational reason to process a derivative after the principal receives a BFD but before they receive deferred action and employment authorization, such as resource management.
+
+[^ 10]SeeINA 212(a)(3).
+
+[^ 11]Secondary review occurs when an application does not initially appear bona fide, and consists of a full adjudication.
+
+[^ 12]SeeINA 212(a).
+
+[^ 13]As listed inINA 212(a)(3).
+
+[^ 14]Such as those defined inINA 101(a)(43)(C)andINA 101(a)(43)(E).
+
+[^ 15]As defined inINA 101(a)(43)(K)(iii).
+
+[^ 16]This includes acts defined inINA 101(a)(43)(B).
+
+[^ 17]INA 237(d)(1).
+
+[^ 18]Because deferred action is by its nature an exercise of prosecutorial discretion and not an immigration benefit as defined in8 CFR 1.2, the agency does not have a process to file an administrative appeal or a motion to reopen or to reconsider. The decision not to exercise favorable prosecutorial discretion is appropriately an action within USCIS’ sole and unreviewable discretion. In addition, appeals are not available to applicants who have been denied employment authorization under8 CFR 274a.13(c). The lack of an appeals process for BFD EADs aligns with regulatory practice pertaining to employment authorization generally.
+
+[^ 19]See Chapter 7, Adjudication [3 USCIS-PM B.7].
+
+[^ 20]See8 CFR 274a.12(a)(16)and8 CFR 274a.12(c)(25).
+
+[^ 21]For applicants for T nonimmigrant status whose applications have been deemed bona fide, BFD EADs are issued under8 CFR 274a.12(c)(40).
+
+[^ 22]SeeINA 274A.
+
+[^ 23]See8 CFR 274a.14(b).
+
+H2: Resources
+
+22 CFR 41.84- Victims of trafficking in persons
+
+22 U.S.C. 7105(b)(1)- Assistance for victims of trafficking in the United States
+
+28 CFR 1100.35- Authority to permit continued presence in the United States for victims of severe forms of trafficking in persons
+
+8 CFR 103.2- Submission and adjudication of benefit requests
+
+8 CFR 212.16- Applications for exercise of discretion relating to T nonimmigrant status
+
+8 CFR 214 Subpart C- Noncitizen Victims of Severe Forms of Trafficking in Persons
+
+8 CFR 214.11- Victims of severe forms of trafficking in persons
+
+8 CFR 274a.12(a)(16)- Employment authorization
+
+8 CFR 274a.12(c)(25)- Employment authorization
+
+8 CFR 274a.13(c)- Denial of application for employment authorization
+
+8 CFR 274a.14(b)- Revocation of employment authorization
+
+8 U.S.C. 1367- Penalties for disclosure of information
+
+INA 101(a)(15)(T)- Definitions, T visa criteria
+
+INA 101(a)(43)- Definition of aggravated felony
+
+INA 101(i)- Referral to nongovernmental organizations and employment authorization
+
+INA 103(a)- Powers and duties of the Secretary, the Under Secretary, and the Attorney General
+
+INA 212(d)(13);8 CFR 212.18- Waivers of inadmissibility
+
+INA 212(d)(3)(A)(ii);8 CFR 212.18- Waivers of inadmissibility
+
+INA 214(o)- Nonimmigrants guilty of trafficking in persons, numerical limitations, and length and extension of status
+
+INA 237(d)- Administrative stay of final order of removal
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-912, Request for Fee Waiver
+
+I-914, Application for T Nonimmigrant Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+The following cases may be relevant to T nonimmigrant status eligibility issues and adjudications.
+
+Threats of harm or serious harm:
+
+United States v. Dann                           (PDF), 652 F.3d 1160, 1170 (9th Cir. 2011) (Threats should be considered from the vantage point of a reasonable person in the place of the victim and must be sufficiently serious to compel that person to remain.).
+
+United States v. Farrell, 563 F.3d 364, 372 n.3 (8th Cir. 2009) (“Jury Instruction 16 defined ‘involuntary servitude’ as follows: ‘[A] condition of compulsory service in which the alleged victim is compelled to perform labor or services against the alleged victim's will for the benefit of another person due to the use or threat of physical restraint or physical injury, or by the use or threat of arrest, prosecution, or imprisonment. . . The use or threat of a civil lawsuit does not make the labor involuntary.’”).
+
+United States v. Djoumessi(PDF), 538 F.3d 547 (6th Cir. 2008) (“The term ‘involuntary servitude’ necessarily means a condition of servitude in which the victim is forced to work for the defendant by the use or threat of physical restraint or physical injury, or by the use or threat of coercion through law or the legal process. This definition encompasses those cases in which the defendant holds the victim in servitude by placing the victim in fear of such physical restraint or injury or legal coercion.”) (quotingUnited States v. Kozminski, 487 U.S. 931, 952 (1988)).
+
+United States v. Bradley                           (PDF), 390 F.3d 145, 153 (1st Cir. 2004), cert. granted, judgment vacated, 545 U.S. 1101 (2005) (The use of “physical restraint; such as, the use of chains, barbed wire, or locked doors,” is not required in order to establish the offense of forced labor.).
+
+United States v. Warren                           (PDF), 772 F.2d 827, 834 (11th Cir. 1985) (“That the worker had the opportunity to escape is of no moment, if the defendant has placed him in such fear of physical harm that he is afraid to leave.”).
+
+United States v. Udeozor                           (PDF), 515 F.3d 260, 265 (4th Cir. 2008) (in upholding conviction for involuntary servitude, finding that sexual abuse of the victim was one of the forms of force used to keep the minor victim in the condition of involuntary servitude).
+
+Abuse or threatened abuse of legal process:
+
+Clyatt v. United States                           (PDF), 197 U.S. 207 (1905) (victim was coerced by threat of legal sanction to work off a debt to a master).
+
+United States v. Reynolds                           (PDF), 235 U.S. 133 (1914) (when breach of the labor contract is criminalized, requiring a misdemeanor offender to work for a surety who would, in turn, pay the convict’s fine to the state, the condition of peonage is created).
+
+Pollock v. Williams                           (PDF), 322 U.S. 4 (1944) (“[The State] must respect the constitutional and statutory command that it may not make failure to labor in discharge of a debt any part of a crime. It may not directly or indirectly command involuntary servitude, even if it was voluntarily contracted for.”).
+
+Bailey v. Alabama                           (PDF), 219 U.S. 219 (1911) (subjecting debtors to prosecution and criminal punishment for failing to perform labor after receiving an advance payment).
+
+United States v. Kozminski                           (PDF), 487 U.S. 931, 945 (1988) (recognizing that threatening an incompetent with institutionalization or an immigrant with deportation could constitute the threat of legal coercion).
+
+United States v. Kaufman                           (PDF), 546 F.3d 1242, 1265 (10th Cir. 2008) (recognizing that a variety of methods of coercion including threats of institutionalization were used to compel victim who suffered serious mental illness to perform farm work in the nude).
+
+United States v. Farrell, 563 F.3d 364, 372-73 (8th Cir. 2009) (in upholding conviction for peonage, finding that employers used threats of arrest and imprisonment based on the victim’s lack of immigration status).
+
+United States v. Djoumessi                           (PDF), 538 F.3d 547, 553 (6th Cir. 2008) (upholding involuntary servitude conviction when coercion involved threats of deportation to Cameroon which victim considered the greatest threat against her because of the conditions there and her desire to help her family through opportunities in the United States).
+
+United States v. Veerapol, 312 F.3d 1128, 1130-31 (9th Cir. 2002) (upholding involuntary servitude conviction and noting that the employer maintained control over Thai restaurant workers through a variety of methods of coercion, including threats of imprisonment based on the workers’ lack of immigration status).
+
+United States v. Calimlim, 538 F.3d 706, 713 (7th Cir. 2008) (finding that the employer’s actions of keeping victim’s passport, never admitting they were violating law, or offering to try and regularize the worker’s presence in the United States and implicit threats that she may be subject to deportation proceedings constituted “abuse of law”).
+
+United States v. Calimlim, 538 F.3d 706, 713 (7th Cir. 2008) (rejecting employer’s arguments that threatening deportation was not an “abuse of law” because worker was here without immigration status and thus subject to deportation and finding employers’ threats were directed to an end different from those envisioned by the law and were thus an abuse of legal process).
+
+Nunag-Tanedo v. E. Baton Rouge Par. Sch. Bd., 790 F. Supp. 2d 1134, 1144 (C.D. Cal. 2011) (citing principle that abuse of legal process occurs when objective for threats is to intimidate and coerce forced labor).
+
+Ruiz v. Fernandez, 949 F. Supp. 2d 1055, 1077 (E.D. Wash. 2013) (rejecting defendants’ arguments that threats to report H2A Chilean sheepherders were justified because, if workers left the ranch without being assigned to another member ranch, they would be in violation of their temporary work visas. Workers testified that threats were made almost daily and were apparently made in relation to victims' general willingness to do specific work on the ranch rather any sort of expressed intent to leave the ranch without obtaining a transfer.).
+
+Elat v. Ngoubene                           (PDF), 993 F. Supp. 2d 497, 526 (D. Md. 2014) (citingCamayo v. John Peroulis & Sons Sheep, Inc., Nos. (D. Colo. Sept. 24, 2012)) (Threats of deportation can constitute an abuse of the legal process if they are an abuse of the process).
+
+Debt bondage:
+
+United States v. Farrell, 563 F.3d 364, 372-73 (8th Cir. 2009) (The workers’ relationship with their employers was more akin to one of debt bondage rather than simple debt. Given the continually mounting expenses, at no point was the value of the workers' labor sufficient to liquidate the debt and there was, in effect, no limit to the length of the services required to satisfy the obligation or even a limit on the amount owed.).
+
+Compensation for labor:
+
+United States v. Bradley                           (PDF), 390 F.3d 145, 153 (1st Cir. 2004), cert. granted, judgment vacated, 545 U.S. 1101 (2005).  (“If a person is compelled to labor against his will by any one of the means prohibited by the forced labor statute, such service is forced, even if he is paid or compensated for the work.”).
+
+Non-traditional types of work:
+
+United States v. Kaufman                           (PDF), 546 F.3d 1242, 1263 (10th Cir. 2008) (noting that involuntary servitude and forced labor statutes do not apply only to coerced “work in an economic sense” and would include coerced acts such as requiring patients to engage in compelled sexual activity, including masturbation, genital shaving, and frequent nudity, much of which was videotaped).
+
+United States v. Marcus                           (PDF), 487 F.Supp.2d 289 (E.D.N.Y. 2007), vacated on other grounds, 538 F.3d 97 (2d Cir. 2008) (Enslavement can arise even if the initial participation in the labor was part of a consensual alternative sexual relationship.).
+
+Duration of victimization:
+
+United States v. Pipkins, 378 F.3d 1281, 1297 (11th Cir. 2004), cert. granted, judgment vacated, 544 U.S. 902 (2005), and opinion reinstated, 412 F.3d 1251 (11th Cir. 2005). (“Section 1584 requires that involuntary servitude be for ‘any term,’ which suggests that the temporal duration can be slight.”).
+
+United States v. Djoumessi                           (PDF), 538 F.3d 573, 552-53 (6th Cir. 2008) (“Even assuming there were moments during [victim’s] stay when she had an opportunity to escape […] Djoumessi's argument still falls short because a rational trier of fact could conclude that [victim’s] labor was involuntary for at least some portion of her stay. And that involuntary portion would suffice to sustain the conviction.”).
+
+United States v. Dann                           (PDF), 652 F.3d 1160, 1167 (9th Cir. 2001) (The charge of forced labor need not apply to the entire duration of the victim’s services or labor. It could be applied to only a portion of the time.).
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to incorporate changes from the Classification for Victims of Severe Forms of Trafficking in Persons; Eligibility for “T” Nonimmigrant Status Final Rule (T Final Rule), including updated citations, new definitions, and clarifications.
+
+3 USCIS-PM B.1-Chapter 1 - Purpose and Background
+
+3 USCIS-PM B.2-Chapter 2 - Eligibility Requirements
+
+3 USCIS-PM B.3-Chapter 3 - Documentation and Evidence for Principal Applicants
+
+3 USCIS-PM B.4-Chapter 4 - Family Members
+
+3 USCIS-PM B.5-Chapter 5 - Documentation and Evidence for Family Members
+
+3 USCIS-PM B.6-Chapter 6 - Bona Fide Determinations
+
+3 USCIS-PM B.7-Chapter 7 - Adjudication
+
+3 USCIS-PM B.8-Chapter 8 - Annual Cap and Waiting List
+
+3 USCIS-PM B.9-Chapter 9 - Applicants in Removal Proceedings
+
+3 USCIS-PM B.10-Chapter 10 - Duration and Extensions of Status
+
+3 USCIS-PM B.11-Chapter 11 - Federal Benefits and Work Authorization
+
+3 USCIS-PM B.12-Chapter 12 - Travel Outside the United States
+
+3 USCIS-PM B.13-Chapter 13 - Revocation of Status
+
+9 USCIS-PM O.2-Chapter 2 - Waivers for Victims of Trafficking
+
+9 USCIS-PM O.3-Chapter 3 - INA 212(d)(13) Waivers
+
+9 USCIS-PM O.5-Chapter 5 - Waivers for T Nonimmigrants Applying for Adjustment of Status
+
+9 USCIS-PM O.6-Chapter 6 - Adjudication and Post-Adjudication Matters
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual regarding the adjudication of applications for T nonimmigrant status for victims of severe forms of trafficking in persons.
+
+3 USCIS-PM B-Part B - Victims of Trafficking
+
+9 USCIS-PM O-Part O - Victims of Trafficking
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

@@ -1,0 +1,255 @@
+H1: Chapter 2 - Waivers for Victims of Trafficking
+
+- Guidance
+
+- Resources (12)
+
+- Appendices (0)
+
+- Updates (6)
+
+H2: A. Inadmissibility
+
+Victims of a severe form of trafficking in persons applying for T nonimmigrant status[1]must demonstrate that they are admissible to the United States.[2]This is also true for applicants for derivative T nonimmigrant status.[3]
+
+Applicants for T nonimmigrant status are not subject to the public charge ground of inadmissibility.[4]
+
+If an applicant is subject to one or more grounds of inadmissibility, the applicant may apply for a discretionary waiver of the ground(s) by filing an Application for Advance Permission to Enter as a Nonimmigrant (Form I-192).[5]If the applicable standard is met and a favorable exercise of discretion is warranted, USCIS may waive all inadmissibility grounds for applicants for T nonimmigrant status under eitherINA 212(d)(3)(A)(ii)orINA 212(d)(13), except:
+
+- Espionage or sabotage -INA 212(a)(3)(A)(i)(I);
+
+- Any other security-related unlawful activity -INA 212(a)(3)(A)(ii);
+
+- Overthrow of the U.S. government -INA 212(a)(3)(A)(iii);
+
+- Adverse foreign policy impact -INA 212(a)(3)(C); and
+
+- Participants in Nazi persecution or genocide -INA 212(a)(3)(E)(i)-(ii).[6]
+
+H2: B. Waivers
+
+H3: 1. Waiver Authority
+
+For T nonimmigrant applicants, waivers are available under two sections of the Immigration and Nationality Act (INA):
+
+- INA 212(d)(13), which provides USCIS with discretion to waive grounds of inadmissibility specific to T nonimmigrant status applications; and
+
+- INA 212(d)(3)(A)(ii), which provides USCIS discretion to waive certain grounds of inadmissibility for nonimmigrants based on a general balancing of positive and negative discretionary factors.
+
+The table below outlines common grounds of inadmissibility USCIS encounters for which a waiver is requested under these two legal authorities. If an applicant meets the requirements of the legal standard, the officer must also determine whether to approve the waiver as a matter of discretion.[7]
+
+TABLE:
+Inadmissibility Ground | Waiver Available? | Legal Authority and Standard
+Health-related (INA 212(a)(1)) | Yes | In the national interest (INA 212(d)(13)(B)(i))General balancing of positive and negative discretionary factors (INA 212(d)(3)(A)(ii))
+Unlawful presence bars (INA 212(a)(9)(A)andINA 212(a)(9)(C)(i)(II))Illegal entrants and immigration violators (INA 212(a)(6))Documentation requirements (INA 212(a)(7)) | Yes | In the national interest and connection to victimization (INA 212(d)(13)(B)(ii))General balancing of positive and negative discretionary factors (INA 212(d)(3)(A)(ii))
+Criminal grounds (INA 212(a)(2)) | Yes | In the national interest and connection to victimization (INA 212(d)(13)(B)(ii))General balancing of positive and negative discretionary factors (INA 212(d)(3)(A)(ii))
+Terrorist activities (INA 212(a)(3)(B))Terrorist organization membership (INA 212(a)(3)(F)) | Yes | General balancing of positive and negative discretionary factors (INA 212(d)(3)(A)(ii))
+Other security-related unlawful activity (INA 212(a)(3)(A)(ii)) | No | Grounds of inadmissibility (INA 212(a))
+
+- Health-related (INA 212(a)(1))
+
+In the national interest (INA 212(d)(13)(B)(i))
+
+General balancing of positive and negative discretionary factors (INA 212(d)(3)(A)(ii))
+
+- Unlawful presence bars (INA 212(a)(9)(A)andINA 212(a)(9)(C)(i)(II))
+
+- Illegal entrants and immigration violators (INA 212(a)(6))
+
+- Documentation requirements (INA 212(a)(7))
+
+In the national interest and connection to victimization (INA 212(d)(13)(B)(ii))
+
+General balancing of positive and negative discretionary factors (INA 212(d)(3)(A)(ii))
+
+- Criminal grounds (INA 212(a)(2))
+
+In the national interest and connection to victimization (INA 212(d)(13)(B)(ii))
+
+General balancing of positive and negative discretionary factors (INA 212(d)(3)(A)(ii))
+
+- Terrorist activities (INA 212(a)(3)(B))
+
+- Terrorist organization membership (INA 212(a)(3)(F))
+
+- Other security-related unlawful activity (INA 212(a)(3)(A)(ii))
+
+H2: Footnotes
+
+[^ 1]For more information about T nonimmigrant status, see Volume 3, Humanitarian Protection and Parole, Part B, Victims of Trafficking [3 USCIS-PM B].
+
+[^ 2]SeeINA 212(a). See8 CFR 214.1(a)(3)(i).
+
+[^ 3]See8 CFR 214.211(a).
+
+[^ 4]SeeINA 212(d)(13)(A). See8 CFR 212.16(b).
+
+[^ 5]SeeINA 212(d)(13)(B). See8 CFR 212.16.
+
+[^ 6]SeeINA 212(d)(13)(B)andINA 212(d)(3)(A)(ii).
+
+[^ 7]See Part A, Waiver Policies and Procedures, Chapter 5, Discretion [9 USCIS-PM A.5].
+
+H2: Resources
+
+8 CFR 212.16- Applications for exercise of discretion relating to T nonimmigrant status
+
+8 CFR 212.7- Waiver of certain grounds of inadmissibility
+
+8 U.S.C. 1367- Penalties for disclosure of information
+
+INA 212(a)(3)- Security and related grounds of inadmissibility
+
+INA 212(d)(13);8 CFR 212.18- Waivers of inadmissibility
+
+INA 212(d)(3)(A)(ii);8 CFR 212.18- Waivers of inadmissibility
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-192, Application for Advance Permission to Enter as a Nonimmigrant
+
+I-601A, Application for Provisional Unlawful Presence Waiver
+
+I-914, Application for T Nonimmigrant Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to incorporate changes from the Classification for Victims of Severe Forms of Trafficking in Persons; Eligibility for “T” Nonimmigrant Status Final Rule (T Final Rule), including updated citations, new definitions, and clarifications.
+
+3 USCIS-PM B.1-Chapter 1 - Purpose and Background
+
+3 USCIS-PM B.2-Chapter 2 - Eligibility Requirements
+
+3 USCIS-PM B.3-Chapter 3 - Documentation and Evidence for Principal Applicants
+
+3 USCIS-PM B.4-Chapter 4 - Family Members
+
+3 USCIS-PM B.5-Chapter 5 - Documentation and Evidence for Family Members
+
+3 USCIS-PM B.6-Chapter 6 - Bona Fide Determinations
+
+3 USCIS-PM B.7-Chapter 7 - Adjudication
+
+3 USCIS-PM B.8-Chapter 8 - Annual Cap and Waiting List
+
+3 USCIS-PM B.9-Chapter 9 - Applicants in Removal Proceedings
+
+3 USCIS-PM B.10-Chapter 10 - Duration and Extensions of Status
+
+3 USCIS-PM B.11-Chapter 11 - Federal Benefits and Work Authorization
+
+3 USCIS-PM B.12-Chapter 12 - Travel Outside the United States
+
+3 USCIS-PM B.13-Chapter 13 - Revocation of Status
+
+9 USCIS-PM O.2-Chapter 2 - Waivers for Victims of Trafficking
+
+9 USCIS-PM O.3-Chapter 3 - INA 212(d)(13) Waivers
+
+9 USCIS-PM O.5-Chapter 5 - Waivers for T Nonimmigrants Applying for Adjustment of Status
+
+9 USCIS-PM O.6-Chapter 6 - Adjudication and Post-Adjudication Matters
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual regarding the adjudication of applications for T nonimmigrant status for victims of severe forms of trafficking in persons.
+
+3 USCIS-PM B-Part B - Victims of Trafficking
+
+9 USCIS-PM O-Part O - Victims of Trafficking
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

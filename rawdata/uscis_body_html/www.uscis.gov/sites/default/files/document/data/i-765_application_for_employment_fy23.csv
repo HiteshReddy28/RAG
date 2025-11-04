@@ -1,0 +1,88 @@
+<body><p>Form I-765 Application for Employment Authorization,,,,,,,,,,,,,,,,
+"All Receipts, Approvals, Denials Grouped by  Eligibility Category and Filing Type",,,,,,,,,,,,,,,,
+Fiscal Year 2023,,,,,,,,,,,,,,,,
+EAD Eligibility Category,EAD  Category Description,Application for EAD-Initial,,,Application for EAD-Renewal,,,Application for EAD-Replacement,,,Application for EAD-Not Requested,,,TOTAL,,
+,,Receipt1,Approval2,Denial3,Receipt1,Approval2,Denial3,Receipt1,Approval2,Denial3,Receipt1,Approval2,Denial3,Receipt1,Approval2,Denial3
+Total,,"2,366,927","2,033,620","337,893","1,119,505","963,148","86,378","22,750","16,343","3,239",20,-,-,"3,509,202","3,013,111","427,510"
+A024,TEMPORARY RESIDENT 245A,202,2,13,24,3,7,1,-,-,-,-,-,227,5,20
+A03,ADMITTED AS REFUGEE SEC. 207,"61,146","48,646",610,"1,162",786,398,142,92,49,-,-,-,"62,450","49,524","1,057"
+A04,PAROLED AS A REFUGEE,"8,015",34,"2,312",41,3,48,9,-,17,-,-,-,"8,065",37,"2,377"
+A054,GRANTED ASYLUM SEC. 208,"47,226","38,935","1,116","9,249","6,561","2,208",264,170,49,-,-,-,"56,739","45,666","3,373"
+A06,FIANCE K-1 OR K-2 NONIMMIGRANT,"1,226",15,305,13,-,8,2,-,3,-,-,-,"1,241",15,316
+A07,N-8 OR N-9 NONIMMIGRANT,175,7,186,37,27,11,1,-,1,-,-,-,213,34,198
+A084,ALIENS FROM PACIFIC ISLANDS,332,185,290,131,97,95,4,3,2,-,-,-,467,285,387
+A09,K3/K4 NONIMMIGRANT,776,10,132,57,-,18,9,-,3,-,-,-,842,10,153
+A10,GRANTED WITHHOLDING/243(H),"2,567","2,107","2,301","4,070","8,502",390,85,95,6,-,-,-,"6,722","10,704","2,697"
+A11,GRANTED DED/EVD,707,703,108,272,236,18,12,8,1,-,-,-,991,947,127
+A124,GRANTED TPS,"43,952","38,548","2,783","222,474","41,525",696,"1,421",540,59,16,-,-,"267,863","80,613","3,538"
+A13,GRANT VOL DEP UNDER FAMILY UNITY BENEFIT,23,-,10,23,1,23,1,1,-,-,-,-,47,2,33
+A14,LIFE SPSE /CHILD OF LPR FILED I130 36 MO,16,-,2,3,-,1,-,-,-,-,-,-,19,0,3
+A15,V NONIMM-SPOUSE OR CHILD OF CERTAIN LPRs,13,26,32,68,62,16,-,-,1,-,-,-,81,88,49
+A164,GRANTED T-1 NONIMMIGRANT STATUS,574,118,140,58,29,9,34,33,-,-,-,-,666,180,149
+A174,SPOUSE OF E-1/E-2 NONIMMIGRANT,618,878,153,"1,284","1,706",175,9,16,3,-,-,-,"1,911","2,600",331
+A184,SPOUSE OF AN L-1 NONIMMIGRANT,479,785,212,597,"1,208",548,11,8,8,-,-,-,"1,087","2,001",768
+A194,GRANTED U1 NONIMMIGRANT STATUS,"11,809",779,"1,286",488,274,109,208,152,5,-,-,-,"12,505","1,205","1,400"
+A204,DEPENDENT OF U1 NON-IMMIGRANT,"11,198","5,297","1,053",905,651,86,125,86,9,-,-,-,"12,228","6,034","1,148"
+C01,DEPENDENT OF A-1 OR A-2 GOVT OFFICIAL,"1,096","1,107",35,454,456,19,9,8,-,-,-,-,"1,559","1,571",54
+C011,"SPOUSE/DPNDNT SON/DAUGHTR OF ""A"" NONIM",129,18,39,7,1,2,1,-,-,-,-,-,137,19,41
+C02,E-1 DEPENDENT OF TECRO,49,23,2,9,5,6,2,-,1,-,-,-,60,28,9
+C031,STUDENT VALID FOR PRACTICAL TRAINING,-,-,-,1,1,-,-,-,-,-,-,-,1,1,0
+C032,STUDENT: INTERNATIONAL ORG. MUST SPONSOR,38,33,3,4,3,-,-,-,-,-,-,-,42,36,3
+C033,STUDENT: OFF CAMPUS/SEV ECONOMIC HRDSHIP,"1,199",896,220,283,207,80,5,6,-,-,-,-,"1,487","1,109",300
+C03A,STUDENT: PRE-COMPLETION OPT,"2,563","2,244",368,182,156,30,11,10,3,-,-,-,"2,756","2,410",401
+C03B,STUDENT: POST-COMPLETION OPT,"173,526","167,975","4,602","1,289","1,089",190,"1,815","1,772",35,-,-,-,"176,630","170,836","4,827"
+C03C,STUDENT: 24 MONTH STEM OPT,"12,605","11,136",146,"43,922","38,697",711,"1,004","1,000",16,-,-,-,"57,531","50,833",873
+C04,"DEPENDENT OF G-1,G-3,OR G-4 NONIMMIGRANT","1,459","1,295",224,"1,452","1,521",14,11,7,6,-,-,-,"2,922","2,823",244
+C05,J-2 NONIMMIGRANT,"9,352","6,752",106,"5,317","3,773",114,83,85,-,-,-,-,"14,752","10,610",220
+C06,M-1 VOCATIONAL STUDENT/PRACTICAL TRAIN,142,60,46,4,1,3,-,-,-,-,-,-,146,61,49
+C07,DEPENDENT OF NATIO-1 THRU NATO-6,286,277,6,112,111,1,3,2,1,-,-,-,401,390,8
+C085,APPLICANT FOR ASYLUM/PENDING ASYLUM APP,"802,753","706,091","127,233","263,308","352,577","27,214","7,209","6,115",764,1,-,-,"1,073,271","1,064,783","155,211"
+C09,"FILED I-485, APPL FOR ADJSTMNT/SEC 245","541,011","434,978","150,616","59,214","45,343","35,361","2,662","1,413",884,1,-,-,"602,888","481,734","186,861"
+C091,FILED I-485 BASED ON I-140/ADJ PENDING,11,2,3,5,-,1,-,-,-,-,-,-,16,2,4
+C09P,APPL FOR ADJSTMNT/SEC245/ADVANCE PAROLE,"46,925","65,666","1,446","4,306","6,453",432,125,261,15,-,-,-,"51,356","72,380","1,893"
+C10,APP FOR SUSPENSN OF DEPO/SEC 244/NACARA,"7,134","6,465","1,311","60,676","52,783","8,401",229,74,21,-,-,-,"68,039","59,322","9,733"
+C11,PAROLEE SEC. 212.5/PUBLIC INTEREST,"392,398","299,987","21,119","20,325","15,237","2,448","1,434","1,115",59,-,-,-,"414,157","316,339","23,626"
+C12,DEPORTABLE ALIEN GRANTED V/D,95,-,39,54,1,35,2,-,1,-,-,-,151,1,75
+C12A,SPOUSE OF E-2 CNMI INVESTOR,7,2,7,3,2,6,-,-,-,-,-,-,10,4,13
+C13,ALIEN UNDR EXCLUSION OR IN PROCEEDINGS,7,5,9,4,-,-,-,-,-,-,-,-,11,5,9
+C14,ALIEN GRANTED DEFERRED ACTION,"84,790","74,594","3,009","3,757","2,794",623,"1,212",666,63,-,-,-,"89,759","78,054","3,695"
+C16,APPLICANT FOR REGISTRY/SEC 249,45,12,34,5,2,3,1,1,-,-,-,-,51,15,37
+C171,DOMESTIC SERVANT NONIMM EMPLYR SC 101(a),163,74,94,93,82,47,1,-,1,-,-,-,257,156,142
+C172,DOMESTIC SERVANT of USC,156,70,78,124,102,82,-,-,1,-,-,-,280,172,161
+C173,EMPLOYEE of FOREIGN AIRLINE Sec 101(a),11,-,1,-,1,1,-,-,-,-,-,-,11,1,2
+C18,ALIEN WITH FINAL ORDER OF DEPORTATION,"6,093","4,109","5,382","27,840","24,448","2,012",222,161,41,-,-,-,"34,155","28,718","7,435"
+C19,PRIMA FACIE ELIGIBILITY FOR TPS,"53,132","80,490","6,338","8,223","1,881",360,267,149,35,2,-,-,"61,624","82,520","6,733"
+C20,LEGALIZATION APPL. PURSUANT TO SEC. 210,6,-,2,26,18,2,-,-,-,-,-,-,32,18,4
+C21,WITNESS OR INFORMANT IN S CLASSIFICATION,4,13,1,2,2,-,-,3,-,-,-,-,6,18,1
+C22,LEGALIZATION APPL. PURSUANT TO SEC. 245A,59,1,104,10,1,4,-,-,-,-,-,-,69,2,108
+C24,LIFE LEGALIZATION APPLICANTS,91,-,71,7,-,4,-,-,-,-,-,-,98,0,75
+C254,DEPENDENT T-1 NONIMMIGRANT,"2,441",790,42,65,27,10,9,10,-,-,-,-,"2,515",827,52
+C26,H-4 SPOUSE OF AN H1-B NONIMMIGRANT,"29,397","30,737","1,319","45,096","47,097","1,348",454,448,34,-,-,-,"74,947","78,282","2,701"
+C275,ABUSED SPOUSE OF A NON-IMMIGRANT,1,-,8,4,-,2,-,-,1,-,-,-,5,0,11
+C285,ABUSED SPOUSE OF E NON-IMMIGRANT,1,1,-,2,-,-,-,-,-,-,-,-,3,1,0
+C295,ABUSED SPOUSE OF G NON-IMMIGRANT,1,1,-,4,1,-,-,-,-,-,-,-,5,2,0
+C305,ABUSED SPOUSE OF H NON-IMMIGRANT,59,34,12,60,15,12,1,-,-,-,-,-,120,49,24
+C315,APPROVED I-360 VAWA SELF-PETITIONERS,"2,642",561,292,"1,507","2,095",243,56,22,3,-,-,-,"4,205","2,678",538
+C32,ALIEN WITH BONA FIDE DETERMINATION,4,-,1,-,-,-,-,-,-,-,-,-,4,0,1
+C33,DEFERRED ACTION FOR CHILDHOOD ARRIVALS,"3,425",3,6,"330,666","304,465","1,516","3,583","1,809","1,037",-,-,-,"337,674","306,277","2,559"
+C35,"203(b)(1),(2),or(3) PRINC BENEFICIARY",290,25,243,55,13,88,-,-,-,-,-,-,345,38,331
+C36,"203(b)(1),(2),or(3) DEPENDT/SPOUSE/CHILD",276,15,232,71,12,87,-,-,1,-,-,-,347,27,320
+C37,CNMI RESIDENT STATUS,-,3,-,-,3,1,1,2,-,-,-,-,1,8,1
+UNKNOWN,UNKNOWN ELIGIBILITY CODE,1,-,-,1,1,1,-,-,-,-,-,-,2,1,1
+The following guidelines apply to all succeeding tables,,,,,,,,,,,,,,,,
+Table Key:,,,,,,,,,,,,,,,,
+- Represents zero or rounds to 0.0.,,,,,,,,,,,,,,,,
+Reference(s):,,,,,,,,,,,,,,,,
+1 The number of new applications received and entered into a case-tracking system during the reporting period.,,,,,,,,,,,,,,,,
+2 The number of applications approved during the reporting period.,,,,,,,,,,,,,,,,
+3 The number of applications that were denied during the reporting period.,,,,,,,,,,,,,,,,
+4 I-765 EAD Eligibility Category where the statutory basis is mandatory.,,,,,,,,,,,,,,,,
+5 I-765 EAD Eligibility Category where the statutory basis is discretionary.,,,,,,,,,,,,,,,,
+Note(s):,,,,,,,,,,,,,,,,
+1) Some applications approved or denied may have been received in previous reporting periods.,,,,,,,,,,,,,,,,
+2) The report reflects the most up-to-date estimate available at the time the database is queried.,,,,,,,,,,,,,,,,
+3) Counts may differ from those reported in previous quarters due to system updates and post-adjudicative outcomes.,,,,,,,,,,,,,,,,
+"4) ""Unknown"" category includes eligibility codes that were left blank or that are no longer in use.",,,,,,,,,,,,,,,,
+5) This report reflects approvals for applications requested by EAD eligibility category. An officer may approve an application for employment authorization under a different EAD eligibility category upon adjudication.,,,,,,,,,,,,,,,,
+Source(s):,,,,,,,,,,,,,,,,
+"1) U.S. Citizenship and Immigration Services, Office of Performance and Quality, C3 Consolidated/ELIS,  queried November 2023.",,,,,,,,,,,,,,,,</p></body>

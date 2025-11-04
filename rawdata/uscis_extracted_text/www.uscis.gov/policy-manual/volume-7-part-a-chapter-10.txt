@@ -1,0 +1,455 @@
+H1: Chapter 10 - Legal Analysis and Use of Discretion
+
+- Guidance
+
+- Resources (11)
+
+- Appendices (0)
+
+- Updates (10)
+
+H2: A. Burden of Proof and Standard of Proof
+
+In matters involving immigration benefits, the applicant always has the burden of proving that he or she is eligible to receive the immigration benefit sought.[1]
+
+The standard of proof applied in adjustment of status proceedings should not be confused with the burden of proof.[2]The standard of proof relates to the persuasiveness of the evidence necessary to meet the eligibility requirements for a particular benefit. If the applicant is unable to prove his or her eligibility for the immigration benefit by a preponderance of the evidence, the officer may request additional evidence or deny the application.[3]
+
+In the adjustment of status context, the standard of proof is generally a preponderance of the evidence, proving a claimed fact is more likely than not to be true.[4]However, in cases in which admissibility is required, if the officer determines that the applicant may be inadmissible, the applicant must demonstrate that he or she is clearly and beyond doubt entitled to be admitted and is not inadmissible.[5]
+
+Certain adjustment of status provisions are non-discretionary. That is, if the applicant satisfies all statutory and regulatory eligibility requirements, USCIS must approve the application without considering whether the applicant warrants a favorable exercise of discretion. The following table is a non-exhaustive list of non-discretionary adjustment provisions.
+
+TABLE:
+Non-Discretionary Adjustment of Status Provisions
+Nicaraguan Adjustment and Central American Relief Act of 1997 (NACARA)[6]
+Refugee adjustment[7]
+Haitian Refugee Immigration Fairness Act of 1998 (HRIFA)[8]
+Liberian Refugee Immigration Fairness (LRIF)[9]
+
+H2: B. Adjustment of Status Applications Involving Discretion[10]
+
+Most adjustment of status applicants may only be granted lawful permanent resident (LPR) status in the discretion of USCIS.[11]That is, even if the applicant meets all of the other statutory and regulatory requirements, USCIS only approves the application if the applicant demonstrates that he or she warrants a favorable exercise of discretion. The following table is a non-exhaustive list of discretionary adjustment case types.
+
+TABLE:
+Adjustment of Status Provisions Involving Discretion
+Family-based, employment-based, and diversity visa adjustment
+Special immigrant-based adjustment (EB-4)
+Trafficking victim-based adjustment[12]
+Crime victim-based adjustment[13]
+Asylee adjustment[14]
+Cuban Adjustment Act[15]
+Former Soviet Union, Indochinese, or Iranian parolees (Lautenberg parolees)
+Diplomats or high-ranking officials unable to return home (Section 13 of the Act of September 11, 1957)[16]
+
+H3: 1. Determining Whether Favorable Exercise of Discretion is Warranted
+
+The favorable exercise of discretion and the approval of a discretionary adjustment of status application is a matter of administrative grace, which means that the application is worthy of favorable consideration.[17]
+
+An alien who meets the other eligibility requirements contained in the law is not automatically entitled to adjustment of status. The alien still has the burden of proving that he or she warrants a favorable exercise of discretion.[18]To determine whether adjustment is warranted, an alien should supply information that is relevant and material.[19]
+
+An officer must first determine whether the alien otherwise meets the statutory and regulatory eligibility requirements. For example, in adjudicating an application for adjustment of status underINA 245(a), the officer first determines if the alien is barred from applying for adjustment, is eligible to receive an immigrant visa, is admissible to the United States, and if a visa number (if required) is immediately available. Even where an immigration violation does not result in a bar to adjustment, an officer may still consider the violation as a negative factor in the exercise of discretion.
+
+If the officer finds that the alien otherwise meets the eligibility requirements, the officer then determines whether the application should be approved as a matter of discretion. Given the significant privileges, rights, and responsibilities granted to LPRs, an officer must consider and weigh all relevant evidence in the record, taking into account the totality of the circumstances to determine whether the alien is suitable for permanent residence and approval of an alien’s adjustment of status application is in the best interest of the United States.[20]
+
+If there is no evidence that the alien has negative factors present in his or her case, or if the officer finds that the alien's positive factors outweigh the negative factors such that the alien’s adjustment is warranted and in the interest of the United States, the officer generally may exercise favorable discretion and approve the application.[21]If the officer finds that the alien’s negative factors outweigh the positive factors, such that a favorable exercise of discretion is not warranted in the alien’s case, the officer must deny the application.[22]
+
+USCIS considers factors involving circumstances where an alien has endorsed, promoted, supported, or otherwise espoused the views of an anti-American or terrorist organization or group, including those who support or promote antisemitic terrorism, antisemitic terrorist organizations, and antisemitic ideologies, to be an overwhelmingly negative factor in any applicable case involving USCIS discretionary analysis. Accordingly, USCIS enforces all relevant immigration laws to the maximum degree, including the use of discretion, to deny the benefit request involving such cases.[23]
+
+H3: 2. Issues and Factors to Consider in the Totality of the Circumstances
+
+The following table provides a non-exhaustive list of factors or factual circumstances that officers generally should consider in exercising discretion with respect to an application for adjustment of status to that of LPR.
+
+TABLE:
+Issue | Positive Factors | Negative Factors
+Eligibility Requirements | Meeting the eligibility requirements for adjustment of status.[24] | Not meeting the eligibility requirements may still be considered as part of a discretionary analysis.[25]
+Family and Community Ties | Family ties to the United States and the closeness of the underlying relationships.[26]Hardship to the applicant or close relatives if the adjustment application is denied.[27]Length of lawful residence in the United States, status held and conduct during that residence, particularly if the applicant began his or her residency at a young age.[28] | Absence of close family, community, and residence ties.[29]
+Immigration Status and History | Compliance with immigration laws and the conditions of any immigration status held.Approved humanitarian-based immigrant or nonimmigrant petition, waiver of inadmissibility, or other form of relief and the underlying humanitarian, hardship, or other factors that resulted in the approval.[30] | Violations of immigration laws and the conditions of any immigration status held.[31]Current or previous instances of fraud or false testimony in dealings with USCIS or any government agency.[32]Unexecuted exclusion, deportation, or removal orders.[33]
+Business, Employment, and Skills | Property, investment, or business ties in the United States.[34]Employment history, including type, length, and stability of the employment.[35]Education, specialized skills, and training obtained from an educational institution in the United States relevant to current or prospective employment and earning potential in the United States. | History of unemployment or underemployment.[36]Unauthorized employment in the United States.[37]Employment or income from illegal activity or sources, including, but not limited to, income gained illegally from drug sales, illegal gambling, prostitution, or alien smuggling.[38]
+Community Standing and Moral Character | Respect for law and order, and good moral character (in the United States and abroad) demonstrated by a lack of a criminal record and evidence of good standing in the community.Honorable service in the U.S. armed forces or other evidence of value and service to the community.[39]Compliance with tax laws.Current or past cooperation with law enforcement authorities.Demonstration of reformed or rehabilitated criminal conduct, where applicable.[40]Community service beyond any imposed by the courts. | Moral depravity or criminal tendencies (in the United States and abroad) reflected by a single serious crime or an active or long criminal record, including the nature, seriousness, and recent occurrence of criminal violations.[41]Lack of reformation of character or rehabilitation.[42]Public safety or national security concerns.[43]Failure to meet tax obligations.Failure to pay child support.Failure to comply with any applicable civil court orders.
+Other | Absence of significant undesirable or negative factors and other indicators of good moral character in the United States and abroad.[44] | Other indicators adversely reflecting the applicant’s character and undesirability as an LPR of this country.[45]
+
+- Meeting the eligibility requirements for adjustment of status.[24]
+
+- Not meeting the eligibility requirements may still be considered as part of a discretionary analysis.[25]
+
+- Family ties to the United States and the closeness of the underlying relationships.[26]
+
+- Hardship to the applicant or close relatives if the adjustment application is denied.[27]
+
+- Length of lawful residence in the United States, status held and conduct during that residence, particularly if the applicant began his or her residency at a young age.[28]
+
+- Absence of close family, community, and residence ties.[29]
+
+- Compliance with immigration laws and the conditions of any immigration status held.
+
+- Approved humanitarian-based immigrant or nonimmigrant petition, waiver of inadmissibility, or other form of relief and the underlying humanitarian, hardship, or other factors that resulted in the approval.[30]
+
+- Violations of immigration laws and the conditions of any immigration status held.[31]
+
+- Current or previous instances of fraud or false testimony in dealings with USCIS or any government agency.[32]
+
+- Unexecuted exclusion, deportation, or removal orders.[33]
+
+- Property, investment, or business ties in the United States.[34]
+
+- Employment history, including type, length, and stability of the employment.[35]
+
+- Education, specialized skills, and training obtained from an educational institution in the United States relevant to current or prospective employment and earning potential in the United States.
+
+- History of unemployment or underemployment.[36]
+
+- Unauthorized employment in the United States.[37]
+
+- Employment or income from illegal activity or sources, including, but not limited to, income gained illegally from drug sales, illegal gambling, prostitution, or alien smuggling.[38]
+
+- Respect for law and order, and good moral character (in the United States and abroad) demonstrated by a lack of a criminal record and evidence of good standing in the community.
+
+- Honorable service in the U.S. armed forces or other evidence of value and service to the community.[39]
+
+- Compliance with tax laws.
+
+- Current or past cooperation with law enforcement authorities.
+
+- Demonstration of reformed or rehabilitated criminal conduct, where applicable.[40]
+
+- Community service beyond any imposed by the courts.
+
+- Moral depravity or criminal tendencies (in the United States and abroad) reflected by a single serious crime or an active or long criminal record, including the nature, seriousness, and recent occurrence of criminal violations.[41]
+
+- Lack of reformation of character or rehabilitation.[42]
+
+- Public safety or national security concerns.[43]
+
+- Failure to meet tax obligations.
+
+- Failure to pay child support.
+
+- Failure to comply with any applicable civil court orders.
+
+- Absence of significant undesirable or negative factors and other indicators of good moral character in the United States and abroad.[44]
+
+- Other indicators adversely reflecting the applicant’s character and undesirability as an LPR of this country.[45]
+
+H3: 3. Proper Use of Discretion Relative to Adjustment of Status
+
+The exercise of discretion does not mean the decision can be arbitrary, inconsistent, or dependent on intangible or imagined circumstances. At the same time, the exercise of discretion does not involve a calculation or bright line test that is outcome determinative.[46]
+
+The officer should review the entire record and give appropriate weight to the negative and positive factors relative to the privileges, rights, and responsibilities of LPR status. Once the officer has weighed each factor, the officer should consider all of the factors cumulatively to determine whether the positive factors outweigh the negative ones. If the officer determines that the positive factors outweigh the negative factors, the officer may find that the applicant warrants a favorable exercise of discretion. As negative factors grow more serious though, a favorable exercise of discretion may not be warranted without additional offsetting favorable factors, which in some cases may have to involve the existence of unusual or outstanding equities.[47]
+
+Officers should discuss discretionary decisions that involve complex or unusual facts with their supervisors, as needed, particularly those involving criminality or national security issues, regardless of whether the outcome is favorable or unfavorable to the applicant.[48]As appropriate, supervisors may raise issues and consult USCIS counsel.
+
+H2: C. Summary of Adjudication Involving Discretion
+
+The following tables provide a general guideline for how eligibility requirements and discretion play a role in the decision on an adjustment application.[49]
+
+TABLE:
+Has Applicant Otherwise Met Eligibility Requirements? | Does Applicant Warrant a Favorable Exercise of Discretion? | Decision
+Yes | Yes, the positive factors outweigh the negative factors. | Approvethe application. Eligibility requirements are met, including that a favorable exercise of discretion is warranted.
+Yes | No, the negative factors outweigh the positive factors. | Denythe application. Eligibility requirements are otherwise met but a favorable exercise of discretion is not warranted.The officer should explain the reasons why USCIS is not exercising discretion in the applicant’s favor. The officer should clearly set forth the positive and negative factors considered and why the negative factors outweigh the positive factors.
+No | No, even if the positive factors outweigh the negative factors. | Denythe application. Eligibility requirements are not met.The officer should explain the reasons why the applicant has not met the eligibility requirements. Even if the positive factors outweigh the negative factors, discretion cannot be used to approve an application if the applicant does not meet the other statutory or regulatory requirements.
+No | No, the negative factors outweigh the positive factors. | Denythe application. Eligibility requirements are not met and a favorable exercise of discretion is not warranted.It is generally preferable to describe both the statutory and discretionary reasons for the denial, but an officer is not required to discuss the discretionary grounds where the other statutory or regulatory that are the basis for the denial grounds are clear.If the determination on other statutory or regulatory eligibility requirements might be overturned (for example, where there is an unsettled area of law), an officer should also explain the discretionary basis for denying the case. (Officers may consult with USCIS counsel for additional guidance in a specific case.)The officer should explain the reasons why USCIS is not exercising discretion in favor of the applicant. The officer should clearly describe the positive and negative factors considered and why the negative factors outweigh the positive factors.
+
+Denythe application. Eligibility requirements are otherwise met but a favorable exercise of discretion is not warranted.
+
+The officer should explain the reasons why USCIS is not exercising discretion in the applicant’s favor. The officer should clearly set forth the positive and negative factors considered and why the negative factors outweigh the positive factors.
+
+Denythe application. Eligibility requirements are not met.
+
+The officer should explain the reasons why the applicant has not met the eligibility requirements. Even if the positive factors outweigh the negative factors, discretion cannot be used to approve an application if the applicant does not meet the other statutory or regulatory requirements.
+
+Denythe application. Eligibility requirements are not met and a favorable exercise of discretion is not warranted.
+
+It is generally preferable to describe both the statutory and discretionary reasons for the denial, but an officer is not required to discuss the discretionary grounds where the other statutory or regulatory that are the basis for the denial grounds are clear.
+
+If the determination on other statutory or regulatory eligibility requirements might be overturned (for example, where there is an unsettled area of law), an officer should also explain the discretionary basis for denying the case. (Officers may consult with USCIS counsel for additional guidance in a specific case.)
+
+The officer should explain the reasons why USCIS is not exercising discretion in favor of the applicant. The officer should clearly describe the positive and negative factors considered and why the negative factors outweigh the positive factors.
+
+H2: Footnotes
+
+[^ 1]SeeINA 291. SeeMatter of Arthur  (PDF), 16 I&N Dec. 558 (BIA 1978). SeeMatter of Rivero-Diaz  (PDF), 12 I&N Dec. 475 (BIA 1967).
+
+[^ 2]The person who bears the burden of proof must submit evidence to satisfy the applicable standard of proof.
+
+[^ 3]See8 CFR 103.2(b)(8)(ii). See8 CFR 103.2(b)(8)(iii).
+
+[^ 4]SeeMatter of Chawathe  (PDF), 25 I&N Dec. 369, 375 (AAO 2010).
+
+[^ 5]SeeMatter of Bett  (PDF), 26 I&N Dec. 437, 440 (BIA 2014).
+
+[^ 6]See Title II ofPub. L. 105-100  (PDF), 111 Stat. 2160, 2193 (November 19, 1997).
+
+[^ 7]SeeINA 209(a)(2).
+
+[^ 8]See Division A, Section 902 ofPub. L. 105-277  (PDF), 112 Stat. 2681, 2681-538 (October 21, 1998).
+
+[^ 9]See Section 7611 of the National Defense Authorization Act for Fiscal Year 2020,Pub. L. 116-92  (PDF), 113 Stat. 1198, 2309 (December 20, 2019).
+
+[^ 10]The exercise of discretion in individual cases is described as a balancing of negative factors evidencing an alien’s undesirability as a permanent resident with the social and humane considerations present on his or her behalf to determine whether relief appears in the best interest of this country. SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 584 (BIA 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 195 (BIA 1990). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 300 (BIA 1996). For general guidance on discretion, see Volume 1, General Policies and Procedures, Part E, Adjudication, Chapter 8, Discretionary Analysis [1 USCIS-PM E.8].
+
+[^ 11]SeeINA 245(a).
+
+[^ 12]SeeINA 245(l). See8 CFR 245.23(e)(3).
+
+[^ 13]SeeINA 245(m). See8 CFR 245.24(d)(10)-(11).
+
+[^ 14]SeeINA 209(b).
+
+[^ 15]SeePub. L. 89-732  (PDF)(November 2, 1966).
+
+[^ 16]SeePub. L. 85-316  (PDF)(September 11, 1957).
+
+[^ 17]SeeVon Pervieux v. INS, 572 F.2d 114, 118 (3rd Cir. 1978). SeeAmeeriar v. INS, 438 F.2d 1028, 1030 (3rd Cir. 1971). SeeMatter of Marques  (PDF), 16 I&N Dec. 314 (BIA 1977).
+
+[^ 18]SeeMatter of Arai  (PDF), 13 I&N Dec. 494 (BIA 1970). SeeMatter of Ortiz-Prieto  (PDF), 11 I&N Dec. 317 (BIA 1965).
+
+[^ 19]SeeMatter of Marques  (PDF), 16 I&N Dec. 314 (BIA 1977). SeeMatter of Mariani  (PDF), 11 I&N Dec. 210 (BIA 1965). SeeMatter of De Lucia  (PDF), 11 I&N Dec. 565 (BIA 1966). SeeMatter of Francois  (PDF), 10 I&N Dec. 168 (BIA 1963). SeeMatter of Pires Da Silva  (PDF), 10 I&N Dec. 191 (BIA 1963).
+
+[^ 20]SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 195 (BIA 1990). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 300 (BIA 1996). For general guidance on discretion, see Volume 1, General Policies and Procedures, Part E, Adjudication, Chapter 8, Discretionary Analysis [1 USCIS-PM E.8].
+
+[^ 21]SeeMatter of Arai  (PDF), 13 I&N Dec. 494 (BIA 1970). SeeMatter of Lam  (PDF), 16 I&N Dec. 432 (BIA 1978).
+
+[^ 22]Before making a final decision, the officer may ask the applicant directly why he or she warrants a favorable exercise of discretion. The officer documents the response, or lack thereof, in the record. See Volume 1, General Policies and Procedures, Part E, Adjudication, Chapter 8, Discretionary Analysis, Section D, Documenting Discretionary Determinations [1 USCIS-PM E.8(D)]. See Volume 7, Part A, Adjustment of Status Policies and Procedures, Chapter 11, Decision Procedures [7 USCIS-PM A.11].
+
+[^ 23]See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis [1 USCIS-PM E.8]. For a list of factors that should be considered in the discretionary analysis, see Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis, Section C, Adjudicating Discretionary Benefits, Subsection 2, Identifying Discretionary Factors [1 USCIS-PM E.8(C)(2)].
+
+[^ 24]In the process of determining whether the applicant has otherwise met the eligibility requirements for adjustment of status, the officer might find that certain facts related to eligibility may be relevant to a discretionary decision. SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996) (In the context of waivers of inadmissibility requiring a showing of extreme hardship: “. . . those found eligible for relief under section 212(h)(1)(B) will by definition have already established extreme hardship to qualified family members, which would be a factor favorable to the alien in exercising discretion.”).
+
+[^ 25]In cases where USCIS has determined that the applicant has not met the statutory or regulatory requirements for adjustment of status, officers may still add a discretionary analysis to a denial. See Volume 1, General Policies and Procedures, Part E, Adjudication, Chapter 8, Discretionary Analysis, Section C, Adjudicating Discretionary Benefits [1 USCIS-PM E.8(C)].
+
+[^ 26]SeeMatter of Arai  (PDF), 13 I&N Dec. 494, 496 (BIA 1970). SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 584 (BIA 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 195 (BIA 1990). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301-302 (BIA 1996) (“. . . if the alien has relatives in the United States, the quality of their relationship must be considered in determining the weight to be awarded this equity.”)
+
+[^ 27]SeeMatter of Arai  (PDF), 13 I&N Dec. 494, 496 (BIA 1970). SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 585 (BIA 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 195 (BIA 1990). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996).
+
+[^ 28]SeeMatter of Arai  (PDF), 13 I&N Dec. 494, 496 (BIA 1970). SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 584-85 (BIA 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 195 (BIA 1990). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996). Residence must be lawful to be considered a positive factor. SeeMatter of Lee  (PDF), 17 I&N Dec. 275, 278 (Comm. 1978).
+
+[^ 29]Based on the totality of the circumstances, the absence of family, community, and residence ties, by itself, may not warrant an unfavorable exercise of discretion, but officers consider the lack of sufficient equities to offset other negative factors when making discretionary decisions that are in the best interest of the United States. SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 587 (BIA 1978).
+
+[^ 30]SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996).
+
+[^ 31]SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 584 (BIA 1978). SeeMatter of Lee  (PDF), 17 I&N Dec. 275, 278 (Comm. 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 195 (BIA 1990). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996). However, the Board of Immigration Appeals (BIA) found that a record of immigration violations standing alone does not conclusively support a finding of lack of good moral character. Further, how recent the violation was can only be considered when there is a finding of a poor moral character based on moral turpitude in the conduct and attitude of a person which evinces a callous conscience. In such circumstances, there must be a measurable reformation of character over a period of time in order to properly assess an applicant’s ability to assimilate into society. In all other instances, when the cause for deportation has been removed and the person now appears eligible for issuance of a visa, the time factor should not be considered. SeeMatter of Lee  (PDF), 17 I&N Dec. 275 (Comm. 1978).
+
+[^ 32]Fraud or false testimony may be considered as a matter of discretion regardless of materiality.
+
+[^ 33]In cases where a removal order does not impact eligibility or jurisdiction over adjustment of status, for example, where a removal order has been issued to an “arriving alien” but not executed, USCIS generally does not exercise favorable discretion. The USCIS officer may consult with the local U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations (ERO) office concerning the merits and equities of the case and whether the removal order might be withdrawn. If ICE withdraws or rescinds the removal order or obtains a withdrawal or rescission of the removal order from the Executive Office for Immigration Review (EOIR), USCIS adjudicates the case as appropriate. If the removal order is not withdrawn or rescinded, the removal order should be considered a significant adverse factor and any denial of adjustment may include the grounds cited in the removal order.
+
+[^ 34]SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 584-85 (BIA 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 195 (BIA 1990). SeeMatter of Mendez-Moralez(PDF), 21 I&N Dec. 296, 301 (BIA 1996).
+
+[^ 35]SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996).
+
+[^ 36]InMatter of Marin  (PDF), 16 I&N Dec. 581, 585 (BIA 1978), the BIA considered that a history of stable employment is a positive factor used to determine whether discretion should be favorably exercised. Conversely, officers should consider a history of long unemployment or underemployment, absent any disabilities or age in relation to employability, as a factor to determine whether or not approving the adjustment of status application is in the best interest of the United States.
+
+[^ 37]Even if an exemption applies to an applicant who would otherwise be barred from adjustment of status, the officer may consider unauthorized employment in the totality of the circumstances.
+
+[^ 38]This includes employment that is illegal under federal law even when state laws have decriminalized such conduct, including employment in the marijuana industry. Illegal industries under federal law include, but are not limited to, possession, manufacture or production, or distribution or dispensing of marijuana. See21 U.S.C. 841(a)(“unlawful for any person knowingly or intentionally . . . to manufacture, distribute, or dispense, or possess with intent to manufacture, distribute, or dispense, a controlled substance.”). See21 U.S.C. 844(simple possession). See21 U.S.C. 802(15)(defining manufacture) and8 U.S.C. 802(22)(defining production).
+
+[^ 39]SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 585 (BIA 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 195 (BIA 1990). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996).
+
+[^ 40]SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 585 (BIA 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 195 (BIA 1990). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996). However, reformation is not an absolute prerequisite to a favorable exercise of discretion. Rather, the discretionary analysis must be conducted on a case-by-case basis, with rehabilitation a factor to be considered in the exercise of discretion. SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 196 (BIA 1990) (considering rehabilitation a significant factor in view of the nature and extent of the respondent’s criminal history, which spanned 10 years).
+
+[^ 41]The officer should not go behind the record of conviction to reassess an alien’s ultimate guilt or innocence, but rather inquire into the circumstances surrounding the commission of the crime in order to determine whether a favorable exercise of discretion is warranted. SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 197 (BIA 1990).
+
+[^ 42]SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 585 (BIA 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Edwards  (PDF), 20 I&N Dec. 191, 196 (BIA 1990). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996).
+
+[^ 43]SeeIssuance of Notices to Appear (NTAs) in Cases Involving Inadmissible and Deportable Aliens, PM-602-0187, issued February 28, 2025.
+
+[^ 44]SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996).
+
+[^ 45]SeeMatter of Marin  (PDF), 16 I&N Dec. 581, 584 (BIA 1978). SeeMatter of Buscemi  (PDF), 19 I&N Dec. 628, 633 (BIA 1988). SeeMatter of Mendez-Moralez  (PDF), 21 I&N Dec. 296, 301 (BIA 1996).
+
+[^ 46]For a full discussion on weighing discretionary factors, see Volume 1, General Policies and Procedures, Part E, Adjudication, Chapter 8, Discretionary Analysis, Section C, Adjudicating Discretionary Benefits, Subsection 3, Weighing Factors [1 USCIS-PM E.8(C)(3)].
+
+[^ 47]SeeMatter of Arai  (PDF), 17 I&N Dec. 494, 496 (BIA 1970). SeeMatter of Patel  (PDF), 17 I&N Dec. 597, 601 (BIA 1980). For example, USCIS generally does not favorably exercise discretion in certain cases involving violent or dangerous crimes except in extraordinary circumstances. Another example relates to applicants seeking adjustment based on T or U nonimmigrant status: Depending on the nature of the adverse factors, applicants may be required to clearly demonstrate that denial of adjustment would result in exceptional and extremely unusual hardship. Even if the applicant makes such a showing, however, USCIS may still find favorable exercise of discretion is not warranted in certain cases. See8 CFR 245.23(e)(3). See8 CFR 245.24(d)(11).
+
+[^ 48]For more information, see Volume 1, General Policies and Procedures, Part E, Adjudication, Chapter 8, Discretionary Analysis, Section C, Adjudicating Discretionary Benefits, Subsection 4, Supervisory Review [1 USCIS-PM E.8(C)(4)].
+
+[^ 49]For a full discussion on writing discretionary decisions, see Volume 1, General Policies and Procedures, Part E, Adjudication, Chapter 8, Discretionary Analysis, Section D, Documenting Discretionary Determinations [1 USCIS-PM E.8(D)].
+
+H2: Resources
+
+8 CFR 208.24- Termination of Asylum
+
+8 CFR 245.23(e)(3)- Evidence relating to discretion for adjustment of status in T nonimmigrant classification
+
+8 CFR 245.24(d)(11)- Evidence relating to discretion for adjustment of status in U nonimmigrant status
+
+INA 209,8 CFR 209- Adjustment of status of refugees and asylees
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+INA 291- Burden of proof upon alien
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual regarding the factors that officers may consider in certain benefit requests where an exercise of discretion is required, including factors relating to aliens’ past requests for parole and any involvement in anti-American or terrorist organizations.
+
+1 USCIS-PM E.8-Chapter 8 - Discretionary Analysis
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+2 USCIS-PM F.8-Chapter 8 - Change of Status, Extension of Stay, and Length of Stay
+
+7 USCIS-PM A.10-Chapter 10 - Legal Analysis and Use of Discretion
+
+10 USCIS-PM A.4-Chapter 4 - Adjudication
+
+This technical update revises references in the Policy Manual to refer to the memorandumIssuance of Notices to Appear(NTAs) in Cases Involving Inadmissible and Deportable Aliens, issued on February 28, 2025.
+
+1 USCIS-PM E.8-Chapter 8 - Discretionary Analysis
+
+7 USCIS-PM A.10-Chapter 10 - Legal Analysis and Use of Discretion
+
+7 USCIS-PM B.7-Chapter 7 - Other Barred Adjustment Applicants
+
+7 USCIS-PM Q.2-Chapter 2 - Eligibility
+
+7 USCIS-PM Q.3-Chapter 3 - Rescission Process
+
+7 USCIS-PM Q.5-Chapter 5 - Adjudication Procedures
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating existing policy guidance in the USCIS Policy Manual regarding the discretionary factors to consider in adjudications of adjustment of status applications.
+
+7 USCIS-PM A.1-Chapter 1 - Purpose and Background
+
+7 USCIS-PM A.10-Chapter 10 - Legal Analysis and Use of Discretion
+
+U.S. Citizenship and Immigration Services (USCIS) is revising its policy guidance in the USCIS Policy Manual to align with the Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements Final Rule, published in the Federal Register on August 3, 2020. This guidance becomes effective October 2, 2020. For information regarding implementation, seeAppendix: 2020 Fee Rule Litigation Summary.
+
+1 USCIS-PM A-Part A - Public Services
+
+1 USCIS-PM B-Part B - Submission of Benefit Requests
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+11 USCIS-PM A-Part A - Secure Identity Documents Policies and Procedures
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to remove references to Biographic Information (Form G-325A).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM L-Part L - Refugee Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+7 USCIS-PM O-Part O - Registration
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance addressing the general policies and procedures of adjustment of status as well as adjustment under section 245(a) of the Immigration and Nationality Act (INA).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment

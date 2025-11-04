@@ -1,0 +1,143 @@
+H1: Chapter 1 - Purpose and Background
+
+- Guidance
+
+- Resources (9)
+
+- Appendices (0)
+
+- Updates (4)
+
+H2: A. Purpose
+
+Aliens in the United States must obtain employment authorization before they may lawfully work in the country. Working without authorization may lead to a number of negative consequences, such as DHS terminating the person’s immigration status, being barred from adjusting status to lawful permanent residence, and DHS removing the person from the United States.[1]
+
+Certain aliens automatically obtain employment authorization by virtue of their immigration status. Others must affirmatively apply for employment authorization with USCIS. If USCIS approves an Application for Employment Authorization (Form I-765), USCIS also issues an employment authorization document (EAD) as evidence of a person's authorization to work in the United States.
+
+H2: B. Background
+
+In 1986, Congress enacted the Immigration Reform and Control Act (IRCA)[2]in an effort to deter illegal immigration to the United States. One of Congress’ strategies was to discourage unauthorized employment, which Congress concluded was a significant magnet for illegal immigration. Because of IRCA, employers must now verify the identity and eligibility of employees to work in the United States. The U.S. government imposes penalties on employers that knowingly employ persons not authorized to work in this country or that fail to comply with verification requirements. The immigration laws provide the Secretary of Homeland Security with authority to authorize employment in the United States for eligible aliens and to place restrictions and conditions on both employment authorization and endorsements evidencing such authorization.
+
+Regulations promulgated under IRCA introduced Employment Eligibility Verification (Form I-9) to ensure that all employees present documentary proof to prospective employers of their eligibility to accept employment in the United States.[3]Federal law requires that every employer who recruits, refers for a fee, or hires a person for employment in the United States must complete Form I-9, which requires employers to verify the employee’s identity and employment authorization. To that end, some employers use E-Verify to conduct such verifications.[4]
+
+In implementing IRCA, legacy Immigration and Naturalization Service (INS) created the EAD to provide certain classes of aliens with evidence of their authorization to work in the United States.[5]Regulations outline which classes of aliens are automatically authorized to work in the United States by virtue of their immigration status and which classes must apply to request employment authorization.[6]
+
+H2: C. Legal Authorities
+
+- INA 103– Powers and duties of the Secretary
+
+- INA 274A– Unlawful employment
+
+- 8 CFR 274a Subpart B– Employment authorization
+
+H2: Footnotes
+
+[^ 1]DHS may terminate an alien’s immigration status if it determines the alien worked without authorization in violation of the conditions of the immigration status. SeeINA 237(a)(1)(violation of status as deportability ground). For more information on unlawful employment as a bar to adjustment, see Volume 7, Adjustment of Status, Part B, 245(a) Adjustment, Chapter 6, Unauthorized Employment – INA 245(c)(2) and INA 245(c)(8) [7 USCIS-PM B.6]. SeeINA 245(c)(2)andINA 245(c)(8).
+
+[^ 2]SeePub. L. 99-603  (PDF)(November 6, 1986).
+
+[^ 3]See8 CFR 274a.2. For information on who must completeForm I-9, seeHandbook for Employers M-274, Chapter 2, Who Must Complete Form I-9.
+
+[^ 4]E-Verify is a web-based system through which employers electronically confirm the employment eligibility of their employees. Employers enter information from an employee’s Form I-9 and E-Verify compares the information to records available to DHS and the Social Security Administration. For more information, see theE-Verifywebsite.
+
+[^ 5]Some aliens authorized to work may be issued other documentation as evidence of employment authorization to present to employers in compliance with IRCA.
+
+[^ 6]See8 CFR 274a.12.
+
+H2: Resources
+
+8 CFR 274a Subpart B- Employment authorization
+
+INA 103,8 CFR 103- Powers and duties of the Secretary, the Under Secretary, and the Attorney General
+
+INA 274A- Unlawful employment of aliens
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-765, Application for Employment Authorization
+
+I-9, Employment Eligibility Verification
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is providing policy guidance in the USCIS Policy Manual regarding applications for discretionary employment authorization based on 8 CFR 274a.12(c)(9) (pending application for adjustment of status under INA 245) or 8 CFR 274a.12(c)(14) (grant of deferred action). USCIS is also providing guidance outlining the categories of aliens eligible for discretionary employment authorization.
+
+10 USCIS-PM A-Part A - Employment Authorization Policies and Procedures
+
+10 USCIS-PM B-Part B - Specific Categories
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

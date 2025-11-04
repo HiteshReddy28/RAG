@@ -1,0 +1,1335 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/direcciones-i-765" class="language-link" hreflang="es" data-drupal-link-system-path="node/44256">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+      
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+    <nav aria-labelledby="block-uscis-design-mainnavigation-menu" id="block-uscis-design-mainnavigation">
+            
+  <div class="visually-hidden" id="block-uscis-design-mainnavigation-menu">Main navigation</div>
+  
+
+        
+<a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+
+      <ul class="menu--main leftnav-menu" data-level="0">
+          <li class="menu__item-title leftnav-menu__item leftnav-menu__item--0 has-sub-items" data-id="id33859"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/forms/forms" class="leftnav-menu__link leftnav-menu__title" data-drupal-link-system-path="node/88393">Forms</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Forms" aria-controls="id33859" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="id33859"><li class="leftnav-menu__item leftnav-menu__item--1 leftnav-menu__active-trail" data-id="id12911"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/all-forms" class="leftnav-menu__link" data-drupal-link-system-path="node/22983">All Forms</a></div></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id41442"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/explore-my-options" class="leftnav-menu__link" data-drupal-link-system-path="node/95961">Explore my Options</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13977"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance" class="leftnav-menu__link" data-drupal-link-system-path="node/43396">Filing Guidance</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Filing Guidance" aria-controls="id13977" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13977"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41650"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/5stepstofile" class="leftnav-menu__link" data-drupal-link-system-path="node/96919">Five Steps to File at the USCIS Lockbox</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25685"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/tips-for-filing-forms-by-mail" class="leftnav-menu__link" data-drupal-link-system-path="node/44654">Tips for Filing Forms by Mail</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25688"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/expedite-requests" class="leftnav-menu__link" data-drupal-link-system-path="node/43424">Expedite Requests</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id17616"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/preparing-for-your-biometric-services-appointment" class="leftnav-menu__link" data-drupal-link-system-path="node/45471">Preparing for Your Biometric Services Appointment</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34486"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/addresschange" class="leftnav-menu__link" data-drupal-link-system-path="node/43677">How to Change Your Address</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25697"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/how-to-track-delivery-of-your-notice-or-secure-identity-document-or-card" class="leftnav-menu__link" data-drupal-link-system-path="node/65797">How to Track Delivery of Your Notice or Secure Identity Document (or Card)</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25694"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-guidance/paperwork-reduction-act" class="leftnav-menu__link" data-drupal-link-system-path="node/44858">Paperwork Reduction Act</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13068"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees" class="leftnav-menu__link" data-drupal-link-system-path="node/41953">Filing Fees</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Filing Fees" aria-controls="id13068" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13068"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id42019"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/feecalculator" class="leftnav-menu__link" data-drupal-link-system-path="node/98449">Fee Calculator</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id34168"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/g-1055" class="leftnav-menu__link" data-drupal-link-system-path="node/52500">Fee Schedule</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41877"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/archive/frequently-asked-questions-on-the-uscis-fee-rule" class="leftnav-menu__link" data-drupal-link-system-path="node/96938">Frequently Asked Questions on the USCIS Fee Rule</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items" data-id="id20887"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee" class="leftnav-menu__link" data-drupal-link-system-path="node/43798">USCIS Immigrant Fee</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for USCIS Immigrant Fee" aria-controls="id20887" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3 hidden" data-level="3" id="id20887"><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id34171"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee/uscis-immigrant-fee-payment-guide" class="leftnav-menu__link" data-drupal-link-system-path="node/48597">USCIS Immigrant Fee Payment Guide</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25717"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee/how-to-pay-the-uscis-immigrant-fee" class="leftnav-menu__link" data-drupal-link-system-path="node/47770">How to Pay the USCIS Immigrant Fee</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25720"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee/identity-verification-and-the-uscis-immigrant-fee" class="leftnav-menu__link" data-drupal-link-system-path="node/56750">Identity Verification and the USCIS Immigrant Fee</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3" data-id="id25723"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/uscis-immigrant-fee/immigrant-fee-payment-tips-on-finding-your-a-number-and-dos-case-id" class="leftnav-menu__link" data-drupal-link-system-path="node/47276">Tips on Finding Your A-Number and DOS Case ID</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25702"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/forms-processed-at-a-uscis-lockbox" class="leftnav-menu__link" data-drupal-link-system-path="node/65609">Forms Processed at a USCIS Lockbox</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25705"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/poverty-guidelines" class="leftnav-menu__link" data-drupal-link-system-path="node/73474">Poverty Guidelines</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25708"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/additional-information-on-filing-a-fee-waiver" class="leftnav-menu__link" data-drupal-link-system-path="node/50963">Fee Waiver Guidance</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25711"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/filing-fees/additional-information-on-filing-a-reduced-fee-request" class="leftnav-menu__link" data-drupal-link-system-path="node/53942">Additional Information on Filing a Reduced Fee Request</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id25714"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/pay-with-a-credit-card" class="leftnav-menu__link" data-drupal-link-system-path="node/49829">Pay With a Credit Card by Mail</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items" data-id="id13074"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/forms-updates" class="leftnav-menu__link" data-drupal-link-system-path="node/50444">Forms Updates</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button" title="Toggle menu for Forms Updates" aria-controls="id13074" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2 hidden" data-level="2" id="id13074"><li class="leftnav-menu__item leftnav-menu__item--2" data-id="id41461"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/lockbox-and-service-center-filing-location-updates" class="leftnav-menu__link" data-drupal-link-system-path="node/95889">Lockbox and Service Center Filing Location Updates</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--1" data-id="id13979"><div class="leftnav-menu__link-group"><div class="leftnav-menu__link-group-anchor"><a href="/forms/department-of-state-ds-and-other-non-uscis-forms" class="leftnav-menu__link" data-drupal-link-system-path="node/46342">Department of State (DS) Forms and Other Non-USCIS Forms</a></div></div></li></ul></li>    
+    </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                            <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/forms/forms">Forms</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/forms/all-forms">All Forms</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Direct Filing Addresses for Form I-765, Application for Employment Authorization</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-article">
+      <div class="container container--main">
+                
+
+                        
+            <h1 class="page-title js-page-title">
+              <span>Direct Filing Addresses for Form I-765, Application for Employment Authorization</span>
+            </h1>
+          
+              
+                    
+      
+  <div>
+                      <div class="clearfix text-formatted field field--name-body field__item">
+
+
+<div class="alert-message">
+  <div class="messages messages--info " id>
+  <span class="usa-sr-only">Alert Type info</span>
+    <div class="messages__text">
+              <div><p paraid="416762652" paraeid="{2c0c8bbf-df73-4564-bc31-c0a62aebb9ce}{185}"><strong>Alert:</strong> Before sending your package to USCIS, make sure that all the forms you have completed are the current acceptable edition. The current acceptable edition can be found under the Edition Date section listed on each form’s webpage.</p><p paraid="416762652" paraeid="{2c0c8bbf-df73-4564-bc31-c0a62aebb9ce}{185}">You can also find the edition date at the bottom of the page on the form and instructions. For each form that you are submitting, make sure that all pages are from the same form edition. If any of the form’s pages are from a different form edition, we may reject your form. Watch <a href="https://www.youtube.com/watch?v=LQdgNGjxrms" target="_blank" rel="noreferrer noopener" data-extlink>USCIS Forms: Download the most recent version!</a> to see how to ensure your form is acceptable.</p><p paraid="416762652" paraeid="{2c0c8bbf-df73-4564-bc31-c0a62aebb9ce}{185}">For additional guidance on filing paper-based forms at the Lockbox and how to avoid or correct common errors before you file, please visit the <a href="/5stepstofile" data-entity-type="node" data-entity-uuid="5ec09b4c-0f31-424c-92c4-865c6254969c" data-entity-substitution="canonical">Five Steps to File at the USCIS Lockbox</a> webpage.</p></div>
+          </div>
+      </div>
+</div>
+<p>If you are permitted to file <a href="/i-765" data-entity-type="node" data-entity-uuid="983b2b27-2406-41b0-a21b-c5c916fc669c" data-entity-substitution="canonical">Form I-765</a> with another application or petition by mail because <strong>your eligibility for employment authorization depends on</strong> the decision or result of that other application or petition, file both forms at the location specified for the other application or petition. For example, if you are filing Form I-765 with Form I-539 or Form I-485 because you need a pending or approved Form I-539 or Form I-485 for approval of your Form I-765, you should file both forms at the location according to the instructions for Form I-539 or Form I-485. See the <a href="/forms/all-forms/filing-form-i-765-with-other-forms" target="_blank" data-entity-type="node" data-entity-uuid="8a75d20e-c291-4dfd-97c6-96dcae1d26d5" data-entity-substitution="canonical">Filing Form I-765 with Other Forms</a> webpage for more information.</p><p>If you are filing Form I-765 at the same time as another application or petition by mail, but your eligibility for employment authorization <strong>does not depend</strong> on the decision or result of that other application or petition, mail each form in a separate envelope. Do not include the forms in the same envelope. Including unrelated forms in the same envelope may delay processing. Use the information below only when you are <strong><u>not</u></strong> submitting Form I-765 with another application or petition. </p><p>If you do not mail your Form I-765 to the appropriate filing location, it may take longer for us to process your application.  </p><div class="content-accordion"><h4 class="accordion__header" tabindex="0">Replacement for Card Error</h4><div class="accordion__panel"><table style="float:left;" border="1" cellspacing="0" cellpadding="0" width="624"><thead><tr><th><strong>If</strong></th><th><strong>Then</strong></th></tr></thead><tbody><tr><td>You need to replace a card we issued to you because it contains incorrect information that <strong>is not due</strong> to a USCIS error</td><td>Follow the filing instructions on this page associated with your eligibility category.</td></tr><tr><td>You need to replace a card we issued to you because it contains incorrect information that <strong>is due</strong> to a USCIS error</td><td><p>If you believe USCIS has made an error on your EAD, two options are available:</p><ol><li>If your request does not require you to submit evidence (for example, the error is a clear typographical error), you may submit a<a> </a><a href="https://egov.uscis.gov/e-request/Intro.do">service request</a> via the USCIS website. Please explain the error and include the correct information. Please select the “EAD Replacement due to USCIS Error” option when submitting your request. You must also return the card containing the error to the address below. <strong>Note: </strong>You must use the United States Postal Service (USPS) when returning your card. The use of other carriers (such as UPS, FedEx, or DHL) is not available for this address.</li></ol><p>USCIS<br>Lee’s Summit Production Facility <br>Attn: I-765 Replacement Cards <br>7 Product Way <br>Lee’s Summit, MO 64002</p><p>It will take approximately 30 days from the date the card is received for USCIS to process your request and, if USCIS determines it was due to USCIS error, to issue you a new card. Please retain your tracking information to ensure your card was properly delivered. This processing time frame does not account for USPS mailing/processing.</p><p>Please note, if while processing your request we find that the error was not due to USCIS error, you will be notified that you must follow the procedure for when a correction is needed and not due to USCIS error.</p><p class="text-align-center">OR</p><ol start="2"><li>If your request requires you to submit evidence to demonstrate the error and necessary correction (for example, the error relates to the EAD’s validity period), or if you would like to use the existing mail-in process, you may submit a letter explaining the error and corresponding evidence, along with the card containing the error, to the address below. <strong>Note:</strong> You must use the United States Postal Service (USPS) when returning your card. The use of other carriers (such as UPS, FedEx, or DHL) is not available for this address.</li></ol><p>USCIS<br>Lee’s Summit Production Facility<br>Attn: I-765 Replacement Cards<br>7 Product Way<br>Lee’s Summit, MO 64002</p><p>Please note, while the option to mail in your letter and supporting documentation is available, we encourage you to use existing <a href="https://egov.uscis.gov/e-request/Intro.do">online tools</a>, such as the SRMT, when appropriate. For more information about the SRMT process please visit <a href="/policy-manual/volume-1-part-a-chapter-4" data-entity-type="node" data-entity-uuid="a8512b1c-6e7f-4105-b753-e12af47af2cf" data-entity-substitution="canonical">Chapter 4 – Service Request Management Tool</a> in the USCIS Policy Manual. Utilizing the SRMT may minimize the need for additional correspondence to be sent via mail (aside from your original card) and may help streamline the way in which we process your request.</p><p>Please ensure you retain any copies of supporting documentation you send to USCIS.</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Asylees/refugees and their spouses and children</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th style="width:447px;" scope="col">Eligibility Category (the category you selected in question 27 on Form I-765) and Description</th><th style="width:763px;" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:447px;">(a)(3) - Refugee</td><td style="width:763px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live. Do not file Form I-765 with a Form I-485 in the same envelope.</td></tr><tr><td style="width:447px;">(a)(4) - Paroled as a refugee</td><td style="width:763px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:447px;">(a)(5) - Asylee (Granted asylum)</td><td style="width:763px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live. Do not file Form I-765 with a Form I-485 in the same envelope.</td></tr><tr><td style="width:447px;"><p style="margin-bottom:16px;">(c)(8) – Asylum or withholding of removal applicants except <a href="/humanitarian/refugees-and-asylum/asylum/american-baptist-churches-v-thornburgh-abc-settlement-agreement" data-entity-type="node" data-entity-uuid="73007628-cafc-44b8-91cc-ee6b5d8c7fcc" data-entity-substitution="canonical">ABC class members</a> as outlined below.</p><p><strong>Asylum applicants may not submit a Form I-765 until their Form I-589 has been pending at least 150 days. If we receive your Form I-765 with your Form I-589, we will reject it as premature. This may delay processing of your Form I-589.</strong></p></td><td style="width:763px;"><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-765 C08<br>P.O. Box 650888<br>Dallas, TX 75265-0888</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-765 C08 (Box 650888)<br>2501 S. State Hwy. 121 Business<br>Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td style="width:447px;"><p>(c)(8) - Certain asylum applicants are allowed to file Form I-589 under special ABC filing instructions together with Form I-765.</p><p>Only registered “ABC class members” who weren’t served with “Notice 5” in July 1995, and missed the requirement to file Form I-589 within the terms of the ABC settlement agreement, will receive and must follow special ABC filing instructions. For more information, visit the <a href="/humanitarian/refugees-and-asylum/asylum/american-baptist-churches-v-thornburgh-abc-settlement-agreement" data-entity-type="node" data-entity-uuid="73007628-cafc-44b8-91cc-ee6b5d8c7fcc" data-entity-substitution="canonical">American Baptist Churches v. Thornburgh (ABC) Settlement Agreement Page</a></p></td><td>Follow the instructions you will receive in the “Notice 5” letter. Mail your forms to the location indicated in the “Notice 5” letter.</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Categories based on nationality, residency, or for certain stateless individuals who resided in specified countries.</h4><div class="accordion__panel"><tdtemporary protected status></tdtemporary><table class="dataTable"><thead><tr><th style="width:328px;" scope="col">Eligibility Category (the category you selected in question 27 on Form I-765) and Description</th><th style="width:882px;" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:328px;">(a)(8) - Admitted as citizen of Micronesia, the Marshall Islands, or Palau</td><td style="width:882px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:328px;">(a)(11) - Deferred Enforced Departure (DED) granted</td><td style="width:882px;"><p>For filing instructions, see:</p><ul><li><a href="/humanitarian/deferred-enforced-departure/ded-covered-country-certain-hong-kong-residents" data-entity-type="node" data-entity-uuid="a9fdffcc-2e5f-4ad4-8fc5-8daf8f11284b" data-entity-substitution="canonical">DED – Hong Kong</a></li><li><a href="/humanitarian/deferred-enforced-departure/ded-covered-country-lebanon" data-entity-type="node" data-entity-uuid="0bb2c44f-c430-4936-ab2f-e100e5d1adbb" data-entity-substitution="canonical">DED - Lebanon</a></li><li><a href="/humanitarian/deferred-enforced-departure/ded-covered-country-liberia" data-entity-type="node" data-entity-uuid="5b856aef-f33e-4e10-9dce-f383f65b0e71" data-entity-substitution="canonical">DED – Liberia</a></li><li><a href="/archive/ded-covered-population-palestinians" data-entity-type="node" data-entity-uuid="88d7dfab-4d6a-4aec-9883-045c800ead1a" data-entity-substitution="canonical">DED - Palestinian</a></li></ul><p>See our <a href="/humanitarian/deferred-enforced-departure" data-entity-type="node" data-entity-uuid="8038ef57-c530-44e5-8505-65f10dd028db" data-entity-substitution="canonical">DED</a> page for more information.</p></td></tr><tr><td style="width:328px;">(c)(2) - Spouse or dependent of an E-1 nonimmigrant employee of the Taipei Economic and Cultural Representative Office (TECRO)</td><td style="width:882px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:328px;" rowspan="1"><p>(c)(10) - Applicant for section 244 suspension of deportation or 240A cancellation of removal.</p><ul><li>You are <strong>not</strong> eligible for NACARA 203 relief; and</li><li>You filed EOIR-42A or EOIR-42B.</li></ul></td><td style="width:882px;" rowspan="1">Go to our <a href="/forms/all-forms/uscis-lockbox-filing-locations-chart-for-certain-family-based-forms" data-entity-type="node" data-entity-uuid="7f4227f9-7c32-4d5c-96fe-6ed721cb0e03" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart for Certain Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:328px;"><p>(c)(10) - Applicant for special rule cancellation of removal under NACARA.</p><ul><li>You are a national of a country listed on our <a href="/i-881" data-entity-type="node" data-entity-uuid="25ca273e-4ea6-4d8e-a824-42749a399b64" data-entity-substitution="canonical">Form I-881 page</a>; and</li><li>You filed Form I-881.</li></ul></td><td style="width:882px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:328px;">(c)(19) - You filed Form I-881 - for temporary treatment benefits while an application for temporary protected status (TPS) is pending or an application to extend TPS status is pending</td><td style="width:882px;">Please refer to the Federal Register notice or <a href="/humanitarian/temporary-protected-status" data-entity-type="node" data-entity-uuid="3b35b3d2-d4fd-4e0d-9406-12d664f029f0" data-entity-substitution="canonical">TPS page</a> for more information on where to file your form and to see if online filing is available for your designated country. If you experience issues related to your (c)(19) Employment Authorization Document (EAD), please follow the (a)(12) instructions that correspond to your EAD.</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Foreign students</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th style="width:450px;" scope="col">Eligibility Category (the category you selected in question 27 on Form I-765) and Description</th><th style="width:761px;" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:450px;" colspan="1" rowspan="3"><p>F-1 Optional Practical Training (OPT):</p><ul><li>(c)(3)(A), Pre-completion OPT</li><li>(c)(3)(B), Post-completion OPT</li><li>(c)(3)(C), 24-month extension for an F-1 student who has received a degree in science, technology, engineering, or mathematics (STEM) that appears on the STEM designated degree program list published on the <a href="https://www.ice.gov/sevis/students">SEVP website</a></li></ul></td><td style="width:761px;"><p>If you are filing Form I-765 <strong>by itself</strong>.</p><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS)</strong><br><br>USCIS<br>Attn: I-765 C03<br>P.O. Box 805373<br>Chicago, IL 60680-5374</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-765 C03 (Box 805373)<br>131 South Dearborn - 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td style="width:761px;"><p>If you are filing Form I-907 <strong>for a pending</strong> Form I-765.</p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-907<br>P.O. Box 805501<br>Chicago, IL 60680-4116</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-907 (P.O. Box 805501)<br>131 South Dearborn, 3rd Floor<br>Chicago, IL 60603-5517</p><p><strong>Do not resubmit Form I-765.</strong></p></td></tr><tr><td><p>If you are filing Form I-765 <strong>with</strong> Form I-907.</p><p><strong>U.S. Postal Service (USPS):</strong><br><br>USCIS<br>Attn: I-907<br>P.O. Box 88782<br>Chicago, IL 60680-1782<br><br><strong>FedEx, UPS, and DHL deliveries:</strong><br><br>USCIS<br>Attn: I-907 (Box 88782)<br>131 South Dearborn, 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td style="width:450px;">(c)(3)(ii) - F-1 offered off-campus employment under the sponsorship of a qualifying international organization</td><td style="width:761px;"><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-765 C03<br>P.O. Box 805373<br>Chicago, IL 60680-5374</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-765 C03 (Box 805373)<br>131 South Dearborn - 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td style="width:450px;">(c)(3)(iii) - F-1 seeking off-campus employment due to severe economic hardship</td><td style="width:761px;"><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-765 C03<br>P.O. Box 805373<br>Chicago, IL 60680-5374</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-765 C03 (Box 805373)<br>131 South Dearborn - 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td style="width:450px;">(c)(5) - Spouse/dependent of J-1 exchange visitor (J-2 nonimmigrant status)</td><td style="width:761px;">Visit our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:450px;">(c)(6) - M-1 student seeking practical training after completing studies</td><td style="width:761px;">Visit our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Eligible dependents of employees of diplomatic missions, international organizations, or NATO</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th style="width:449px;" scope="col">Eligibility Category (the category you selected in question 27 on Form I-765) and Description</th><th style="width:761px;" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:449px;">(c)(1) - Spouse/dependent of A-1 or A-2 foreign government official</td><td style="width:761px;"><p>Submit your completed and signed Form I-765 package, including Form I-566, through your diplomatic mission or international organization to the Department of State office in Washington, D.C.</p><p>Go to the <a href="http://www.state.gov/ofm/notes/c68583.htm">State Department’s website</a> for more information.</p></td></tr><tr><td style="width:449px;">(c)(4) - Spouse/dependent of G-1, G-3, or G-4 nonimmigrant</td><td style="width:761px;"><p>Submit your completed and signed Form I-765 package, including Form I-566, through your diplomatic mission or international organization to the Department of State office in Washington, D.C.</p><p>Go to the <a href="http://www.state.gov/ofm/notes/c68583.htm">State Department’s website</a> for more information.</p><p>In New York City, the United Nations (UN) and UN missions must submit the package to the <a href="https://usun.usmission.gov/">U.S. Mission to the UN</a> (USUN).</p></td></tr><tr><td style="width:449px;">(c)(7) - Dependent of NATO-1 through NATO-6</td><td style="width:761px;"><p>If you are a dependent of a NATO nonimmigrant who is <strong>stationed at the Supreme Allied Command Transformation, NATO/HQ (NATO/HQ SACT)</strong>, submit your completed and signed Form I-765 package, including Form I-566, to:</p><p>USLO to NATO/HQ SACT<br>7857 Blandy Rd. Suite 200<br>Norfolk, VA 23551-2491</p><p>If you are a dependent of a NATO nonimmigrant who is <strong>stationed outside of NATO/HQ SACT</strong>, submit your completed and signed Form I-765 package, including Form I-566, to the defense attaché’s office at the embassy of the NATO member that employs your NATO nonimmigrant relative. For more details on NATO member embassy contacts and on the required documents, visit the <a href="http://www.state.gov/ofm/">State Department’s Office of Foreign Missions</a> page and search for “dependent work authorization.” If you have questions about the process or document requirements, email <a href="mailto:ofm-ead@state.gov">ofm-ead@state.gov</a>.</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Employment-based nonimmigrants</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th style="width:450px;" scope="col">Eligibility Category (the category you selected in question 27 on Form I-765) and Description</th><th style="width:760px;" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:450px;"><p>(a)(17)</p><ul><li>Spouse of an E-1/E-2 treaty trader or investor, or</li><li>Spouse of an E-3 certain specialty occupation professional from Australia</li></ul></td><td style="width:760px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:450px;">(a)(18) - Spouse of an L-1 intracompany transferee</td><td style="width:760px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:450px;">(c)(12) - Spouse of an E-2 CNMI Investor</td><td style="width:760px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:450px;">(c)(17)(i) - B-1 nonimmigrant who is the personal or domestic servant of a nonimmigrant employer</td><td style="width:760px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:450px;">(c)(17)(ii) - B-1 nonimmigrant who is a domestic servant of a U.S. citizen</td><td style="width:760px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:450px;">(c)(17)(iii) - B-1 nonimmigrant employed by a foreign airline</td><td style="width:760px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:450px;">(c)(26) - H-4 spouse of an H-1B nonimmigrant, and the receipt number of your H-1B principal spouse’s most recent Form I-797, Notice of Action, for Form I-129 begins with <strong>EAC</strong> or <strong>LIN </strong>or <strong>MCT</strong></td><td style="width:760px;"><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: H4<br>P.O. Box 660921<br>Dallas, TX 75266-0921</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: H4 (Box 660921)<br>2501 S. State Hwy. 121 Business<br>Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td style="width:450px;">(c)(26) - H-4 spouse of an H-1B nonimmigrant, and the receipt number of your H-1B principal spouse’s most recent Form I-797, Notice of Action, for Form I-129 begins with <strong>WAC </strong>or <strong>SRC </strong>or<strong> IOE</strong></td><td style="width:760px;"><p><strong>USCIS Phoenix Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: H4<br>P.O. Box 20400<br>Phoenix, AZ 85036-0400</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: H4 (Box 20400)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</p></td></tr><tr><td style="width:450px;">(c)(35) - Principal beneficiary of an approved employment-based immigrant petition who is facing compelling circumstances</td><td style="width:760px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:450px;">(c)(36) - Dependent spouse or unmarried child of a principal beneficiary of an employment-based immigrant petition who is facing compelling circumstances</td><td style="width:760px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Family-based nonimmigrants</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th style="width:447px;" scope="col">Eligibility Category (the category you selected in question 27 on Form I-765) and Description</th><th style="width:763px;" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:447px;">(a)(6) - K-1 nonimmigrant fiancé of a U.S. citizen or K-2 dependent</td><td style="width:763px;"><p>Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</p><p>Please note that this employment authorization document (EAD) will only be valid for the 90-day K-1 admission period. After you marry, you may file for an EAD when you apply for lawful permanent resident status.</p></td></tr><tr><td style="width:447px;">(a)(9) - K-3 nonimmigrant spouse of a U.S. citizen or K-4 dependent</td><td style="width:763px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:447px;">(a)(13) - IMMACT Family Unity granted</td><td style="width:763px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:447px;">(a)(14) - Act Family Unity granted</td><td style="width:763px;"><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: V &amp; L<br>P.O. Box 7219<br>Chicago, IL 60680-7219</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: V &amp; L (Box 7219)<br>131 South Dearborn-3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td style="width:447px;">(a)(15) - V-1, V-2, or V-3 nonimmigrant</td><td style="width:763px;"><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: V &amp; L<br>P.O. Box 7219<br>Chicago, IL 60680-7219</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: V &amp; L (Box 7219)<br>131 South Dearborn-3rd Floor<br>Chicago, IL 60603-5517</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">If You Have a Pending Adjustment of Status Application</h4><div class="accordion__panel"><p>If you are filing under eligibility category (c)(9), submit a copy of your <a href="/i-485" data-entity-type="node" data-entity-uuid="6d9a13a3-f3c9-4773-b112-0015c55ae4dd" data-entity-substitution="canonical">Form I-485, Application to Register Permanent Residence or Adjust Status</a>, receipt notice, or other evidence to show that your Form I-485 is pending.</p><table class="dataTable"><thead><tr><th style="width:441px;" scope="col">Eligibility Category (the category you selected in question 27 on Form I-765) and Description</th><th style="width:769px;" colspan="2" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:441px;" rowspan="1"><p>(c)(9) - Pending family-based Form I-485, Application to Register Permanent Resident or Adjust Status, and:</p><ul><li>Your receipt number begins with “MSC” or "IOE"</li></ul><p>OR</p><ul><li>You filed your Form I-485 with the immigration judge</li></ul></td><td style="width:769px;" colspan="2" rowspan="1">Go to our <a href="/forms/all-forms/uscis-lockbox-filing-locations-chart-for-certain-family-based-forms" data-entity-type="node" data-entity-uuid="7f4227f9-7c32-4d5c-96fe-6ed721cb0e03" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart for Certain Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:441px;">(c)(9) - Pending employment-based Form I-485</td><td style="width:769px;" colspan="2">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:441px;"><p>(c)(9) - <strong>Together with</strong>  Form I-485 based on:</p><ul><li>A pending or approved Form I-360 as a battered spouse/child/parent;</li><li>T nonimmigrant status;</li><li>U nonimmigrant status; or</li><li>As an abused spouse or abused child of a qualifying Cuban Adjustment Act of Nov. 2, 1966, eligible spouse or parent.</li></ul></td><td style="width:769px;" colspan="2"><p><strong>USCIS Service Center Operations – Nebraska</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>P.O. Box 87426<br>Lincoln, NE 68501-7526</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-765 VAWA<br>850 S St.<br>Lincoln, NE 68508-1225</p></td></tr><tr><td><p>(c)(9) - <strong>Based on a previously filed, </strong>pending Form I-485 based on:</p><ul><li>A pending or approved Form I-360 as a battered spouse/child/parent;</li><li>T nonimmigrant status;</li><li>U nonimmigrant status; or</li><li>As an abused spouse or abused child of a qualifying Cuban Adjustment Act of Nov. 2, 1966, eligible spouse or parent.</li></ul></td><td colspan="2">Go to our <a href="/Certain-VAWA-T-U-Filing-Locations" data-entity-type="node" data-entity-uuid="7076cda1-d5dc-45f2-b3cd-3376d56454ed" data-entity-substitution="canonical">Filing Addresses for Certain Forms Filed in Connection With a VAWA, T, or U Visa Application/Petition</a> page to see where you must file based on where you live.</td></tr><tr><td style="width:441px;" rowspan="1">(c)(16) - Registry applicant based on continuous residence since Jan. 1, 1972</td><td style="width:769px;" colspan="2" rowspan="1">Go to our <a href="/forms/all-forms/uscis-lockbox-filing-locations-chart-for-certain-family-based-forms" data-entity-type="node" data-entity-uuid="7f4227f9-7c32-4d5c-96fe-6ed721cb0e03" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart for Certain Family-Based Forms</a> page for the filing address based on where you live.</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Current and former members of the U.S. military or qualifying family members who were paroled into the United States</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th style="width:473px;" scope="col">Eligibility Category 8 CFR 274a.12 (this is the category you selected in question 27 on Form I-765)</th><th style="width:278px;" scope="col">Category Description</th><th style="width:237px;" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:473px;"><p>(c)(11)</p><p>Do not submit Form I-765 together with Form I-131. For I-131 filing instructions, see our <a href="/i-131-addresses" data-entity-type="node" data-entity-uuid="4dd73266-4a3f-47cd-926f-b301b8029215" data-entity-substitution="canonical">Direct Filing Addresses for Form I-131, Application for Travel Documents, Parole Documents, and Arrival/Departure Records</a> page.</p></td><td style="width:278px;">Paroled as a current or former member of the U.S. military or a qualifying family member.</td><td style="width:237px;"><p><strong>Write “IMMVI” at the top of the form</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: AOS<br>P.O. Box 805887<br>Chicago, IL 60680</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: AOS (Box 805887)<br>131 South Dearborn-3rd Floor<br>Chicago, IL 60603-5517</p></td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Deferred Action</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th style="width:302px;" scope="col">Eligibility Category 8 CFR 274a.12 (This is the category you selected in question 27 on Form I-765.)</th><th style="width:373px;" rowspan="1" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:302px;">(c)(14) - Deferred action granted based on a favorable U bona fide determination, or U nonimmigrant waitlist placement, filed <strong>concurrently with</strong> Form I-918</td><td style="width:373px;"><p><strong>USCIS Service Center Operations – Nebraska</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS</p><p>Attn: I-918<br>P.O. Box 87918<br>Lincoln, NE 68501-7918</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS <br>Attn: I-918<br>850 S St.<br>Lincoln, NE 68508-1225</p></td></tr><tr><td>(c)(14) - Deferred action granted based on a favorable U bona fide determination, or U nonimmigrant waitlist placement, filed <strong>separately </strong>from Form I-918</td><td>Go to our <a href="/Certain-VAWA-T-U-Filing-Locations" data-entity-type="node" data-entity-uuid="7076cda1-d5dc-45f2-b3cd-3376d56454ed" data-entity-substitution="canonical">Filing Addresses for Certain Forms Filed in Connection With a VAWA, T, or U Visa Application/Petition</a> page to see where you must file based on where you live.</td></tr><tr><td>(c)(14) - Deferred action granted based on approved Form I-360 VAWA </td><td>Go to our <a href="/Certain-VAWA-T-U-Filing-Locations" data-entity-type="node" data-entity-uuid="7076cda1-d5dc-45f2-b3cd-3376d56454ed" data-entity-substitution="canonical">Filing Addresses for Certain Forms Filed in Connection With a VAWA, T, or U Visa Application/Petition</a> page to see where you must file based on where you live.</td></tr><tr><td style="width:302px;" rowspan="1">(c)(14) - Deferred action granted</td><td style="width:373px;" rowspan="1">Go to our <a href="/forms/all-forms/uscis-lockbox-filing-locations-chart-for-certain-family-based-forms" data-entity-type="node" data-entity-uuid="7f4227f9-7c32-4d5c-96fe-6ed721cb0e03" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart for Certain Family-Based Forms</a> page for the filing address based on where you live.</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Parolee</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th style="width:394px;" scope="col">Eligibility Category 8 CFR 274a.12 (this is the category you selected in question 27 on Form I-765)</th><th style="width:582px;" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:394px;">(c)(11) - Paroled into the United States under INA section 212(d)(5)</td><td style="width:582px;">Go to our <a href="/forms/all-forms/uscis-lockbox-filing-locations-chart-for-certain-family-based-forms" data-entity-type="node" data-entity-uuid="7f4227f9-7c32-4d5c-96fe-6ed721cb0e03" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart for Certain Family-Based Forms</a> page for the filing address based on where you live.</td></tr></tbody></table></div><h4 class="accordion__header" tabindex="0">Other categories</h4><div class="accordion__panel"><table class="dataTable"><thead><tr><th style="width:304px;" scope="col">Eligibility Category 8 CFR 274a.12 (this is the category you selected in question 27 on Form I-765)</th><th style="width:672px;" scope="col">Filing Location</th></tr></thead><tbody><tr><td style="width:304px;">(a)(2) - Temporary resident</td><td style="width:672px;"><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: V &amp; L<br>P.O. Box 7219<br>Chicago, IL 60680-7219</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: V &amp; L (Box 7219)<br>131 South Dearborn-3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td style="width:304px;">(a)(7) - N-8 or N-9 nonimmigrant</td><td style="width:672px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:304px;" rowspan="1">(a)(10) - Granted withholding of deportation or removal</td><td style="width:672px;" rowspan="1">Go to our <a href="/forms/all-forms/uscis-lockbox-filing-locations-chart-for-certain-family-based-forms" data-entity-type="node" data-entity-uuid="7f4227f9-7c32-4d5c-96fe-6ed721cb0e03" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart for Certain Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td>(a)(16) - T-1 nonimmigrant, filed <strong>concurrently with </strong> Form I-914</td><td><p><strong>USCIS Service Center Operations – Nebraska</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>P.O. Box 87426<br>Lincoln, NE 68501-7526</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-765 T<br>850 S St.<br>Lincoln, NE 68508-1225</p></td></tr><tr><td>(a)(16) - T-1 nonimmigrant, filed <strong>separately </strong>from Form I-914</td><td>Go to our <a href="/Certain-VAWA-T-U-Filing-Locations" data-entity-type="node" data-entity-uuid="7076cda1-d5dc-45f2-b3cd-3376d56454ed" data-entity-substitution="canonical">Filing Addresses for Certain Forms Filed in Connection With a VAWA, T, or U Visa Application/Petition</a> page to see where you must file based on where you live.</td></tr><tr><td>(a)(19) - U-1 nonimmigrant, filed <strong>concurrently with</strong> Form I-918</td><td><p><strong>USCIS Service Center Operations – Nebraska</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS Service Center Operations - Nebraska<br>Attn: I-918<br>P.O. Box 87918<br>Lincoln, NE 68501-7918</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS Service Center Operations – Nebraska<br>Attn: I-918<br>850 S St.<br>Lincoln, NE 68508-1225</p></td></tr><tr><td>(a)(19) - U-1 nonimmigrant, filed <strong>separately</strong> from Form I-918</td><td>Go to our <a href="/Certain-VAWA-T-U-Filing-Locations" data-entity-type="node" data-entity-uuid="7076cda1-d5dc-45f2-b3cd-3376d56454ed" data-entity-substitution="canonical">Filing Addresses for Certain Forms Filed in Connection With a VAWA, T, or U Visa Application/Petition</a> page to see where you must file based on where you live.</td></tr><tr><td>(a)(20) - U-2, U-3, U-4, or U-5 nonimmigrant, filed <strong>concurrently with</strong> Form I-918A</td><td><p><strong>USCIS Service Center Operations – Nebraska</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS Service Center Operations – Nebraska<br>Attn: I-918<br>P.O. Box 87918<br>Lincoln, NE 68501-7918</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS Service Center Operations – Nebraska<br>Attn: I-918<br>850 S St.<br>Lincoln, NE 68508-1225</p></td></tr><tr><td>(a)(20) - U-2, U-3, U-4, or U-5 nonimmigrant, filed <strong>separately</strong> from Form I-918A</td><td>Go to our <a href="/Certain-VAWA-T-U-Filing-Locations" data-entity-type="node" data-entity-uuid="7076cda1-d5dc-45f2-b3cd-3376d56454ed" data-entity-substitution="canonical">Filing Addresses for Certain Forms Filed in Connection With a VAWA, T, or U Visa Application/Petition</a> page to see where you must file based on where you live.</td></tr><tr><td style="width:304px;" rowspan="1">(c)(18) - Under a final order of deportation or removal and an order of supervision</td><td style="width:672px;" rowspan="1">Go to our <a href="/forms/all-forms/uscis-lockbox-filing-locations-chart-for-certain-family-based-forms" data-entity-type="node" data-entity-uuid="7f4227f9-7c32-4d5c-96fe-6ed721cb0e03" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart for Certain Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:304px;">(c)(20) - Pending Form I-700, Application for Temporary Resident Status as a Special Agricultural Worker Under Section 210 of the Immigration and Nationality Act</td><td style="width:672px;">Go to our <a href="/uscis-lockbox-filing-locations-chart" data-entity-type="node" data-entity-uuid="b226ed6d-557b-4a73-97d5-f4264aa83941" data-entity-substitution="canonical">USCIS Lockbox Filing Locations Chart For Certain Non-Family-Based Forms</a> page for the filing address based on where you live.</td></tr><tr><td style="width:304px;">(c)(21) - S nonimmigrant</td><td style="width:672px;"><strong>Applicants do not file Form I-765 directly with USCIS. </strong>The law enforcement agency sponsoring the application will file Form I-765 through their headquarters component or S visa coordinator. See our <a href="/i-854" data-entity-type="node" data-entity-uuid="6b9d357d-325b-4fd4-b40a-7c88e142952c" data-entity-substitution="canonical">Form I-854, Inter-Agency Alien Witness and Informant Record</a>, and <a href="/green-card/green-card-eligibility/green-card-for-an-informant-s-nonimmigrant" data-entity-type="node" data-entity-uuid="b7726fd8-cb39-420b-be32-4a6eabd1bdc0" data-entity-substitution="canonical">Green Card for an Informant (S Nonimmigrant)</a> pages for more information.</td></tr><tr><td style="width:304px;">(c)(22) - Pending Form I-687, Application for Temporary Resident Status under INA Section 245A</td><td style="width:672px;"><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: AOS<br>P.O. Box 805887<br>Chicago, IL 60680</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: AOS (Box 805887)<br>131 South Dearborn – 3rd Floor<br>Chicago, IL 60603-5517</p></td></tr><tr><td style="width:304px;">(c)(23) - Q nonimmigrant</td><td style="width:672px;">Do not use Form I-765. <strong>Use Form I-94, Arrival/Departure Record.</strong></td></tr><tr><td style="width:304px;">(c)(24) - LIFE Legalization applicant</td><td style="width:672px;"><p><strong>USCIS Chicago Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: V &amp; L<br>P.O. Box 7219<br>Chicago, IL 60680-7219</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: V &amp; L (Box 7219)<br>131 South Dearborn-3rd Floor<br>Chicago, IL 60603-60603-5517</p></td></tr><tr><td>(c)(25) - T-2, T-3, T-4, T-5, or T-6 nonimmigrant, filed <strong>concurrently with </strong> Form I-914A</td><td><p><strong>USCIS Service Center Operations – Nebraska</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>P.O. Box 87426<br>Lincoln, NE 68501-7526</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-765 T<br>850 S St.<br>Lincoln, NE 68508-1225</p></td></tr><tr><td>(c)(25) - T-2, T-3, T-4, T-5, or T-6 nonimmigrant, filed <strong>separately </strong>from Form I-914A</td><td>Go to our <a href="/Certain-VAWA-T-U-Filing-Locations" data-entity-type="node" data-entity-uuid="7076cda1-d5dc-45f2-b3cd-3376d56454ed" data-entity-substitution="canonical">Filing Addresses for Certain Forms Filed in Connection With a VAWA, T, or U Visa Application/Petition</a> page to see where you must file based on where you live.</td></tr><tr><td>(c)(31) - VAWA self-petitioners and their derivatives</td><td>Go to our <a href="/Certain-VAWA-T-U-Filing-Locations" data-entity-type="node" data-entity-uuid="7076cda1-d5dc-45f2-b3cd-3376d56454ed" data-entity-substitution="canonical">Filing Addresses for Certain Forms Filed in Connection With a VAWA, T, or U Visa Application/Petition</a> page to see where you must file based on where you live.</td></tr><tr><td style="width:304px;">(c)(34) - Spouse of an international entrepreneur parolee</td><td style="width:672px;">See our <a href="/i-941" data-entity-type="node" data-entity-uuid="2519edb3-e474-4944-a55f-6fc6d2e93a89" data-entity-substitution="canonical">International Entrepreneur Parole</a> page</td></tr><tr><td style="width:304px;"><p>(c)(37) - Commonwealth of the Northern Mariana Islands (CNMI) long-term resident status</p><p>If you are requesting a <strong>renewal</strong> or <strong>replacement </strong>of your Employment Authorization Document.</p><p>The filing period for requesting initial employment authorization ended Aug. 17, 2020.</p></td><td style="width:672px;"><p><strong>USCIS Dallas Lockbox</strong></p><p><strong>U.S. Postal Service (USPS):</strong></p><p>USCIS<br>Attn: I-765 C37<br>P.O. Box 650455<br>Dallas, TX 75265-0455</p><p><strong>FedEx, UPS, and DHL deliveries:</strong></p><p>USCIS<br>Attn: I-765 C37 (Box 650455)<br>2501 S. State Highway 121 Business Suite 400<br>Lewisville, TX 75067-8003</p></td></tr><tr><td>(c)(40) – Bona fide determination for victims of severe forms of trafficking in persons</td><td>Go to our <a href="/Certain-VAWA-T-U-Filing-Locations" data-entity-type="node" data-entity-uuid="7076cda1-d5dc-45f2-b3cd-3376d56454ed" data-entity-substitution="canonical">Filing Addresses for Certain Forms Filed in Connection With a VAWA, T, or U Visa Application/Petition</a> page to see where you must file based on where you live.</td></tr></tbody></table></div></div><p><strong>E-Notification:</strong> If you want to receive an email, text message, or both notifying you that we have accepted your form at a USCIS lockbox, complete <a href="/g-1145" data-entity-type="node" data-entity-uuid="e8ef63d8-a07f-41dd-af65-c5d688a65722" data-entity-substitution="canonical">Form G-1145, E-Notification of Application/Petition Acceptance</a>, and clip it to the first page of your form.</p></div>
+      
+      </div>
+
+                </div>
+  
+  
+    
+              <div class="reviewed-date">
+    <div class="reviewed-date__label">Last Reviewed/Updated:</div>
+                <div class="field field--name-field-display-date field__item"><time datetime="2025-08-18T08:00:00Z" class="datetime">08/18/2025</time>
+</div>
+      
+  </div>
+
+      </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/i-765-addresses" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="44256" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="44256" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="44256" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-vin8sjb77rlpdz77blgpjrfrg3m6f1abnrvngsggoqw" type="hidden" name="form_build_id" value="form-vIn8Sjb77rLPDZ77BLgpJRFRg3m6f1aBNrvNGSggOqw"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="44256" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_0pX_SnfPDMf7vwrzbDcQ_nJ4OxbrxKFiBZO-ck0gvU4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_AsKNwrz_GL8MOvSFwxCjaawni6tz6q3D931E8dkUKrI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1UEFuwzAM-1AS77AB-42gWIqrxJEy2c3a389FiwDduoshijRBCmkVhYmZRowL8KWyElP4s-mwFK4gOnOs5mEuA8ZoTmIKJ0ZiB5IdqsHpHSa5vPhw83LFDFl0AbfM8PH2-Y94Mo8MrDg2mXOjX4g25134G1YuBRPDiP5CVR21ZKz3qHlj7-LCJI2Go0Q4pmFy01vrLmZhrUWIYccsdLeYv87s1xD34T4NMnHXut1aBfLzhnl4wC6ZpZa_YgqpPb_xgDNenpdrdy5RChAXSRpSthFzX-q1-aVnrnBuHfto62bagjZ2Ykq2w8MR27GvVWIJ2ZD6A_aR9AcuScbi"></script>
+
+  </body>

@@ -1,0 +1,2123 @@
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK8MXNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div id="page-wrapper">
+  <div class="usa-overlay"></div>
+
+  <header id="header" class="usa-header usa-header--basic usa-header--megamenu">
+        <div class="header__main-skip-nav">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    </div>
+
+    
+          <div id="header-second">
+        <div class="content-container header__items">
+            <div class="region region-header_second_left">
+      <div id="block-officialsitelanguage">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-flag">
+<div id="header-flag-img"><img alt="U.S. flag" class="header-flag-icon" src="/sites/default/files/images/site/USFlag-Icon-2x.png"></div>
+
+<div id="official-text">An official website of the United States government    <a class="link-decorate" href="#" id="us-gov-desc">Here's how you know</a></div>
+</div>
+</div>
+      
+      </div>
+  <div id="block-howyouknowdescription">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="howyouknow-header-block" id="howyouknow-official">
+<div class="howyouknow-header-block__icon"><img alt="Official Government Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-dot-gov@2x.png"></div>
+
+<div>
+<p><strong>Official websites use .gov</strong><br>
+A <strong>.gov</strong> website belongs to an official government organization in the United States.</p>
+</div>
+</div>
+
+<div class="howyouknow-header-block" id="howyouknow-secure">
+<div class="howyouknow-header-block__icon"><img alt="Secure Website" class="howyouknow-header-block__icon__img" src="/sites/default/files/images/site/icon-https@2x.png"></div>
+
+<div>
+<p><strong>Secure .gov websites use HTTPS</strong><br>
+A <strong>lock</strong> ( <svg aria-label="A locked padlock" class="howyouknow__lock-image" role="img" style="height:1.5ex;width:1.21875ex;" viewbox="0 0 52 64">
+<title></title>
+<desc>A locked padlock </desc> <path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"> </path> </svg> ) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.</p>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+            <div class="region region-header_second_right">
+      <div class="language-switcher-language-url" id="block-languageswitcher">
+    
+        
+          <div id="alt-lang-link"><span lang="es"><a href="/es/no-hay-traduccion-disponible" class="language-link" hreflang="es" data-drupal-link-system-path="node/80443">Español</a></span></div>
+      </div>
+  <div id="block-utilitylinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="header-util-links"><!--<a class="util-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/node/41573">Contact Us</a>-->
+  <div class="inline-sep header-util-links__sep"><span></span>
+  </div>
+  <a class="util-link last" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center"><i class="fal fa-globe" role="presentation"></i> Multilingual Resources</a>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        </div>
+      </div>
+    
+    
+    <div id="header-third">
+              <div class="usa-nav-container usa-nav-container--primary-menu">
+      
+      <div class="usa-navbar">
+          <div class="region region-header_third_first">
+      <div id="block-uscis-design-branding">
+    
+        
+          <div id="home-logo">
+      <a href="/" rel="home">
+        <img src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+      </a>
+    </div>
+      
+  </div>
+  <div id="block-searchplaceholder">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div id="site-search">
+<div class="hide-print"><script async src="https://cse.google.com/cse.js?cx=a2ef8e2528658124e">
+    </script>
+<div class="gcse-searchbox-only" data-resultsurl="/search"> </div>
+</div>
+
+<div class="sign-in-link popup-root">
+<div class="inline-sep sign-in-link__sep"><span></span></div>
+
+<div class="sign-in--drop-down__toggle js-popup-toggle popup-toggle">
+<div class="sign-in--button">
+<div class="highlight-strong font-ssp-semibold sign-in--button__text" tabindex="0">Sign In  <i class="fas fa-caret-down"></i></div>
+</div>
+</div>
+
+<div class="sign-in--drop-down hidden-desktop js-popup-content popup-content hidden">
+<div class="sign-in__menu-header">Access USCIS online services.</div>
+
+<div>
+<ul class="sign-in-links popup-content__menu-items">
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In</a></li>
+	<li class="sign-in__menu-item popup-content__menu-item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+
+  </div>
+
+        <button class="usa-menu-btn">Menu</button>
+      </div>
+
+      <nav id="primary-nav" aria-label="Primary navigation" class="usa-nav usa-nav--primary hide-print">
+        <button type="button" class="usa-nav__close">
+          <img src="/themes/contrib/dhs_uswds/assets/uswds/img/usa-icons/close-white.svg" alt="Close menu" class="usa-nav__close__img">
+        </button>
+          <div class="region region-navigation">
+      <div id="block-signinlink">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b0bbda9b-0765-4b94-acc9-5d0dc3075f8f" href="/link/88483">Sign In </a></div>
+
+<div class="sign-in-link sign-in-link__mobile"><a class="my-uscis-link font-ssp-semibold" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9ce08ae-95b4-45dd-a448-0a2b065fd4b2" href="/link/88486">Create Account</a></div>
+</div>
+      
+      </div>
+
+<ul class="level-0 items-7 usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-93148" type="button"><span class="usa-nav__link__title">Topics</span></button>      <div id="menu-93148" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/topics" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Topics</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/family" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Family</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-green-card-holders-permanent-residents" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Green Card Holders (Permanent Residents)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-refugees-and-asylees" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of Refugees and Asylees</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/family/family-of-us-citizens" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Family of U.S. Citizens</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/adoption" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Adoption</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/before-you-start" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Before You Start</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/adoption/immigration-through-adoption" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration through Adoption</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/military/military" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Military</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/citizenship-for-military-family-members" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Citizenship for Military Family Members</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/military/naturalization-through-military-service" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization Through Military Service</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/humanitarian" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Humanitarian</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/humanitarian_parole" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Humanitarian Parole</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/refugees-asylum" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Refugees and Asylum</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/humanitarian/temporary-protected-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/visit-the-us" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Visit the U.S.</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/change-my-nonimmigrant-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change My Nonimmigrant Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/visit-the-united-states/extend-your-stay" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Extend Your Stay</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/working-in-the-united-states" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Working in the United States</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/permanent-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Permanent Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/working-in-the-united-states/temporary-nonimmigrant-workers" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Temporary (Nonimmigrant) Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.e-verify.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Verify</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9-central" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9 Central</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/avoid-scams" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Avoid Scams</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/common-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Common Scams</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/find-legal-services" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Find Legal Services</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/scams-fraud-and-misconduct/avoid-scams/report-immigration-scams" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Report Immigration Scams</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/about-us/careers-at-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Careers at USCIS</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/career-opportunities" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Career Opportunities</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/about-us/careers/special-hiring-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Special Hiring Programs</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88393" type="button"><span class="usa-nav__link__title">Forms</span></button>      <div id="menu-88393" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/forms/forms" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Forms</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Most Accessed Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-9" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-9, Employment Eligibility Verification</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-485" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-485, Application to Register Permanent Residence or Adjust Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-765" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-765, Application for Employment Authorization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-90" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-90, Application to Replace Permanent Resident Card (Green Card)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/n-400" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">N-400, Application for Naturalization</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Family Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129f" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129F, Petition for Alien Fiancé(e)</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-130" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-130, Petition for Alien Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-360" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-360, Petition for Amerasian, Widow(er), or Special Immigrant</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-600" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-600, Petition to Classify Orphan as an Immediate Relative</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-751" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-751, Petition to Remove Conditions on Residence</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/forms/all-forms" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All Forms</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/file-online" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">File Online</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Employment Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-129" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-129, Petition for a Nonimmigrant Worker</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-140" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-140, Immigrant Petition for Alien Workers</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-526" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-526, Immigrant Petition by Standalone Investor</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-539" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-539, Application to Extend/Change Nonimmigrant Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Humanitarian Based Forms</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-589" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-589, Application for Asylum and for Withholding of Removal</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-730" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-730, Refugee/Asylee Relative Petition</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/i-821" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">I-821, Application for Temporary Protected Status</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-4153" type="button"><span class="usa-nav__link__title">Newsroom</span></button>      <div id="menu-4153" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/newsroom" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Newsroom</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/all-news" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">All News</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/alerts" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Alerts</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://www.uscis.gov/newsroom/all-news/fact-sheets" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Fact Sheets</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/newsroom/news-releases" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">News Releases</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/media-contacts" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Media Contacts</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/video-and-photo-gallery" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Multimedia Gallery</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/social-media-directory" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Social Media Directory</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/newsroom/speeches-statements-testimony" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Speeches, Statements, Testimony</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-88387" type="button"><span class="usa-nav__link__title">Citizenship</span></button>      <div id="menu-88387" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/citizenship" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Citizenship</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Learners</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/apply-for-naturalization" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Apply for Naturalization</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/learn-about-citizenship" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Learn About Citizenship</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Educators</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/educational-products-for-educators-and-program-administrators" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Educational Products for Educators</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Resources for Educational Programs</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/resources-for-educational-programs/register-for-training" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Teacher Training Sessions</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Organizations</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship/outreach-tools" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Outreach Tools</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/citizenship-resource-center/naturalization-related-data-and-statistics" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Naturalization-Related Data and Statistics</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Grants</h3></div>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-42293" type="button"><span class="usa-nav__link__title">Green Card</span></button>      <div id="menu-42293" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/green-card" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Green Card</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-processes-and-procedures" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Processes and Procedures</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/adjustment-of-status" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Adjustment of Status</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/after-we-grant-your-green-card" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">After We Grant Your Green Card</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/employment-authorization-document" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Employment Authorization Document</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Visa Availability and Priority Dates</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/green-card-eligibility-categories" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Green Card Eligibility Categories</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/how-to-apply-for-a-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">How to Apply for a Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/after-we-grant-your-green-card/replace-your-green-card" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Replace Your Green Card</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/green-card/while-your-green-card-application-is-pending-with-uscis" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">While Your Green Card Application Is Pending with USCIS</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-41528" type="button"><span class="usa-nav__link__title">Laws</span></button>      <div id="menu-41528" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/laws-and-policy" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Laws</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/legislation" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Legislation</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/laws-and-policy/legislation/immigration-and-nationality-act" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Nationality Act</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/uscis-class-action-settlement-notices-and-agreements" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Class Action, Settlement Notices and Agreements</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Unlawful Presence and Inadmissibility</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="https://www.uscis.gov/policy-manual" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Policy Manual</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/laws-and-policy/regulations" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Regulations</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/administrative-appeals/administrative-appeals" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Administrative Appeals</h3></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+        <li class="usa-nav__primary-item level-1">
+          <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="menu-50433" type="button"><span class="usa-nav__link__title">Tools</span></button>      <div id="menu-50433" class="usa-nav__submenu usa-megamenu" hidden>
+        <div class="grid-row grid-gap-4 nav__submenu-title"><div class="desktop:grid-col-3"><div class="usa-nav__submenu-item"><a href="/tools" class="nav__submenu-item-link"><h2 class="nav__submenu-item-parent-heading">Tools</h2></a></div></div></div>
+        <div class="grid-row grid-gap-4 nav__submenu-group">
+                <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/alienregistration" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Alien Registration Requirement</h3></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-2">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><h3 class="nav__submenu-item-sub-heading">Self-Help Tools</h3></a>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/processing-times/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Check Case Processing Times</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Case Status Online</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/addresschange" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Change of Address</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="https://egov.uscis.gov/e-request/Intro.do" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">E-Request</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources/online-account-and-technical-support" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Password Resets and Technical Support</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Website Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/archive" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Archive</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/a-z-index" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">A-Z Index</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/website-policies" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Website Policies</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-1">
+        <li class="usa-nav__submenu-item level-2">
+          <div class="nav__submenu-item-nolink"><h3 class="nav__submenu-item-sub-heading">Additional Resources</h3></div>                    <div class="usa-col">
+    <ul class="usa-nav__submenu-list level-2">
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/forms/explore-my-options" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Explore my Options</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/reports-and-studies/immigration-and-citizenship-data" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Immigration and Citizenship Data</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/multilingual-resource-center" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">Multilingual Resource Center</span></a>              
+            </li>
+
+        <li class="usa-nav__submenu-item level-3">
+          <a href="/tools/uscis-tools-and-resources" class="nav__submenu-item-link"><span class="nav__submenu-item-link__text">USCIS Tools and Resources</span></a>              
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+            </li>
+
+  </ul>
+
+  </div>
+
+
+
+        </div>
+      </div>
+      </li>
+
+  </ul>
+
+
+  <div id="block-mobilemenulinks">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><ul class="mobile-menu-links">
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7bb50634-6a64-46c8-bf6c-98a08b657c56" href="/about-us/contact-us">Contact us</a></li>
+	<li class="item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="74a4e61d-1c61-4081-9529-7fe905db85d1" href="/tools/multilingual-resource-center">Multilingual Resources</a></li>
+	<!--<li class="item"><a href="#" onclick="NITAgent.ShowAgent('GlobalLaunchPoint'); return false;">Ask Emma</a></li>-->
+</ul>
+</div>
+      
+      </div>
+
+  </div>
+
+      </nav>
+
+              </div>
+          </div>
+  </header>
+
+        
+  
+      <div class="book-utility-menu hide-print" role="navigation" aria-label="Book utility menu">
+  <div class="content-container">
+    <div class="container-1">
+      <a href="/policy-manual" hreflang="en">Policy Manual</a>
+      <div class="mobile-chevron">
+        <button id="util-menu" class="menu-toggle__link highlight-strong" aria-label="Toggle Menu">
+          <i id="util-chevron" class="fas fa-chevron-down"></i>
+        </button>
+      </div>
+    </div>
+    <div class="container-2" id="util-links">
+      <div class="menu-items">
+                  <div class="menu__elem"><a href="/policy-manual/table-of-contents">Contents</a></div>
+                  <div class="menu__elem"><a href="/policy-manual/updates" hreflang="en">Updates</a></div>
+                  <div class="menu__elem"><a href="/legal-resources/immigration-and-nationality-act">INA</a></div>
+                  <div class="menu__elem"><a href="https://www.ecfr.gov/current/title-8">8 CFR</a></div>
+                  <div class="menu__elem"><a href="/tools/glossary" hreflang="en">Glossary</a></div>
+                  <div class="menu__elem"><a href="https://www.uscis.gov/outreach/feedback-opportunities/policy-manual-feedback/policy-manual-feedback">Feedback</a></div>
+              </div>
+    </div>
+      <div class="book-search" id="pm-search">
+        <div class="line-sep"> </div>
+                    <form accept-charset="UTF-8" action="/policy-manual/search" name="custom-search" method="get" id="custom-search">
+          <div class="input-group">
+            <input name="pm_query" id="pm-query" type="text" class="book-search-box book-utility-menu__search" title="Search USCIS Policy Manual" autocomplete="off" size="25" maxlength="200" value="" placeholder="Search USCIS Policy Manual">
+            <div class="input-group__btn--icon">
+              <button id="pm-btn-search-submit" aria-label="Search USCIS Policy Manual" class="btn-icon btn--search-submit" type="submit">
+                <svg class="usa-icon fa-search" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/uswds/img/sprite.svg#search"></use>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </form>
+              <div class="line-sep after-search"> </div>
+      </div>
+  </div>
+</div>
+  
+  <div class="content-container">
+                  <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+            </div>
+
+      <div id="content-wrapper" class="two-col">
+              <div class="content-container--hero">
+                      
+                  </div>
+            <div class="content-container">
+                  
+        
+                  <div id="content-info-first">
+                          
+                      </div>
+        
+                  
+        
+        <div class="main-content-wrapper container">
+                                    <aside id="sidebar-first" class="hide-print">
+                  <div class="region region-sidebar_first">
+      <div id="block-booknavigation">
+    
+        
+            <nav id="book-block-menu-68600" class="book-block-menu" aria-labelledby="book-menu-label">
+    <div class="visually-hidden" id="book-menu-label">Book outline for Policy Manual</div>
+    
+
+                  <ul class="leftnav-menu book-title" data-level="0">
+    
+              
+              <li class="leftnav-menu__item leftnav-menu__item--0 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group leftnav-menu__link-group--title"><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual" class="leftnav-menu__link leftnav-menu__title" hreflang="en">Policy Manual</a></div><div class="leftnav-menu__link-group-toggle"><a href="#" class="leftnav-menu__link leftnav-menu__link-group-toggle__button leftnav-menu__link-group-toggle--title hidden-desktop" title="Toggle menu for Policy Manual" aria-controls="leftnav-menu" aria-expanded="false" role="button"><i class="fas fa-chevron-down"></i></a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--1 hidden-mobile hidden-tablet" data-level="1" id="leftnav-menu"><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/search" class="leftnav-menu__link" hreflang="en">Search</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/updates" class="leftnav-menu__link" hreflang="en">Updates</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/table-of-contents" class="leftnav-menu__link" hreflang="en">Table of Contents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-1" class="leftnav-menu__link" hreflang="en">Volume 1 - General Policies and Procedures</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-2" class="leftnav-menu__link" hreflang="en">Volume 2 - Nonimmigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-3" class="leftnav-menu__link" hreflang="en">Volume 3 - Humanitarian Protection and Parole</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-4" class="leftnav-menu__link" hreflang="en">Volume 4 - Refugees and Asylees</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-5" class="leftnav-menu__link" hreflang="en">Volume 5 - Adoptions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-6" class="leftnav-menu__link" hreflang="en">Volume 6 - Immigrants</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-7" class="leftnav-menu__link" hreflang="en">Volume 7 - Adjustment of Status</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-8" class="leftnav-menu__link" hreflang="en">Volume 8 - Admissibility</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-9" class="leftnav-menu__link" hreflang="en">Volume 9 - Waivers and Other Forms of Relief</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-10" class="leftnav-menu__link" hreflang="en">Volume 10 - Employment Authorization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-11" class="leftnav-menu__link" hreflang="en">Volume 11 - Travel and Identity Documents</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--1 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__active-trail__border"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12" class="leftnav-menu__link" hreflang="en">Volume 12 - Citizenship and Naturalization</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--2" data-level="2"><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-a" class="leftnav-menu__link" hreflang="en">Part A - Citizenship and Naturalization Policies and Procedures</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-b" class="leftnav-menu__link" hreflang="en">Part B - Naturalization Examination</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-c" class="leftnav-menu__link" hreflang="en">Part C - Accommodations</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-d" class="leftnav-menu__link" hreflang="en">Part D - General Naturalization Requirements</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-e" class="leftnav-menu__link" hreflang="en">Part E - English and Civics Testing and Exceptions</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2 has-sub-items leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-f" class="leftnav-menu__link" hreflang="en">Part F - Good Moral Character</a></div></div><ul class="leftnav-menu__sub-menu leftnav-menu__sub-menu--3" data-level="3"><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-f-chapter-1" class="leftnav-menu__link" hreflang="en">Chapter 1 - Purpose and Background</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3 leftnav-menu__active-trail"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-f-chapter-2" class="is-active leftnav-menu__link">Chapter 2 - Adjudicative Factors</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-f-chapter-3" class="leftnav-menu__link" hreflang="en">Chapter 3 - Evidence and the Record</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-f-chapter-4" class="leftnav-menu__link" hreflang="en">Chapter 4 - Permanent Bars to Good Moral Character</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--3"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-f-chapter-5" class="leftnav-menu__link" hreflang="en">Chapter 5 - Conditional Bars for Acts in Statutory Period</a></div></div></li></ul></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-g" class="leftnav-menu__link" hreflang="en">Part G - Spouses of U.S. Citizens</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-h" class="leftnav-menu__link" hreflang="en">Part H - Children of U.S. Citizens</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-i" class="leftnav-menu__link" hreflang="en">Part I - Military Members and their Families</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-j" class="leftnav-menu__link" hreflang="en">Part J - Oath of Allegiance</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-k" class="leftnav-menu__link" hreflang="en">Part K - Certificates of Citizenship and Naturalization</a></div></div></li><li class="leftnav-menu__item leftnav-menu__item--2"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><a href="/policy-manual/volume-12-part-l" class="leftnav-menu__link" hreflang="en">Part L - Revocation of Naturalization</a></div></div></li></ul></div></li><li class="leftnav-menu__item leftnav-menu__item--1 redacted"><div class="leftnav-menu__link-group "><div class="leftnav-menu__link-group-anchor"><div class="placeholder-only">          Volume 13 - Fraud and National Security [USCIS Only]
+        </div></div></div></li></ul></li>
+      
+         </ul>
+  
+
+
+  </nav>
+
+      </div>
+
+  </div>
+
+              </aside>
+                      
+          <div id="content" class="feedback is-node two-col">
+                                <div class="region region-breadcrumb">
+      <div id="block-uscis-design-breadcrumbs">
+    
+        
+            <nav class="breadcrumb" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+    <ol class="nav nav--crumbs">
+              <li class="is-link nav__crumb">
+          <a class="link" href="/">Home</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual">Policy Manual</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-12">Volume 12 - Citizenship and Naturalization</a><span class="nav__sep"></span>        </li>
+              <li class="is-link nav__crumb">
+          <a class="link" href="/policy-manual/volume-12-part-f">Part F - Good Moral Character</a><span class="nav__sep"></span>        </li>
+              <li class="last nav__crumb">
+          <span class="nav__text">Chapter 2 - Adjudicative Factors</span>        </li>
+          </ol>
+  </nav>
+
+      </div>
+
+  </div>
+
+            
+
+
+            <div id="main-content"></div>
+            <main id="main">
+                              
+              
+              <div id="page-content">
+                                    <div class="region region-content">
+      <div id="block-uscis-design-content">
+    
+        
+          
+<article class="node node--type-book">
+      <div class="container container--main">
+            
+                        
+            <h1 class="page-title js-page-title">
+              <span>Chapter 2 - Adjudicative Factors</span>
+            </h1>
+          
+              
+                    
+              <div>
+                        
+<nav id="pm-tabs" aria-labelledby="pm-tabs-label">
+  <div class="visually-hidden" id="pm-tabs-label">Content navigation tabs</div>
+  <ul>
+    <li><a href="#" aria-controls="guidance" class="pm-tab__guidance tablinks active tab1">Guidance</a></li>
+    <li><a href="#" id="resource_tab" aria-controls="resources" class="pm-tab__resource tablinks tab2">Resources (<span id="resources_count">12</span>)</a></li>
+    <li><a href="#" id="appendices_tab" aria-controls="appendices" class="pm-tab__appendices tablinks tab3">Appendices (<span id="appendices_count">1</span>)</a></li>
+    <li><a href="#" id="updates_tab" aria-controls="updates" class="pm-tab__updates tablinks tab4">Updates (<span id="updates_count">7</span>)</a></li>
+  </ul>
+</nav>
+<section id="book-content">
+  <div id="guidance" class="tabcontent tabcontent--guidance">
+                <div class="clearfix text-formatted field field--name-body field__item"><h2><a id="S-A" name="S-A"></a>A. Applicable Statutory Period</h2>
+
+<p>The applicable period during which an applicant must show that he or she has been a person of good moral character (GMC) depends on the corresponding naturalization provision.<sup><strong><a href="#footnote-1" name="footnotelink-1" id="footnotelink-1">[1]</a></strong></sup> In general, the statutory period for GMC for an applicant filing under the general naturalization provision starts 5 years prior to the date of filing.<sup><strong><a href="#footnote-2" name="footnotelink-2" id="footnotelink-2">[2]</a></strong></sup></p>
+
+<p>The statutory period starts 3 years prior to the date of filing for certain spouses of U.S. citizens.<sup><strong><a href="#footnote-3" name="footnotelink-3" id="footnotelink-3">[3]</a></strong></sup> The period during which certain service members or veterans must show GMC starts 1 or 5 years from the date of filing depending on the military provision.<sup><strong><a href="#footnote-4" name="footnotelink-4" id="footnotelink-4">[4]</a></strong></sup></p>
+
+<p>In all cases, the applicant must also show that he or she continues to be a person of GMC until the time of his or her naturalization.<sup><strong><a href="#footnote-5" name="footnotelink-5" id="footnotelink-5">[5]</a></strong></sup></p>
+
+<h2><a id="S-B" name="S-B"></a>B. Conduct Outside of the Statutory Period</h2>
+
+<p>USCIS is not limited to reviewing the applicant's conduct only during the applicable GMC period. An applicant’s conduct prior to the GMC period may affect the applicant’s ability to establish GMC if the applicant’s present conduct does not reflect a reformation of character or the earlier conduct is relevant to the applicant’s present moral character.<sup><strong><a href="#footnote-6" name="footnotelink-6" id="footnotelink-6">[6]</a></strong></sup></p>
+
+<p>In general, an officer must consider the totality of the circumstances and weigh all factors, favorable and unfavorable, when considering reformation of character in conjunction with GMC within the relevant period.<sup><strong><a href="#footnote-7" name="footnotelink-7" id="footnotelink-7">[7]</a></strong></sup> The following factors may be relevant in assessing an applicant’s current moral character and reformation of character:</p>
+
+<ul><li>
+	<p>Family ties and background;​</p>
+	</li>
+	<li>
+	<p>Absence or presence of other criminal history;​</p>
+	</li>
+	<li>
+	<p>Education;​</p>
+	</li>
+	<li>
+	<p>Employment history;​</p>
+	</li>
+	<li>
+	<p>Other law-abiding behavior (for example, meeting financial obligations, paying taxes);​</p>
+	</li>
+	<li>
+	<p>Community involvement;​</p>
+	</li>
+	<li>
+	<p>Credibility of the applicant;​</p>
+	</li>
+	<li>
+	<p>Compliance with probation; and​</p>
+	</li>
+	<li>
+	<p>Length of time in United States.</p>
+	</li>
+</ul><h2><a id="S-C" name="S-C"></a>C. Definition of Conviction</h2>
+
+<h3><a id="S-C-1" name="S-C-1"></a>1. Statutory Definition of Conviction for Immigration Purposes</h3>
+
+<p>Most of the criminal offenses that preclude a finding of GMC require a conviction for the disqualifying offense or arrest. A “conviction” for immigration purposes means a formal judgment of guilt entered by the court. A conviction for immigration purposes also exists in cases where the adjudication of guilt is withheld if the following conditions are met:</p>
+
+<ul><li>
+	<p>A judge or jury has found the person guilty or the person entered a plea of guilty or nolo contendere<sup><strong><a href="#footnote-8" name="footnotelink-8" id="footnotelink-8">[8]</a></strong></sup> or has admitted sufficient facts to warrant a finding of guilt; and</p>
+	</li>
+	<li>
+	<p>The judge has ordered some form of punishment, penalty, or imposed a restraint on the person’s liberty.<sup><strong><a href="#footnote-9" name="footnotelink-9" id="footnotelink-9">[9]</a></strong></sup></p>
+	</li>
+</ul><p>It is not always clear if the outcome of the arrest resulted in a conviction. Various states have provisions for diminishing the effects of a conviction. In some states, adjudication may be deferred upon a finding or confession of guilt. Some states have a pretrial diversion program whereby the case is removed from the normal criminal proceedings. This way the person may enter into a counseling or treatment program and potentially avoid criminal prosecution.</p>
+
+<p>If the accused is directed to attend a pre-trial diversion or intervention program, where no admission or finding of guilt is required, the order may not count as a conviction for immigration purposes.<sup><strong><a href="#footnote-10" name="footnotelink-10" id="footnotelink-10">[10]</a></strong></sup></p>
+
+<h3><a id="S-C-2" name="S-C-2"></a>2. Juvenile Convictions</h3>
+
+<p>In general, a guilty verdict, ruling, or judgment in a juvenile court does not constitute a conviction for immigration purposes.<sup><strong><a href="#footnote-11" name="footnotelink-11" id="footnotelink-11">[11]</a></strong></sup> A conviction for a person who is under 18 years of age and who was charged as an adult constitutes a conviction for immigration purposes.</p>
+
+<h3><a id="S-C-3" name="S-C-3"></a>3. Court Martial Convictions</h3>
+
+<p>A general “court martial” is defined as a criminal proceeding under the governing laws of the U.S. armed forces. A judgment of guilt by a court martial has the same force and effect as a conviction by a criminal court.<sup><strong><a href="#footnote-12" name="footnotelink-12" id="footnotelink-12">[12]</a></strong></sup> However, disciplinary actions in lieu of a court martial are not convictions for immigration purposes.</p>
+
+<h3><a id="S-C-4" name="S-C-4"></a>4. Deferrals of Adjudication</h3>
+
+<p>In cases where adjudication is deferred, the original finding or confession of guilt and imposition of punishment is sufficient to establish a conviction for immigration purposes because both conditions establishing a conviction are met. If the court does not impose some form of punishment, then it is not considered a conviction even with a finding or confession of guilt. A decision or ruling of nolle prosequi<sup><strong><a href="#footnote-13" name="footnotelink-13" id="footnotelink-13">[13]</a></strong></sup> does not meet the definition of conviction.</p>
+
+<h3><a id="S-C-5" name="S-C-5"></a>5. Vacated Judgments</h3>
+
+<p>If a judgment is vacated for cause due to Constitutional defects, statutory defects, or pre-conviction errors affecting guilt, it is not considered a conviction for immigration purposes. The judgment is considered a conviction for immigration purposes if it was dismissed for any other reason, such as completion of a rehabilitative period (rather than on its merits) or to avoid adverse immigration consequences.<sup><strong><a href="#footnote-14" name="footnotelink-14" id="footnotelink-14">[14]</a></strong></sup></p>
+
+<p>A conviction vacated where a criminal court failed to advise a defendant of the immigration consequences of a plea, which resulted from a defect in the underlying criminal proceeding, is not a conviction for immigration purposes.<sup><strong><a href="#footnote-15" name="footnotelink-15" id="footnotelink-15">[15]</a></strong></sup></p>
+
+<h3><a id="S-C-6" name="S-C-6"></a>6. Foreign Convictions</h3>
+
+<p>USCIS considers a foreign conviction to be a “conviction” in the immigration context if the conviction was the result of an offense deemed to be criminal by United States standards.<sup><strong><a href="#footnote-16" name="footnotelink-16" id="footnotelink-16">[16]</a></strong></sup> In addition, federal United States standards on sentencing govern the determination of whether the offense is a felony or a misdemeanor regardless of the punishment imposed by the foreign jurisdiction.<sup><strong><a href="#footnote-17" name="footnotelink-17" id="footnotelink-17">[17]</a></strong></sup> The officer may consult with local USCIS counsel in cases involving foreign convictions.</p>
+
+<h3><a id="S-C-7" name="S-C-7"></a>7. Pardons</h3>
+
+<p>An applicant who has received a full and unconditional executive pardon<sup><strong><a href="#footnote-18" name="footnotelink-18" id="footnotelink-18">[18]</a></strong></sup> prior to the start of the statutory period may establish GMC if the applicant shows that he or she has been reformed and rehabilitated prior to the statutory period.<sup><strong><a href="#footnote-19" name="footnotelink-19" id="footnotelink-19">[19]</a></strong></sup> If the applicant received a pardon during the statutory period, the applicant may establish GMC if he or she shows evidence of extenuating or exonerating circumstances that would establish his or her GMC.<sup><strong><a href="#footnote-20" name="footnotelink-20" id="footnotelink-20">[20]</a></strong></sup></p>
+
+<p>Foreign pardons do not eliminate a conviction for immigration purposes.<sup><strong><a href="#footnote-21" name="footnotelink-21" id="footnotelink-21">[21]</a></strong></sup></p>
+
+<h3><a id="S-C-8" name="S-C-8"></a>8. Expunged Records</h3>
+
+<p><em>Expunged Records and the Underlying Conviction</em></p>
+
+<p>A record of conviction that has been expunged does not remove the underlying conviction.<sup><strong><a href="#footnote-22" name="footnotelink-22" id="footnotelink-22">[22]</a></strong></sup> For example, an expunged record of conviction for a controlled substance violation<sup><strong><a href="#footnote-23" name="footnotelink-23" id="footnotelink-23">[23]</a></strong></sup> or any crime involving moral turpitude (CIMT) does not relieve the applicant from the conviction in the immigration context.<sup><strong><a href="#footnote-24" name="footnotelink-24" id="footnotelink-24">[24]</a></strong></sup> In addition, foreign expungements are still considered convictions for immigration purposes.<sup><strong><a href="#footnote-25" name="footnotelink-25" id="footnotelink-25">[25]</a></strong></sup></p>
+
+<p>The Board of Immigration Appeals (BIA) has held that a state court action to “expunge, dismiss, cancel, vacate, discharge, or otherwise remove a guilty plea or other record of guilt or conviction by operation of a state rehabilitative statute” has no effect on removing the underlying conviction for immigration purposes.<sup><strong><a href="#footnote-26" name="footnotelink-26" id="footnotelink-26">[26]</a></strong></sup></p>
+
+<p>The officer may require the applicant to submit evidence of a conviction regardless of whether the record of the conviction has been expunged. It remains the applicant’s responsibility to obtain his or her records regardless of whether they have been expunged or sealed by the court. USCIS may file a motion with the court to obtain a copy of the record in states where the applicant is unable to obtain the record.</p>
+
+<h3><a id="S-C-9" name="S-C-9"></a>9. Change in Sentence</h3>
+
+<p>“Term of imprisonment or a sentence”<sup><strong><a href="#footnote-27" name="footnotelink-27" title id="footnotelink-27">[27]</a></strong></sup> generally refers to a person’s original criminal sentence, without regard to post-sentencing alterations.<sup><strong><a href="#footnote-28" name="footnotelink-28" title id="footnotelink-28">[28]</a></strong></sup> Therefore, state-court orders that modify, clarify, or otherwise alter a criminal person’s original sentence will only be relevant for immigration purposes if they are based on a procedural or substantive defect in the underlying criminal proceeding.<sup><strong><a href="#footnote-29" name="footnotelink-29" title id="footnotelink-29">[29]</a></strong></sup></p>
+
+<h2><a id="S-D" name="S-D"></a>D. Effect of Probation</h2>
+
+<p>An officer may not approve a naturalization application while the applicant is on probation, parole, or under a suspended sentence.<sup><strong><a href="#footnote-30" name="footnotelink-30" id="footnotelink-30">[30]</a></strong></sup> However, an applicant who has satisfactorily completed probation, parole, or a suspended sentence during the relevant statutory period is not automatically precluded from establishing GMC. The fact that an applicant was on probation, parole, or under a suspended sentence during the statutory period, however, may affect the overall GMC determination.</p>
+
+<h2><a id="S-E" name="S-E"></a>E. Admission of Certain Criminal Acts</h2>
+
+<p>An applicant may be unable to establish GMC if he or she admits committing certain offenses even if the applicant has never been formally charged, indicted, arrested or convicted.<sup><strong><a href="#footnote-31" name="footnotelink-31" id="footnotelink-31">[31]</a></strong></sup> This applies to offenses involving “moral turpitude” or any violation of, or a conspiracy or attempt to violate, any law or regulation relating to a controlled substance.<sup><strong><a href="#footnote-32" name="footnotelink-32" id="footnotelink-32">[32]</a></strong></sup> When determining whether an applicant committed a particular offense, the officer must review the relevant statute in the jurisdiction where it is alleged to have been committed. </p>
+
+<p>The officer must provide the applicant with a full explanation of the purpose of the questioning stemming from the applicant’s declaration that he or she committed an offense. In order for the applicant’s declaration to be considered an “admission,” it must meet the long held requirements for a valid “admission” of an offense:<sup><strong><a href="#footnote-33" name="footnotelink-33" id="footnotelink-33">[33]</a></strong></sup></p>
+
+<ul><li>
+	<p>The officer must provide the applicant the text of the specific law from the jurisdiction where the offense was committed;</p>
+	</li>
+	<li>
+	<p>The officer must provide an explanation of the offense and its essential elements in “ordinary” language; and</p>
+	</li>
+	<li>
+	<p>The applicant must voluntarily admit to having committed the particular elements of the offense under oath.<sup><strong><a href="#footnote-34" name="footnotelink-34" id="footnotelink-34">[34]</a></strong></sup></p>
+	</li>
+</ul><p>The officer must ensure that the applicant is under oath when taking the sworn statement to record the admission. The sworn statement must cover the requirements for a valid admission, to include the specifics of the act or acts that may prevent the applicant from establishing GMC. The officer may consult with his or her supervisor to ensure that sufficient written testimony has been received from the applicant prior to making a decision on the application.</p>
+
+<h2><a id="S-F" name="S-F"></a>F. “Purely Political Offense” Exception</h2>
+
+<p>There is an exception to certain conditional bars to GMC in cases where the offense was a “purely political offense” that resulted in conviction, or in conviction and imprisonment, outside of the United States.<sup><strong><a href="#footnote-35" name="footnotelink-35" id="footnotelink-35">[35]</a></strong></sup> Purely political offenses are generally offenses that “resulted in convictions obviously based on fabricated charges or predicated upon repressive measures against racial, religious or political minorities.”<sup><strong><a href="#footnote-36" name="footnotelink-36" id="footnotelink-36">[36]</a></strong></sup></p>
+
+<p>The “purely political offense” exception applies to the following conditional bars to GMC:<sup><strong><a href="#footnote-37" name="footnotelink-37" id="footnotelink-37">[37]</a></strong></sup></p>
+
+<ul><li>
+	<p>Conviction for one or more crimes involving moral turpitude (CIMTs);<sup><strong><a href="#footnote-38" name="footnotelink-38" id="footnotelink-38">[38]</a></strong></sup></p>
+	</li>
+	<li>
+	<p>Conviction of two or more offenses with a combined sentence of 5 years or more;<sup><strong><a href="#footnote-39" name="footnotelink-39" id="footnotelink-39">[39]</a></strong></sup>and</p>
+	</li>
+	<li>
+	<p>Incarceration for a total period of 180 days or more.<sup><strong><a href="#footnote-40" name="footnotelink-40" id="footnotelink-40">[40]</a></strong></sup></p>
+	</li>
+</ul><p>These conditional bars to GMC do not apply if the underlying conviction was for a “purely political offense” abroad. The officer should rely on local USCIS counsel in cases where there is a question about whether a particular offense should be considered a “purely political offense.” </p>
+
+<h2><a id="S-G" name="S-G"></a>G. Extenuating Circumstances</h2>
+
+<p>Certain conditional bars to GMC should not adversely affect the GMC determination if the applicant shows extenuating circumstances.<sup><strong><a href="#footnote-41" name="footnotelink-41" id="footnotelink-41">[41]</a></strong></sup> The extenuating circumstance must precede or be contemporaneous with the commission of the offense. USCIS does not consider any conduct or equity (including evidence of reformation or rehabilitation) subsequent to the commission of the offense as an extenuating circumstance.</p>
+
+<p>The “extenuating circumstances” provision applies to the following conditional bars to GMC:<sup><strong><a href="#footnote-42" name="footnotelink-42" id="footnotelink-42">[42]</a></strong></sup></p>
+
+<ul><li>
+	<p>Failure to support dependents;<sup><strong><a href="#footnote-43" name="footnotelink-43" id="footnotelink-43">[43]</a></strong></sup>​</p>
+	</li>
+	<li>
+	<p>Adultery;<sup><strong><a href="#footnote-44" name="footnotelink-44" id="footnotelink-44">[44]</a></strong></sup>and​</p>
+	</li>
+	<li>
+	<p>Unlawful acts.<sup><strong><a href="#footnote-45" name="footnotelink-45" id="footnotelink-45">[45]</a></strong></sup></p>
+	</li>
+</ul><p>These conditional bars to GMC do not apply if the applicant shows extenuating circumstances. The officer should provide the applicant with an opportunity during the interview to provide evidence and testimony of extenuating circumstances in relevant cases.</p>
+
+<h2><a id="S-H" name="S-H"></a>H. Removability and GMC</h2>
+
+<p>Certain permanent and conditional bars to GMC may also render the applicant amenable to removal proceedings.<sup><strong><a href="#footnote-46" name="footnotelink-46" id="footnotelink-46">[46]</a></strong></sup> This depends on various factors specific to each case. Not all applicants who are found to lack GMC are removable. An applicant may be found to lack GMC and have his or her naturalization application denied under those grounds without DHS issuing a Notice to Appear.<sup><strong><a href="#footnote-47" name="footnotelink-47" id="footnotelink-47">[47]</a></strong></sup></p>
+
+<h2>Footnotes</h2>
+
+<hr><p><a href="#footnotelink-1" name="footnote-1" id="footnote-1">[^ 1]</a> See the relevant Volume 12 [<a href="/node/69643">12 USCIS-PM</a>] part for the specific statutory period pertaining to each naturalization provision.</p>
+
+<p><a href="#footnotelink-2" name="footnote-2" id="footnote-2">[^ 2]</a> See Part D, General Naturalization Requirements, Chapter 1, Purpose and Background, Section B, General Eligibility Requirements [<a href="/node/73842#S-B">12 USCIS-PM D.1(B)</a>]. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316(a)</a>. See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_12">8 CFR 316.2(a)(7)</a>.</p>
+
+<p><a href="#footnotelink-3" name="footnote-3" id="footnote-3">[^ 3]</a> See Part G, Spouses of U.S. Citizens, Chapter 1, Purpose and Background, Section C, Table of General Provisions [<a href="/node/73884#S-C">12 USCIS-PM G.1(C)</a>]. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1430&amp;num=0&amp;edition=prelim">INA 319(a)</a> and <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.319_11">8 CFR 319.1(a)(7)</a>.</p>
+
+<p><a href="#footnotelink-4" name="footnote-4" id="footnote-4">[^ 4]</a> See Part I, Military Members and their Families, Chapter 9, Spouses, Children, and Surviving Family Benefits, Section B, Spouses of Military Members [<a href="/node/73939#S-B">12 USCIS-PM I.9(B)</a>]. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1439&amp;num=0&amp;edition=prelim">INA 328(c)</a> and <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1440&amp;num=0&amp;edition=prelim">INA 329</a>. See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.328_12">8 CFR 328.2(d)</a> and <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.329_12">8 CFR 329.2(d)</a>.</p>
+
+<p><a href="#footnotelink-5" name="footnote-5" id="footnote-5">[^ 5]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(a)(1)</a>.</p>
+
+<p><a href="#footnotelink-6" name="footnote-6" id="footnote-6">[^ 6]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316(e)</a>. See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(a)(2)</a>.</p>
+
+<p><a href="#footnotelink-7" name="footnote-7" id="footnote-7">[^ 7]</a> See <em>Ralich v. United States</em>, 185 F.2d 784 (1950) (provided false testimony within the statutory period and operated a house of prostitution prior to the statutory period). See <em>Marcantonio v. United States</em>, 185 F.2d 934 (1950) (applicant had rehabilitated his character after multiple arrests before statutory period).</p>
+
+<p><a href="#footnotelink-8" name="footnote-8" id="footnote-8">[^ 8]</a> The term “nolo contendere” is Latin for “I do not wish to contest.”</p>
+
+<p><a href="#footnotelink-9" name="footnote-9" id="footnote-9">[^ 9]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(a)(48)(A)</a>.</p>
+
+<p><a href="#footnotelink-10" name="footnote-10" id="footnote-10">[^ 10]</a> See <em><a href="https://www.justice.gov/eoir/vll/intdec/vol20/3103.pdf">Matter of Grullon   (PDF)</a></em>, 20 I&amp;N Dec. 12 (BIA 1989).</p>
+
+<p><a href="#footnotelink-11" name="footnote-11" id="footnote-11">[^ 11]</a> See <em><a href="https://www.justice.gov/eoir/vll/intdec/vol22/3435.pdf">Matter of Devison-Charles   (PDF)</a></em>, 22 I&amp;N Dec. 1362 (BIA 2000).</p>
+
+<p><a href="#footnotelink-12" name="footnote-12" id="footnote-12">[^ 12]</a> See <em><a href="https://www.justice.gov/eoir/vll/intdec/vol24/3607.pdf">Matter of Rivera-Valencia   (PDF)</a></em>, 24 I&amp;N Dec. 484 (BIA 2008).</p>
+
+<p><a href="#footnotelink-13" name="footnote-13" id="footnote-13">[^ 13]</a> The term “nolle prosequi” is Latin for “we shall no longer prosecute.”</p>
+
+<p><a href="#footnotelink-14" name="footnote-14" id="footnote-14">[^ 14]</a> See <em>Pickering v. Gonzales</em>, 465 F.3d 263 (6th Cir. 2006). </p>
+
+<p><a href="#footnotelink-15" name="footnote-15" id="footnote-15">[^ 15]</a> See <em><a href="https://www.justice.gov/eoir/vll/intdec/vol23/3525.pdf">Matter of Adamiak   (PDF)</a></em>, 23 I&amp;N Dec. 878 (BIA 2006). See <em>Alim v. Gonzales</em>, 446 F.3d 1239 (11th Cir 2006). </p>
+
+<p><a href="#footnotelink-16" name="footnote-16" id="footnote-16">[^ 16]</a> See <em><a href="https://www.justice.gov/eoir/vll/intdec/vol17/2833.pdf">Matter of Squires   (PDF)</a></em>, 17 I&amp;N Dec. 561 (BIA 1980). See <em><a href="https://www.justice.gov/eoir/vll/intdec/vol16/2663.pdf">Matter of McNaughton   (PDF)</a></em>, 16 I&amp;N Dec. 569 (BIA 1978).</p>
+
+<p><a href="#footnotelink-17" name="footnote-17" id="footnote-17">[^ 17]</a> See <em>Lennon v. INS</em>, 527 F.2d 187 (2nd Cir. 1975).</p>
+
+<p><a href="#footnotelink-18" name="footnote-18" id="footnote-18">[^ 18]</a> Executive pardons are given by the President or a governor of the United States. </p>
+
+<p><a href="#footnotelink-19" name="footnote-19" id="footnote-19">[^ 19]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(c)(2)(i)</a>.</p>
+
+<p><a href="#footnotelink-20" name="footnote-20" id="footnote-20">[^ 20]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(c)(2)(ii)</a>.</p>
+
+<p><a href="#footnotelink-21" name="footnote-21" id="footnote-21">[^ 21]</a> See <em>Marino v. INS</em>, 537 F.2d 686 (2nd Cir. 1976). See <em>Mullen-Cofee v. INS</em>, 976 F.2d 1375 (11th Cir. 1992). See <em>Matter of B-</em>, 7 I&amp;N Dec. 166 (BIA 1956) (referring to amnesty).</p>
+
+<p><a href="#footnotelink-22" name="footnote-22" id="footnote-22">[^ 22]</a> See <em><a href="https://www.justice.gov/eoir/vll/intdec/vol23/3507.pdf">Matter of Marroquin   (PDF)</a></em>, 23 I&amp;N Dec. 705 (A.G. 2005). </p>
+
+<p><a href="#footnotelink-23" name="footnote-23" id="footnote-23">[^ 23]</a> For cases arising in the Ninth Circuit involving state law convictions for simple possession of a controlled substance, please consult local counsel as the date of the conviction may affect whether possible treatment under the Federal First Offender Act renders the conviction invalid for immigration purposes. See <em>Nunez-Reyes v. Holder</em>, 646 F.3d 684 (9th Cir 2011).</p>
+
+<p><a href="#footnotelink-24" name="footnote-24" id="footnote-24">[^ 24]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(c)(3)(i)</a> and <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(c)(3)(ii)</a>. </p>
+
+<p><a href="#footnotelink-25" name="footnote-25" id="footnote-25">[^ 25]</a> See <em>Danso v. Gonzales</em>, 489 F.3d 709 (5th Cir. 2007). See <em>Elkins v. Comfort</em>, 392 F.3d 1159 (10th Cir. 2004).</p>
+
+<p><a href="#footnotelink-26" name="footnote-26" id="footnote-26">[^ 26]</a> See <em><a href="https://www.justice.gov/eoir/vll/intdec/vol22/3377.pdf">In re Roldan-Santoyo   (PDF)</a></em>, 22 I&amp;N Dec. 512 (BIA 1999).</p>
+
+<p><a href="#footnotelink-27" name="footnote-27" title id="footnote-27">[^ 27]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(a)(48)(B)</a>.</p>
+
+<p><a href="#footnotelink-28" name="footnote-28" title id="footnote-28">[^ 28]</a> See <em><a href="https://www.justice.gov/eoir/page/file/1213201/download">Matter of Thomas and Thompson</a></em>, 27 I&amp;N Dec. 674 (A.G. 2019) (“the phrase ‘term of imprisonment or a sentence’ in paragraph (B) [of INA 101(a)(48)] is best read to concern an alien’s <em>original </em>criminal sentence, without regard to post-sentencing alterations that, like a suspension, merely alleviate the impact of that sentence.”).</p>
+
+<p><a href="#footnotelink-29" name="footnote-29" title id="footnote-29">[^ 29]</a> See <em><a href="https://www.justice.gov/eoir/page/file/1213201/download">Matter of Thomas and Thompson</a></em>, 27 I&amp;N Dec. 674, 682 (A.G. 2019) (holding that the tests set forth in <em><a href="https://www.justice.gov/eoir/vll/intdec/vol23/3522.pdf">Matter of Cota-Vargas   (PDF)</a></em>, 23 I&amp;N Dec. 849 (BIA 2005), <em><a href="https://www.justice.gov/eoir/vll/intdec/vol23/3455.pdf">Matter of Song   (PDF)</a></em>, 23 I&amp;N Dec. 173 (BIA 2001), and <em><a href="https://www.justice.gov/eoir/file/862581/download">Matter of Estrada</a></em>, 26 I&amp;N Dec. 749 (BIA 2016), will no longer govern the effect of state-court orders that modify, clarify, or otherwise alter a criminal's sentence.) For questions on procedural or substantive defects, officers should consult the Office of the Chief Counsel (OCC).</p>
+
+<p><a href="#footnotelink-30" name="footnote-30" id="footnote-30">[^ 30]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(c)(1)</a>.</p>
+
+<p><a href="#footnotelink-31" name="footnote-31" id="footnote-31">[^ 31]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(b)(2)(iv)</a>.</p>
+
+<p><a href="#footnotelink-32" name="footnote-32" id="footnote-32">[^ 32]</a> See Chapter 5, Conditional Bars for Acts in Statutory Period [<a href="/node/73883">12 USCIS-PM F.5</a>]. See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(b)(2)(i)</a> (offenses involving “moral turpitude”). See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(b)(2)(iii)</a> (violation of controlled substance law).</p>
+
+<p><a href="#footnotelink-33" name="footnote-33" id="footnote-33">[^ 33]</a> See <em>Matter of K-</em>, 7 I&amp;N Dec. 594 (BIA 1957).</p>
+
+<p><a href="#footnotelink-34" name="footnote-34" id="footnote-34">[^ 34]</a> See <em>Matter of J-</em>, 2 I&amp;N Dec. 285 (BIA 1945).</p>
+
+<p><a href="#footnotelink-35" name="footnote-35" id="footnote-35">[^ 35]</a> See <em><a href="https://www.justice.gov/eoir/vll/intdec/vol23/3538.pdf">In re O'Cealleagh   (PDF)</a></em>, 23 I&amp;N Dec. 976 (BIA 2006) (finding that a CIMT offense must be completely or totally political for “purely political offense” exception to apply).</p>
+
+<p><a href="#footnotelink-36" name="footnote-36" id="footnote-36">[^ 36]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title22/22tab_02.tpl">22 CFR 40.21(a)(6)</a>. </p>
+
+<p><a href="#footnotelink-37" name="footnote-37" id="footnote-37">[^ 37]</a> See Chapter 5, Conditional Bars for Acts in Statutory Period [<a href="/node/73883">12 USCIS-PM F.5</a>], for further guidance on each bar to GMC.</p>
+
+<p><a href="#footnotelink-38" name="footnote-38" id="footnote-38">[^ 38]</a> See Chapter 5, Conditional Bars for Acts in Statutory Period, Section A, One or More Crimes Involving Moral Turpitude [<a href="/node/73883#S-A">12 USCIS-PM F.5(A)</a>].</p>
+
+<p><a href="#footnotelink-39" name="footnote-39" id="footnote-39">[^ 39]</a> See Chapter 5, Conditional Bars for Acts in Statutory Period, Section B, Aggregate Sentence of 5 Years or More [<a href="/node/73883#S-B">12 USCIS-PM F.5(B)</a>].</p>
+
+<p><a href="#footnotelink-40" name="footnote-40" id="footnote-40">[^ 40]</a> See Chapter 5, Conditional Bars for Acts in Statutory Period, Section D, Imprisonment for 180 Days or More [<a href="/node/73883#S-D">12 USCIS-PM F.5(D)</a>].</p>
+
+<p><a href="#footnotelink-41" name="footnote-41" id="footnote-41">[^ 41]</a> See <a href="https://www.ecfr.gov/cgi-bin/text-idx?&amp;node=se8.1.316_110">8 CFR 316.10(b)(3)</a>.</p>
+
+<p><a href="#footnotelink-42" name="footnote-42" id="footnote-42">[^ 42]</a> See Chapter 5, Conditional Bars for Acts in Statutory Period [<a href="/node/73883">12 USCIS-PM F.5</a>], for further guidance on extenuating circumstances.</p>
+
+<p><a href="#footnotelink-43" name="footnote-43" id="footnote-43">[^ 43]</a> See Chapter 5, Conditional Bars for Acts in Statutory Period, Section K, Certain Acts in Statutory Period, Subsection 2, Failure to Support Dependents [<a href="/node/73883#S-K-2">12 USCIS-PM F.5(K)(2)</a>].</p>
+
+<p><a href="#footnotelink-44" name="footnote-44" id="footnote-44">[^ 44]</a> See Chapter 5, Conditional Bars for Acts in Statutory Period, Section K, Certain Acts in Statutory Period, Subsection 3, Adultery [<a href="/node/73883#S-K-3">12 USCIS-PM F.5(K)(3)</a>].</p>
+
+<p><a href="#footnotelink-45" name="footnote-45" id="footnote-45">[^ 45]</a> See Chapter 5, Conditional Bars for Acts in Statutory Period, Section L, Unlawful Acts [<a href="/node/73883#S-L">12 USCIS-PM F.5(L)</a>].</p>
+
+<p><a href="#footnotelink-46" name="footnote-46" id="footnote-46">[^ 46]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1227&amp;num=0&amp;edition=prelim">INA 237</a> (“general classes of deportable aliens”).</p>
+
+<p><a href="#footnotelink-47" name="footnote-47" id="footnote-47">[^ 47]</a> See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1429&amp;num=0&amp;edition=prelim">INA 318</a>. See Part D, General Naturalization Requirements, Chapter 2, Lawful Permanent Resident Admission for Naturalization, Section F, Removal Proceedings [<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c8730195-b3a4-486a-8335-5989914c3c3f" href="/policy-manual/volume-12-part-d-chapter-2#S-F">12 USCIS-PM D.2(F)</a>].</p>
+</div>
+      
+  </div>
+
+  <div id="resources" class="tabcontent tabcontent--resources hidden">
+    <h2>Resources</h2>
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Legal Authorities</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-12b27af1522af9e202ff62a111c8bf65192350650b28c727526bb5349d6f66d4 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(a)(48)(A)</a> - Definition of conviction</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(f)</a> - Definition of good moral character</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316(e)</a>, <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-316/section-316.10">8 CFR 316.10</a> - Good moral character </p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316</a>, <a href="https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-316">8 CFR 316</a> - General requirements for naturalization</p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1429&amp;num=0&amp;edition=prelim">INA 318</a> - Prerequisite to naturalization, burden of proof</p></div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Forms</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-88b24565db78b0e1077abb20a3b4df210bbeaac1d55a28338482b44d880a3c8d hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/g-1055" data-entity-type="node" data-entity-uuid="944bb8d1-cae6-467c-96b4-979e03f8ca66" data-entity-substitution="canonical">G-1055, Fee Schedule</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/node/41152">G-28, Notice of Entry of Appearance as Attorney or Accredited Representative</a></p>
+</div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/n-400">N-400, Application for Naturalization</a></p></div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+    
+    <div class="pm-resource__container">
+      <div class="pm-resource__header">Other Materials</div>
+      <div class="pm-resource__data">
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-1 pm-resources-block_1 js-view-dom-id-e570698c4e3ff8c986579204a2e27dabee51f53ec128fae5bfefa0ec0d7277bb hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/citizenship/find-study-materials-and-resources/check-for-test-updates" data-entity-type="node" data-entity-uuid="a2a2b57e-27eb-4c2f-b352-1be0b65f6a65" data-entity-substitution="canonical">Citizenship Resource Center: Check for Test Updates</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/citizenship/find-study-materials-and-resources/study-for-the-test" data-entity-type="node" data-entity-uuid="4991b841-ceea-4804-95db-d1737b7ff434" data-entity-substitution="canonical">Citizenship Resource Center: Study for the Test</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a href="/citizenship/learn-about-citizenship/the-naturalization-interview-and-test" data-entity-type="node" data-entity-uuid="049c3169-1c79-4e09-a65e-3ae5697f1510" data-entity-substitution="canonical">Citizenship Resource Center: The Naturalization Interview and Test</a></p></div>
+  </div>
+  <div class="row-data pm-resources">
+<div class=""><p><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="837656db-38a5-4ce9-a548-27a2b09d6b57" data-lang="en" href="/sites/default/files/document/policy-manual-resources/HowToUseTheUSCISPolicyManualWebsite.pdf" type="application/pdf; length=3130835">How to Use the USCIS Policy Manual Website</a></p>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+      
+      </div>
+    </div>
+
+  </div>
+
+  <div id="appendices" class="tabcontent tabcontent--appendices hidden">
+    <div class="pm-resource__container">
+      <h2>Appendices</h2>
+      <div class="views-element-container">
+
+<div class="container container--views pm-resources block-2 pm-resources-block_2 js-view-dom-id-c8da24b522c783e6d9ec062dea09ac1903ea92d26648e217d341cad3566e1d5e hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+<div class="content-accordion">
+  <div class="row-data ">
+<div class="accordion__header " tabindex="0"><span>Appendix: History of Acquiring Citizenship under INA 320 for Children of U.S. Citizens who are Members of the U.S. Armed Forces, U.S. Government Employees, or their Spouses</span>
+</div>
+<div class="accordion__panel "><p>Before October 29, 2019, USCIS considered children of members of the U.S. armed forces or U.S. government employees, who were stationed outside of the United States, to meet the requirement of “is residing in” the United States for the purpose of acquiring citizenship under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a>.<a href="#app-footnote-1" name="app-footnotelink-1" title><sup><strong>[1]</strong></sup></a> This interpretation was consistent with the definition of “residence” for purposes of naturalization under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316</a>.<a href="#app-footnote-2" name="app-footnotelink-2" title><sup><strong>[2]</strong></sup></a> Based on this treatment of U.S. government employees and their children in the context of naturalization under INA 316, USCIS determined that “residing in the United States” for purposes of acquisition of citizenship under INA 320 should likewise be interpreted to include children of U.S. military and government employees stationed outside of the United States who were residing with their parents.<a href="#app-footnote-3" name="app-footnotelink-3" title><sup><strong>[3]</strong></sup></a></p>
+
+<p>This interpretation, however, was inconsistent with other provisions of the Immigration and Nationality Act (INA), including the definition of “residence” at <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&amp;num=0&amp;edition=prelim">INA 101(a)(33)</a> and language in <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322(a)</a> and <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322(d)</a>, which suggested that the citizenship of military children residing outside of the United States should be considered under that provision rather than under INA 320. Effective October 29, 2019, USCIS amended its policy guidance to address these concerns, and determined that children of members of the U.S. armed forces or U.S. government employees stationed outside of the United States would not be eligible for citizenship acquisition under INA 320.<a href="#app-footnote-4" name="app-footnotelink-4" title><sup><strong>[4]</strong></sup></a></p>
+
+<p>On March 26, 2020, the Citizenship for Children of Military Members and Civil Servants Act was enacted,<a href="#app-footnote-5" name="app-footnotelink-5" title><sup><strong>[5]</strong></sup></a> amending INA 320, so that a child residing with his or her U.S. citizen parent, who is stationed outside of the United States as a member of the U.S. armed forces or a U.S. government employee, or is residing in marital union with a member of the U.S. armed forces or a U.S. government employee who is stationed outside of the United States, acquires citizenship under INA 320 if all requirements of INA 320(c) and INA 320(a)(1)-(2) are met. In line with the statute, USCIS rescinds its previous guidance, clarifying that these children are eligible to acquire citizenship under INA 320 if all other requirements under INA 320 are met.</p>
+
+<p>The amendment to INA 320 applies to children who were under the age of 18 on March 26, 2020.</p>
+
+<h3>Footnotes</h3>
+
+<hr>
+<p><a href="#app-footnotelink-1" name="app-footnote-1" title>[^ 1]</a> Even though the child of a member of the U.S. armed forces or U.S. government employee stationed outside of the United States may be eligible to apply for a Certificate of Citizenship under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1433&amp;num=0&amp;edition=prelim">INA 322</a> since he or she resides outside of the United States, USCIS interpreted the child to meet residency requirements under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1431&amp;num=0&amp;edition=prelim">INA 320</a> as well, which formerly required the child to be residing in the United States with his or her parent to acquire citizenship.</p>
+
+<p><a href="#app-footnotelink-2" name="app-footnote-2" title>[^ 2]</a> For example, U.S. government employees, including members of the U.S. armed forces, are eligible to apply for an exception to the continuous residence requirement for naturalization under INA 316 as long as their residency outside of the United States was on behalf of the U.S. government. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316(b)</a>. See <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1427&amp;num=0&amp;edition=prelim">INA 316(a)</a>. See Part D, General Naturalization Requirements, Chapter 3, Continuous Residence [<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e63ba8f9-c3f9-471b-9e47-0839ac6a8b7c" href="/policy-manual/volume-12-part-h-chapter-3">12 USCIS-PM D.3</a>].</p>
+
+<p><a href="#app-footnotelink-3" name="app-footnote-3" title>[^ 3]</a> See Policy Manual Technical Update, <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="537f3a1d-cd02-4d86-ac3f-007720d97693" href="/policy-manual/updates">Child Citizenship Act and Children of U.S. Government Employees Residing Abroad</a> (July 20, 2015); and Acquisition of Citizenship by Children of U.S. Military and Government Employees Stationed Abroad under Section 320 of the Immigration and Nationality Act (INA), No. 103, issued May 6, 2004.</p>
+
+<p><a href="#app-footnotelink-4" name="app-footnote-4" title>[^ 4]</a> See USCIS Policy Alert, Defining “Residence” in Statutory Provisions Related to Citizenship <a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="7f216f71-cee4-46b5-97a3-fe40579294fe" href="/sites/default/files/document/policy-manual-updates/20190828-ResidenceForCitizenship.pdf">[PA-2019-05]</a>. This Policy Alert has been superseded by Policy Manual updates to reflect changes made under <a href="https://www.congress.gov/116/plaws/publ133/PLAW-116publ133.pdf">Pub. L. 116-133                                             (PDF)</a>.</p>
+
+<p><a href="#app-footnotelink-5" name="app-footnote-5" title>[^ 5]</a> See <a href="https://www.govinfo.gov/content/pkg/PLAW-116publ133/pdf/PLAW-116publ133.pdf">Pub. L. 116-133                                             (PDF)</a> (March 26, 2020).</p>
+</div>
+  </div>
+ 
+</div>
+  
+  
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="updates" class="tabcontent tabcontent--updates hidden">
+    <h2>Updates</h2>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-3 pm-resources-block_3 js-view-dom-id-f17638559695205bc26589f94a9aae7a3d2ae4c3f9b893693471d62a479c310d hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term "Noncitizen"</div>
+    <div><br><time datetime="2025-02-26T12:00:00Z" class="datetime">February 26, 2025</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-090757334e9a9c7cee1be50d80571b5a53fc6fcf310b72509f2d99cef834f869 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Alien”</div>
+    <div><br><time datetime="2021-05-11T12:00:00Z" class="datetime">May 11, 2021</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-501fd3cc2415552e83e57f4cd23d7d2a7ac5c8e203d8d463343e6580aa2372a7 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Prerequisite of Lawful Admission for Permanent Residence under All Applicable Provisions for Purposes of Naturalization</div>
+    <div><br><time datetime="2020-11-18T12:00:00Z" class="datetime">November 18, 2020</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to ensure consistency in the naturalization decision-making process and to clarify circumstances under which an applicant may be found ineligible for naturalization if the applicant was not lawfully admitted to the United States for permanent residence in accordance with all applicable provisions under the Immigration and Nationality Act (INA).</p>
+</div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20201118-LPRAdmissionForNaturalization.pdf" title="Select to read more about Prerequisite of Lawful Admission for Permanent Residence under All Applicable Provisions for Purposes of Naturalization" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-f798bfb8017a3baa8ef05853f0d02575a407dcb690c71ce86b919a4488384fb7 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-12-part-b-chapter-4"><span class="citation">12 USCIS-PM B.4</span> - <span>Chapter 4 - Results of the Naturalization Examination</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-d-chapter-2"><span class="citation">12 USCIS-PM D.2</span> - <span>Chapter 2 - Lawful Permanent Resident Admission for Naturalization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-f-chapter-2"><span class="citation">12 USCIS-PM F.2</span> - <span>Chapter 2 - Adjudicative Factors</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Moving the Adjudicator’s Field Manual Content into the USCIS Policy Manual</div>
+    <div><br><time datetime="2020-05-21T12:00:00Z" class="datetime">May 21, 2020</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see the <a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="349de2b5-990b-4b61-b780-2eb4c0ed58cf" href="/sites/default/files/document/policy-manual-afm/afm-pmcrosswalk.pdf">crosswalk</a> between the AFM and the Policy Manual.</p>
+</div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-01c7d0b20df65ba5d397c087cdaedfc3e08522be42400ac3b46e99444ad44c97 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-3"><span class="citation">3 USCIS-PM</span> - <span>Volume 3 - Humanitarian Protection and Parole</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-4"><span class="citation">4 USCIS-PM</span> - <span>Volume 4 - Refugees and Asylees</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-5"><span class="citation">5 USCIS-PM</span> - <span>Volume 5 - Adoptions</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Implementing the Decisions on Driving Under the Influence Convictions on Good Moral Character Determinations and Post-Sentencing Changes</div>
+    <div><br><time datetime="2019-12-10T12:00:00Z" class="datetime">December 10, 2019</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual regarding how post-sentencing changes to criminal sentences impact convictions for immigration purposes and how two or more driving under the influence convictions affects good moral character determinations. These updates incorporate two recent decisions issued by the Attorney General.</p></div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20191210-AGOnDUIAndSentencing.pdf" title="Select to read more about Implementing the Decisions on Driving Under the Influence Convictions on Good Moral Character Determinations and Post-Sentencing Changes" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-d65f2cf8b45e137fd71fc23958c99c6ef9f57c6c30c1ec864dfa436161a337b2 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-12-part-f-chapter-2"><span class="citation">12 USCIS-PM F.2</span> - <span>Chapter 2 - Adjudicative Factors</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12-part-f-chapter-5"><span class="citation">12 USCIS-PM F.5</span> - <span>Chapter 5 - Conditional Bars for Acts in Statutory Period</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">Technical Update - Replacing the Term “Foreign National”</div>
+    <div><br><time datetime="2019-10-08T12:00:00Z" class="datetime">October 08, 2019</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].</p></div>
+      
+    
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-af9c1db8b17e47cc7c9339382b168b9549c93ddfc0baf1bb575b7968f03ec5cc hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-1"><span class="citation">1 USCIS-PM</span> - <span>Volume 1 - General Policies and Procedures</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-2"><span class="citation">2 USCIS-PM</span> - <span>Volume 2 - Nonimmigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-6"><span class="citation">6 USCIS-PM</span> - <span>Volume 6 - Immigrants</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-7"><span class="citation">7 USCIS-PM</span> - <span>Volume 7 - Adjustment of Status</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-8"><span class="citation">8 USCIS-PM</span> - <span>Volume 8 - Admissibility</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-9"><span class="citation">9 USCIS-PM</span> - <span>Volume 9 - Waivers and Other Forms of Relief</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-10"><span class="citation">10 USCIS-PM</span> - <span>Volume 10 - Employment Authorization</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-11"><span class="citation">11 USCIS-PM</span> - <span>Volume 11 - Travel and Identity Documents</span></a></p><p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="row-data ">
+<div class="pm-updates">
+  <div class="pm-resource__header">
+    <div class="pm-resource__update_header">POLICY ALERT - Comprehensive Citizenship and Naturalization Policy Guidance</div>
+    <div><br><time datetime="2013-01-07T12:00:00Z" class="datetime">January 07, 2013</time>
+</div>
+  </div>
+  <div class="pm-resource__content">
+                <div class="clearfix text-formatted field field--name-body field__item"><p>USCIS is issuing updated and comprehensive citizenship and naturalization policy guidance in the new USCIS Policy Manual.</p></div>
+      
+    <a href="https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20130107-CitizenshipAndNaturalization.pdf" title="Select to read more about Comprehensive Citizenship and Naturalization Policy Guidance" class="btn btn--anchor">Read More</a>
+  </div>
+  <div class="pm-resource__associated_pages">
+    <div class="pm-resource__associated_page__heading">Affected Sections</div>
+    <div class="views-element-container">
+
+<div class="container container--views pm-resources block-5 pm-resources-block_5 js-view-dom-id-0513829f1e87cbae88059459475f3ad52c650a56f43c6aa9d8b4a836947ad520 hide-view-label">
+  
+  
+  
+
+  
+      
+  
+        
+  <div class="views-scroll-marker"></div>
+    <p class="affected-sections"><a href="/policy-manual/volume-12"><span class="citation">12 USCIS-PM</span> - <span>Volume 12 - Citizenship and Naturalization</span></a></p>
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+  </div>
+ 
+  
+  
+  
+  
+</div>
+</div>
+
+  </div>
+</section>
+
+  <span id="hidden-resources" class="hidden"></span>
+  <span id="hidden-appendices" class="hidden"></span>
+  <span id="hidden-updates" class="hidden"></span>
+  <span id="hidden-versions" class="hidden">0</span>
+
+
+  <nav class="nav-sub-tree" aria-labelledby="nav-sub-tree-label">
+    <div class="visually-hidden" id="nav-sub-tree-label">Page sub tree links</div>
+        
+  </nav>
+
+          <div class="current-date"><span class="current-date__label">Current as of</span><span class="current-date__value"> October 20, 2025</span></div>
+  
+        <div class="prev-next">
+          <div class="previous-container">
+        <a href="/policy-manual/volume-12-part-f-chapter-1" id="previous-button" class="usa-button" rel="prev" title="Go to previous page">Previous</a>
+      </div>
+              <div class="next-container">
+        <a href="/policy-manual/volume-12-part-f-chapter-3" id="next-button" class="usa-button" rel="next" title="Go to next page">Next</a>
+      </div>
+        </div>
+  
+      
+  
+        </div>
+      
+                </div>
+  
+  
+    
+  </article>
+
+      </div>
+
+  </div>
+
+                              </div>
+
+                                <div class="region region-content_second">
+      <div id="block-adminfeedbackblock">
+    
+        
+          <div id="feedback-message"><div id="upper-feedback-content"></div>
+<form class="admin-feedback-form usa-form" data-drupal-selector="admin-feedback-form" action="/policy-manual/volume-12-part-f-chapter-2" method="post" id="admin-feedback-form" accept-charset="UTF-8">
+  <fieldset class="feedback-radios fieldgroup form-composite usa-fieldset js-form-item form-item js-form-wrapper form-wrapper" data-node-id="73877" data-drupal-selector="edit-feedback-radios" id="edit-feedback-radios--wrapper">
+      <legend class="usa-legend">
+    <span class="fieldset-legend">Was this page helpful?</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-feedback-radios" class="form-radios"><div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="73877" data-drupal-selector="edit-feedback-radios-yes" type="radio" id="edit-feedback-radios-yes" name="feedback_radios" value="yes">
+          <label class="option form-label" for="edit-feedback-radios-yes"><span class="form-label__title">Yes</span></label>
+    </div>
+<div class="usa-radio js-form-item form-item js-form-type-radio form-item-feedback-radios js-form-item-feedback-radios">
+          <input class="feedback-radios form-radio usa-radio__input" data-node-id="73877" data-drupal-selector="edit-feedback-radios-no" type="radio" id="edit-feedback-radios-no" name="feedback_radios" value="no">
+          <label class="option form-label" for="edit-feedback-radios-no"><span class="form-label__title">No</span></label>
+    </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="usa-form-group js-form-item form-item js-form-type-select form-item-feedback-message js-form-item-feedback-message">
+        <label for="edit-feedback-message" class="form-label"><span class="form-label__title">This page was not helpful because the content:</span></label>
+          <div class="select-wrapper" data-select-name="feedback_message"><select class="form-select2-single form-select form-select-single" data-drupal-selector="edit-feedback-message" id="edit-feedback-message" name="feedback_message" data-label="This page was not helpful because the content:" data-width="100%"><option value="_none" selected>Select a reason</option><option value="has too little information">has too little information</option><option value="has too much information">has too much information</option><option value="is confusing">is confusing</option><option value="is out of date">is out of date</option><option value="other">other</option></select></div>
+      </div>
+<input id="feedback-id" data-drupal-selector="edit-feedback-id" type="hidden" name="feedback_id" value=""><input autocomplete="off" data-drupal-selector="form-oelzuvbvflcq2hzjgqv24kla4b3njasncqcopg3rkp8" type="hidden" name="form_build_id" value="form-OeLZuVBVFlcQ2HzJGqV24klA4B3nJAsNCqCopG3rKP8"><input data-drupal-selector="edit-admin-feedback-form" type="hidden" name="form_id" value="admin_feedback_form"><div class="usa-form-group js-form-item form-item js-form-type-textarea form-item-feedback-text js-form-item-feedback-text">
+        <label for="edit-feedback-text" class="form-label"><span class="form-label__title">How can the content be improved?</span></label>
+          <div class="form-textarea-wrapper">
+  <textarea id="edit-feedback-text" class="usa-textarea form-textarea resize-vertical" maxlength="2000" data-drupal-selector="edit-feedback-text" data-msg-maxlength="How can the content be improved? field has a maximum length of 2000." name="feedback_text" rows="5" cols="60"></textarea>
+</div>
+
+      <span class="field-suffix"><div id="feedback-text-counter"><span id="character-count">0</span> / 2000</div><div id="feedback-privacy">To protect your privacy, please do not include any personal information in your feedback. Review our <a href="/website-policies/privacy-and-legal-disclaimers">Privacy Policy</a>.</div></span>
+      </div>
+<input class="btn--secondary is-disabled usa-button usa-button--outline button js-form-submit form-submit" id="edit-feedback-send" data-node-id="73877" aria-disabled="true" data-drupal-selector="edit-initial-feedback-button" type="submit" name="op" value="Submit">
+</form>
+</div>
+
+      </div>
+
+  </div>
+
+              
+                <div id="modal" class="modal page-modal"><div class="modal-content"><div class="modal-footer title-wrap"><div class="heading"><button id="modal-button" class="close" data-toggle="modal" data-dismiss="modal" aria-label="Close to proceed"><i class="fas fa-times" aria-labelledby="modal-button"></i></button><div class="modal-title" data-no-results="No results found." data-load-text="Loading..."></div></div></div><div class="modal-body"></div></div></div>
+            </main>
+          </div>
+        </div>
+
+              </div>
+    </div>
+                                
+  <div id="footer">
+        
+<div class="usa-footer-container">
+  <footer class="usa-footer usa-footer--medium" role="contentinfo">
+    <div class="grid-container usa-footer__return-to-top">
+      <a href="#" class="focusable">Return to top</a>
+    </div>
+
+           <div class="usa-footer__primary-section">
+         <div class="grid-container">
+           <div class="grid-row grid-gap ">
+                                         <div class="usa-footer__primary-section__menu ">
+                 <nav class="usa-footer__nav" aria-label="Footer navigation">
+
+                      <ul class="grid-row grid-gap menu" data-level="0">
+                          <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/topics" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/93148">Topics</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/forms/forms" title="Forms" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88393">Forms</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/newsroom" title="News" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/4153">Newsroom</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/citizenship" title="Citizenship" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/88387">Citizenship</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/green-card" title="Green Card" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/42293">Green Card</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/laws-and-policy" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/41528">Laws</a>
+              </li>
+                      <li class="menu__item mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+        <a href="/tools" title="Tools" class="nav__link usa-footer__primary-link" data-drupal-link-system-path="node/50433">Tools</a>
+              </li>
+        </ul>
+  
+
+
+
+
+
+                 </nav>
+               </div>
+             
+                     </div>
+                               </div>
+       </div>
+                            
+        <div class="usa-footer__intermediate-section">
+          <div class="grid-container">
+
+                      <div class="grid-row grid-gap">
+              <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                <div class="mobile-lg:grid-col-auto">
+                  <img class="usa-footer__logo-img" src="/sites/default/files/USCIS_Signature_Preferred_FC.png" alt="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services">
+              </div>
+                              </div>
+                                              
+                <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+                  <div class="usa-footer__social-links grid-row grid-gap-1">
+                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.facebook.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/facebook.svg" alt="Facebook">
+                                                      </a>
+                        </div>
+                                                                                                                                  <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.twitter.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/profiles/uscisd8_gov/themes/custom/uscis_design/assets/custom/images/x_no_circle.svg" alt="X, formerly known as Twitter">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.youtube.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/youtube.svg" alt="YouTube">
+                                                      </a>
+                        </div>
+                                                                                                                                                                            <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.instagram.com/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/instagram.svg" alt="Instagram">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://www.linkedin.com/company/uscis">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/linkedin.svg" alt="LinkedIn">
+                                                      </a>
+                        </div>
+                                                                                        <div class="grid-col-auto">
+                          <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDHSCIS/subscriber/new" target="_blank">
+                                                          <img class="usa-social-link__icon" src="/themes/contrib/dhs_uswds/img/social-icons/email.svg" alt="Email">
+                                                      </a>
+                        </div>
+                                                            </div>
+
+                                  <div class="usa-footer__contact-heading">
+                                          <a class="usa-link" href="/about-us/contact-us">Contact USCIS</a>
+                                      </div>
+                                  <address class="usa-footer__address">
+                    <div class="usa-footer__contact-info grid-row grid-gap">
+                                                                </div>
+                  </address>
+                </div>
+                          </div>
+          
+          </div>
+        </div>
+      
+    <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-9">
+            <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__logos">
+                  <a href="https://www.dhs.gov" class="usa-identifier__logo">
+                    <img class="usa-identifier__logo-img" src="/themes/contrib/dhs_uswds/logo.svg" alt="U.S. Department of Homeland Security Seal">
+                  </a></div>
+                <header class="visually-hidden">Agency description</header>
+                <div class="usa-identifier__identity">
+                  <p class="usa-identifier__identity-domain">USCIS.gov</p>
+                  <p class="usa-identifier__identity-disclaimer">
+                    An official website of the <a href="https://www.dhs.gov">U.S. Department of Homeland Security</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+              <div class="region region-footer_secondary">
+    
+
+<nav aria-labelledby="block-uscis-design-footer-menu" id="block-uscis-design-footer" class="usa-identifier__section usa-identifier__section--required-links">
+            
+  <div class="visually-hidden" id="block-uscis-design-footer-menu">Important links</div>
+  
+
+        <div class="usa-identifier__section usa-identifier__section--required-links">
+  <div class="usa-identifier__container">
+    <ul class="usa-identifier__required-links-list">
+                                                                                                                                <li class="usa-identifier__required-links-item"><a href="/about-us" title="About USCIS" class="usa-identifier__required-link" data-drupal-link-system-path="node/41972">About USCIS</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/accessibility" title="Accessibility" class="usa-identifier__required-link" data-drupal-link-system-path="node/42012">Accessibility</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/budget-planning-and-performance" title="Budget and Performance" class="usa-identifier__required-link" data-drupal-link-system-path="node/42021">Budget and Performance</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/website-policies/dhs-component-websites" title="DHS Components" class="usa-identifier__required-link" data-drupal-link-system-path="node/88438">DHS Components</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="/records/request-records-through-the-freedom-of-information-act-or-privacy-act" title="Freedom of Information Act" class="usa-identifier__required-link" data-drupal-link-system-path="node/41801">Freedom of Information Act</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/about-us/equal-employment-opportunity/equal-employment-opportunity-data-posted-pursuant-to-the-no-fear-act" title="No FEAR Act Data" class="usa-identifier__required-link" data-drupal-link-system-path="node/42220">No FEAR Act Data</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/archive/privacy-and-legal-disclaimers" title="Privacy and Legal Disclaimers" class="usa-identifier__required-link" data-drupal-link-system-path="node/47863">Privacy and Legal Disclaimers</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="/sitemap" title="Site Map" class="usa-identifier__required-link" data-drupal-link-system-path="sitemap">Site Map</a>                                                  </li>
+                                    
+                                                                                                                            <li class="usa-identifier__required-links-item"><a href="https://www.oig.dhs.gov/" title="Office of the Inspector General" class="usa-identifier__required-link" data-drupal-link-system-path="node/88447">Office of the Inspector General</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.whitehouse.gov/" title="The White House" class="usa-identifier__required-link" data-drupal-link-system-path="node/88441">The White House</a>                                                  </li>
+                                                <li class="usa-identifier__required-links-item"><a href="https://www.usa.gov/" title="USA.gov" class="usa-identifier__required-link" data-drupal-link-system-path="node/88450">USA.gov</a>                                                  </li>
+                                    
+                                                
+
+          </ul>
+  </div>
+</div>
+
+  </nav>
+
+
+  </div>
+
+                        <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services">
+              <div class="usa-identifier__container">
+                <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+                <a href="https://www.usa.gov/" class="usa-link" title="Visit the USA.gov website">Visit USA.gov</a>
+              </div>
+            </section>
+          </div>
+                      <div class="grid-col-3 ntas-widget">
+                <iframe id="ntas-frame" src="https://www.dhs.gov/ntas/" name="NationalTerrorismAdvisorySystem" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+    <div class="region region-footer_third">
+      <div id="block-qualtrics">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET--><script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_3WrTsyl9WWQdlxb","https://zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3WrTsyl9WWQdlxb")).start()}catch(i){}})();
+</script>
+<div id="ZN_3WrTsyl9WWQdlxb"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--></div>
+      
+      </div>
+  <div id="block-siteimproveanalyticsscript">
+    
+        
+                      <div class="clearfix text-formatted field field--name-body field__item"><script type="text/javascript">
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_6342107.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+</script></div>
+      
+      </div>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_f7zHONM931Ca8gnbX5D2rr4I9JXY3squQ33IJRVWJ9I.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t4fxu0"></script>
+<script src="/sites/default/files/js/js_z29Okdt7hgaFcU0AxeQoxu6Pn68RoUSKbTmlZ77r4_o.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=uscis_design&amp;include=eJx1kVFuhDAMRC8EpB-t1NtYJjZZQ4hpHFj29g3qColu-xN5ZpL4xUGaJcHATD36CXgvnIjJvTgNmnEBSSP7otmN1qH3mkk0wY2ROAPJBkXh9g6D7H8cOO7KCSNESRNkjQwfb5__bF4yb8J3mNkMA0OPufETk9QcztburLohazpYGx-FUzEhhg2jEJaDcfxaOT-c37qfqpOBm0p0sDjK64Kxe8omqIYKVzC4UJffusMR96s5N6t5MSA2Ccn1qtOr02L2N9n4moSoPcbWyqP2DtdsmdvAiTPGq28c66Bar_OiqT72mh5zs0s4MAXd4ImM9Q8eRby5qEjtKVtP6RvLpc9e"></script>
+
+  </body>

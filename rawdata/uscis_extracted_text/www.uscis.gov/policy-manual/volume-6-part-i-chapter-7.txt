@@ -1,0 +1,223 @@
+H1: Chapter 7 - Effect of Removal Proceedings
+
+- Guidance
+
+- Resources (15)
+
+- Appendices (0)
+
+- Updates (5)
+
+H2: A. CPRs in Removal Proceedings
+
+USCIS has original jurisdiction over all pendingForms I-751, whether they are joint petitions, individual filing request, or waiver request.[1]The conditional permanent resident (CPR) must file the Form I-751 with USCIS, even if the CPR is in removal proceedings. If a CPR is in removal proceedings and has filed the Form I-751, USCIS must adjudicate the petition before an immigration judge (IJ) can review it.[2]
+
+Additionally, the CPR cannot request a change in filing basis for a petition denied by USCIS that is being reviewed by the IJ. For example, if the CPR filed a joint petition with USCIS, the IJ has no jurisdiction to review a battery or extreme cruelty waiver in immigration court. However, a CPR may file a waiver for the first time while in removal proceedings if the CPR becomes eligible for a waiver at that time; however, the waiver must be filed with USCIS.[3]Additional evidence may be introduced by either the CPR or DHS during a review of a waiver petition denial.[4]
+
+USCIS does not deny or hold a Form I-751 in abeyance solely because the CPR is in removal proceedings. The IJ may continue, administratively close, or terminate removal proceedings to allow USCIS to adjudicate the petition.
+
+USCIS adjudicates a Form I-751 filed by a CPR who is in removal proceedings on its merits. USCIS confirms that there is a Notice to Appear (NTA) in the CPR’s records by checking the appropriate electronic systems. If the IJ has administratively closed the proceedings to await a decision by USCIS, USCIS expedites adjudication. After USCIS makes a decision, USCIS routes the file through appropriate channels to the U.S. Immigration and Customs Enforcement office that has jurisdiction over the proceedings.[5]
+
+H2: B. Review in Removal Proceedings
+
+H3: 1. Joint Petition or Individual Filing Request
+
+The CPR may seek review of the denial of a joint petition or individual filing request while in removal proceedings before an IJ.[6]Any person whose CPR status was terminated by USCIS underINA 216is removable.[7]If the IJ orders the CPR removed from the United States, the CPR may appeal the IJ’s decision by properly filing an appeal with the Board of Immigration Appeals (BIA).
+
+DHS’s Burden of Proof in Removal Proceedings
+
+If USCIS denies the joint petition based on a finding that the qualifying marriage was improper, DHS must establish, by a preponderance of the evidence, that:[8]
+
+- The marriage was entered into for the purpose of procuring the person’s admission as an immigrant;
+
+- The marriage was not entered into in accordance with the laws of the place where the marriage took place;
+
+- The marriage was judicially annulled or terminated, other than through death of a spouse; or
+
+- The CPR or someone else gave a fee or other consideration (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for filing a petition for an immigrant visa with respect to the CPR or the CPR’s son or daughter.[9]
+
+CPR’s Burden of Proof in Removal Proceedings
+
+The CPR must establish, by a preponderance of the evidence, that the CPR complied with the filing and interview requirements if:[10]
+
+- USCIS denied the joint petition for failure to appear at a required biometrics appointment;
+
+- USCIS denied the joint petition for failure to appear for a scheduled interview; or
+
+- The CPR lost status due to a failure to fileForm I-751.
+
+H3: 2. Waiver
+
+A CPR may seek review of USCIS’ decision to deny the CPR’s waiver in removal proceedings before an IJ.[11]If the IJ decides to order the CPR removed from the United States, the CPR may appeal the IJ’s decision by properly filing an appeal with the BIA.
+
+H2: C. CPRs Subject to Final Order of Removal
+
+If an alien who was admitted or adjusted as a CPR is the subject of a final order of removal, the CPR status no longer exists and the alien no longer has a status for which to seek removal of conditions. Therefore, USCIS denies anyForm I-751filed by an alien with a final order of removal regardless of whether it is a joint petition, individual filing request, or waiver request. The denial notice clearly indicates that the denial is based on a final order of removal.
+
+H2: Footnotes
+
+[^ 1]SeeMatter of Lemhammad(PDF), 20 I&N Dec. 316 (BIA 1991).
+
+[^ 2]SeeMatter of Anderson(PDF), 20 I&N Dec. 888 (BIA 1994).
+
+[^ 3]SeeMatter of Mendes(PDF), 20 I&N Dec. 833 (BIA 1994).
+
+[^ 4]SeeMatter of Herrera del Orden(PDF), 25 I&N Dec. 589 (BIA 2011).
+
+[^ 5]See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 3, Jurisdiction, Section A, Coordination in Cases Involving Removal Proceedings [1 USCIS-PM E.3(A)].
+
+[^ 6]SeeINA 216(c)(3)(D). SeeMatter of Gawaran(PDF), 20 I&N Dec. 938, 942 (BIA 1995), affirmed, 91 F.3d 1332 (9th Cir. 1996).
+
+[^ 7]SeeINA 237(a)(1)(D)(i).
+
+[^ 8]SeeINA 216(c)(3)(D). See8 CFR 216.4(d)(2).
+
+[^ 9]The statutory provision on fee or consideration does not refer to fees paid to attorneys, notarios, or others who assisted with filing petitions, but rather refers to instances where a fee or other consideration was paid in connection with a fraudulent marriage. If a fee or other consideration was paid in order to enter into a fraudulent marriage or to obtain an immigration benefit through a fraudulent marriage, the CPR is ineligible for removal of conditions.
+
+[^ 10]SeeINA 216(c)(2)(B). See8 CFR 216.4(a)(6)and8 CFR 216.4(b)(3).
+
+[^ 11]See8 CFR 216.5(f).
+
+H2: Resources
+
+INA 201- Worldwide level of immigration
+
+INA 202- Numerical limitations on individual foreign states
+
+INA 203- Allocation of immigrant visas
+
+INA 204,8 CFR 204- Procedure for granting immigrant status
+
+INA 216,8 CFR 216- Conditional permanent resident status for certain alien spouses and sons and daughters
+
+Section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act           (PDF)- Penalties for disclosure of information
+
+The Immigration Marriage Fraud Amendments of 1986           (PDF)
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-290B, Notice of Appeal or Motion
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-751, Petition to Remove Conditions on Residence
+
+DHS Implementation of Section 1367 Information Provisions            (PDF)
+
+How to Use the USCIS Policy Manual Website
+
+Information for Conditional Permanent Residents Seeking to Change the Basis of Form I-751 From a Waiver Based on Battery or Extreme Cruelty to a Joint Petition
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual regarding family-based conditional permanent residents (CPRs).
+
+6 USCIS-PM I.1-Chapter 1 - Purpose and Background
+
+6 USCIS-PM I.2-Chapter 2 - Terms and Conditions of CPR Status
+
+6 USCIS-PM I.3-Chapter 3 - Petition to Remove Conditions on Residence
+
+6 USCIS-PM I.4-Chapter 4 - Joint Petitions and Individual Filing Requests
+
+6 USCIS-PM I.5-Chapter 5 - Waiver of Joint Filing Requirement
+
+6 USCIS-PM I.6-Chapter 6 - Decision and Post-Adjudication
+
+6 USCIS-PM I.7-Chapter 7 - Effect of Removal Proceedings
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

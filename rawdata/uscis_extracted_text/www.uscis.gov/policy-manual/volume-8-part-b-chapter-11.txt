@@ -1,0 +1,195 @@
+H1: Chapter 11 - Inadmissibility Determination
+
+- Guidance
+
+- Resources (10)
+
+- Appendices (0)
+
+- Updates (7)
+
+H2: A. Civil Surgeon or Panel Physician Documentation
+
+If a “Class A condition” is noted on the medical form, it is conclusive evidence that the applicant is inadmissible. The Class A annotation may also indicate that an applicant could be inadmissible on other grounds of inadmissibility. For example, “harmful behavior” associated with a physical or mental disorder, or illegal drug use, may have resulted in criminal convictions that make an applicant inadmissible underINA 212(a)(2). However, a criminal conviction should be supported by conviction records or similar evidence, and not just the medical examination report.[1]
+
+If a civil surgeon or panel physician only annotates a “Class B condition” (per U.S. Department of Health and Human Services regulations), the applicant is never inadmissible on health-related grounds. The officer should remember that if the civil surgeon or panel physician indicates on the Report of Immigration Medical Examination and Vaccination Record (Form I-693) that a former Class A condition is now a Class B condition, the applicant is no longer inadmissible. However, a Class B condition may indicate that the applicant could be inadmissible on other grounds because of the condition, such as public charge.[2]
+
+The officer may encounter medical documentation that is not fully completed. In this case, the officer should issue a Request for Evidence (RFE). If the physician fails to properly complete the form in response to the RFE, the applicant has not established that he or she is clearly admissible to the United States.[3]
+
+H2: B. Applicant’s Declaration
+
+If the applicant indicates that he or she may be inadmissible based on a medical reason, the officer must order a medical examination of the applicant. Based on the results of that medical exam, the officer should ascertain whether the applicant actually has a Class A, Class B, or no condition at all that is relevant to the applicant’s admissibility. The applicant should not be found inadmissible unless the medical examination confirms the presence of a Class A medical condition.
+
+H2: C. Other Information
+
+Even if the civil surgeon or panel physician did not annotate a Class A or B condition in the medical documentation, or if the applicant was not required to undergo a medical examination, the officer may order or reorder an immigration medical examination at any time if he or she has concerns as to an applicant’s inadmissibility on health-related grounds.
+
+The concern should be based on information in the A-file, information that is revealed by the applicant or another applicant during an interview, or information revealed during a background investigation.
+
+H2: D. Other Grounds of Inadmissibility
+
+H3: 1. General Considerations
+
+Where relevant, the information contained in the medical examination can be used to determine whether other grounds of inadmissibility may apply. For instance, health is one factor to consider when determining if someone is inadmissible on public charge grounds. This factor must, however, be considered in light of all other factors specified by law.[4]
+
+H3: 2. Criminal Grounds
+
+An applicant may be inadmissible on criminal grounds if he or she has admitted to committing certain controlled substance violations.[5]An applicant may acknowledge to a civil surgeon or a panel physician that he or she has used a controlled substance, which the physician then may annotate on the medical documentation.
+
+USCIS does not consider this acknowledgement, in and of itself, a valid admission that would make an applicant inadmissible on criminal grounds.[6]However such an acknowledgment of drug use may open a line of questioning to determine criminal inadmissibility. USCIS officers should find that an applicant has made a valid “admission” of a crime only when the admission is made in accordance with the requirements outlined by the Board of Immigration Appeals.[7]
+
+H2: E. Privacy Concerns
+
+An officer should take great care to regard the privacy of the applicant. The officer should generally not discuss the applicant’s medical issues with applicants other than the applicant, his or her counsel, immigration officers, or other government officials[8]who clearly have a need to know the information.
+
+The officer should not directly contact a civil surgeon to discuss an applicant’s inadmissibility or medical issues. If the officer has any concerns that cannot be resolved by reviewing the evidence in the record, the officer should issue an RFE.
+
+H2: Footnotes
+
+[^ 1]See Section D, Other Grounds of Inadmissibility [8 USCIS-PM B.11(D)] for more information.
+
+[^ 2]See Section D, Other Grounds of Inadmissibility [8 USCIS-PM B.11(D)] for more information.
+
+[^ 3]SeeINA 291.
+
+[^ 4]SeeINA 212(a)(4)(B).
+
+[^ 5]SeeINA 212(a)(2)(A).
+
+[^ 6]A valid admission (absent a conviction) for purposes of criminal inadmissibility grounds “requires that the [alien] be given an adequate definition of the crime, including all essential elements, and that it be explained in understandable terms.” SeeMatter of K-, 7 I&N Dec. 594, 597 (BIA 1957).
+
+[^ 7]SeeMatter of K-, 7 I&N Dec. 594 (BIA 1957). Even in the Ninth Circuit, USCIS officers should continue to followMatter of K-, rather thanPazcoguin v. Radcliffe, 292 F.3d 1209 (9th Cir. 2002). FollowingMatter of K-will ensure that any admission the person may make is a fully informed one.
+
+[^ 8]Such as the Centers for Disease Control and Prevention.
+
+H2: Resources
+
+42 CFR 34- Medical examination of aliens
+
+42 U.S.C. 252- Medical examination of aliens
+
+INA 212(a)(1)- Health-related grounds
+
+INA 221(d)- Physical examination
+
+INA 232,8 CFR 232- Detention of aliens for physical and mental examination
+
+Technical Instructions for Civil Surgeons
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-693, Report of Medical Examination and Vaccination Record
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in Volume 8, Part B of the USCIS Policy Manual regarding the period of time during which a Form I-693 submitted in support of a related immigration benefits application is considered valid.
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is updating guidance regarding health-related grounds of inadmissibility in accordance with the U.S. Department of Health and Human Services (HHS) rulemaking updating Title 42 of the Code of Federal Regulations, part 34 (42 CFR 34).
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual on the health-related grounds of inadmissibility under INA 212(a)(1) and corresponding waivers under INA 212(g).
+
+8 USCIS-PM B-Part B - Health-Related Grounds of Inadmissibility
+
+9 USCIS-PM D-Part D - Health-Related Grounds of Inadmissibility

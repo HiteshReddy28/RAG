@@ -1,0 +1,381 @@
+H1: Chapter 5 - Adjudication
+
+- Guidance
+
+- Resources (4)
+
+- Appendices (0)
+
+- Updates (5)
+
+In general, the Refugee/Asylee Relative Petition (Form I-730) adjudication process has the following steps when the U.S. Department of State (DOS) interviews the beneficiary at a location where USCIS does not have a presence:
+
+- Receipt;
+
+- Initial domestic processing;
+
+- USCIS decision;
+
+- Beneficiary interview; and
+
+- Travel eligibility determination.[1]
+
+In general, the Refugee/Asylee Relative Petition (Form I-730) adjudication process has the following steps when USCIS interviews the beneficiary at an international or domestic field office:
+
+- Receipt;
+
+- Initial domestic processing;
+
+- Beneficiary interview; and
+
+- USCIS decision.
+
+USCIS has multiple directorates involved in processingForm I-730petitions. After receipt and intake, USCIS generally completes initial domestic processing.
+
+If the beneficiary is located within the United States, USCIS forwards the petition to the appropriate USCIS domestic field office based on the beneficiary’s residence to interview the beneficiary and adjudicate the petition.
+
+If the beneficiary is located outside of the United States, USCIS sends the petition through the DOS National Visa Center (NVC) to a USCIS international field oﬀice or a DOS embassy or consulate. If theForm I-730beneficiary is located outside of the United States in a country where USCIS has an international field office presence, USCIS interviews the beneficiary at the appropriate international field office and adjudicates the petition.[2]
+
+If theForm I-730beneficiary is located outside of the United States in a country with no USCIS international field office presence, USCIS adjudicates the petition before sending it to a DOS embassy or consulate. DOS interviews and completes processing of the beneficiary on USCIS’ behalf and determines the beneficiary’s eligibility to travel to the United States.
+
+If theForm I-730beneficiary completes an interview and additional processing at a DOS embassy or consulate and the DOS consular officer determines the beneficiary is ineligible to travel to the United States, DOS returns the Form I-730 petition to the USCIS domestic processing office with a consular return memo outlining the ineligibility reasons.
+
+The USCIS initial domestic processing office then reviews the information provided by DOS and determines whether to reaffirm the initial approval of theForm I-730petition or reopen and reconsider the approval and issue a Notice of Intent to Deny (NOID) to the Form I-730 petitioner.
+
+H2: A. Receipt
+
+By regulation, allForm I-730petitions must be filed with and adjudicated by USCIS.[3]USCIS receives all Form I-730 filings and enters the Form I-730 data into USCIS systems. USCIS then routes the petitions to an officer depending on two main factors:
+
+- Whether the petitioner received refugee or asylee status; and
+
+- Where the beneficiary is currently located.
+
+H2: B. Initial Domestic Processing
+
+During initial domestic processing ofForm I-730petitions, USCIS conducts an initial eligibility review for eligibility, timeliness, and completeness.
+
+During the initial eligibility review, an officer:
+
+- Determines whether the petitioner is eligible to file theForm I-730petition;[4]
+
+- Determines whether the petitioner timely filed theForm I-730petition;[5]
+
+- Determines whether a qualifying family relationship exists between the petitioner and beneficiary listed on theForm I-730;[6]and
+
+- Reviews preliminary security checks.
+
+If the petitioner has not submitted all required evidence or the evidence in the record does not establish eligibility, the officer may issue a Request for Evidence (RFE) or a NOID. The officer issues a denial notice if the officer determines that the petitioner is not eligible to file the Form I-730 petition or the beneficiary is not eligible for following-to-join status.[7]
+
+If USCIS does not issue a denial for aForm I-730petition during initial domestic processing, and the petition is proceeding to adjudication, USCIS forwards the petition or adjudicates it, depending on whether a USCIS domestic or international field office or DOS embassy or consulate will complete the next processing steps.
+
+If USCIS has a domestic field office or international field office with jurisdiction over the country where the beneficiary is located, USCIS forwards the unadjudicatedForm I-730to a local office for a beneficiary interview and adjudication by a USCIS officer. USCIS sends the Form I-730 petitioner a transfer notice listing the USCIS domestic or international field office where the beneficiary will be interviewed. The petitioner may also be requested to appear for an in-person interview at a USCIS field office on a case-by-case basis.
+
+If the beneficiary lives outside of the United States and USCIS does not have an international field office with jurisdiction over the country where the beneficiary is located, USCIS adjudicates theForm I-730petition and forwards it to the DOS embassy or consulate where the beneficiary is located, for the beneficiary interview and verification of travel eligibility.
+
+When initial domestic processing is complete, USCIS issues an approval notice to theForm I-730petitioner stating that USCIS has forwarded the petition to the NVC to be sent to the appropriate DOS embassy or consulate.
+
+H2: C. Beneficiary Interview
+
+Generally, USCIS does not require interviews forForm I-730petitioners. However, USCIS retains the discretion to interview petitioners on a case-by-case basis.[8]
+
+As a matter of policy, USCIS or DOS interviewsForm I-730beneficiaries to determine their eligibility.[9]The purpose of the interview is for the USCIS or DOS officer to verify the beneficiary’s identity and claimed relationship to the petitioner. The officer also elicits information to determine if the beneficiary is barred or inadmissible.
+
+H3: 1. Beneficiaries Located Within the United States
+
+USCIS has jurisdiction overForm I-730for a beneficiary who lives in the United States. After USCIS completes initial intake, receipt, and initial domestic processing, USCIS forwards the petition to the appropriate domestic USCIS field office with jurisdiction for further processing and adjudication. USCIS interviews and adjudicates both following-to-join refugee (FTJ-R) and following-to-join asylee (FTJ-A) petitions for beneficiaries who live in the United States.
+
+If the petitioner filed aForm I-730petition for a beneficiary who was located abroad but then later enters the United States, the petitioner should notify USCIS that the beneficiary has relocated to the United States in order for USCIS to re-route the petition for further domestic processing.[10]If USCIS has not adjudicated the Form I-730 petition, USCIS notifies the petitioner that it is transferring the petition to another USCIS office and sends the unadjudicated petition to the appropriate domestic field office for interview and adjudication.
+
+If an I-730 beneficiary is in the United States, USCIS generally requests that the beneficiary appear for an interview. USCIS sends a written notice of the date, time, and place of the scheduled interview to the beneficiary.
+
+H3: 2. Beneficiaries Located Outside the United States
+
+After USCIS completes initial domestic processing for a beneficiary living outside of the United States, USCIS sends the petition to the NVC for forwarding to the appropriate DOS office or USCIS international field office.[11]
+
+USCIS interviews beneficiaries located outside of the United States in locations abroad where there is a USCIS international field office with jurisdiction. DOS consular officers interview beneficiaries in locations abroad without USCIS international field office jurisdiction. USCIS or DOS notifies the beneficiary of the date, time, and place of their interview. Subject to local office or DOS embassy or consulate policy, USCIS or DOS may require the beneficiary to bring their own interpreter.
+
+H3: 3. Interviews
+
+Documentation for Interviews
+
+The beneficiary must provide a certified English translation for any documents provided in support of theForm I-730if the documents are not in English.[12]
+
+USCIS Interviews
+
+USCIS staff contact and scheduleForm I-730beneficiaries for an interview in a location abroad with a USCIS international field office. During the beneficiary interview, the USCIS officer:
+
+- Confirms the beneficiary’s identity;
+
+- Reviews documentation;
+
+- Completes required biographic and biometric checks (which may require coordination with DOS and other vetting partners);
+
+- Verifies the qualifying family relationship;
+
+- Determines whether any mandatory bars or inadmissibility grounds apply; and
+
+- Arranges medical examination and sponsorship assurance (forForm I-730FTJ-R beneficiaries only).
+
+If the USCIS international office determines that theForm I-730beneficiary is eligible for following-to-join benefits, USCIS or DOS provides the beneficiary with travel documentation.
+
+DOS Interviews
+
+When theForm I-730beneficiary resides in a location abroad where there is no USCIS presence or jurisdiction, staff from the DOS embassy or consulate contact the beneficiary to schedule their interview. DOS processing of Form I-730 petitions is similar to USCIS processing of Form I-730 petitions.
+
+However, DOS does not have the authority to adjudicateForm I-730petitions, and instead conducts a travel eligibility determination of the petition that USCIS previously approved. Generally, a travel eligibility interview by DOS is similar to a USCIS interview; however, DOS officers refer to theForeign Affairs Manual (FAM)for agency procedures. If DOS determines that the Form I-730 beneficiary is eligible for travel, DOS issues travel documentation to the beneficiary.
+
+H2: D. USCIS Approval
+
+For FTJ-R beneficiaries, if theForm I-730petitioner files timely and meets all eligibility requirements, and the beneficiary meets all eligibility requirements and admissibility requirements, the USCIS officer approves the petition.[13]
+
+For FTJ-A beneficiaries, if theForm I-730petitioner files timely and meets all eligibility requirements, and the beneficiary meets all eligibility requirements and admissibility requirements, the USCIS officer may approve the petition as a matter of discretion.[14]
+
+The location of a beneficiary of aForm I-730determines when USCIS approves a Form I-730 petition.
+
+- For a beneficiary in a location with a USCIS domestic or international field office jurisdiction, the USCIS domestic or international field office adjudicates theForm I-730petition.
+
+- For a beneficiary abroad in a location without a USCIS presence or jurisdiction, if the petitioner and beneficiary appear eligible and the petitioner establishes the qualifying relationship during initial domestic processing of theForm I-730petition, USCIS approves the Form I-730 petition and forwards it to the NVC. The NVC then transfers the Form I-730 petition to the appropriate DOS embassy or consulate to interview the beneficiary and verify travel eligibility.
+
+H3: 1. Travel Document Issuance
+
+ApprovedForm I-730beneficiaries located abroad need a transportation letter or boarding foil from USCIS or DOS to travel to the United States. These documents provide assurance to airline carriers that they may transport the Form I-730 beneficiary to the United States without liability.[15]
+
+Form I-730beneficiaries who complete processing with USCIS international field offices may receive either a transportation letter or a boarding foil. Form I-730 beneficiaries who complete processing with a DOS embassy or consulate receive a boarding foil.
+
+TheForm I-730beneficiary presents the transportation letter or boarding foil to the U.S. Customs and Border Protection official at the port of entry to be admitted to the United States.
+
+H2: E. Final Eligibility Determination and Department of State Consular Returns
+
+When USCIS interviewsForm I-730beneficiaries domestically or abroad, the USCIS officer approves the petition after all interview and procedural steps have been completed. Processing steps include:
+
+- Verifying the beneficiary’s identity and qualifying family relationship;
+
+- ForForm I-730FTJ-R beneficiaries, determining that the beneficiary has not engaged in the persecution of others and applicable inadmissibility grounds do not apply, and that the beneficiary does not have an existing grant of asylum or refugee status by the United States that remains valid;
+
+- ForForm I-730FTJ-A beneficiaries, determining that no mandatory bars apply, and the beneficiary merits a favorable exercise of discretion;
+
+- Confirming that USCIS has completed all required vetting, biometric, and biographic checks and the checks are current; and
+
+- Confirming that the beneficiary has cleared medical requirements through a valid medical exam.
+
+When DOS consular officers interviewForm I-730beneficiaries abroad, the USCIS initial domestic processing office approves the Form I-730 petition before sending the petition to DOS. At the beneficiary interview, if the DOS consular officer does not find the Form I-730 beneficiary eligible to travel to the United States, the officer then completes a consular return memo.
+
+H3: 1. Consular Returns
+
+If, during the DOS travel eligibility determination, a DOS consular officer uncovers adverse information that suggests USCIS should not have approved aForm I-730petition, or that grounds of ineligibility apply, DOS completes a consular return memo and returns the petition to the USCIS office responsible for initial domestic processing for further action.[16]
+
+To facilitate this process, the DOS consular officer prepares a consular return memo outlining the specific issue and reason for returning the petition to USCIS for reconsideration of the approval decision.[17]
+
+When USCIS receives a consular return memo, the USCIS office responsible for initial domestic processing reviews the DOS consular officer's determination. If USCIS finds the reason for the return insufficient to reopen the approval, USCIS reaffirms the petition and sends it to NVC for forwarding to the DOS embassy or consulate for further processing with a memorandum explaining why the reason for the consular return was insufficient to reopen the approved petition.
+
+If USCIS concurs with the ineligibility finding, USCIS issues a motion to reopen and NOID to notify the petitioner of the derogatory information and of the agency’s intent to reopen and deny the previously approvedForm I-730petition.[18]Depending on the evidence the petitioner provides, USCIS may then reapprove the petition and return it to DOS for continued processing or deny the petition.
+
+Unless the petitioner withdraws a reopenedForm I-730petition or USCIS denies the petition, USCIS must forward the petition and all accompanying documents to the DOS embassy or consulate responsible for interviewing the beneficiary. USCIS explains how the petitioner overcame DOS’s ineligibility finding in the consular return memo in a memorandum attached to the re-approved petition.
+
+When USCIS receives a consular return for a beneficiary and the sole issue is the beneficiary’s failure to appear at the interview, the USCIS officer administratively closes the case and sends a notice to the petitioner of the administrative closure. If the beneficiary is still interested in joining the petitioner in the United States and is available to appear at the DOS embassy or consulate, the petitioner may contact USCIS to request that USCIS reopen and resume processing of the petition.[19]
+
+H2: F. Denial
+
+When a petitioner fails to establish eligibility, or the beneficiary fails to meet eligibility requirements, USCIS denies the petition and notifies the petitioner of the reasons in writing.[20]The petitioner cannot appeal the denial of aForm I-730.[21]USCIS explains the specific reasons for the denial in the denial decision[22]and informs the petitioner of the opportunity to file a motion to reopen or reconsider.[23]
+
+H3: 1. Denial on the Merits
+
+If, after evaluating all evidence submitted (including in response to an RFE or NOID, if applicable), the officer determines that eligibility has not been established, the officer denies theForm I-730on the basis of the applicable ineligibility ground or grounds.[24]
+
+H3: 2. Denial Solely for Abandonment
+
+If the petitioner fails to respond to an RFE or NOID, the officer may deny theForm I-730for abandonment only (and not on the merits) after verifying that USCIS followed appropriate notice procedures.[25]
+
+H3: 3. Denial for Abandonment and the Merits
+
+The officer may deny theForm I-730based both upon the merits and for abandonment if:[26]
+
+- The officer determines that the totality of the evidence does not establish eligibility; and
+
+- The petitioner failed to reply to an RFE or NOID, if applicable.
+
+H2: G. Administrative Closures
+
+USCIS administratively closes approvedForm I-730petitions when the beneficiary fails to appear for an interview and the DOS embassy or consulate returns the approved Form I-730 to the USCIS domestic office. When a beneficiary fails to appear for interview, USCIS issues a notice to the petitioner that USCIS has administratively closed the case.[27]
+
+If the petitioner responds that the beneficiary can appear for an interview within 6 months of the date of the response, USCIS reopens, resumes processing and sends the Form I-730 to the appropriate DOS embassy or consulate for additional processing.
+
+If the petitioner does not respond, indicates the beneficiary is unable to appear for an interview, or is unable to specify when the beneficiary can appear, the case remains administratively closed. To request that the petition resume processing, the petitioner must contact USCIS. There is no fee to request that processing of the petition resume.[28]
+
+H2: H. Withdrawals
+
+For beneficiaries located outside of the United States, the petitioner may withdraw theirForm I-730petition at any time until the beneficiary is admitted to or has arrived in the United States. For beneficiaries located inside the United States, the petitioner may withdraw their Form I-730 petition at any time up until the beneficiary is granted derivative asylee or refugee status. A withdrawal may not be retracted.[29]
+
+Only the petitioner can request withdrawal of theForm I-730. The beneficiary can defer or refuse to travel but cannot withdraw the Form I-730.[30]
+
+The petitioner should sign and date the withdrawal request. An unsigned request from the petitioner to withdraw the petition, or a request to withdraw the petition signed by someone other than the petitioner, including an attorney or accredited representative, is generally insufficient.
+
+If the withdrawal request is insufficient, USCIS should contact the petitioner and inform the petitioner that their request was insufficient for USCIS to accept the withdrawal and, if the petitioner wishes to withdraw the petition, the petitioner should submit a written withdrawal request signed and dated by the petitioner.
+
+H2: I. Appeals and Motions to Reopen or Reconsider
+
+A petitioner may not appeal the denial of a Refugee/Asylee Relative Petition (Form I-730).[31]However, a petitioner may file a Notice of Appeal or Motion (Form I-290B) to request that USCIS reopen the case or reconsider the decision.[32]
+
+The petitioner must file theForm I-290Bwithin 30 days from the date USCIS issued the denial notice (or 33 days if the petitioner received the notice by mail). The filing must include the appropriate filing fee, or fee waiver request, and other documentation in support of the motion.[33]
+
+H2: Footnotes
+
+[^ 1]As a matter of law, authority to adjudicate and process affirmative asylum applications, including Form I-730 following-to-join derivatives of asylees, rests exclusively with DHS. SeeINA 207andINA 208. The eligibility determination could include DOS initiating a consular return, as appropriate, to ask USCIS to reconsider the grant. See Section E, Final Eligibility Determination and Department of State Consular Returns, Subsection 1, Consular Returns [4 USCIS-PM C.5(E)(1)].
+
+[^ 2]See theInternational Immigration Officeswebpage for a list of the current field offices outside the United States. Note that there are some countries in which USCIS does not have an international field office, but an office retains jurisdiction over Form I-730 processing. For example, the USCIS Nairobi international field office processes following-to-join refugee petitions in Uganda and Burundi.
+
+[^ 3]See8 CFR 207.7and8 CFR 208.21.
+
+[^ 4]See Chapter 2, Eligibility Requirements, Section A, General Eligibility Requirements, Subsection 1, Petitioners [4 USCIS-PM C.2(A)(1)].
+
+[^ 5]See Chapter 2, Eligibility Requirements, Section A, General Eligibility Requirements, Subsection 1, Petitioners [4 USCIS-PM C.2(A)(1)].
+
+[^ 6]See Chapter 2, Eligibility Requirements, Section A, General Eligibility Requirements, Subsection 1, Petitioners [4 USCIS-PM C.2(A)(1)].
+
+[^ 7]See Section F, Denial [4 USCIS-PM C.5(F)].
+
+[^ 8]See8 CFR 103.2(b)(9)(“USCIS may require any applicant, petitioner, sponsor, beneficiary, or individual filing a benefit request, or any group or class of such persons submitting requests, to appear for an interview and/or biometric collection.”).
+
+[^ 9]See8 CFR 103.2(b)(9)(“USCIS may require any applicant, petitioner, sponsor, beneficiary, or individual filing a benefit request, or any group or class of such persons submitting requests, to appear for an interview and/or biometric collection.”).
+
+[^ 10]If USCIS is not informed of an address change for the Form I-730 beneficiary, the Form I-730 may remain pending until notification.
+
+[^ 11]See8 CFR 208.21(d)(“USCIS also will send the approved request to the Department of State for transmission to the U.S. Embassy or Consulate having jurisdiction over the area in which the asylee's spouse or child is located.”).
+
+[^ 12]See8 CFR 103.2(b)(3).
+
+[^ 13]See8 CFR 207.7(a).
+
+[^ 14]See8 CFR 208.21(a).
+
+[^ 15]SeeINA 273(b), which requires the airline carrier to examine travel documents before boarding passengers.
+
+[^ 16]A USCIS international office may also issue a consular return memo if the office is processing a petition that was approved during initial domestic processing. This may occur in situations where the petition was treated as a travel eligibility case during initial domestic processing with the expectation that the beneficiary would be interviewed abroad by DOS, and intervening circumstances (for example, beneficiary relocation or USCIS international office opening) resulted in the beneficiary instead being interviewed by USCIS.
+
+[^ 17]See8 CFR 103.5(a)(5)(ii).
+
+[^ 18]See8 CFR 103.2(b)(16).
+
+[^ 19]See Section G, Administrative Closures [4 USCIS-PM C.5(G)].
+
+[^ 20]See8 CFR 103.3(a).
+
+[^ 21]See8 CFR 207.7(g)and8 CFR 208.21(e).
+
+[^ 22]See8 CFR 103.3(a)(1)(i),8 CFR 207.7(g), and8 CFR 208.21(e).
+
+[^ 23]See8 CFR 103.5.
+
+[^ 24]See8 CFR 103.2(b)(8).
+
+[^ 25]See8 CFR 103.2(b)(13)and8 CFR 103.2(b)(15).
+
+[^ 26]See8 CFR 103.2(b)(13).
+
+[^ 27]USCIS follows the terms of theTsamchosettlement agreement when administratively closing an I-730 petition if the beneficiary fails to appear for an interview. See theImportant Notice of Proposed Class Action Settlement for Individuals Who Have Filed a Refugee/Asylee Relative Petition (Form I-730 Petition) on Behalf of a Relativewebpage. SeeTsamcho v. Napolitano, 1:10-cv-02029 (E.D.N.Y. Feb. 25, 2013).
+
+[^ 28]Petitioners are not required to submit an Application for Action on an Approved Application or Petition (Form I-824) in order to resume processing of Form I-730.
+
+[^ 29]See8 CFR 103.2(b)(6).
+
+[^ 30]See8 CFR 103.2(b)(6).
+
+[^ 31]See8 CFR 207.7(g)and8 CFR 208.21(e).
+
+[^ 32]See8 CFR 207.7(g).
+
+[^ 33]For filing requirements, see8 CFR 103.5.
+
+H2: Resources
+
+Nolegal authoritiesavailable at this time.
+
+AR-11, Change of Address
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-912, Request for Fee Waiver
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update makes minor changes to the Policy Manual to remove an obsolete alert box and to conform with changes to the USCIS website.
+
+1 USCIS-PM A.1-Chapter 1 - Purpose and Background
+
+1 USCIS-PM A.8-Chapter 8 - Conduct in USCIS Facilities
+
+1 USCIS-PM A.9-Chapter 9 - Feedback, Complaints, Misconduct, and Discrimination
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address the eligibility, filing, and adjudication requirements for the Refugee/Asylee Relative Petition (Form I-730).
+
+4 USCIS-PM C.1-Chapter 1 - Purpose and Background
+
+4 USCIS-PM C.2-Chapter 2 - Eligibility Requirements
+
+4 USCIS-PM C.3-Chapter 3 - Admissibility and Waiver Requirements
+
+4 USCIS-PM C.4-Chapter 4 - Documentation and Evidence
+
+4 USCIS-PM C.5-Chapter 5 - Adjudication
+
+In accordance with Section 4(m) of Executive Order 14013 of February 4, 2021,Rebuilding and Enhancing Programs to Resettle Refugees and Planning for the Impact of Climate Change on Migration, 86 FR 8839 (Feb. 9, 2021), and considering necessary safeguards for program integrity, USCIS published several current policies and procedures related to the U.S. Refugee Admissions Program on the Refugee Adjudications: Policy and Procedures webpage. This technical update adds an alert box with a link to this webpage in the Policy Manual.
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

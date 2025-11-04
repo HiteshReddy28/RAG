@@ -1,0 +1,21 @@
+H1: Certificate Series Numbers
+
+TABLE:
+Sub-Series | Description | Sample
+Certificates of Naturalization
+C Certificates | Naturalization files documenting all judicial (court) naturalizations in all U.S. States, Territories, and Districts from September 27, 1906 to March 31, 1956. | 
+OM Certificates | Naturalization files related to persons administratively naturalized overseas while members of the Armed Forces of the United States during World War II. | 
+OS Certificates | Naturalization files created for persons administratively naturalized outside the United States under the Act of June 30, 1953 (Korean War). | 
+OL Certificates | “Old Law" Naturalization Certificates issued by INS to replace naturalization certificates that were lost, destroyed, or mutilated, where the original naturalization certificate was granted under the "old law" procedure in effect prior to the Act of June 29, 1906 (which became effective September 27, 1906).In other words, replacement certificate files for persons who:1) naturalized prior to September 27, 1906;2) lost their old certificate; and3) applied in/after 1929 to INS for areplacement certificate. | 
+Certificates of Derivative Citizenship
+A Derivative Certificates | Certificates of Citizenship documenting derivative or "acquired" citizenship subsequent to birth (i.e., through the naturalization of a parent).These are not A-Files. | 
+AA Derivative Certificates | Certificate of Citizenship documenting derivative or "acquired" citizenship by birth outside the United States or its possessions (i.e., child of U.S. citizen born abroad). | 
+Certificates of Repatriation and Resumption of Citizenship
+B Repatriation / Resumption Certificates | Certificates of Naturalization or repatriation issued to persons who regained U.S. citizenship, prior to January 13, 1941, either by taking the prescribed oath of renunciation and allegiance before a naturalization court in the US or before a U.S. diplomatic or consular officer abroad, following the loss of citizenship by reason of service in the armed forces of an allied foreign country in WW I or WW II, or by voting in a foreign political election during WW II. | 
+D Repatriation / Resumption Certificates | Certificates of Naturalization or repatriation issued to persons who regained U.S. citizenship, on or after January 13, 1941, either by taking the prescribed oath of renunciation and allegiance before a naturalization court in the U.S. or before a U.S. diplomatic or consular officer abroad, following the loss of citizenship by reason of service in the armed forces of an allied foreign country in WW I or WW II, or by voting in a foreign political election during WW II. | 
+3904 Repatriation / ResumptionRecords | Containing applications to resume citizenship by persons who lost citizenship as described under "B" and "D" files above, but who never applied for a certificate and for whom no prior certificate file exists. | 
+129 / Repatriation Records | Files documenting the repatriation of women who lost U.S. citizenship by marriage to an alien prior to 1922, and who resumed U.S. citizenship under the Act of June 25, 1936. | 
+
+“Old Law" Naturalization Certificates issued by INS to replace naturalization certificates that were lost, destroyed, or mutilated, where the original naturalization certificate was granted under the "old law" procedure in effect prior to the Act of June 29, 1906 (which became effective September 27, 1906).
+
+In other words, replacement certificate files for persons who:1) naturalized prior to September 27, 1906;2) lost their old certificate; and3) applied in/after 1929 to INS for areplacement certificate.

@@ -1,0 +1,62 @@
+,,,,,,,,,,,,,,,,,,,,,
+
+"Form I-485 Application to Register Permanent Residence or Adjust Status
+",,,,,,,,,,,,,,,,,,,,,
+
+Counts of Liberian Refugee Immigration Fairness (LRIF) Applications,,,,,,,,,,,,,,,,,,,,,
+
+By Applicant Sex and Age Group,,,,,,,,,,,,,,,,,,,,,
+
+"December 20, 2019 - December 20, 2021",,,,,,,,,,,,,,,,,,,,,
+
+,,,,,,,,,,,,,,,,,,,,,
+
+Age Group,Female,Male,Unknown,Total,,,,,,,,,,,,,,,,,
+
+,,,,,,,,,,,,,,,,,,,,,
+
+TOTAL," 2,221 "," 1,742 ", 6 ," 3,969 ",,,,,,,,,,,,,,,,,
+
+,,,,,,,,,,,,,,,,,,,,,
+
+0-19 years old, 143 , 125 , -   , 268 ,,,,,,,,,,,,,,,,,
+
+20-29 years old, 220 , 176 , 1 , 397 ,,,,,,,,,,,,,,,,,
+
+30-39 years old, 428 , 315 , 1 , 744 ,,,,,,,,,,,,,,,,,
+
+40-49 years old, 511 , 411 , -   , 922 ,,,,,,,,,,,,,,,,,
+
+50-59 years old, 473 , 396 , 3 , 872 ,,,,,,,,,,,,,,,,,
+
+60+ years old, 446 , 319 , 1 , 766 ,,,,,,,,,,,,,,,,,
+
+Table Key:,,,,,,,,,,,,,,,,,,,,,
+
+D Disclosure standards not met,,,,,,,,,,,,,,,,,,,,,
+
+- Represents zero or rounds to 0.0,,,,,,,,,,,,,,,,,,,,,
+
+Notes:,,,,,,,,,,,,,,,,,,,,,
+
+1) Some applications may have been received in previous reporting periods. ,,,,,,,,,,,,,,,,,,,,,
+
+2) The report reflects the most up-to-date estimate available at the time the database is queried.,,,,,,,,,,,,,,,,,,,,,
+
+3) Counts may differ from previous periods due to system updates and post adjudicative outcomes.,,,,,,,,,,,,,,,,,,,,,
+
+4) The report does not include rejected LRIF applications at the Lockbox.,,,,,,,,,,,,,,,,,,,,,
+
+"5) LRIF applications must be properly filed to USCIS by the December 20, 2021 deadline.  Applications filed after the deadline will no longer be accepted.",,,,,,,,,,,,,,,,,,,,,
+
+"6) For a complete list of USCIS forms and descriptions, visit: https://www.uscis.gov/forms",,,,,,,,,,,,,,,,,,,,,
+
+Source:,,,,,,,,,,,,,,,,,,,,,
+
+"Department of Homeland Security, U.S. Citizenship and Immigration Services, Office of Performance and Quality",,,,,,,,,,,,,,,,,,,,,
+
+"CLAIMS3, queried 07/2022, TRK 10081",,,,,,,,,,,,,,,,,,,,,
+
+,,,,,,,,,,,,,,,,,,,,,
+
+,,,,,,,,,,,,,,,,,,,,,

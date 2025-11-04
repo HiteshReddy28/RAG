@@ -1,0 +1,15 @@
+H1: 10.3 Inspection
+
+The INA specifically authorizes DHS, IER, and DOL officers to inspect Forms I-9, including any copies of employees’ documents retained with the corresponding Form I-9. Officers will give you a minimum of three business days’ notice before starting an inspection. You must make Forms I-9 available upon request at the location where DHS, IER, or DOL officers request to see them. You may also send Forms I-9 and supporting documents to the agency in electronic format or hard copy, if requested.
+
+If you store Form I-9 records at an off-site location, tell the inspecting officer where the location is and make arrangements for the inspection. The inspecting officers may perform an inspection at an office of an authorized agency of the United States if previous arrangements are made. Recruiters or referrers for a fee who designate an employer to complete employment verification procedures may present copies or printed electronic images of Forms I-9 at an inspection.  If you refuse or delay an inspection, you may be found to have failed to comply with the statutory and/or regulatory requirements above.
+
+During an inspection, you must:
+
+- Retrieve and present only the Forms I-9 and supporting documents the inspecting officer specifically requests. Supporting documents include copies of Form I-9 documents stored with Forms I-9 and associated audit trails that show the actions performed within or on the system during a given period of time.
+
+- Provide the inspecting officer the appropriate hardware, software, personnel, and documents necessary to locate, retrieve, read, and reproduce any electronically stored Form I-9, any supporting documents, and their associated audit trails, reports, and other data used to maintain the authenticity, integrity, and reliability of the records.
+
+- If requested, give the inspecting officer any reasonably available or obtainable electronic summary files (such as spreadsheets) containing all of the information fields on any electronically stored Form I-9.
+
+If you are an E-Verify employer and you receive a request for inspection, you should provide Forms I-9 that contain E-Verify case verification numbers. If you did not include the E-Verify case numbers on Form I-9, provide the E-Verify Case Detail Pages during the inspection.

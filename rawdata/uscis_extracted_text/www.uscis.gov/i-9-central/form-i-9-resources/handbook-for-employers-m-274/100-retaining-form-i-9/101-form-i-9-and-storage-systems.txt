@@ -1,0 +1,79 @@
+H1: 10.1 Form I-9 and Storage Systems
+
+H2: Create Your Own Form I-9
+
+USCIS oﬀers a Form I-9 that can be completed on a computer but does not have full electronic capabilities. You may create your own electronic Form I-9 if you:
+
+- Provide employees instructions for completing the form;
+
+- Create a legible form;
+
+- Do not make changes to the name, content, or sequence of the data elements and instructions we provide on our website;
+
+- Do not insert additional data elements or language; and
+
+- Retain generated forms according to the standards specified in 8 CFR 274a.2(e), (f), (g), (h) and (i), as applicable.
+
+You may also use any commercial computer program or automated data processing system that complies with these standards. Ensure that the program or system does not restrict access or use by a U.S. government agency.
+
+H2: Using an Electronic Storage System for Form I-9
+
+You may retain Form I-9 using either a paper or electronic system, or a combination of both. If you complete a paper Form I-9, you may scan and upload the original signed form, correction or update, and retain it electronically. You may destroy the original paper form after you have securely stored it in an electronic format. Any electronic system you use to generate Form I-9 or retain completed Forms I-9 must include:
+
+- Reasonable controls to ensure the system’s integrity, accuracy, and reliability;
+
+- Reasonable controls designed to prevent and detect the unauthorized or accidental creation of, addition to, alteration of, deletion of, or deterioration of an electronically completed or stored Form I-9, including the electronic signature, if used;
+
+- An inspection and quality assurance program that regularly evaluates the system and includes periodic checks of electronically stored Form I-9, including the electronic signature, if used;
+
+- An indexing system that allows users to identify and retrieve records maintained in the system; and
+
+- The ability to reproduce legible and readable paper copies.
+
+If you choose to complete or retain Form I-9 electronically, you may use one or more electronic generation or storage systems, as long as any Form I-9 retained in the system remains fully accessible and meets the regulations. You may change systems as long as each electronic system used meets regulatory performance requirements. For each electronic system used, you must maintain and make available upon request complete descriptions of:
+
+- The system, including all procedures relating to its use; and
+
+- The indexing system that identifies and retrieves relevant documents and records. You do not need to maintain separate indexing databases for each system if you can achieve comparable results without doing so.
+
+H2: Documenting Your Form I-9 Business Processes
+
+If you choose to complete or retain Form I-9 electronically, you must maintain (and make available upon request) documentation of the business processes that:
+
+- Create, or generate, the retained Form I-9;
+
+- Modify and maintain the retained Form I-9; and
+
+- Establish the authenticity and integrity of the forms, such as audit trails.
+
+H2: Electronically Signing Form I-9
+
+If you complete Form I-9 electronically using an electronic signature, your system for capturing electronic signatures must:
+
+- Allow individuals to acknowledge that they read the attestation;
+
+- Attach the electronic signature to an electronically completed Form I-9;
+
+- Affix the electronic signature at the time of the transaction;
+
+- Create and preserve a record verifying the identity of the person producing the signature;
+
+- Upon the employee’s request, provide a printed confirmation of the transaction; and
+
+- Include a method to acknowledge you have attested to the required information in Section 2.
+
+If you choose to use an electronic signature to complete Form I-9 but do not comply with these standards, DHS may determine that you have not properly completed Form I-9 and are in violation of section 274A(a)(1)(B) of the INA (8 CFR Part 274a.2(b)(2)).
+
+H2: Retaining Electronic Form I-9 Securely
+
+If you retain Form I-9 electronically, you must implement an effective records security program that ensures:
+
+- Only authorized personnel have access to electronic records;
+
+- You have a backup plan to recover records to protect against information loss;
+
+- Authorized personnel are trained to minimize the risk of wrongfully or accidentally altering or erasing electronic records; and
+
+- The system creates a secure and permanent record when an individual creates, completes, updates, modifies, alters, or corrects an electronic file. This record should include the date of access, the identity of the individual who accessed the electronic record, and the particular action(s) they took.
+
+If your action or inaction results in an electronic record being altered, lost, or erased, and you knew, or reasonably should have known, that the action or inaction could have that eﬀect, you may be found in violation of section 274A(b)(3) of the INA (8 CFR 274a.2(g)(2)).

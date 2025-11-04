@@ -1,0 +1,3 @@
+H1: USCIS Number
+
+A unique, 9-digit number assigned to an alien by the Department of Homeland Security that is listed on the front of Permanent Resident Cards (Form I-551 or Green Card) issued after May 10, 2010. See alsoAlien Registration Number or Alien Number.

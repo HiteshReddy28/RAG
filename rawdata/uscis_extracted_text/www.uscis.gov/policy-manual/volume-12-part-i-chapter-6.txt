@@ -1,0 +1,370 @@
+H1: Chapter 6 - Required Background Checks
+
+- Guidance
+
+- Resources (13)
+
+- Appendices (2)
+
+- Updates (8)
+
+USCIS conducts security and background checks on all applicants for naturalization. Members or former members of the U.S. armed forces applying for naturalization must comply with those requirements. This chapter provides information on specific background checks required of such applicants. This chapter also provides information on the ways service members may meet the fingerprint requirement for naturalization.
+
+H2: A. Defense Clearance Investigative Index (DCII) Query
+
+USCIS must conduct a Defense Clearance Investigative Index (DCII) query with the U.S. Department of War (DOW) as part of the background check process on any applicant with military service regardless of the section of law under which he or she is applying for naturalization. The DCII check is valid for 15 months from the initial response. The DCII check should show whether the applicant has any derogatory information in his or her military records.[1]
+
+H2: B. Fingerprint Requirement and the Kendell Frederick Citizenship Assistance Act
+
+USCIS must collect fingerprint records as part of the background check process on most applicants for naturalization. The Kendell Frederick Citizenship Assistance Act (KFCAA) mandates USCIS to use enlistment fingerprints or previously submitted USCIS fingerprints to satisfy the fingerprint requirement for service members unless a more efficient method is available.
+
+If DHS determines that new biometrics would “result in more timely and effective adjudication of the individual’s naturalization application,” DHS must inform the applicant of this determination and provide the applicant with information on how to submit fingerprints.[2]
+
+H2: C. Ways Service Members may Meet Fingerprint Requirement
+
+The table below provides the ways in which a service member may meet the fingerprint requirement for naturalization on the basis of military service.[3]Such applicants may meet the requirement through any of the following ways provided in the table. These procedures aim at USCIS compliance with the KFCAA.
+
+TABLE:
+Ways Service Members may Meet Fingerprint Requirement for Naturalization
+The service member may appear at any stateside USCIS Application Support Center (ASC) for fingerprint capture with or without an appointment
+The service member may have his or her fingerprints taken by USCIS personnel at select military installations in the United States via mobile fingerprinting equipment
+USCIS may re-submit the service member’s fingerprints for up-to-date records if such records are on file with USCIS
+USCIS may acquire and use the service member’s fingerprints taken at the time of enlistment into the military (“OPM fingerprints”)
+The service member may have his or her fingerprints taken using the FD-258 fingerprint cards at a U.S. military installation (or U.S. embassy or consulate if overseas)
+USCIS will accept FD-258 fingerprint cards or comparable DOW fingerprint cards from domestic or overseas military installations (However, fingerprints captured electronically, either at an ASC or through a mobile fingerprinting unit, remain the more advantageous method for both the applicant and USCIS)
+
+- The service member may appear at any stateside USCIS Application Support Center (ASC) for fingerprint capture with or without an appointment
+
+- The service member may have his or her fingerprints taken by USCIS personnel at select military installations in the United States via mobile fingerprinting equipment
+
+- USCIS may re-submit the service member’s fingerprints for up-to-date records if such records are on file with USCIS
+
+- USCIS may acquire and use the service member’s fingerprints taken at the time of enlistment into the military (“OPM fingerprints”)
+
+- The service member may have his or her fingerprints taken using the FD-258 fingerprint cards at a U.S. military installation (or U.S. embassy or consulate if overseas)
+
+- USCIS will accept FD-258 fingerprint cards or comparable DOW fingerprint cards from domestic or overseas military installations (However, fingerprints captured electronically, either at an ASC or through a mobile fingerprinting unit, remain the more advantageous method for both the applicant and USCIS)
+
+USCIS will consider an applicant’s naturalization application to be abandoned and will deny the application for failure to appear for biometrics capture (fingerprinting)[4]if all of the following conditions are true:
+
+- The NSC is unable to locate the applicant or three days have elapsed from the last day of the time period allotted for the applicant to appear for fingerprinting (as stated on the second ASC appointment notice);
+
+- The applicant is stationed stateside (and is otherwise able to report to an ASC) and has not submitted FD-258 fingerprint cards;
+
+- The applicant has not fulfilled the fingerprint requirement; and
+
+- USCIS has determined that the enlistment fingerprints are unavailable or are unclassifiable.
+
+Any subsequent correspondence from an affected applicant whose application was denied for failure to appear for fingerprinting within one year is considered a Service motion to reopen.[5]USCIS grants the motion and continues with the processing of the naturalization application. USCIS does not deny an application for abandonment for failure to provide fingerprints if USCIS has evidence that the applicant is deployed inside the United States or overseas and is unable to be fingerprinted.
+
+H2: Footnotes
+
+[^ 1]Previously, a military applicant was required to submit Form G-325B, Biographic Information, which USCIS used to initiate the DCII query. USCIS determined, however, that the information collected onForm N-400is sufficient to perform the queries and deemed Form G-325B obsolete. As of February 18, 2010, Form G-325B is no longer required for any pending naturalization application.
+
+[^ 2]See the Kendell Frederick Citizenship Assistance Act of 2008,Pub. L. 110-251  (PDF), 122 Stat. 2319.
+
+[^ 3]SeeINA 328orINA 329. See8 CFR 335.2(b).
+
+[^ 4]See8 CFR 103.2(b)(13)(ii).
+
+[^ 5]See8 CFR 103.5(a)(5).
+
+H2: Resources
+
+8 CFR 316.5(b)(6)- Residence for certain spouses of military personnel
+
+8 CFR 316.6- Physical presence for certain spouses of military personnel
+
+8 U.S.C. 1443a- Overseas naturalization for service members and their qualifying spouses and children
+
+INA 316,8 CFR 316- General requirements for naturalization
+
+INA 332,8 CFR 332- Naturalization administration, executive functions
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+N-400, Application for Naturalization
+
+N-426, Request for Certification of Military or Naval Service
+
+Citizenship Resource Center: Check for Test Updates
+
+Citizenship Resource Center: Study for the Test
+
+Citizenship Resource Center: The Naturalization Interview and Test
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Before October 29, 2019, USCIS considered children of members of the U.S. armed forces or U.S. government employees, who were stationed outside of the United States, to meet the requirement of “is residing in” the United States for the purpose of acquiring citizenship underINA 320.[1]This interpretation was consistent with the definition of “residence” for purposes of naturalization underINA 316.[2]Based on this treatment of U.S. government employees and their children in the context of naturalization under INA 316, USCIS determined that “residing in the United States” for purposes of acquisition of citizenship under INA 320 should likewise be interpreted to include children of U.S. military and government employees stationed outside of the United States who were residing with their parents.[3]
+
+This interpretation, however, was inconsistent with other provisions of the Immigration and Nationality Act (INA), including the definition of “residence” atINA 101(a)(33)and language inINA 322(a)andINA 322(d), which suggested that the citizenship of military children residing outside of the United States should be considered under that provision rather than under INA 320. Effective October 29, 2019, USCIS amended its policy guidance to address these concerns, and determined that children of members of the U.S. armed forces or U.S. government employees stationed outside of the United States would not be eligible for citizenship acquisition under INA 320.[4]
+
+On March 26, 2020, the Citizenship for Children of Military Members and Civil Servants Act was enacted,[5]amending INA 320, so that a child residing with his or her U.S. citizen parent, who is stationed outside of the United States as a member of the U.S. armed forces or a U.S. government employee, or is residing in marital union with a member of the U.S. armed forces or a U.S. government employee who is stationed outside of the United States, acquires citizenship under INA 320 if all requirements of INA 320(c) and INA 320(a)(1)-(2) are met. In line with the statute, USCIS rescinds its previous guidance, clarifying that these children are eligible to acquire citizenship under INA 320 if all other requirements under INA 320 are met.
+
+The amendment to INA 320 applies to children who were under the age of 18 on March 26, 2020.
+
+H3: Footnotes
+
+[^ 1]Even though the child of a member of the U.S. armed forces or U.S. government employee stationed outside of the United States may be eligible to apply for a Certificate of Citizenship underINA 322since he or she resides outside of the United States, USCIS interpreted the child to meet residency requirements underINA 320as well, which formerly required the child to be residing in the United States with his or her parent to acquire citizenship.
+
+[^ 2]For example, U.S. government employees, including members of the U.S. armed forces, are eligible to apply for an exception to the continuous residence requirement for naturalization under INA 316 as long as their residency outside of the United States was on behalf of the U.S. government. SeeINA 316(b). SeeINA 316(a). See Part D, General Naturalization Requirements, Chapter 3, Continuous Residence [12 USCIS-PM D.3].
+
+[^ 3]See Policy Manual Technical Update,Child Citizenship Act and Children of U.S. Government Employees Residing Abroad(July 20, 2015); and Acquisition of Citizenship by Children of U.S. Military and Government Employees Stationed Abroad under Section 320 of the Immigration and Nationality Act (INA), No. 103, issued May 6, 2004.
+
+[^ 4]See USCIS Policy Alert, Defining “Residence” in Statutory Provisions Related to Citizenship[PA-2019-05]. This Policy Alert has been superseded by Policy Manual updates to reflect changes made underPub. L. 116-133                                             (PDF).
+
+[^ 5]SeePub. L. 116-133                                             (PDF)(March 26, 2020).
+
+The table below provides some of the major legislative amendments that have aimed at assisting qualified military personnel and their eligible family members to become U.S. citizens or to acquire other immigration benefits, or both.
+
+TABLE:
+Act of May 9, 1918 (40 Stat. 512)
+Accorded World War I servicemen certain exemptions from the then existing naturalization requirementsFirst statute to provide for overseas processing; however, petitions that were filed and not acted upon by the courts were declared invalid before May 25, 1932[1]
+Modifications of 1918 Act[2]
+Under certain circumstances resident aliens who had departed from the United States and had served honorable in the military or naval forces of an allied country during World War I were granted special naturalization
+Second War Powers Act of March 27, 1942 (amending Nationality Act of 1940)
+Provided for the expeditious naturalization of members of the U.S. armed forces serving in the United States and abroadProvided for the naturalization of aliens serving during the war; the law permitted naturalization of those who did not meet requirementsSection 702, authorized the actual naturalization of World War II servicemen outside the United StatesFirst time the Service had administrative authority to conduct naturalizations
+Legislation of December 7, 1942 (amending Nationality Act of 1940)
+Addition of section 323aGranted special naturalization privileges to World War I veteransEmbraced persons who served with the United States military or naval forces at any time after April 20, 1898, and before July 5, 1902 (Spanish-American War), as well as persons who served on the Mexican border between June 1916 and April 1917 as members of the Regular Army or National Guard (expired December 8, 1943)
+Act of June 1, 1948; Immigration and Nationality Act
+Added section 324A to the Act of October 14, 1940 (Nationality Act of 1940)Revised, modified, and made permanent the earlier provisions for the expeditious naturalization of persons who served honorably in the United States armed forces during either World War I or II
+Lodge Act, June 30, 1950 (64 Stat. 316)
+Was periodically extended during the 1950s, finally expiring on July 1, 1959The Act authorized naturalization underINA 329of an alien who enlisted or reenlisted overseas under the terms of the Act; subsequently entered the United States, American Samoa, Swains Island, or the Canal Zone pursuant to military orders; completed five years of service; and was honorably discharged
+Korean Hostilities; Act of June 30, 1953 (Pub. L. 86)
+Provided for the expeditious judicial naturalization of aliens, upon completion of at least 90 days' active and honorable service in the United States Armed Forces during a specified period (June 25, 1950 - July 1, 1955) extending beyond the termination date of the Korean conflictUnder the statute, all petitions had to be filed before January 1, 1956
+Vietnam Hostilities Act of October 24, 1968 (82 Stat. 1343)
+Including Vietnam Hostilities to add as qualifying, service during a period beginning February 28, 1961, and ending on the termination fixed by the PresidentBy Executive Order 12081, September 18, 1978, the President terminated the period of Vietnam hostilities as of October 15, 1978Allowed the designation by executive order such periods when the armed forces of the United States are engaged in armed conflict with a hostile foreign force
+Grenada 15 Executive Order 12582 (February 2, 1987)[3]
+Although President Reagan designated the Grenada campaign as a period of hostilities, a federal court invalidated it entirely because, in contravention of statutory guidelines for such designations, the executive order attempted to limit the expedited naturalization benefit to persons who served in certain geographic areas and the record showed that the President would not have designated the campaign as a period of hostilities without the geographic limitations
+Naturalization of Natives of the Philippines (WWII Service), Sec. 405 of Pub. L. 101-649
+Addressed by Congress in 1990 by amendingINA 329(IMMACT90)Such veterans were exempted from the requirement of having been admitted to lawful permanent residence to the United States or having enlisted or reenlisted in the United StatesSubsequent amendments enabled naturalization processing to be conducted in the PhilippinesOnly applied to applications filed by February 2, 1995
+Hmong Veterans’ Naturalization Act of 2000
+For Hmong guerilla units that aided the U.S. military during the Vietnam War eraProvided an exemption from the English language requirement and special consideration for civics testing for Laotian refugees who supported the U.S. armed forces as members of guerrilla or irregular forces in Laos during the Vietnam War period of hostilitiesOnly applied to naturalization applications filed by a veteran or spouse, within three years after May 26, 2000, or by a veteran’s widow within three years after November 1, 2000
+National Defense Authorization Act for Fiscal Year 2004 (Pub. L. 108-136)
+Pub. L. 108-136 was enacted on November 24, 2003 and amended certain military-related immigration provisions of the INA, to include:Reduced the required period of military service from three years to one year underINA 328Exempted all fees from naturalization applications filed underINA 328and329by eligible service members and certain veteransAdded provision that citizenship obtained throughINA 328and329may be revoked if the person is separated from the U.S. armed forces under other than honorable conditions before the person has served for a period or periods aggregating five yearsAdded under8 U.S.C. 1443athat DHS must ensure that any filings, interviews, oath ceremonies, or other proceedings relating to naturalization of service members and certain military family members are available abroad through U.S. embassies, consulates, and U.S. military installations overseas as practicalExtended benefits underINA 329(a)to those who serve or served as a member of the Selected Reserve of the Ready ReserveExtended certain immigration benefits to surviving spouses, children and parents of U.S. citizen service members (including those granted citizenship posthumously underINA 329(a)[4]
+National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181)
+Pub. L. 110-181 was enacted on January 28, 2008 and amended certain military-related immigration provisions of the INA focused on qualifying spouses or children of members of the U.S. armed forces, to include:AddedINA 284(b)to make clear that the lawful permanent resident status of a service member’s spouse or child is not jeopardized because the spouse or child resided abroad, as authorized by official orders, with the service member. This provision clarifies that USCIS must not treat such absences as abandonment or relinquishment of the spouse or child’s lawful permanent resident (LPR) status[5]AddedINA 319(e)to allow the LPR spouse of a service member to count any qualifying time spent abroad on official orders as continuous residence and physical presence in the United States. Also permits the spouse to complete the naturalization process overseasAddedINA 322(d)to allow the U.S. citizen parent and service member of a child filing for naturalization to count time abroad under military orders as physical presence in the United States. Also permits the child to complete the naturalization process overseas
+Kendell Frederick Citizenship Assistance Act (KFCAA) (Pub. L. 110-251)
+The KFCAA was enacted on June 26, 2008Requires DHS to use the fingerprints provided by an individual at the time the individual enlisted in the U.S. armed forces (referred to as “OPM” or “enlistment” fingerprints) or fingerprints the applicant previously submitted to USCIS for another application to satisfy the fingerprint requirementIf DHS determines that new biometrics would result in more timely and effective adjudication of the individual’s naturalization application, DHS must inform the applicant of this determination and provide the applicant with information on how to submit fingerprintsRequires USCIS to adjudicate applications for naturalization filed by active-duty members of the U.S. armed forces serving abroad within 180 days of the receipt of responses to all background checks
+Military Personnel Citizenship Processing Act (MPCPA) (Pub. L. 110-382)
+The MPCPA was enacted on October 9, 2008Requires USCIS to complete applications for naturalization filed by service members (and certain spouses) within six months of receipt or notify the applicant of the delaySix-month notification letters must include the reason for delay and an estimated adjudication date
+
+- Accorded World War I servicemen certain exemptions from the then existing naturalization requirements
+
+- First statute to provide for overseas processing; however, petitions that were filed and not acted upon by the courts were declared invalid before May 25, 1932[1]
+
+- Under certain circumstances resident aliens who had departed from the United States and had served honorable in the military or naval forces of an allied country during World War I were granted special naturalization
+
+- Provided for the expeditious naturalization of members of the U.S. armed forces serving in the United States and abroad
+
+- Provided for the naturalization of aliens serving during the war; the law permitted naturalization of those who did not meet requirements
+
+- Section 702, authorized the actual naturalization of World War II servicemen outside the United States
+
+- First time the Service had administrative authority to conduct naturalizations
+
+- Addition of section 323a
+
+- Granted special naturalization privileges to World War I veterans
+
+- Embraced persons who served with the United States military or naval forces at any time after April 20, 1898, and before July 5, 1902 (Spanish-American War), as well as persons who served on the Mexican border between June 1916 and April 1917 as members of the Regular Army or National Guard (expired December 8, 1943)
+
+- Added section 324A to the Act of October 14, 1940 (Nationality Act of 1940)
+
+- Revised, modified, and made permanent the earlier provisions for the expeditious naturalization of persons who served honorably in the United States armed forces during either World War I or II
+
+- Was periodically extended during the 1950s, finally expiring on July 1, 1959
+
+- The Act authorized naturalization underINA 329of an alien who enlisted or reenlisted overseas under the terms of the Act; subsequently entered the United States, American Samoa, Swains Island, or the Canal Zone pursuant to military orders; completed five years of service; and was honorably discharged
+
+- Provided for the expeditious judicial naturalization of aliens, upon completion of at least 90 days' active and honorable service in the United States Armed Forces during a specified period (June 25, 1950 - July 1, 1955) extending beyond the termination date of the Korean conflict
+
+- Under the statute, all petitions had to be filed before January 1, 1956
+
+- Including Vietnam Hostilities to add as qualifying, service during a period beginning February 28, 1961, and ending on the termination fixed by the President
+
+- By Executive Order 12081, September 18, 1978, the President terminated the period of Vietnam hostilities as of October 15, 1978
+
+- Allowed the designation by executive order such periods when the armed forces of the United States are engaged in armed conflict with a hostile foreign force
+
+- Although President Reagan designated the Grenada campaign as a period of hostilities, a federal court invalidated it entirely because, in contravention of statutory guidelines for such designations, the executive order attempted to limit the expedited naturalization benefit to persons who served in certain geographic areas and the record showed that the President would not have designated the campaign as a period of hostilities without the geographic limitations
+
+- Addressed by Congress in 1990 by amendingINA 329(IMMACT90)
+
+- Such veterans were exempted from the requirement of having been admitted to lawful permanent residence to the United States or having enlisted or reenlisted in the United States
+
+- Subsequent amendments enabled naturalization processing to be conducted in the Philippines
+
+- Only applied to applications filed by February 2, 1995
+
+- For Hmong guerilla units that aided the U.S. military during the Vietnam War era
+
+- Provided an exemption from the English language requirement and special consideration for civics testing for Laotian refugees who supported the U.S. armed forces as members of guerrilla or irregular forces in Laos during the Vietnam War period of hostilities
+
+- Only applied to naturalization applications filed by a veteran or spouse, within three years after May 26, 2000, or by a veteran’s widow within three years after November 1, 2000
+
+- Pub. L. 108-136 was enacted on November 24, 2003 and amended certain military-related immigration provisions of the INA, to include:
+
+- Reduced the required period of military service from three years to one year underINA 328
+
+- Exempted all fees from naturalization applications filed underINA 328and329by eligible service members and certain veterans
+
+- Added provision that citizenship obtained throughINA 328and329may be revoked if the person is separated from the U.S. armed forces under other than honorable conditions before the person has served for a period or periods aggregating five years
+
+- Added under8 U.S.C. 1443athat DHS must ensure that any filings, interviews, oath ceremonies, or other proceedings relating to naturalization of service members and certain military family members are available abroad through U.S. embassies, consulates, and U.S. military installations overseas as practical
+
+- Extended benefits underINA 329(a)to those who serve or served as a member of the Selected Reserve of the Ready Reserve
+
+- Extended certain immigration benefits to surviving spouses, children and parents of U.S. citizen service members (including those granted citizenship posthumously underINA 329(a)[4]
+
+- Pub. L. 110-181 was enacted on January 28, 2008 and amended certain military-related immigration provisions of the INA focused on qualifying spouses or children of members of the U.S. armed forces, to include:
+
+- AddedINA 284(b)to make clear that the lawful permanent resident status of a service member’s spouse or child is not jeopardized because the spouse or child resided abroad, as authorized by official orders, with the service member. This provision clarifies that USCIS must not treat such absences as abandonment or relinquishment of the spouse or child’s lawful permanent resident (LPR) status[5]
+
+- AddedINA 319(e)to allow the LPR spouse of a service member to count any qualifying time spent abroad on official orders as continuous residence and physical presence in the United States. Also permits the spouse to complete the naturalization process overseas
+
+- AddedINA 322(d)to allow the U.S. citizen parent and service member of a child filing for naturalization to count time abroad under military orders as physical presence in the United States. Also permits the child to complete the naturalization process overseas
+
+- The KFCAA was enacted on June 26, 2008
+
+- Requires DHS to use the fingerprints provided by an individual at the time the individual enlisted in the U.S. armed forces (referred to as “OPM” or “enlistment” fingerprints) or fingerprints the applicant previously submitted to USCIS for another application to satisfy the fingerprint requirement
+
+- If DHS determines that new biometrics would result in more timely and effective adjudication of the individual’s naturalization application, DHS must inform the applicant of this determination and provide the applicant with information on how to submit fingerprints
+
+- Requires USCIS to adjudicate applications for naturalization filed by active-duty members of the U.S. armed forces serving abroad within 180 days of the receipt of responses to all background checks
+
+- The MPCPA was enacted on October 9, 2008
+
+- Requires USCIS to complete applications for naturalization filed by service members (and certain spouses) within six months of receipt or notify the applicant of the delay
+
+- Six-month notification letters must include the reason for delay and an estimated adjudication date
+
+H3: Footnotes
+
+[^ 1]SeeApplication of Campbell, 5 F.2d 247 (E.D. Wash. 1925). SeeOp. Sol. of Labor, Jan, 1926, CO file 79/9.
+
+[^ 2]See Acts of July 19 and November 6, 1919, May 26, 1926, March 4, 1929, May 25, 1932, June 24, 1935, August 23, 1937, June 21, 1939, December 7, 1942.
+
+[^ 3]SeeExecutive Order 12582, signed on February 2, 1987 (52 FR 3395, February 4, 1987). In consideration ofMatter of Reyes, 910 F. 2d 611 (9th Cir. 1990),Executive Order 12582was revoked byExecutive Order 12913   (PDF), effective February 2, 1987, (59 FR 23115, May 4, 1994).
+
+[^ 4]See Sec. 1703 of PL 108-136.
+
+[^ 5]See Sec. 673 of PL 110-181.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual regarding residency requirements under Section 320 of the Immigration and Nationality Act (INA), as amended by the Citizenship for Children of Military Members and Civil Servants Act.
+
+12 USCIS-PM H-Part H - Children of U.S. Citizens
+
+12 USCIS-PM I-Part I - Military Members and their Families
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update incorporates into Volume 12 the policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced August 28, 2019 addressing requirements for “residence” in statutory provisions related to citizenship. This guidance became effective October 29, 2019.
+
+12 USCIS-PM H-Part H - Children of U.S. Citizens
+
+12 USCIS-PM I-Part I - Military Members and their Families
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address requirements for “residence” in statutory provisions related to citizenship, and to rescind previous guidance regarding children of U.S. government employees and members of the U.S. armed forces employed or stationed outside the United States. This guidance becomes effective October 29, 2019.
+
+12 USCIS-PM H-Part H - Children of U.S. Citizens
+
+12 USCIS-PM I-Part I - Military Members and their Families
+
+USCIS is issuing updated and comprehensive citizenship and naturalization policy guidance in the new USCIS Policy Manual.
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

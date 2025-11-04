@@ -1,0 +1,457 @@
+H1: Chapter 5 - Statutory Minimum Factors
+
+- Guidance
+
+- Resources (68)
+
+- Appendices (5)
+
+- Updates (12)
+
+UnderINA 212(a)(4), officers are required to consider specific minimum factors in determining whether an applicant seeking admission to the United States or seeking to adjust status to that of lawful permanent resident is likely at any time to become a public charge. These statutory minimum factors include the alien’s:
+
+- Age;
+
+- Health;
+
+- Family status;
+
+- Assets, resources, and financial status; and
+
+- Education and skills.[1]
+
+This chapter discusses the statutory minimum factors. Subsequent chapters discuss the Affidavit of Support Under Section 213A of the INA and consideration of current or past receipt of public cash assistance for income maintenance or long-term institutionalization at government expense.[2]
+
+H2: A. Age
+
+USCIS must consider an alien’s age in a public charge inadmissibility determination.[3]The applicant indicates their age on the Application to Register Permanent Residence or Adjust Status (Form I-485).
+
+In some circumstances, such as in the case of children, an applicant’s age may on its face suggest that they are at present unable to earn a living through employment. USCIS considers the applicant’s household’s income, assets, and liabilities, however, not just those of the applicant.
+
+USCIS considers an applicant’s age in the totality of the alien’s circumstances, as part of a prospective determination.[4]Furthermore, USCIS considers age in combination with the other factors, and examines the applicant’s age in relation to its possible impact on the other factors (for example, health or assets, resources, and financial status).
+
+H2: B. Health
+
+USCIS must consider an alien’s health in a public charge inadmissibility determination.[5]
+
+H3: 1. Report of Immigration Medical Examination and Vaccination Record
+
+In considering an alien’s health in a public charge inadmissibility determination, USCIS generally defers to the medical information provided by a civil surgeon on the Report of Immigration Medical Examination and Vaccination Record (Form I-693) or by a panel physician on the following Department of State forms: Medical Examination for Immigrant or Refugee Applicant (1991 TB Technical Instructions) (Form DS-2053), the Medical Examination for Immigrant or Refugee Applicant (2007 TB Technical Instructions) (Form DS-2054), or the Electronic Medical Examination for Visa Applicant (DS-7794), and related worksheets.[6]Officers should not make health diagnoses.
+
+Such information includes diagnoses of any Class A[7]or Class B medical conditions diagnosed by the civil surgeon or panel physician. Class A conditions are medical conditions listed inINA 212(a)(1)(A)that render a person inadmissible and ineligible for a visa or adjustment of status.
+
+Class B medical conditions include any “physical or mental abnormality, disease, or disability serious in degree or permanent in nature amounting to a substantial departure from normal well-being,” in which case the civil surgeon or panel physician must also document “the nature and extent of the abnormality; the degree to which the alien is incapable of normal physical activity; and the extent to which the condition is remediable . . . [as well as] the likelihood, that because of the condition, the applicant will require extensive medical care or institutionalization.”[8]
+
+USCIS may request additional information regarding an applicant’s health if the information provided in the report of medical examination is incomplete.[9]
+
+H3: 2. Relationship Between Health and Disability
+
+INA 212(a)(4)(B)(i)requires USCIS to consider an alien’s health when making a public charge inadmissibility determination, which may include consideration of any disabilities, as defined by Section 504 of the Rehabilitation Act, identified in the report of medical examination.[10]However, USCIS will not find an applicant inadmissible on the public charge ground solely based on an applicant’s disability.
+
+As noted previously, no one factor (other than the lack of a sufficient Affidavit of Support Under Section 213A of the INA when required) will lead to a public charge inadmissibility finding. Disability alone is not a sufficient basis to determine whether an alien is likely at any time to become primarily dependent on the government for subsistence and therefore inadmissible underINA 212(a)(4).[11]
+
+Additionally, many disabilities do not impact a person’s health, prevent a person from working, or require extensive medical care or institutionalization. In fact, the vast majority of people with disabilities do not use institutional care.[12]
+
+Therefore, USCIS does not presume that an alien having a disability in and of itself means that the alien is in poor health or is likely at any time to become primarily dependent on the government for subsistence. Likewise, USCIS does not presume that the alien’s disability in and of itself negatively impacts any of the other statutory minimum factors.
+
+H2: C. Family Status
+
+USCIS must consider an alien’s family status, as evidenced by the applicant’s household size, as household is defined in8 CFR 212.21(f), in a public charge inadmissibility determination.[13]
+
+The applicant indicates their household size onForm I-485. A household includes:[14]
+
+- The alien;
+
+- The alien’s spouse, if physically residing with the alien;
+
+- The alien’s parents, if physically residing with the alien;
+
+- The alien’s unmarried siblings under 21 years of age, if physically residing with the alien;
+
+- The alien’s children,[15]if physically residing with the alien;
+
+- Any other individuals who are listed as dependents on the alien’s federal income tax return;[16]and
+
+- Any other individuals who list the alien as a dependent on their federal income tax return.
+
+As seen in this list, an applicant’s household includes certain individuals living with the alien (who may or may not contribute financially to the household) as well as certain relatives and close relations who may contribute financially to the alien’s household while not residing with the alien. Financial contributions from these non-cohabitating household members are included in the consideration of the applicant’s assets, resources, and financial status factor, as described below.
+
+H2: D. Assets, Resources, and Financial Status
+
+USCIS must consider an alien’s assets, resources, and financial status in a public charge inadmissibility determination.[17]In considering an alien’s assets, resources, and financial status, USCIS examines the alien’s household’s[18]income, assets, and liabilities.[19]
+
+The applicant indicates their household’s income, assets, and liabilities onForm I-485. Applicants are not required to submit any specific supporting evidence related to their household’s income, assets, and liabilities. USCIS may request additional evidence on a case-by-case basis if more information is needed to make a public charge inadmissibility determination.
+
+Income
+
+Applicants indicate their household’s annual income, which may include income provided to the household from sources who are not members of the household, such as alimony or child support.[20]A household’s annual income excludes any income from Supplemental Security Income (SSI); Temporary Assistance for Needy Families (TANF); or state, tribal, territorial, or local cash benefit programs for income maintenance (often called “General Assistance” in the state context, but which also exist under other names).[21]Similarly, the household’s income excludes any income from illegal activities or sources such as proceeds from illegal gambling or drug sales.[22]
+
+USCIS does not limit the consideration of income only to income that appears on federal income tax forms, and considers all evidence of income from lawful sources. Examples of income that may not appear on income tax forms include child support and alimony. Some households may also have regular income, such as Social Security income, that does not reach the minimum required threshold for filing federal income taxes.[23]USCIS also considers any evidence an alien submits pertaining to expected future income.
+
+In some instances, the household’s income may include income that has resulted from unauthorized employment. Whether an alien or a member of the alien’s household engaged in unlawful employment, and any immigration consequences flowing from such unauthorized employment, is a separate determination from the public charge inadmissibility determination.[24]
+
+Therefore, this income is not excluded from the household’s income calculation, and USCIS considers any income derived from employment, regardless of whether the household members had employment authorization, as long as the income is not derived from illegal activities or sources, such as illegal gambling.
+
+Assets and Liabilities
+
+When considering the applicant’s financial status, USCIS also considers the alien’s household’s assets and resources, for example, investments or home equity, excluding any assets from illegal activities or sources, such as proceeds from illegal gambling or drug sales. USCIS also considers the alien’s household’s liabilities, both secured and unsecured, such as loans, alimony, and child support payments. By taking into account an alien’s household’s liabilities, USCIS is able to examine the alien’s overall financial status in the totality of the circumstances.
+
+USCIS considers financial obligations and debts alongside assets and resources to avoid artificially inflating the calculation of an alien’s financial status, as these obligations and debts would decrease the resources that are actually accessible to the alien. However, if an alien has financial obligations and debts, this does not necessarily indicate that the alien is inadmissible under the public charge ground, and USCIS considers this factor in the totality of the circumstances.
+
+H2: E. Education and Skills
+
+USCIS must consider an alien’s education and skills in a public charge inadmissibility determination.[25]In considering an alien’s education and skills in this determination, USCIS considers any degrees, certifications, licenses, educational certificates, and skills obtained through work experience or educational programs.[26]The applicant indicates their education and skills onForm I-485.
+
+Skills obtained through work experience (including volunteer and unpaid opportunities) include but are not limited to the alien’s workforce skills, training, licenses for specific occupations or professions, language skills, and certificates documenting mastery or apprenticeships in skilled trades or professions. Educational certificates are issued by an educational institution (or a training provider) and certify that an occupation specific program of study was completed.
+
+While some aliens may establish their education and skills through evidence of completed degrees, the statutory education and skills factor does not specify that only formal education is acceptable.
+
+USCIS may consider other evidence of attained knowledge and skills, including those skills earned through certifications and licensure, as well as skills obtained through on-the-job training or overall work experience. This consideration allows USCIS to acknowledge those aliens who hold occupations that do not require official licenses or certifications but whose occupations impart skills that otherwise affect the alien’s overall employability.
+
+H2: Footnotes
+
+[^ 1]SeeINA 212(a)(4)(B)(i).
+
+[^ 2]See Chapter 6, Affidavit of Support Under Section 213A of the INA [8 USCIS-PM G.6]. See Chapter 7, Consideration of Current and/or Past Receipt of Public Cash Assistance for Income Maintenance or Long-term Institutionalization at Government Expense [8 USCIS-PM G.7].
+
+[^ 3]See8 CFR 212.22(a)(1)(i).
+
+[^ 4]For more information about the totality of the circumstances determination, see Chapter 4, Prospective Determination Based on the Totality of the Circumstances [8 USCIS-PM G.4]. For more information about the totality of circumstances specifically relating to children, see Chapter 9, Adjudicating Public Charge Inadmissibility for Adjustment of Status Applications, Section A, Evidence in the Record, Subsection 3, Other Notable Circumstances Relevant in the Totality of the Circumstances [8 USCIS-PM G.9(A)(3)].
+
+[^ 5]SeeINA 212(a)(4)(B)(i).
+
+[^ 6]See8 CFR 212.22(a)(1)(ii). As of October 1, 2013, panel physicians only use DS-2054 or DS-7794. The DS-2053 is no longer used after that date. Applicants for adjustment of status generally submitForm I-693; however, immigrants applying for adjustment of status as a refugee, a derivative of an asylee, or a K or V nonimmigrant visa holder, as well as some Afghan nationals as part of Operation Allies Welcome who have already had a medical examination overseas, may submit a medical examination performed by a panel physician.
+
+[^ 7]See42 CFR 34.2(d).
+
+[^ 8]See42 CFR 34.4(b)(2)and42 CFR 34.4(c)(2). For more information about Class A and Class B conditions, see Volume 8, Admissibility, Part B, Health-Related Grounds of Inadmissibility [8 USCIS-PM B].
+
+[^ 9]See8 CFR 212.22(a)(1)(ii).
+
+[^ 10]See8 CFR 212.22(a)(1)(ii).
+
+[^ 11]See8 CFR 212.22(a)(4).
+
+[^ 12]See87 FR 55472, 55544  (PDF)(Sept. 9, 2022).
+
+[^ 13]SeeINA 212(a)(4)(B)(i). See8 CFR 212.22(a)(1)(iii).
+
+[^ 14]See8 CFR 212.21(f).
+
+[^ 15]As defined inINA 101(b)(1).
+
+[^ 16]Including a spouse or child as defined inINA 101(b)(1)not physically residing with the alien.
+
+[^ 17]SeeINA 212(a)(4)(B)(i).
+
+[^ 18]As defined in8 CFR 212.21(f).
+
+[^ 19]USCIS does not include income derived from the public benefits listed in8 CFR 212.21(b): Supplemental Security Income (SSI); cash assistance for income maintenance under the Temporary Assistance for Needy Families (TANF); and state, tribal, territorial, or local cash benefit programs for income maintenance, commonly called “General Assistance,” in the income calculation. See8 CFR 212.22(a)(1)(iv). USCIS also does not include any income or assets derived from illegal activities or sources, such as proceeds from illegal gambling or drug sales. See8 CFR 212.22(a)(1)(iv).
+
+[^ 20]See87 FR 55472, 55475  (PDF)(Sept. 9, 2022).
+
+[^ 21]See8 CFR 212.22(a)(1)(iv).
+
+[^ 22]See8 CFR 212.22(a)(1)(iv)and8 CFR 212.21(b).
+
+[^ 23]See the Internal Revenue Service’s (IRS)Who Should File a Tax Returnwebpage for more information on the minimum taxable income threshold.
+
+[^ 24]SeeINA 245(c)(2)andINA 245(c)(8). For more information about the unauthorized employment determination, see Volume 7, Adjustment of Status, Part B, 245(a) Adjustment, Chapter 6, Unauthorized Employment (INA 245(c)(2) and INA 245(c)(8)) [7 USCIS-PM B.6].
+
+[^ 25]SeeINA 212(a)(4)(B)(i).
+
+[^ 26]See8 CFR 212.22(a)(1)(v).
+
+H2: Resources
+
+10 U.S.C. 504(b)- Citizenship or residency
+
+15 U.S.C. 1681- Congressional findings and statement of purpose
+
+21 U.S.C. 802- Definitions
+
+21 U.S.C. 841- Prohibited acts A
+
+22 CFR 40.51- Labor certification
+
+29 CFR 570- Child labor regulations, orders and statements of interpretation
+
+29 U.S.C. 213(c)- Child labor requirements
+
+31 U.S.C. 9304-9308- Surety corporations
+
+42 CFR 34.4- Medical notifications
+
+42 U.S.C. 1382c                                           (PDF)- Definitions
+
+42 U.S.C. 413- Quarter and quarter of coverage
+
+42 U.S.C. 416(l)- Retirement age
+
+7 CFR 273- Certification of eligible households
+
+8 CFR 1.2- Definitions
+
+8 CFR 1.3- Lawfully present aliens for purposes of applying for Social Security benefits
+
+8 CFR 1003.14- Jurisdiction and commencement of proceedings
+
+8 CFR 1003.1- Organization, jurisdiction, and powers of the Board of Immigration Appeals
+
+8 CFR 103.6- Immigration bonds
+
+8 CFR 204.5- Petitions for employment-based immigrants
+
+8 CFR 212.4- Applications for the exercise of discretion under section 212(d)(1) and 212(d)(3)
+
+8 CFR 213a- Affidavits of support on behalf of immigrants
+
+8 CFR 235- Inspection of persons applying for admission
+
+8 CFR 245.11- Adjustment of aliens in S nonimmigrant classification
+
+8 CFR 292- Representation and appearances
+
+8 U.S.C. 1601-1646- Restricting welfare and public benefits for aliens
+
+8 U.S.C. 1611                                           (PDF)- Aliens who are not qualified aliens ineligible for Federal public benefits
+
+8 U.S.C. 1612                                           (PDF)- Limited eligibility of qualified aliens for certain Federal programs
+
+8 U.S.C. 1613                                           (PDF)- Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
+
+8 U.S.C. 1641                                           (PDF)- Definitions
+
+Final Specification of Community Programs Necessary For Protection Of Life Or Safety Under Welfare Reform Legislation,66 FR 3613 (Jan. 16, 2001) (Final rule)
+
+INA 101- Definitions
+
+INA 101(a)(15)- Nonimmigrant classifications
+
+INA 201- Worldwide level of immigration
+
+INA 203- Allocation of immigrant visas
+
+INA 208- Asylum
+
+INA 212(a)(4), 8 CFR 212.20-212.23 - Public charge inadmissibility
+
+INA 212(d)- Temporary admission of nonimmigrants
+
+INA 213,8 CFR 213.1- Admission of aliens on giving bond or undertaking; return upon permanent departure; adjustment of status of aliens on submission of a public charge bond
+
+INA 213A,8 CFR 213a- Requirements for sponsor's declaration of financial support
+
+INA 235- Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing
+
+INA 237(a)(5)- Public charge (deportable aliens)
+
+INA 239,8 CFR 239- Initiation of removal proceedings
+
+INA 245(j)- Adjustment to permanent resident status
+
+INA 245,8 CFR 245- Adjustment of status of nonimmigrant to that of person admitted for permanent residence
+
+INA 248,8 CFR 248- Change of nonimmigrant classification
+
+INA 289- Application to American Indians born in Canada
+
+Pub. L. 104-193                                           (PDF)- Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996
+
+Pub. L. 104-208                                        (PDF)- Illegal Immigration Reform and Immigrant Responsibility Act of 1996
+
+Pub. L. 106-395                                           (PDF)- Child Citizenship Act of 2000
+
+Pub. L. 111-293                                           (PDF)- Help Haitian Adoptees Immediately to Integrate Act of 2010
+
+Pub. L. 111-8                                            (PDF)- Section 602(b), Title VI of the Afghan Allies Protection Act of 2009
+
+Pub. L. 113-4                                           (PDF)- 127 Stat 54 of the Violence Against Women Reauthorization Act of 2013
+
+Pub. L. 89-732                                        (PDF)- Cuban Refugees Adjustment of Status
+
+Section 11,26 Stat 1084                        (PDF)of the Immigration Act of 1891
+
+Section 212(a)(15),66 Stat 163                                           (PDF), 183 of the Immigration and Nationality Act of 1952
+
+Sections 1-2,22 Stat 214                        (PDF)of the Immigration Act of 1882
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-130, Petition for Alien Relative
+
+I-134, Declaration of Financial Support
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+I-601, Application for Waiver of Grounds of Inadmissibility
+
+I-693, Report of Medical Examination and Vaccination Record
+
+I-864, Affidavit of Support Under Section 213A of the INA
+
+I-864A, Contract Between Sponsor and Household Member
+
+I-864EZ, Affidavit of Support Under Section 213A of the INA
+
+How to Use the USCIS Policy Manual Website
+
+Public Charge Inadmissibility, USCIS National Engagement (Sept. 29, 2022) Power Point Presentation                   (PDF, 1.24 MB)
+
+H2: Appendices
+
+Appendix: Applicability of INA 212(a)(4) to Employment-Based Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Family-Based Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Other Applicants
+
+Appendix: Applicability of INA 212(a)(4) to Refugee, Asylee, and Parolee Adjustment of Status Applications
+
+Appendix: Applicability of INA 212(a)(4) to Special Immigrant Adjustment of Status Applications
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update incorporates into Volume 8 the policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced December 19, 2022, addressing the public charge ground of inadmissibility under section 212(a)(4) of the Immigration and Nationality Act (INA), as implemented by the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF)(Sep. 9, 2022).
+
+This guidance became effective December 23, 2022, and applies to adjustment of status applications postmarked (or filed electronically, if applicable) on or after that date. For applications postmarked (or submitted electronically, if applicable) before December 23, 2022, USCIS will continue to apply the public charge ground of inadmissibility consistent with the statute and the1999 Interim Field Guidance.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address the public charge ground of inadmissibility under section 212(a)(4) of the Immigration and Nationality Act (INA), as implemented by the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF)(Sep. 9, 2022).
+
+The new final rule and policy guidance become effective December 23, 2022, and apply to adjustment of status applications postmarked (or filed electronically, if applicable) on or after that date. For applications postmarked (or submitted electronically, if applicable) before December 23, 2022, USCIS will continue to apply the public charge ground of inadmissibility consistent with the statute and the1999 Interim Field Guidance.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+This technical update to Volume 8 alerts readers to the September 9, 2022 publication of the Public Charge Ground of Inadmissibility Final Rule,87 FR 55472                    (PDF), and clarifies that USCIS will continue to apply the 1999 Interim Field Guidance until the final rule goes into effect on December 23, 2022. For more information about how USCIS is applying the public charge ground of inadmissibility, see thePublic Charge Resourceswebpage.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+USCIS is administering the public charge inadmissibility statute (section 212(a)(4) of the Immigration and Nationality Act) consistent with the 1999 Interim Field Guidance to determine whether a noncitizen is inadmissible as likely at any time to become a public charge. The 1999 Interim Field Guidance is the policy that was in place before the 2019 Public Charge Final Rule was implemented. The 2019 Public Charge Final Rule is no longer in effect. For more information about how USCIS is applying the public charge ground of inadmissibility, see thePublic Charge Resourceswebpage.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update removes the guidance in Volume 2, Part A, Chapter 4, Volume 8, Part G, and Volume 12, Part D, Chapter 2 relating to the administration of the public charge ground of inadmissibility under theInadmissibility on Public Charge Groundsfinal rule, 84 FR 41292 (Aug. 14, 2019); as amended byInadmissibility on Public Charge Grounds; Correction, 84 FR 52357 (Oct. 2, 2019) ( “Public Charge Final Rule”), which was implemented on Feb. 24, 2020. On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. On Nov. 3, 2020, the U.S. Court of Appeals for the Seventh Circuit issued an administrative stay and, on Nov. 19, 2020, a stay pending appeal of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted its stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update removes the WA Food Assistance Program for Legal Immigrants from the list of examples of state, local, and tribal cash assistance programs that are considered income maintenance for purposes of the public charge inadmissibility determination.
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+This update incorporates into Volumes 2, 8, and 12 policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced February 5, 2020, implementing the Inadmissibility of Public Charge Grounds Final Rule. This guidance is in effect as of February 24, 2020 and applies nationwide to all applications and petitions postmarked on or after that date. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Final Rule. For more information about the classes of [noncitizens] who are exempt from the Final Rule, see theappendicesrelated to applicability. For information on related litigation affecting implementation, see theUSCIS webpageon the injunction.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual to address the final rule on the public charge ground of inadmissibility. This policy guidance is effective on February 24, 2020, and will apply to all applicants and petitioners filing applications and petitions for adjustment of status, extension of stay, and change of status, except for applicants and petitioners in the State of Illinois, whose cases will be adjudicated under prior policy, including the1999 Interim Field Guidance                   (PDF)andAFM Ch. 61.1                  (PDF). For additional information, seePublic Charge Inadmissibility Determinations in Illinois. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Inadmissibility on Public Charge Grounds final rule. For more information about the classes of [noncitizens] who are exempt from the final rule, see theappendicesrelated to applicability.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

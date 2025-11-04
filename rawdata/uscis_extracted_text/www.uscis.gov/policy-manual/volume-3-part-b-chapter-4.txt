@@ -1,0 +1,399 @@
+H1: Chapter 4 - Family Members
+
+- Guidance
+
+- Resources (24)
+
+- Appendices (1)
+
+- Updates (4)
+
+H2: A. Overview
+
+A victim who has applied for or been granted T nonimmigrant status (the “principal applicant”) may request derivative status for certain eligible family members. The principal applicant may file Supplement A, Application for Derivative T Nonimmigrant Status (Form I-914, Supplement A) concurrently with the principal applicant’s Application for T Nonimmigrant Status (Form I-914), at any time while the principal’s application is pending, or while the principal holds T-1 nonimmigrant status.
+
+Eligible family members must be admissible to the United States or apply for a discretionary waiver of inadmissibility.[1]
+
+There are two general categories of family members eligible for derivative T nonimmigrant status if accompanying, or following to join, the principal:
+
+- Those whose eligibility is based on the age of, and their relationship to, the principal; and
+
+- Those whose eligibility is based on a showing of a present danger of retaliation.[2]
+
+H2: B. Derivative Status Based on Relationship to Principal
+
+Where the principal T nonimmigrant (T-1) is under 21 years of age, the following table outlines which family members may be eligible for derivative T nonimmigrant status.[3]
+
+TABLE:
+Family Member | Code of Admission
+Spouse | T-2
+Child (unmarried and under 21 years of age)[4] | T-3
+Parent | T-4
+Unmarried sibling under 18 years of age | T-5
+
+Where the principal is 21 years of age or older, the following table outlines which family members may be eligible for derivative T nonimmigrant status.[5]
+
+TABLE:
+Family Member | Code of Admission
+Spouse | T-2
+Child (unmarried and under 21 years of age)[6] | T-3
+
+H2: C. Derivative Status Based on Fear of Retaliation
+
+H3: 1. General Categories of Eligible Family Members
+
+Regardless of the age of the principal, a principal T nonimmigrant’s family members may be eligible for derivative T nonimmigrant status if they are in present danger of retaliation as a result of the principal applicant’s escape from trafficking or cooperation with law enforcement.[7]The following table outlines which family members may be eligible on this basis.
+
+TABLE:
+Family Member | Code of Admission
+Parent | T-4
+Unmarried sibling under 18 years of age[8] | T-5
+Adult or minor child of a derivative family member[9] | T-6
+
+H3: 2. Adult or Minor Child of Derivative Family Member (T-6)
+
+The T-6 category is unique in that it expands eligibility beyond relatives who are typically eligible for derivative status. To qualify for T-6 status, the applicant must establish:
+
+- The familial relationship between the T-6 family member and the parent of the T-6;
+
+- That USCIS granted the T-6 family member’s parent T-2, T-3, T-4, or T-5 status as the principal’s derivative beneficiary; and
+
+- That the T-6 family member faces a present danger of retaliation as a result of the principal’s escape from trafficking or cooperation with law enforcement.
+
+T-6 derivatives could include the principal’s grandchild, the principal’s spouse’s child (if not otherwise already eligible as the principal’s child), the principal’s sibling (if not otherwise already eligible, such as those over the age of 18 or married), and the principal’s niece or nephew. The adult or minor child can be of any age or marital status.
+
+If the status of the T-1 principal or the T-2, T-3, T-4, or T-5 derivative was erroneously granted and subsequently revoked, or the T-2, T-3, T-4, or T-5 later becomes ineligible for derivative T nonimmigrant status (for example, a T-3 or T-5 derivative abroad married before admission to the United States), the T-6 applicant would not be eligible for T-6 nonimmigrant status or admission to the United States as a T-6 nonimmigrant.
+
+The table below illustrates which family members of a principal T-1 nonimmigrant could derive T-6 status if they demonstrate they meet the present danger of retaliation requirement.
+
+TABLE:
+Age of the T-1 Principal | Derivative Family Member of the T-1 Principal[10] | Eligible T-6 Derivative
+Under the age of 21 | Spouse (T-2) | The T-2 spouse’s child[11](the principal’s stepchild)
+Unmarried child under age 21 (T-3) | The T-3 child’s child (the principal’s grandchild)
+Parent (T-4) | The T-4’s child (the principal’s sibling)
+Sibling (under the age of 18 and unmarried) (T-5) | The T-5 sibling’s child (the principal’s niece or nephew)
+21 years of age or older | Spouse (T-2) | The T-2 spouse’s child (the principal’s stepchild)
+Unmarried child under age 21 (T-3) | The T-3 child’s child (the principal’s grandchild)
+Any age | Parent (T-4) based on present danger of retaliation | The T-4 parent’s child (the principal’s stepchild)
+Sibling (under the age of 18 and unmarried) (T-5) based on present danger of retaliation | The T-5 sibling’s child (the principal’s niece or nephew)
+Note: Where ages are listed in this table, they refer to age at the time of the principal applicant’s filing for T-1 nonimmigrant status. T-6 family members are eligible regardless of their marital status or age. There is no T derivative status for children (or other family members) of the adult or minor child who is granted T-6 status.
+
+USCIS recognizes that this derivative family category is based on “a present danger of retaliation” and different family members may face a danger of retaliation at different times. The T-6’s family member does not have to hold derivative status at the time of the T-6 application.
+
+For example, if the principal’s spouse held T-2 status but then died before the principal files for T-6 status for the spouse’s adult child, the adult child may still be eligible for T-6 status. Additionally, if a parent who had obtained T-4 status allowed that status to lapse without extending it, the T-4 parent’s adult or minor child could still be eligible for T-6 status if the child faced a present danger of retaliation.
+
+H2: D. Family Relationship at Time of Filing
+
+H3: 1. General Rule
+
+Generally, subject to age-out protections and except as specified in subsections 2 through 4, the family relationship must exist at each of the following times:
+
+- When the applicant files the application for T-1 nonimmigrant status;[12]
+
+- When USCIS adjudicates the application for T-1 nonimmigrant status;
+
+- When the applicant files the application for derivative T nonimmigrant status;
+
+- When USCIS adjudicates the application for derivative T nonimmigrant status; and
+
+- When the eligible family member is admitted to the United States, if residing abroad.
+
+H3: 2. Spousal Relationship Must Exist When Principal’s Application is Adjudicated
+
+USCIS evaluates whether the marriage creating the qualifying spousal relationship or stepchild and stepparent relationship exists at the time of adjudication of the principal’s application and thereafter.
+
+Principal applicants who marry while their application is pending may fileForm I-914, Supplement Aon behalf of their spouse, even if the relationship did not exist at the time they filed their principal application.[13]Similarly, the principal applicant may file for a stepparent or stepchild if the qualifying relationship was created after they filed their principal application but before it was approved.[14]
+
+H3: 3. Requirement to Be Unmarried
+
+An eligible child seeking T-3 nonimmigrant status or eligible sibling seeking T-5 nonimmigrant status must be unmarried:
+
+- When the principal files the application for T-1 nonimmigrant status;
+
+- When USCIS adjudicates the application for T-1 nonimmigrant status;
+
+- When the principal files an application on behalf of an eligible family member for derivative T-3 or T-5 nonimmigrant status;
+
+- When USCIS adjudicates the application for derivative T-3 or T-5 nonimmigrant status; and
+
+- When the family member is admitted to the United States, if residing abroad.
+
+H3: 4. Exceptions to General Rule: Relationship and Age-Out Protections
+
+There are certain protections available to family members whose age or relationship changes after the principal files an application for T nonimmigrant status.
+
+Protection for New Child of a Principal Applicant
+
+If the T-1 principal applicant had a child after filing the application for T-1 nonimmigrant status, the child is eligible to accompany or follow to join the T-1 principal applicant.[15]This includes becoming the parent of a child by means of a biological, step,[16]or adoptive relationship.
+
+Age-Out Protection for Eligible Family Members of a Principal Applicant Under 21 Years of Age
+
+For principal applicants who were under 21 years of age when they filed for T-1 nonimmigrant status, USCIS continues to consider a T-4 parent or T-5 unmarried sibling as eligible for derivative status even if the principal applicant turns 21 before USCIS adjudicates the T-1 application.
+
+Unmarried siblings under 18 years of age at the time the principal filed the T-1 application remain eligible for T-5 status even if they turn 18 years of age before USCIS adjudicates the T-1 application, so long as the sibling is unmarried.[17]The derivative sibling does not “age out” even upon reaching age 18.
+
+Age-Out Protection for Child of a Principal Applicant
+
+USCIS continues to consider a T-3 child as an eligible family member so long as the child was under 21 years of age at the time the principal filed for T-1 nonimmigrant status. As long as the child is unmarried, the child remains eligible even if the child is over 21 years of age at the time of adjudication of the T-1 application.[18]The derivative T-3 does not “age out” even upon reaching age 21.
+
+H3: E. Death of Qualifying Relative
+
+USCIS may not approve derivative status for a surviving relative whose qualifying relative (the principal applicant) died before USCIS approved the derivative T application.[19]However, the unique structure of the T-6 classification may provide for continuing eligibility for the T-6 derivative even if the T-2, T-3, T-4, or T-5 derivative beneficiary dies before the principal files for T-6 status for the surviving relative.
+
+For example, adult children who are married or over 21 years of age could potentially qualify for T-6 nonimmigrant status if they are the children of the T-1’s deceased spouse and meet the present danger of retaliation requirement.
+
+However, in order for the spouse’s children (adult or minor) to be eligible for the T-6 category under this scenario, the principal’s spouse must have held T-2 nonimmigrant status through the principal T-1 nonimmigrant before the T-2 spouse died. If the principal’s spouse held T-2 status but then died before the principal filed for T-6 status for the spouse’s adult or minor child, the adult or minor child may still be eligible for T-6 status. However, if the T-1 principal’s spouse is deceased and never held T-2 status, then the spouse’s child would not be eligible for T-6 status.
+
+H2: Footnotes
+
+[^ 1]See8 CFR 214.211(a).
+
+[^ 2]SeeINA 101(a)(15)(T)(ii). See8 CFR 214.211(a)(3).
+
+[^ 3]SeeINA 101(a)(15)(T)(ii)(I).
+
+[^ 4]SeeINA 101(b)(1), which specifically defines the term “child.” The definition includes stepchildren and adopted children under certain circumstances.
+
+[^ 5]SeeINA 101(a)(15)(T)(ii)(II).
+
+[^ 6]SeeINA 101(b)(1), which specifically defines the term “child.” The definition includes stepchildren and adopted children under certain circumstances.
+
+[^ 7]SeeINA 101(a)(15)(T)(ii)(III).
+
+[^ 8]SeeINA 101(a)(15)(T)(ii)(III).
+
+[^ 9]The adult or minor child can be of any age or marital status. In enacting this new category of derivative beneficiaries in the Violence Against Women Reauthorization Act of 2013,Pub. L. 113-4  (PDF)(March 7, 2013), Congress used the term “adult or minor children,” which is not a term of art in the Immigration and Nationality Act (INA). Under the INA, the term “son or daughter” means a child who is married or over the age of 21, while “child” means a child who is unmarried and under the age of 21. USCIS construes the meaning of the language “adult or minor children” to encompass both the INA definitions of “son or daughter” and “child.” Therefore, persons of any age and any marital status are “adult or minor children” and may be eligible for T-6 derivative status.
+
+[^ 10]The derivative family members of the T-1 principal listed in this column can either currently hold T-2, T-3, T-4, or T-5 nonimmigrant status, have a pending application for such status that USCIS will approve before or with the application for the T-6 nonimmigrant, or have held such status in the past (with some exceptions).
+
+[^ 11]This assumes the principal’s T-2 spouse’s child was not already eligible as a child T-3 derivative beneficiary. Stepchildren are included in the INA definition of a child so long as the parents married when the stepchild (spouse’s biological child) was under the age of 18. However, a biological child of the T-2 spouse whose marriage to the T-1 principal nonimmigrant occurred after the child turned 18 years of age is not eligible as a T-3 nonimmigrant, but the same child may be eligible for T-6 status.
+
+[^ 12]See8 CFR 214.211(d)(1)as limited byMedina Tovar v. Zuchowski,982 F.3d 631 (9th Cir. 2020) (holding invalid the regulatory requirement that a spousal relationship exist at the time a Petition for U Nonimmigrant Status (Form I-918) is filed in order for the spouse to be eligible for classification as a U-2 nonimmigrant). As a matter of policy, USCIS applies theMedina Tovardecision nationwide to spousal and stepparent-stepchild relationships arising in T visa and U visa adjudications. Therefore, where the family relationship is created by marriage, it does not have to exist at the time the applicant submits the application for T-1 nonimmigrant status. In that circumstance, the family relationship must exist at the four subsequent points set forth at8 CFR 214.211(d).
+
+[^ 13]See8 CFR 214.211(e)(4)(ii)as limited byMedina Tovar v. Zuchowski,982 F.3d 631 (9th Cir. 2020).
+
+[^ 14]See8 CFR 214.211(e)(4)(ii)and8 CFR 214.211(d)(4)(iii), as limited byMedina Tovar v. Zuchowski, 982 F.3d 631 (9th Cir. 2020).
+
+[^ 15]See8 CFR 214.211(e)(1).
+
+[^ 16]An applicant can establish a T-3 stepparent and stepchild relationship if the applicant shows that the qualifying relationship was created before the stepchild turned 18, regardless of the adjudication outcome for an application for derivative T-2 nonimmigrant status (for example, the spousal relationship that created the stepparent and stepchild relationship), so long as the application for derivative T-2 nonimmigrant status was not denied due to failure to establish the claimed spousal relationship.
+
+[^ 17]See8 CFR 214.211(e)(2).
+
+[^ 18]See8 CFR 214.211(e)(3).
+
+[^ 19]SeeINA 204(l).
+
+H2: Resources
+
+22 CFR 41.84- Victims of trafficking in persons
+
+22 U.S.C. 7105(b)(1)- Assistance for victims of trafficking in the United States
+
+28 CFR 1100.35- Authority to permit continued presence in the United States for victims of severe forms of trafficking in persons
+
+8 CFR 103.2- Submission and adjudication of benefit requests
+
+8 CFR 212.16- Applications for exercise of discretion relating to T nonimmigrant status
+
+8 CFR 214 Subpart C- Noncitizen Victims of Severe Forms of Trafficking in Persons
+
+8 CFR 214.11- Victims of severe forms of trafficking in persons
+
+8 CFR 274a.12(a)(16)- Employment authorization
+
+8 CFR 274a.12(c)(25)- Employment authorization
+
+8 U.S.C. 1367- Penalties for disclosure of information
+
+INA 101(a)(15)(T)- Definitions, T visa criteria
+
+INA 101(b)(1)- Definition of child
+
+INA 101(i)- Referral to nongovernmental organizations and employment authorization
+
+INA 204(l)- Surviving relative consideration for certain petitions and applications
+
+INA 212(d)(13);8 CFR 212.18- Waivers of inadmissibility
+
+INA 212(d)(3)(A)(ii);8 CFR 212.18- Waivers of inadmissibility
+
+INA 214(o)- Nonimmigrants guilty of trafficking in persons, numerical limitations, and length and extension of status
+
+INA 237(d)- Administrative stay of final order of removal
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+I-912, Request for Fee Waiver
+
+I-914, Application for T Nonimmigrant Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+The following cases may be relevant to T nonimmigrant status eligibility issues and adjudications.
+
+Threats of harm or serious harm:
+
+United States v. Dann                           (PDF), 652 F.3d 1160, 1170 (9th Cir. 2011) (Threats should be considered from the vantage point of a reasonable person in the place of the victim and must be sufficiently serious to compel that person to remain.).
+
+United States v. Farrell, 563 F.3d 364, 372 n.3 (8th Cir. 2009) (“Jury Instruction 16 defined ‘involuntary servitude’ as follows: ‘[A] condition of compulsory service in which the alleged victim is compelled to perform labor or services against the alleged victim's will for the benefit of another person due to the use or threat of physical restraint or physical injury, or by the use or threat of arrest, prosecution, or imprisonment. . . The use or threat of a civil lawsuit does not make the labor involuntary.’”).
+
+United States v. Djoumessi(PDF), 538 F.3d 547 (6th Cir. 2008) (“The term ‘involuntary servitude’ necessarily means a condition of servitude in which the victim is forced to work for the defendant by the use or threat of physical restraint or physical injury, or by the use or threat of coercion through law or the legal process. This definition encompasses those cases in which the defendant holds the victim in servitude by placing the victim in fear of such physical restraint or injury or legal coercion.”) (quotingUnited States v. Kozminski, 487 U.S. 931, 952 (1988)).
+
+United States v. Bradley                           (PDF), 390 F.3d 145, 153 (1st Cir. 2004), cert. granted, judgment vacated, 545 U.S. 1101 (2005) (The use of “physical restraint; such as, the use of chains, barbed wire, or locked doors,” is not required in order to establish the offense of forced labor.).
+
+United States v. Warren                           (PDF), 772 F.2d 827, 834 (11th Cir. 1985) (“That the worker had the opportunity to escape is of no moment, if the defendant has placed him in such fear of physical harm that he is afraid to leave.”).
+
+United States v. Udeozor                           (PDF), 515 F.3d 260, 265 (4th Cir. 2008) (in upholding conviction for involuntary servitude, finding that sexual abuse of the victim was one of the forms of force used to keep the minor victim in the condition of involuntary servitude).
+
+Abuse or threatened abuse of legal process:
+
+Clyatt v. United States                           (PDF), 197 U.S. 207 (1905) (victim was coerced by threat of legal sanction to work off a debt to a master).
+
+United States v. Reynolds                           (PDF), 235 U.S. 133 (1914) (when breach of the labor contract is criminalized, requiring a misdemeanor offender to work for a surety who would, in turn, pay the convict’s fine to the state, the condition of peonage is created).
+
+Pollock v. Williams                           (PDF), 322 U.S. 4 (1944) (“[The State] must respect the constitutional and statutory command that it may not make failure to labor in discharge of a debt any part of a crime. It may not directly or indirectly command involuntary servitude, even if it was voluntarily contracted for.”).
+
+Bailey v. Alabama                           (PDF), 219 U.S. 219 (1911) (subjecting debtors to prosecution and criminal punishment for failing to perform labor after receiving an advance payment).
+
+United States v. Kozminski                           (PDF), 487 U.S. 931, 945 (1988) (recognizing that threatening an incompetent with institutionalization or an immigrant with deportation could constitute the threat of legal coercion).
+
+United States v. Kaufman                           (PDF), 546 F.3d 1242, 1265 (10th Cir. 2008) (recognizing that a variety of methods of coercion including threats of institutionalization were used to compel victim who suffered serious mental illness to perform farm work in the nude).
+
+United States v. Farrell, 563 F.3d 364, 372-73 (8th Cir. 2009) (in upholding conviction for peonage, finding that employers used threats of arrest and imprisonment based on the victim’s lack of immigration status).
+
+United States v. Djoumessi                           (PDF), 538 F.3d 547, 553 (6th Cir. 2008) (upholding involuntary servitude conviction when coercion involved threats of deportation to Cameroon which victim considered the greatest threat against her because of the conditions there and her desire to help her family through opportunities in the United States).
+
+United States v. Veerapol, 312 F.3d 1128, 1130-31 (9th Cir. 2002) (upholding involuntary servitude conviction and noting that the employer maintained control over Thai restaurant workers through a variety of methods of coercion, including threats of imprisonment based on the workers’ lack of immigration status).
+
+United States v. Calimlim, 538 F.3d 706, 713 (7th Cir. 2008) (finding that the employer’s actions of keeping victim’s passport, never admitting they were violating law, or offering to try and regularize the worker’s presence in the United States and implicit threats that she may be subject to deportation proceedings constituted “abuse of law”).
+
+United States v. Calimlim, 538 F.3d 706, 713 (7th Cir. 2008) (rejecting employer’s arguments that threatening deportation was not an “abuse of law” because worker was here without immigration status and thus subject to deportation and finding employers’ threats were directed to an end different from those envisioned by the law and were thus an abuse of legal process).
+
+Nunag-Tanedo v. E. Baton Rouge Par. Sch. Bd., 790 F. Supp. 2d 1134, 1144 (C.D. Cal. 2011) (citing principle that abuse of legal process occurs when objective for threats is to intimidate and coerce forced labor).
+
+Ruiz v. Fernandez, 949 F. Supp. 2d 1055, 1077 (E.D. Wash. 2013) (rejecting defendants’ arguments that threats to report H2A Chilean sheepherders were justified because, if workers left the ranch without being assigned to another member ranch, they would be in violation of their temporary work visas. Workers testified that threats were made almost daily and were apparently made in relation to victims' general willingness to do specific work on the ranch rather any sort of expressed intent to leave the ranch without obtaining a transfer.).
+
+Elat v. Ngoubene                           (PDF), 993 F. Supp. 2d 497, 526 (D. Md. 2014) (citingCamayo v. John Peroulis & Sons Sheep, Inc., Nos. (D. Colo. Sept. 24, 2012)) (Threats of deportation can constitute an abuse of the legal process if they are an abuse of the process).
+
+Debt bondage:
+
+United States v. Farrell, 563 F.3d 364, 372-73 (8th Cir. 2009) (The workers’ relationship with their employers was more akin to one of debt bondage rather than simple debt. Given the continually mounting expenses, at no point was the value of the workers' labor sufficient to liquidate the debt and there was, in effect, no limit to the length of the services required to satisfy the obligation or even a limit on the amount owed.).
+
+Compensation for labor:
+
+United States v. Bradley                           (PDF), 390 F.3d 145, 153 (1st Cir. 2004), cert. granted, judgment vacated, 545 U.S. 1101 (2005).  (“If a person is compelled to labor against his will by any one of the means prohibited by the forced labor statute, such service is forced, even if he is paid or compensated for the work.”).
+
+Non-traditional types of work:
+
+United States v. Kaufman                           (PDF), 546 F.3d 1242, 1263 (10th Cir. 2008) (noting that involuntary servitude and forced labor statutes do not apply only to coerced “work in an economic sense” and would include coerced acts such as requiring patients to engage in compelled sexual activity, including masturbation, genital shaving, and frequent nudity, much of which was videotaped).
+
+United States v. Marcus                           (PDF), 487 F.Supp.2d 289 (E.D.N.Y. 2007), vacated on other grounds, 538 F.3d 97 (2d Cir. 2008) (Enslavement can arise even if the initial participation in the labor was part of a consensual alternative sexual relationship.).
+
+Duration of victimization:
+
+United States v. Pipkins, 378 F.3d 1281, 1297 (11th Cir. 2004), cert. granted, judgment vacated, 544 U.S. 902 (2005), and opinion reinstated, 412 F.3d 1251 (11th Cir. 2005). (“Section 1584 requires that involuntary servitude be for ‘any term,’ which suggests that the temporal duration can be slight.”).
+
+United States v. Djoumessi                           (PDF), 538 F.3d 573, 552-53 (6th Cir. 2008) (“Even assuming there were moments during [victim’s] stay when she had an opportunity to escape […] Djoumessi's argument still falls short because a rational trier of fact could conclude that [victim’s] labor was involuntary for at least some portion of her stay. And that involuntary portion would suffice to sustain the conviction.”).
+
+United States v. Dann                           (PDF), 652 F.3d 1160, 1167 (9th Cir. 2001) (The charge of forced labor need not apply to the entire duration of the victim’s services or labor. It could be applied to only a portion of the time.).
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to incorporate changes from the Classification for Victims of Severe Forms of Trafficking in Persons; Eligibility for “T” Nonimmigrant Status Final Rule (T Final Rule), including updated citations, new definitions, and clarifications.
+
+3 USCIS-PM B.1-Chapter 1 - Purpose and Background
+
+3 USCIS-PM B.2-Chapter 2 - Eligibility Requirements
+
+3 USCIS-PM B.3-Chapter 3 - Documentation and Evidence for Principal Applicants
+
+3 USCIS-PM B.4-Chapter 4 - Family Members
+
+3 USCIS-PM B.5-Chapter 5 - Documentation and Evidence for Family Members
+
+3 USCIS-PM B.6-Chapter 6 - Bona Fide Determinations
+
+3 USCIS-PM B.7-Chapter 7 - Adjudication
+
+3 USCIS-PM B.8-Chapter 8 - Annual Cap and Waiting List
+
+3 USCIS-PM B.9-Chapter 9 - Applicants in Removal Proceedings
+
+3 USCIS-PM B.10-Chapter 10 - Duration and Extensions of Status
+
+3 USCIS-PM B.11-Chapter 11 - Federal Benefits and Work Authorization
+
+3 USCIS-PM B.12-Chapter 12 - Travel Outside the United States
+
+3 USCIS-PM B.13-Chapter 13 - Revocation of Status
+
+9 USCIS-PM O.2-Chapter 2 - Waivers for Victims of Trafficking
+
+9 USCIS-PM O.3-Chapter 3 - INA 212(d)(13) Waivers
+
+9 USCIS-PM O.5-Chapter 5 - Waivers for T Nonimmigrants Applying for Adjustment of Status
+
+9 USCIS-PM O.6-Chapter 6 - Adjudication and Post-Adjudication Matters
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual regarding the adjudication of applications for T nonimmigrant status for victims of severe forms of trafficking in persons.
+
+3 USCIS-PM B-Part B - Victims of Trafficking
+
+9 USCIS-PM O-Part O - Victims of Trafficking
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

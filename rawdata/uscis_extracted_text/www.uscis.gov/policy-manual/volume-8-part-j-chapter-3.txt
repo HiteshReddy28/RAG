@@ -1,0 +1,495 @@
+H1: Chapter 3 - Adjudicating Inadmissibility
+
+- Guidance
+
+- Resources (5)
+
+- Appendices (0)
+
+- Updates (9)
+
+H2: A. Evidence and Burden of Proof
+
+H3: 1. Evidence
+
+To find an alien inadmissible for fraud or willful misrepresentation,[1]there must be at least some evidence that would permit a reasonable person to find that the alien used fraud or that he or she willfully misrepresented a material fact in an attempt to obtain a visa, other documentation, admission into the United States, or any other immigration benefit.[2]
+
+In addition, the evidence must show that the alien made the misrepresentation to an authorized official of the U.S. government, whether in person, in writing, or through other means.[3]Examples of evidence an officer may consider include oral or written testimony, or any other documentation containing false information.
+
+H3: 2. Burden of Proof
+
+The burden of proof to establish admissibility during the immigration benefit-seeking process is always on the applicant. During the adjudication of the benefit, the burden never shifts to the government.[4]
+
+If there is no evidence the applicant obtained or sought to obtain a benefit under the Immigration and Nationality Act (INA) by fraud or willful misrepresentation, USCIS should find that the applicant has met the burden of proving that he or she is not inadmissible under this ground.[5]
+
+If there is evidence that would permit a reasonable person to conclude that the applicant may be inadmissible for fraud or willful misrepresentation, then the applicant has not successfully met the burden of proof. In these cases, USCIS considers the applicant inadmissible for fraud or willful misrepresentation, unless the applicant is able to successfully rebut the officer’s inadmissibility finding.
+
+Special issues may arise if evidence indicates that an applicant is violating, or has violated, his or her nonimmigrant status or is otherwise engaging, or has engaged, in conduct in the United States that is inconsistent with representations the applicant made to a consular or DHS officer when applying for admission, a visa, or another immigration benefit. Although conduct inconsistent with one’s nonimmigrant status and prior representations does not automatically mean there is a misrepresentation, such evidence permits a reasonable person to conclude that the applicant may be inadmissible for fraud or willful misrepresentation, especially if the violation or conduct occurred shortly after the U.S. Department of State (DOS) visa interview or after admission. The officer should carefully assess the circumstances of the applicant’s case.[6]
+
+If the officer’s finding of inadmissibility is based on evidence that the applicant obtained or sought to obtain a benefit under the INA through willful misrepresentation, then the applicant has the burden of establishing at least one of the following facts to rebut the finding:
+
+- The misrepresentation was not made to procure a visa, admission, or some other benefit under the INA;
+
+- There was no false representation;
+
+- The false representation was not willful;
+
+- The false representation was not material; or
+
+- The false representation was not made to a U.S. government official.
+
+If the officer’s finding of inadmissibility is based on evidence that the applicant obtained a benefit under the INA by fraud, then the applicant has the burden of establishing at least one of the following facts to rebut the finding:
+
+- The fraud was not made to procure a visa, admission, or some other benefit under the INA;
+
+- There was no false representation;
+
+- The false representation was not willful;
+
+- The false representation was not material;
+
+- The false representation was not made to a U.S. government official;
+
+- The person did not intend to deceive; or
+
+- The U.S. government official did not believe or did not act upon the false representation.
+
+If the officer’s finding of inadmissibility is based on evidence that the applicant sought to obtain a benefit under the INA by fraud, then the applicant has the burden of establishing at least one of the following facts to rebut the finding:
+
+- The fraud was not made to procure a visa, admission, or some other benefit under the INA;
+
+- There was no false representation;
+
+- The false representation was not willful;
+
+- The false representation was not material;
+
+- The false representation was not made to a U.S. government official; or
+
+- The person did not intend to deceive.
+
+If the officer determines, after assessing all of the evidence, that the applicant has established at least one of the above facts, then the applicant has successfully rebutted the inadmissibility finding. The applicant has therefore met the burden of proving that he or she is not inadmissible on account of fraud or willful misrepresentation.
+
+If the officer determines, after assessing all of the evidence, that the applicant has established none of these facts, then the applicant has not successfully rebutted the inadmissibility finding. The applicant is therefore inadmissible because he or she has not satisfied the burden of proof.[7]
+
+Finally, if the officer finds that the evidence for and against a finding of fraud or willful misrepresentation is of equal weight, then the applicant is inadmissible due to failure to meet the burden of proof. As long as there is a reasonable evidentiary basis to conclude that an alien is inadmissible for fraud or willful misrepresentation, and the applicant has not overcome that reasonable basis with evidence, the officer should find the applicant inadmissible.
+
+H2: B. Procuring a Benefit under the INA
+
+H3: 1. General
+
+In order to be found inadmissible for fraud or willful misrepresentation, an alien must seek to procure, have sought to procure, or have procured one of the following: ​
+
+- An immigrant or nonimmigrant visa;
+
+- Other documentation;
+
+- Admission into the United States; or
+
+- Other benefit provided under the INA.
+
+The fraud or willful misrepresentation must have been made to an official of the U.S. government, generally an immigration or consular officer.[8]
+
+H3: 2. Other Documentation
+
+“Other documentation” refers to documents required when an alien applies for admission to the United States. This includes, but is not limited to:
+
+- Re-entry permits;
+
+- Refugee travel documents;
+
+- Border crossing cards; and
+
+- U.S. passports.
+
+Documents evidencing extension of stay are not considered entry documents.[9]Similarly, documents such as petitions and labor certification forms are documents that are presented in support of a visa application or applications for status changes. They are not, by themselves, entry documents and therefore, they are also not considered “other documentation.”
+
+However, if such documents are used in support of obtaining another benefit provided under the INA, they may be relevant to a finding of willful misrepresentation or fraud.
+
+H3: 3. Other Benefits Provided under the INA
+
+Any “other benefit” refers to an immigration benefit or entitlement provided for by the INA. This includes, but is not limited to:
+
+- Requests for extension of nonimmigrant stay;[10]
+
+- Change of nonimmigrant status;[11]
+
+- Permission to re-enter the United States;
+
+- Waiver of the 2-year foreign residency requirement;[12]
+
+- Employment authorization;[13]
+
+- Parole;[14]
+
+- Voluntary departure;[15]
+
+- Adjustment of status;[16]and
+
+- Requests for stay of deportation.[17]
+
+H2: C. False Representation
+
+H3: 1. General
+
+False representation, or usually called “misrepresentation,” is an assertion or manifestation that is not in accordance with the true facts. An alien may make a false representation in oral interviews, or written applications, or by submitting evidence containing false information.[18]
+
+H3: 2. False Representation Must be Connected to Benefit
+
+An alien is only inadmissible if he or she makes a misrepresentation in connection with his or her own immigration benefit. If an alien misrepresents a material fact in connection with another’s immigration benefit, then the alien is not inadmissible for fraud or willful misrepresentation.[19]However, fraud or willful misrepresentation made in connection with another’s immigration benefit may make the alien inadmissible for alien smuggling.[20]
+
+There may be situations in which a representative or a parent makes a misrepresentation on behalf of the applicant. The question then becomes whether the applicant himself or herself willfully allowed such an action.
+
+H2: D. Willfulness
+
+The alien is only inadmissible for fraud or willful misrepresentation if the false representation was willfully made.
+
+H3: 1. Definition of Willfulness
+
+The term “willfully” should be interpreted as “knowingly” as distinguished from accidentally, inadvertently, or in a good faith belief that the factual claims are true.[21]To find the element of willfulness, the officer must determine that the alien had knowledge of the falsity of the misrepresentation, and therefore knowingly, intentionally, and deliberately presented false material facts.[22]
+
+When determining the “willfulness” of an alien’s false representation, the officer should consider the circumstances that existed at the time the benefit was issued.[23]
+
+USCIS petitions and applications are signed “under penalty of perjury.” The alien may also be interviewed under oath. By signing or by making statements under oath, the alien therefore asserts his or her claims are truthful. If the evidence in the record subsequently shows that the claims are factually unsupported, that may indicate the applicant willfully misrepresented his or her claim(s).
+
+H3: 2. Silence or Failure to Volunteer Information
+
+An alien’s silence or failure to volunteer information does not, in and of itself, constitute fraud or willful misrepresentation because silence itself does not establish a conscious concealment.[24]Silence or omission can, however, lead to a finding of fraud or willful misrepresentation if it is clear from the evidence that the alien consciously concealed information.
+
+If the evidence shows that the alien was reasonably aware of the nature of the information sought and knowingly, intentionally, and deliberately concealed information from the officer, then the officer should find that the applicant consciously concealed and willfully misrepresented a material fact.
+
+Example:
+
+An applicant is legally married but has lived apart from his spouse for 20 years. During that time apart, the applicant lived with another person for 10 years as domestic partners until the other person died. A few years later, having been in touch with his legal spouse by letter, the applicant states in his application for admission to the United States that he is coming to join his wife.
+
+Although the applicant did not reveal the complications in his marital status during the past 20 years, the applicant was not specifically asked any questions relating to these facts. As a matter of law, the applicant is still married to the spouse, and there is no evidence that he married the spouse to obtain an immigration benefit. Since the applicant gave reasonably accurate and correct answers, his failure to disclose his complicated marital situation did not constitute conscious concealment of facts.
+
+Example:
+
+During World War II, a person was captured by Germans while serving in the Russian Army and forced to serve as an armed guard at a Nazi concentration camp. The person later applies for a visa and is questioned about his present and past memberships and affiliations, including any military service. The person discloses that he had served in the Russian army but does not mention his time as a guard at the concentration camp. When pressed for more on his military service, the person continues to present only information on service in the Russian army.
+
+Since the person provided an unreasonably narrow response to a general question, it is likely that the person was fully aware that his time at the concentration camp was pertinent to the response and information sought by the officer. When the person provided only a partial response, he concealed information knowingly, intentionally, and deliberately. The person’s conscious concealment of facts, therefore, constitutes willful misrepresentation.[25]
+
+H3: 3. Refusal to Respond to Questions
+
+An alien’s refusal to answer a question does not necessarily mean that he or she willfully made a false representation. However, refusal to answer a question during an admissibility determination could result in the officer finding that the applicant failed to establish admissibility.[26]
+
+H3: 4. Misrepresentation Made by a Person’s Agent
+
+If the false representation is made by an applicant’s attorney or agent, the applicant will be held responsible if it is established that the applicant was aware of the action taken by the representative in furtherance of his or her application. This includes oral misrepresentations made at the border by someone assisting an alien to enter illegally. Furthermore, a person cannot deny responsibility for any misrepresentation made on the advice of another unless it is established that the person lacked the capacity to exercise judgment.[27]
+
+H3: 5. Misrepresentations by Minors (Under 18) or those who are Mentally Incompetent
+
+The INA does not exempt an alien from inadmissibility for fraud or willful misrepresentation solely based on age or mental incapacity. The BIA has not yet addressed in any precedent decision whether a minor is shielded from this inadmissibility on account of being a minor.
+
+Both fraud and willful misrepresentation must be intentional acts. There may be cases in which the officer finds that an alien, because of mental incompetence or young age, was incapable of independently forming an intent to defraud or misrepresent. In these cases, an alien’s inability to commit intentional acts precludes a finding of inadmissibility for fraud or willful misrepresentation since the alien could not have acted “willfully.”
+
+The officer should consider all relevant factors when evaluating fraud or willful misrepresentation including the applicant’s: ​
+
+- Age;
+
+- Level of education;
+
+- Background;
+
+- Mental capacity;
+
+- Level of understanding;
+
+- Ability to appreciate the difference between true and false; and
+
+- Other relevant circumstances.
+
+The fact that a misrepresentation occurred while the alien was under 18 years of age, in particular, is not determinative. There is no categorical rule that someone under 18 cannot, as a matter of law, make a willful misrepresentation. An alien may be able to claim, however, that, on the basis of the facts of his or her own case, he or she lacked the capacity necessary to form a willful intent to misrepresent a material fact.
+
+If admissibility is an issue in a case, USCIS does not bear the burden of proving that the alien is inadmissible. As long as there is at least some evidence that would permit a reasonable person to find an applicant inadmissible, the applicant must establish that the inadmissibility ground does not apply. For this reason, someone who appears to have made a willful misrepresentation of a material fact while under the age of 18 would have to prove his or her lack of capacity.
+
+This burden of proof would also apply to someone who claimed a lack of capacity based on a reason other than age, such as cognitive or other disabilities.
+
+If the evidence, clearly and beyond doubt, shows that the alien did not have the capacity to form an intent to deceive, then the misrepresentation could not have been fraudulent. Similarly, if the evidence, clearly and beyond doubt, shows that the alien did not have the capacity to know that the information was false, then the misrepresentation could not have been willful.
+
+In these cases, the officer should not find the applicant inadmissible for fraud or willful misrepresentation.
+
+H3: 6. Timely Retraction
+
+As a defense to inadmissibility for fraud or willful misrepresentation, an alien may show that he or she timely retracted or recanted the false statement. The effect of a timely retraction is that the misrepresentation is eliminated as if it had never happened.[28]If an alien timely retracts the statement, the alien is not inadmissible for fraud or willful misrepresentation.
+
+For the retraction to be effective, it has to be voluntary and timely.[29]The applicant must correct his or her representation before being exposed by the officer or U.S. government official or before the conclusion of the proceeding during which he or she gave false testimony. A retraction can be voluntary and timely if made in response to an officer’s question during which the officer gives the applicant a chance to explain or correct a potential misrepresentation.
+
+Admitting to the false representation after USCIS has challenged the veracity of the claim is not a timely retraction.[30]For example, an applicant’s recantation of the false testimony is neither voluntary nor timely if made a year later and only after it becomes apparent that the disclosure of the falsity of the statements is imminent.[31]A retraction or recantation is only timely if it is made in the same proceeding in which the alien gives the false testimony or misrepresentation.[32]
+
+H2: E. Materiality
+
+H3: 1. Definition of Materiality
+
+A false representation only renders an alien inadmissible if it is material. A “material” misrepresentation is a false representation concerning a fact that is relevant to the alien’s eligibility for an immigration benefit.[33]
+
+H3: 2. Test to Determine Materiality
+
+The U.S. Supreme Court has developed a test to determine whether a misrepresentation is material: A concealment or a misrepresentation is material if it has a natural tendency to influence or was capable of influencing the decisions of the decision-making body.[34]The misrepresentation is only material if it led to the person gaining some advantage or benefit to which he or she may not have been entitled under the true facts.
+
+A misrepresentation has a natural tendency to influence the officer’s decision to grant the immigration benefit if:
+
+- The alien would be inadmissible on the true facts;[35]or
+
+- The misrepresentation tends to cut off a line of inquiry, which is relevant to the applicant’s eligibility and which might have resulted in a proper determination that he or she is inadmissible.[36]
+
+The table below provides step-by-step guidelines to assist officers to determine whether a misrepresentation is material.
+
+TABLE:
+Step | If Yes, then… | If No, then…
+Step 1:Consider whether the evidence in the record supports a finding that the applicant is (or was) inadmissible on the true facts. | Misrepresentation is Material | Proceed to Step 2
+Step 2:Consider whether misrepresentation tended to shut off a line of inquiry, which was relevant to the applicant’s eligibility. | Proceed to Step 3 | Misrepresentation is NOT Material
+Step 3:If a relevant line of inquiry had been cut off, ask whether that inquiry might have resulted in a determination of ineligibility. (The applicant has the burden to show that it would not have resulted in ineligibility.) | Misrepresentation is Material | Misrepresentation is NOT Material
+
+H3: 3. Harmless Misrepresentation
+
+A misrepresentation that is not material because it is not relevant to an applicant’s eligibility for the benefit is considered a harmless misrepresentation.[37]An applicant is not inadmissible for making a harmless misrepresentation even though the applicant misrepresented a fact. However, a harmless misrepresentation may still be taken into account when considering whether a benefit is warranted as a matter of discretion.
+
+H3: 4. Misrepresenting Identity
+
+A misrepresentation concerning an alien’s identity is generally material because it almost always shuts off a line of inquiry that prevents the officer from determining the alien’s eligibility for the benefit sought.[38]However, if the line of inquiry that is shut off is not relevant to the benefit sought and would not have resulted in the denial of the benefit sought, then the misrepresentation is harmless and does not result in inadmissibility.[39]The applicant bears the burden of proof to demonstrate that the line of inquiry that was shut off by the misrepresentation of identity is irrelevant to eligibility for the benefit sought and is therefore harmless.[40]
+
+H2: F. Fraud or Willful Misrepresentation Must Be Made to a U.S. Government Official
+
+In addition to the other elements outlined above, the alien must have made the fraud or willful misrepresentation to a U.S. government official in order for such act to rise to the level of an inadmissible offense.[41]Fraud or willful misrepresentation made to a private person or entity would not make one inadmissible under this ground.[42]
+
+H2: G. Elements Only Applicable to Fraud
+
+Fraud differs from willful misrepresentation in that there are generally two extra elements, in addition to the willful misrepresentation elements listed in Chapter 2(B),[43]necessary for a fraud finding:
+
+- The willful misrepresentation was made with the intent to deceive a U.S. government official authorized to act upon the request (generally an immigration or consular officer); and
+
+- The U.S. government official believed and acted upon the willful misrepresentation by granting the immigration benefit.[44]
+
+Depending on whether the alien successfully procured the immigration benefit, one or both elements are needed to establish inadmissibility based on fraud.
+
+If the alien successfully obtained the immigration benefit, the officer needs to establish both elements. If the alien was unsuccessful in obtaining the immigration benefit, he or she may still be inadmissible for “seeking to procure” the benefit by fraud. In this case, the officer only needs to establish that the alien intended to deceive a U.S. government official for the purpose of obtaining an immigration benefit to which the alien was not entitled.[45]
+
+As stated previously, the distinction between fraud and willful misrepresentation is not of great practical importance since either fraud or a willful misrepresentation alone is sufficient to establish inadmissibility.
+
+All of the elements necessary for a finding of willful misrepresentation are also needed for a finding of fraud. However, the opposite is not necessarily true: an alien inadmissible for willful misrepresentation is not necessarily also inadmissible for fraud.
+
+Therefore, once an officer determines that all the elements of willful misrepresentation are present, the alien is inadmissible without any further determination of fraud.
+
+H2: Footnotes
+
+[^ 1]SeeINA 212(a)(6)(C)(i).
+
+[^ 2]The “reasonable person” standard is drawn fromINS v. Elias-Zacarias,502 U.S. 478 (1992) (agency fact-finding must be accepted unless a reasonable fact-finder would necessarily conclude otherwise).
+
+[^ 3]SeeMatter of Y-G-,20 I&N Dec. 794 (BIA 1994). SeeMatter of D-L- & A-M-,20 I&N Dec. 409 (BIA 1991). SeeMatter of L-L-,9 I&N Dec. 324 (BIA 1961).
+
+[^ 4]SeeINA 291. SeeMatter of Arthur,16 I&N Dec. 558 (BIA 1978).
+
+[^ 5]SeeMatter of D- L- and A- M-,20 I&N Dec. 409 (BIA 1991).
+
+[^ 6]For more information on willfulness, see Section D, Willfulness [8 USCIS-PM J.3(D)].
+
+[^ 7]SeeMatter of Rivero-Diaz,12 I&N Dec. 475 (BIA 1967). SeeMatter of M-,3 I&N Dec. 777 (BIA 1949).
+
+[^ 8]SeeMatter of Y-G-,20 I&N Dec. 794 (BIA 1994). SeeMatter of D-L- & A-M-,20 I&N Dec. 409 (BIA 1991). SeeMatter of L-L-,9 I&N Dec. 324 (BIA 1961).
+
+[^ 9]SeeMatter of M-y R-,6 I&N Dec. 315 (BIA 1954). See9 FAM 302.9-4(B)(7), Interpretation of the Terms “Other Documentation” or “Other Benefit.”
+
+[^ 10]See8 CFR 214.1.
+
+[^ 11]SeeINA 248. See8 CFR 248.
+
+[^ 12]SeeINA 212(e).
+
+[^ 13]SeeINA 274A. See8 CFR 274a.12.
+
+[^ 14]SeeINA 212(d)(5). See8 CFR 212.5.
+
+[^ 15]SeeINA 240B. See8 CFR 240.25and8 CFR 1240.26.
+
+[^ 16]SeeINA 245.
+
+[^ 17]See9 FAM 302.9-4(B)(7), Interpretation of the Terms “Other Documentation” or “Other Benefit.”
+
+[^ 18]See legacy Immigration and Naturalization Service General Counsel Opinion 91-39. See9 FAM 302.9-4(B)(3), Interpretation of the Term Misrepresentation.
+
+[^ 19]SeeMatter of M-R-,6 I&N Dec. 259 (BIA 1954) (the procurement of documentation for the applicant's two children to facilitate their entry into the United States did not render the applicant himself inadmissible under former INA 212(a)(19)).
+
+[^ 20]SeeINA 212(a)(6)(E).
+
+[^ 21]SeeMatter of Healy and Goodchild,17 I&N Dec. 22 (BIA 1979).
+
+[^ 22]SeeMatter of G-G-,7 I&N Dec. 161 (BIA 1956),superseded in part by Matter of Kai Hing Hui,15 I&N Dec. 288 (BIA 1975).See Matter of Tijam,22 I&N Dec. 408, 425 (BIA 1998) (Rosenberg, J., concurring and dissenting).
+
+[^ 23]SeeMatter of Healy and Goodchild,17 I&N Dec. 22, 28 (BIA 1979) (finding that the applicant had not willfully misrepresented since he could have reasonably believed his actions were correct under the law at the time).
+
+[^ 24]SeeMatter of G-,6 I&N Dec. 9 (BIA 1953), superseded on other grounds byMatter of F-M-,7 I&N Dec. 420 (BIA 1957). See9 FAM 302.9-4(B)(3), Interpretation of the Term Misrepresentation, Differentiation Between Misrepresentation and Failure to Volunteer Information.
+
+[^ 25]SeeFedorenko v. United States,449 U.S. 490 (1981).
+
+[^ 26]It is the applicant’s burden to establish that he or she is not inadmissible. SeeINA 291. SeeMatter of Arthur,16 I&N Dec. 558 (BIA 1978).
+
+[^ 27]See9 FAM 302.9-4(B)(4), Interpretation of Term Willfully. For more information on factors the officer should consider when determining whether a person is capable of exercising judgment and committing intentional acts, see Subsection 5, Misrepresentations by Minors (Under 18) or those who are Mentally Incompetent [8 USCIS-PM J.3(D)(5)].
+
+[^ 28]SeeMatter of R-R-,3 I&N Dec. 823 (BIA 1949). SeeMatter of M-,9 I&N Dec. 118 (BIA 1960) (also cited byMatter of R-S-J-,22 I&N Dec. 863 (BIA 1999)).
+
+[^ 29]“If the witness withdraws the false testimony of his own volition and without delay, the false statement and its withdrawal may be found to constitute one inseparable incident out of which an intention to deceive cannot rightly be drawn.” SeeLlanos-Senarrilos v. United States,177 F.2d 164, 165 (9th Cir. 1949). SeeMatter of R-R-,3 I&N Dec. 823 (BIA 1949). SeeMatter of Namio,14 I&N Dec. 412 (BIA 1973), referring toMatter of M-,9 I&N Dec. 118 (BIA 1960) andLlanos-Senarrilos v. United States,177 F.2d 164 (9th Cir. 1949).
+
+[^ 30]SeeMatter of Namio,14 I&N Dec. 412 (BIA 1973).
+
+[^ 31]SeeMatter of Namio,14 I&N Dec. 412 (BIA 1973).
+
+[^ 32]SeeLlanos-Senarrilos v. United States,177 F.2d 164, 165 (9th Cir. 1949).
+
+[^ 33]Officers may consult with field office leadership and Office of the Chief Counsel for further assistance as needed to determine whether an applicant’s misrepresentation is material.
+
+[^ 34]SeeKungys v. United States,485 U.S. 759, 770 (1988) (proceeding to revoke a person’s naturalization).
+
+[^ 35]SeeFedorenko v. United States,449 U.S. 490 (1981) (visa applicant who failed to disclose that he had been an armed guard at a concentration camp made a false statement that was material and is therefore inadmissible because disclosure of true facts would have made applicant ineligible for a visa).
+
+[^ 36]SeeMatter of S- and B-C-,9 I&N Dec. 436, 447-49 (A.G. 1961), accord.Matter of Bosuego,17 I&N Dec. 125 (BIA 1980).See Matter of Ng,17 I&N Dec. 536 (BIA 1980). SeeSaid v. Gonzales,488 F.3d 668 (5th Cir. 2007) (though the court never reaches the issue, it is discussed).
+
+[^ 37]SeeMatter of Martinez-Lopez,10 I&N Dec. 409 (BIA 1964) (submission of a forged job offer in the United States was not material when the applicant was not otherwise inadmissible as a person likely to become a public charge). SeeMatter of Mazar,10 I&N Dec. 79 (BIA 1962) (no materiality in the nondisclosure of membership in the Communist Party since the membership was involuntary and would not have resulted in a determination of inadmissibility).
+
+[^ 38]SeeMatter of O-R-E-, 28 I&N Dec. 330, 339-40 (BIA 2021) (holding a misrepresentation of identity is material because it impairs the “adjudicator’s ability to probe past conduct that might be potentially disqualifying or bear on the exercise of discretion”). SeeMatter of S- and B-C-(PDF), 9 I&N Dec. 436, 448 (A.G. 1961) (noting that “a misrepresentation as to identity will generally have the effect of shutting off an investigation”).
+
+[^ 39]SeeMatter of Ng(PDF), 17 I&N Dec. 536, 537 (BIA 1980) (finding that misrepresentations, even concerning identity, must shut off a line of inquiry relevant to eligibility for the benefit in order to be a material misrepresentation). SeeMatter of S- and B-C-(PDF), 9 I&N Dec. 436, 448-49 (A.G. 1961) (emphasizing that “a remote, tenuous, or fanciful connection between a misrepresentation and a line of inquiry which is relevant to the alien's eligibility is insufficient to satisfy this aspect of the test of materiality”). For more information on harmless misrepresentations, see Subsection 3, Harmless Misrepresentation [8 USCIS-PM J.3(E)(3)]. Note that while an applicant is not inadmissible underINA 212(a)(6)(C)(i)for making a harmless misrepresentation, such misrepresentation still may be taken into account when considering whether a benefit is warranted as a matter of discretion.
+
+[^ 40]SeeMatter of S- and B-C-,9 I&N Dec. 436 (A.G. 1961).
+
+[^ 41]SeeMatter of Y-G-,20 I&N Dec. 794, 796 (BIA 1994).
+
+[^ 42]SeeMatter of Y-G-,20 I&N Dec. 794 (BIA 1994). SeeMatter of L-L-,9 I&N Dec. 324 (BIA 1961).
+
+[^ 43]See8 USCIS-PM J.2(B).
+
+[^ 44]SeeMatter of G-G,7 I&N Dec. 161 (BIA 1956). SeeMatter of Kai Hing Hui,15 I&N Dec. 288 (BIA 1975).
+
+[^ 45]For a comparison of the elements required for a finding of fraud and a finding of willful misrepresentation, see Chapter 2, Overview of Fraud and Willful Misrepresentation, Section D, Comparing Fraud and Willful Misrepresentation [8 USCIS-PM J.2(D)].
+
+H2: Resources
+
+INA 212(a)(6)(C)(i)- Illegal entrants and immigration violators - misrepresentation
+
+INA 212(i)- Admission of immigrant excludable for fraud or willful misrepresentation of material fact
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update to Volume 8, Part J, Chapter 3 adds a citation to the 2021 Board of Immigration Appeal’s Decision,Matter of O-R-E-, which further explains when misrepresentations of identity are material, and makes conforming edits to the Policy Manual main text.
+
+8 USCIS-PM J.3-Chapter 3 - Adjudicating Inadmissibility
+
+This technical update to Volume 8 removes all references to the U.S. Department of State’s 90-day rule.
+
+8 USCIS-PM J.3-Chapter 3 - Adjudicating Inadmissibility
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update incorporates clarifications regarding the Department of State (DOS)'s "90-day rule." While this "rule" does not apply to USCIS because it is DOS policy, USCIS is clarifying that it may also find that an applicant made a willful misrepresentation due to a status violation or conduct in the United States that is inconsistent with the applicant's prior representations, especially where the violation or conduct occurred shortly after the consular interview or admission to the United States.
+
+8 USCIS-PM J.3-Chapter 3 - Adjudicating Inadmissibility
+
+This technical update incorporates changes that the Department of State (DOS) made to its Foreign Affairs Manual (FAM) regarding its interpretation of the term “misrepresentation.”
+
+8 USCIS-PM J.3-Chapter 3 - Adjudicating Inadmissibility
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance on the fraud and willful misrepresentation grounds of inadmissibility under INA 212(a)(6)(C)(i) and the corresponding waiver under INA 212(i).
+
+8 USCIS-PM J-Part J - Fraud and Willful Misrepresentation
+
+9 USCIS-PM F-Part F - Fraud and Willful Misrepresentation

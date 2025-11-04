@@ -1,0 +1,295 @@
+H1: Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+- Guidance
+
+- Resources (9)
+
+- Appendices (1)
+
+- Updates (11)
+
+H2: A. Extension of Stay or Change of Status
+
+Generally, certain nonimmigrants present in the United States admitted for a specified period of time, or their petitioners, may request an extension of their admission period in order to continue to engage in those activities permitted under the nonimmigrant classification in which they were admitted.[1]
+
+Also, certain nonimmigrants present in the United States or their petitioners may seek to change their status to another nonimmigrant classification if certain requirements are met.[2]
+
+An alien seeking an extension of stay (EOS) or change of status (COS) generally files the request on a Petition for a Nonimmigrant Worker (Form I-129) or Application to Extend/Change Nonimmigrant Status (Form I-539),[3]depending upon the nonimmigrant classification the petitioner or applicant seeks to extend or change.[4]
+
+The decision to grant or deny an extension of stay or change of status request involves an exercise of discretion by USCIS. There are a number of factors or factual circumstances that USCIS officers consider when conducting a discretionary analysis.[5]
+
+Requirements to Timely File a Request to Extend Stay or Change Status
+
+In general, USCIS does not approve an extension of stay or change of status for a person who failed to maintain the previously accorded status or where such status expired before the filing date of the application or petition.[6]USCIS, in its discretion, may excuse the failure to file before the period of authorized status expired where the requester demonstrates within the extension of stay or change of status request that:
+
+- The delay was due to extraordinary circumstances beyond the person’s control;
+
+- The length of the delay was commensurate with the circumstances;
+
+- The person has not otherwise violated their nonimmigrant status;
+
+- The person remains a bona fide nonimmigrant; and
+
+- The person is not the subject of removal proceedings and, in the case of extensions of stay, is also not the subject of deportation proceedings.[7]
+
+In general, subject to its discretion, examples of what USCIS considers extraordinary circumstances beyond the control of the person may include, but are not limited to:
+
+- Where the person remained in the United States after the expiration of the period of admission due to a slowdown or stoppage of work involving a strike, lockout, or other labor dispute; or
+
+- Where the primary reason for the late filing is the inability to obtain a certified labor condition application or temporary labor certification due to a lapse in government funding supporting those adjudications.
+
+If USCIS approves an untimely filed application or petition to extend an applicant’s or beneficiary’s stay, the approval is effective as of the date of the expiration of the prior nonimmigrant admission period.[8]When USCIS approves a late filed application for a change of status, the change of status takes effect on the approval date. USCIS considers the applicant or beneficiary of an approved untimely change of status request to have maintained lawful status during the period USCIS excused.[9]
+
+H2: B. Extension of Petition Validity
+
+H3: 1. Significance of Prior USCIS Approvals and Deference
+
+Deference to Previous Approvals
+
+A request for an extension of petition validity, which is often submitted in conjunction with an EOS request, follows a previous finding of eligibility for the classification. Typically, these determinations are made by USCIS, although U.S. Customs and Border Protection (CBP) and U.S. Department of State (DOS) also make these determinations. Although there is a previous finding of eligibility, the burden of proof in the request for an extension of petition validity remains on the petitioner.[10]
+
+Officers are not bound to approve subsequent petitions or applications seeking immigration benefits where eligibility has not been demonstrated strictly because of a prior approval (which may have been erroneous).[11]USCIS decides each matter according to the evidence of record on a case-by-case basis.[12]However, deviation from a previous approval carries important consequences and implicates predictability and consistency concerns.
+
+As such, any deviation requires close consideration of the previous approval by USCIS. When adjudicating a subsequent petition or application involving the same parties (for example, petitioner and beneficiary) and the same underlying facts, officers should defer to a prior determination that the beneficiary or applicant is eligible for the nonimmigrant classification sought, where appropriate.
+
+Deviating from Previous Approvals
+
+Officers should not defer to prior approvals in cases where:
+
+- There was a material error involved with previous approval(s);
+
+- There has been a material change in circumstances or eligibility requirements;[13]or
+
+- There is new material information that adversely impacts the petitioner’s or beneficiary’s eligibility.[14]
+
+An officer who determines that deference to a prior approval is not appropriate must acknowledge the previous approval(s) in the denial, Request for Evidence (RFE), or Notice of Intent to Deny (NOID). In addition, the officer must articulate the reason for not deferring to the previous determination (for example, due to a material error, change in circumstances, or new adverse material information). Officers must provide the petitioner or applicant an opportunity to respond to the new information.[15]
+
+As mentioned above, an officer should not defer to a prior approval where new material information is available. This may include publicly available information that affects eligibility for a benefit. For example, an officer may be aware that a petitioner has recently gone out of business. This also includes information that affects national security or public safety garnered from security checks conducted on beneficiaries and petitioners. An officer should not defer to a prior approval when there are indicators of potential fraud or willful misrepresentation of a material fact. The officer must articulate the new material information in an RFE or NOID.
+
+In all cases, officers must obtain supervisory approval before deviating from a prior approval in their final decision.
+
+H3: 2. Cases Involving Previous Determinations by Other Agencies
+
+USCIS officers consider, but do not defer to, previous eligibility determinations on petitions or applications made by CBP or DOS.[16]Officers make determinations on the petition filed with USCIS and corresponding evidence on record, as provided above.
+
+H2: C. Split Decisions in Extension Requests
+
+Officers may, when warranted, deny an applicant or petitioner’s request to extend the nonimmigrant’s stay in the United States in the same classification.[17]Even if an applicant or petitioner continues to demonstrate eligibility for the nonimmigrant classification, an officer may determine that sufficient reason exists to deny the request for an extension of stay (such as inadmissibility factors or failure to maintain status).
+
+This “split” decision process may result in approval of the petition for the same classification where the petitioner and the beneficiary relationship has not changed, and a simultaneous denial of the extension of stay request.
+
+H2: Footnotes
+
+[^ 1]See8 CFR 214.1(a). See8 CFR 214.1(c)for general requirements, such as those relating to passport validity and waivers of inadmissibility for an extension of stay (EOS). The decision to grant or deny an extension of stay request involves an exercise of discretion. See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis [1 USCIS-PM E.8]. For a list of factors that should be considered in the discretionary analysis, see Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis, Section C, Adjudicating Discretionary Benefits, Subsection 2, Identifying Discretionary Factors [1 USCIS-PM E.8(C)(2)].
+
+[^ 2]SeeINA 248. See8 CFR 248. For a list of factors that should be considered in the discretionary analysis, see Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis, Section C, Adjudicating Discretionary Benefits, Subsection 2, Identifying Discretionary Factors [1 USCIS-PM E.8(C)(2)].
+
+[^ 3]See8 CFR 214.1(c). The application should be filed in accordance with the form instructions.
+
+[^ 4]The instructions forForm I-539andForm I-129provide detailed information regarding who may file each form. A petitioner or applicant may file a Supplemental Information for Application to Extend/Change Nonimmigrant Status (Form I-539A) or Petition for a CNMI-Only Nonimmigrant Transitional Worker (Form I-129CW) where applicable.
+
+[^ 5]See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 8, Discretionary Analysis [1 USCIS-PM E.8].
+
+[^ 6]See8 CFR 214.1(c)(4)and8 CFR 248.1(b).
+
+[^ 7]See8 CFR 214.1(c)(4)and8 CFR 248.1(b).
+
+[^ 8]See8 CFR 214.1(c)(4).
+
+[^ 9]The period of stay for a beneficiary admitted as an H-1B or H-2 is limited by the validity of the labor certification as modified by8 CFR 214.2(h)(13)(i)(A)and8 CFR 214.2(h)(5)(viii)(B)(setting the number of days before the validity period when a beneficiary may be admitted and after the expiration of that period before the beneficiary must depart). See8 CFR 214.2(h)(15)(ii)(C)and8 CFR 214.2(h)(9)(iii)(A)(1). For a discussion of how approved untimely requests impact the adjudication of a subsequent adjustment application, see Volume 7, Adjustment of Status, Part B, 245(a) Adjustment, Chapter 4, Status and Nonimmigrant Visa Violations (INA 245(c)(2) and INA 245(c)(8)), Section E, Exceptions, Subsection 3, Effect of Extension of Stay and Change of Status [7 USCIS-PM B.4(E)(3)].
+
+[^ 10]SeeINA 291. See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 4, Burden and Standards of Proof [1 USCIS-PM E.4].
+
+[^ 11]SeeMatter of Church Scientology International  (PDF), 19 I&N Dec. 593, 597 (Comm. 1988).
+
+[^ 12]See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 2, Record of Proceeding [1 USCIS-PM E.2] for information on what constitutes a record of proceeding.
+
+[^ 13]This includes situations in which the regulations require criteria to be met after approval, such as the nonimmigrant treaty investor (E) classification at8 CFR 214.2(e)(2)(i)(petitioner must be actively in the process of investing a substantial amount of capital in a bona fide enterprise), and the nonimmigrant intracompany transferee (L) classification at8 CFR 214.2(l)(3)(v)(C)(a new office has 1 year from the date of the initial approval to support an executive or managerial position).
+
+[^ 14]A fact is material if it would have a natural tendency to influence or is predictably capable of affecting the decision. SeeKungys v. United States, 485 U.S. 759, 770-72 (1988). SeeMatter of D-R-  (PDF), 25 I&N Dec. 445, 450 (BIA 2011).
+
+[^ 15]See8 CFR 103.2(b)(16)(i).
+
+[^ 16]For example, L-1, TN, E-1, E-2, and H-1B1 eligibility determinations.
+
+[^ 17]See8 CFR 214.1(c)(5).
+
+H2: Resources
+
+8 CFR 214.1(c)(5)- Decision on application for extension or change of status
+
+8 CFR 214.2(q)(5)(ii)- Petition for multiple participants
+
+INA 101(a)(15)- Nonimmigrant classifications
+
+INA 214(c)- Admission of nonimmigrants
+
+INA 214,8 CFR 214- Admission of nonimmigrants
+
+INA 248,8 CFR 248- Change of nonimmigrant classification
+
+I-129, Petition for Nonimmigrant Worker
+
+I-539, Application To Extend/Change Nonimmigrant Status Application To Extend/Change Nonimmigrant Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Appendix: Summary of Nonimmigrant Categories and Eligibility to Apply for Extension of Stay and Change of Status
+
+H2: Updates
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual regarding the factors that officers may consider in certain benefit requests where an exercise of discretion is required, including factors relating to aliens’ past requests for parole and any involvement in anti-American or terrorist organizations.
+
+1 USCIS-PM E.8-Chapter 8 - Discretionary Analysis
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+2 USCIS-PM F.8-Chapter 8 - Change of Status, Extension of Stay, and Length of Stay
+
+7 USCIS-PM A.10-Chapter 10 - Legal Analysis and Use of Discretion
+
+10 USCIS-PM A.4-Chapter 4 - Adjudication
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address when USCIS may, in its discretion, excuse untimely filed extensions of stay and change of status requests.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address the issue of deference to prior determinations of eligibility by an officer when adjudicating a request for an extension of petition validity.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+This technical update removes the guidance in Volume 2, Part A, Chapter 4, Volume 8, Part G, and Volume 12, Part D, Chapter 2 relating to the administration of the public charge ground of inadmissibility under theInadmissibility on Public Charge Groundsfinal rule, 84 FR 41292 (Aug. 14, 2019); as amended byInadmissibility on Public Charge Grounds; Correction, 84 FR 52357 (Oct. 2, 2019) ( “Public Charge Final Rule”), which was implemented on Feb. 24, 2020. On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. On Nov. 3, 2020, the U.S. Court of Appeals for the Seventh Circuit issued an administrative stay and, on Nov. 19, 2020, a stay pending appeal of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted its stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is revising its policy guidance in the USCIS Policy Manual to align with the Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements Final Rule, published in the Federal Register on August 3, 2020. This guidance becomes effective October 2, 2020. For information regarding implementation, seeAppendix: 2020 Fee Rule Litigation Summary.
+
+1 USCIS-PM A-Part A - Public Services
+
+1 USCIS-PM B-Part B - Submission of Benefit Requests
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+11 USCIS-PM A-Part A - Secure Identity Documents Policies and Procedures
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+This update incorporates into Volumes 2, 8, and 12 policy guidance that U.S. Citizenship and Immigration Services (USCIS) announced February 5, 2020, implementing the Inadmissibility of Public Charge Grounds Final Rule. This guidance is in effect as of February 24, 2020 and applies nationwide to all applications and petitions postmarked on or after that date. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Final Rule. For more information about the classes of [noncitizens] who are exempt from the Final Rule, see theappendicesrelated to applicability. For information on related litigation affecting implementation, see theUSCIS webpageon the injunction.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+Note: On Nov. 2, 2020, the U.S. District Court for the Northern District of Illinois vacated the Public Charge Final Rule nationwide. The U.S. Court of Appeals for the Seventh Circuit later issued a stay of the U.S. District Court for the Northern District of Illinois’ Nov. 2, 2020 decision. On Mar. 9, 2021, the U.S. Court of Appeals for the Seventh Circuit lifted the stay and the U.S. District Court for the Northern District of Illinois’ order vacating the Public Charge Final Rule went into effect. USCIS immediately stopped applying the Public Charge Final Rule to all pending applications and petitions that would have been subject to the rule. For information on related litigation affecting implementation, see theInadmissibility on Public Charge Grounds Final Rule: Litigationwebpage. The alert text below and related guidance are no longer in effect.
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing guidance in the USCIS Policy Manual to address the final rule on the public charge ground of inadmissibility. This policy guidance is effective on February 24, 2020, and will apply to all applicants and petitioners filing applications and petitions for adjustment of status, extension of stay, and change of status, except for applicants and petitioners in the State of Illinois, whose cases will be adjudicated under prior policy, including the1999 Interim Field Guidance                   (PDF)andAFM Ch. 61.1                  (PDF). For additional information, seePublic Charge Inadmissibility Determinations in Illinois. Certain classes of aliens are exempt from the public charge ground of inadmissibility (such as refugees, asylees, certain VAWA self-petitioners, U petitioners, and T applicants) and therefore, are not subject to the Inadmissibility on Public Charge Grounds final rule. For more information about the classes of [noncitizens] who are exempt from the final rule, see theappendicesrelated to applicability.
+
+2 USCIS-PM A.4-Chapter 4 - Extension of Stay, Change of Status, and Extension of Petition Validity
+
+8 USCIS-PM G-Part G - Public Charge Ground of Inadmissibility
+
+12 USCIS-PM D.2-Chapter 2 - Lawful Permanent Resident Admission for Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization

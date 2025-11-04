@@ -1,0 +1,274 @@
+H1: Chapter 1 - Presumption of Lawful Admission
+
+- Guidance
+
+- Resources (10)
+
+- Appendices (0)
+
+- Updates (6)
+
+H2: A. Purpose
+
+USCIS may recognize certain classes of immigrants who entered the United States during specific time periods as having been lawfully admitted for permanent residence even though a record of their admission cannot be found. Such immigrants who have not abandoned status or been ordered excluded, deported, or removed may be eligible for a creation of record of their lawful permanent residence. This process is called “presumption of lawful admission” and is essentially a verification of status, rather than an adjustment of status.
+
+H2: B. Background
+
+As U.S. immigration laws were codified, certain groups of aliens were unable to prove their entry, admission, or immigration status in the United States based on records or other evidence. Various provisions grandfathered these aliens into existing law by allowing for the recording of their lawful admission for permanent residence.
+
+H2: C. Legal Authority
+
+- 8 CFR 101.1– Presumption of lawful admission
+
+- 8 CFR 264.2– Application for creation of record of permanent residence
+
+H2: D. Eligibility Requirements
+
+An immigrant is presumed to be a lawful permanent resident of the United States if he or she can show presence in the United States under any of the standards in8 CFR 101.1. There are more than 30 situations when an immigrant is entitled to presumption of lawful admission for permanent residence. Some merely require that the applicant establish that he or she entered the United States before a certain date. Others require a particular nationality, entry at a particular location, entry by a certain manner, or other requirements. An officer should review the regulation to ensure an applicant is in fact eligible to register his or her lawful permanent residence.
+
+Eligibility to register permanent resident status based on a presumption of lawful admission requires an immigrant to establish that he or she has not abandoned his or her residence in the United States. One of the tests for retention of permanent resident status is continuous residence in the United States.[1]The applicant must also be physically present in the United States at the time he or she files the application.[2]
+
+All presumption of lawful admission cases require an admission to the United States in 1957 or earlier. It is the applicants’ responsibility to establish their admission through documentation, testimony, or affidavits.[3]However, an officer should consider the passage of time since the events in question and the difficulties inherent in documenting events that may have occurred decades ago.
+
+The following table provides a list of eligible classes for presumption of lawful admission and whether evidence of admission is required.
+
+TABLE:
+Eligible Class of Aliens | Regulation | Evidence of Admission Required?
+Entered prior to June 30, 1906. | 8 CFR 101.1(a) | No
+Citizen of Canada or Newfoundland who entered the United States across the Canadian border prior to October 1, 1906. | 8 CFR 101.1(b) | No
+Citizen of Mexico who entered the United States across the Mexican border prior to July 1, 1908. | 8 CFR 101.1(b) | No
+Citizen of Mexico who entered the United States at the port of Presidio, TX, prior to October 21, 1918. | 8 CFR 101.1(b) | No
+An alien who establishes he or she gained admission to the United States prior to July 1, 1924 based on a pre-examination at a U.S. immigration station in Canada. | 8 CFR 101.1(b) | No
+An alien who entered the U.S. Virgin Islands prior to July 1, 1938 even if there is a record of admission as a nonimmigrant. | 8 CFR 101.1(c) | Yes
+An alien who established that he or she is indigenous to and native of a country within the Asiatic zone[4]who is:Exempted from exclusion; andEntered the United States prior to July 1, 1924. | 8 CFR 101.1(d) | Yes
+Certain Chinese aliens with record of admission prior to July 1, 1924 under laws and regulations formerly applicable to Chinese aliens. | 8 CFR 101.1(e)(1) | Yes
+Certain Chinese or Japanese aliens who were admitted or readmitted on or after July 1, 1924, including certain aliens admitted under specific provisions of the Nationality Act of 1940.[Note: Most admissions under this provision took place between July 1, 1924 and December 23, 1952.] | 8 CFR 101.1(e)(2) | Yes
+Philippine citizen who entered the United States prior to May 1, 1934.[5] | 8 CFR 101.1(f)(1) | Yes
+Philippine citizen who entered Hawaii between May 1, 1934 and July 3, 1946 (inclusive) under the provisions of the last sentence of Section 8(a)(1) of the Act of March 24, 1934.[6] | 8 CFR 101.1(f)(2) | Yes
+Aliens when admitted, expressed an intention to remain temporarily or pass in transit through the United States, but who remained in the United States, including those admitted prior to June 3, 1921 or admitted pursuant to the Act of May 19, 1921.[7] | 8 CFR 101.1(g) | Yes
+Citizens of the Trust Territory of the Pacific Islands who entered Guam prior to December 24, 1952 and were residing in Guam on December 24, 1952. | 8 CFR 101.1(h) | Yes
+Aliens admitted to Guam prior to December 24, 1952, as established by records, who was:Not excludable under the Act of February 5, 1917;[8]Continued to reside in Guam until December 24, 1952; andNot admitted or readmitted into Guam as a nonimmigrant.[9] | 8 CFR 101.1(i) | Yes
+An alien erroneously admitted as a U.S. citizen or as a child of a U.S. citizen prior to September 11, 1957 who maintained a residence in the United States since date of admission.[10] | 8 CFR 101.1(j)(1) | Yes
+An alien erroneously admitted to the United States prior to July 1, 1948 in possession of a Section 4(a) 1924 Act[11]nonquota immigration visa. | 8 CFR 101.1(j)(2) | Yes
+
+An alien who established that he or she is indigenous to and native of a country within the Asiatic zone[4]who is:
+
+- Exempted from exclusion; and
+
+- Entered the United States prior to July 1, 1924.
+
+8 CFR 101.1(e)(1)
+
+Certain Chinese or Japanese aliens who were admitted or readmitted on or after July 1, 1924, including certain aliens admitted under specific provisions of the Nationality Act of 1940.
+
+[Note: Most admissions under this provision took place between July 1, 1924 and December 23, 1952.]
+
+Aliens admitted to Guam prior to December 24, 1952, as established by records, who was:
+
+- Not excludable under the Act of February 5, 1917;[8]
+
+- Continued to reside in Guam until December 24, 1952; and
+
+- Not admitted or readmitted into Guam as a nonimmigrant.[9]
+
+H2: E. Documentation and Evidence
+
+An immigrant should submit the following to establish eligibility for presumption of lawful admission for permanent residence:
+
+- Application to Register Permanent Residence or Adjust Status (Form I-485), with the correct fee;
+
+- Two passport-style photographs;
+
+- Copy of government-issued identity document with photograph;
+
+- Copy of birth certificate;
+
+- Evidence of the applicant’s examination, entry, or admission to the United States (if applicable);
+
+- A list of all the applicant’s arrivals into and departures from the United States;
+
+- Evidence substantiating the applicant’s claim to presumption of lawful admission for permanent residence, including proof of maintenance of residence, where required, or any other requirements as specified by regulation;
+
+- A statement by the applicant indicating his or her basis for a claim to presumption of lawful admission for permanent residence; and
+
+- Any other requirements or evidence as specified by regulation.
+
+H2: F. Adjudication
+
+This process does not involve a grant of adjustment of status, but rather, recognition of an applicant’s status. A decision on presumption of admission does not involve any consideration of admissibility or discretion. If an applicant meets the eligibility requirements provided in the regulation,[12]an officer must approve the application.
+
+If an applicant is unable to establish the criteria necessary for presumption of lawful admission, an officer should determine whether the applicant has submitted sufficient evidence to establish eligibility for registry, and if so, adjudicate the application as a request to register lawful permanent residence underINA 249.[13]
+
+If approved, USCIS assigns the following code of admission:
+
+TABLE:
+Applicant | Code of Admission
+Presumption of Lawful Admission | XB3
+
+The effective date of permanent residence is not the date the application is approved, but rather the date the applicant arrived in the United States under the conditions that created the presumption of lawful admission for permanent residence.[14]
+
+H2: Footnotes
+
+[^ 1]Continuous residence is distinct from continuous physical presence. Although continuous residence and continuous physical presence are related, they have different meanings. Continuous residence refers to maintaining a permanent dwelling place in the United States during the period of time required. In contrast, continuous physical presence refers to the required number of days physically present in the United States during the period of time required. See Volume 12, Citizenship and Naturalization, Part D, General Naturalization Requirements, Chapter 3, Continuous Residence [12 USCIS-PM D.3] and Chapter 4, Physical Presence [12 USCIS-PM D.4].
+
+[^ 2]See8 CFR 264.2(a).
+
+[^ 3]See8 CFR 103.2(b)(1).
+
+[^ 4]The Asiatic zone was defined in the Act of February 5, 1917 and covered much of the Middle East and Asia, including countries such as India, China, and the Philippines. See Section 3 of Pub. L. 64-301, 39 Stat. 874, 876.
+
+[^ 5]Registrants under this section are not regarded as permanent residents for naturalization unless they were a citizen of the Commonwealth of the Philippines on July 2, 1946.
+
+[^ 6]See Pub. L. 73-127, 48 Stat. 456, 462.
+
+[^ 7]See Pub. L. 67-5.
+
+[^ 8]See Pub. L. 64-301.
+
+[^ 9]SeeMatter of C-Y-L-  (PDF), 8 I&N Dec. 371 (BIA 1959) (aliens not classifiable as contract laborers under the Immigration Act of 1917 are eligible for presumption of lawful permanent residence). SeeMatter of L-  (PDF), 9 I&N Dec. 82 (BIA 1960) andMatter of A-  (PDF), 9 I&N Dec. 85 (BIA 1960) (admission prior to December 24, 1952 as a contract laborer cannot be cured by an admission subsequent to that date as a higher level of employee). SeeMatter of Antolin  (PDF), 12 I&N Dec. 127 (BIA 1967) (8-year residence outside Guam after 1952 nullified eligibility for presumption of lawful permanent residence).
+
+[^ 10]SeeMatter of M-Y-C-  (PDF), 8 I&N Dec. 313 (BIA 1959) (an alien who was not in fact the child of a U.S. citizen at the time of his or her admission does not qualify). SeeMatter of K-B-W-  (PDF), 9 I&N Dec. 610 (BIA 1962) (alleged adoptive child of a U.S. citizen who is not within the definition atINA 101(b)(1)(E)does not qualify). SeeMatter of Cruz-Gastelum  (PDF), 12 I&N Dec. 704 (BIA 1968) (an alien does not qualify in the absence of a record of claimed admission).
+
+[^ 11]See Pub. L. 68-139, 43 Stat. 153, 155 (May 26, 1924).
+
+[^ 12]See8 CFR 101.1. See8 CFR 264.2.
+
+[^ 13]See Chapter 4, Aliens Who Entered the United States Prior to January 1, 1972 [7 USCIS-PM O.4].
+
+[^ 14]See8 CFR 264.2(h)(1).
+
+H2: Resources
+
+8 CFR 101.1- Presumption of lawful admission
+
+8 CFR 208.24- Termination of Asylum
+
+8 CFR 264.2- Application for creation of record of permanent residence
+
+INA 249,8 CFR 249- Record of admission for permanent residence in the case of certain aliens who entered the United States prior to January 1, 1972
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+G-325A, Biographic Information
+
+I-485, Application to Register Permanent Residence or Adjust Status
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to remove references to Biographic Information (Form G-325A).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM L-Part L - Refugee Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+7 USCIS-PM O-Part O - Registration
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance addressing registration of lawful permanent resident (LPR) status.
+
+7 USCIS-PM O-Part O - Registration

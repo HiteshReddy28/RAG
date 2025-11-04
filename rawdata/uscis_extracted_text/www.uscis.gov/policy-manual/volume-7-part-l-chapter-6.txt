@@ -1,0 +1,183 @@
+H1: Chapter 6 - Termination of Status and Notice to Appear Considerations
+
+- Guidance
+
+- Resources (11)
+
+- Appendices (0)
+
+- Updates (6)
+
+H2: A. Basis
+
+Changed country conditions in the refugee’s country of nationality do not justify termination of refugee status. The sole basis for an officer to terminate the status of an alien admitted to the United States as a refugee is if the officer determines that the alien was not a refugee within the meaning of the Immigration and Nationality Act (INA) at the time of his or her admission to the United States. In order to make this determination, an officer must be familiar with how the term “refugee” is defined.[1]
+
+This determination standard applies solely to principal refugees and never to derivative refugees. Derivative refugees are not required to prove past persecution or a well-founded fear of future persecution. However, an officer may terminate a derivative refugee’s status if the principal’s status is terminated.
+
+The statute and regulations do not require the formal termination of refugee status prior to removal proceedings where the refugee has been inspected and examined for adjustment of status, has been found inadmissible, and has not been granted a waiver of inadmissibility. Prior to being placed in removal proceedings, the applicant may first be given an opportunity to apply for a discretionary waiver of inadmissibility grounds.
+
+If USCIS denies the adjustment application and/or waiver application, the applicant may also renew his or her application for adjustment or waiver of inadmissibility before an Immigration Judge (IJ). The applicant may also apply for asylum or any other relief from removal before an IJ.
+
+The officer should prepare a Notice To Appear (NTA) if the refugee is inadmissible. Upon written notice of the adjustment application’s denial, the applicant is no longer considered an admitted alien and should be charged with inadmissibility grounds underINA 212(a). However, if the officer is denying the adjustment application on other grounds (e.g., abandonment), the officer should not issue a NTA, since the applicant has not been found inadmissible.
+
+Alternatively, USCIS may place a person who was admitted as a refugee directly in removal proceedings, without termination of refugee status, on the basis of any applicable charges underINA 237without the adjudication of an adjustment application.
+
+H2: B. Procedures
+
+USCIS conducts terminations of refugee status.[2]If an officer concludes after reviewing a refugee’s A-file that the facts merit termination of the principal refugee’s status, the officer will follow the procedures below, depending on where the case is located:
+
+H3: 1. Cases Located at Service Centers
+
+All evidence relevant to a possible termination of refugee status should be reviewed by a supervisor and then scanned and forwarded to the International and Refugee Affairs Division (IRAD) within the Refugee, Asylum, and International Operations Directorate (RAIO) for review. IRAD will review the information and send a response back with a recommendation on how to proceed. If IRAD recommends relocation of the case for possible termination, the principal’s file and all derivative files, along with a copy of IRAD’s recommendation, should be relocated to the district or field office to interview the refugee for possible termination of status.
+
+H3: 2. Cases Located at Field Offices
+
+All evidence relevant to a possible termination of refugee status should be reviewed by a supervisor and then scanned and forwarded along with an explanation detailing why the officer believes termination may be appropriate to the Field Operations Directorate at headquarters through appropriate channels. This evidence will be forwarded for review to the International and Refugee Affairs Division (IRAD). IRAD will review the information and send a response back with a recommendation on how to proceed.
+
+If IRAD recommends possible termination, all family members’ files should be requested. Once all family files have been received, the field office should interview the refugee for possible termination of status. If IRAD does not recommend termination, no interview is needed for Notice of Intent to Terminate purposes and the officer should resume adjudication of the adjustment application.
+
+H2: Footnotes
+
+[^ 1]SeeINA 207(c)(4)and8 CFR 207.9.
+
+[^ 2]See8 CFR 207.9.
+
+H2: Resources
+
+8 CFR 208.24- Termination of Asylum
+
+INA 101(a)(42)- Definition of refugee
+
+INA 207,8 CFR 207- Annual admission of refugees and admission of emergency situation refugees
+
+INA 209,8 CFR 209- Adjustment of status of refugees and asylees
+
+INA 212(a)- Excludable aliens; classes of aliens ineligible for visas or admission
+
+INA 237(a)- Deportable aliens; classes of deportable aliens
+
+Pub. L. 96-212                                           (PDF)- Refugee Act of 1980
+
+AR-11, Change of Address
+
+G-1055, Fee Schedule
+
+G-28, Notice of Entry of Appearance as Attorney or Accredited Representative
+
+How to Use the USCIS Policy Manual Website
+
+H2: Appendices
+
+Noappendicesavailable at this time.
+
+H2: Updates
+
+This technical update replaces all instances of the term “noncitizen” with “alien” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”], and makes other technical and conforming changes.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “alien” with “noncitizen” or other appropriate terms throughout the Policy Manual where possible, as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating and incorporating relevant Adjudicator’s Field Manual (AFM) content into the USCIS Policy Manual. As that process is ongoing, USCIS has moved any remaining AFM content to its corresponding USCIS Policy Manual Part, in PDF format, until relevant AFM content has been properly incorporated into the USCIS Policy Manual. To the extent that a provision in the USCIS Policy Manual conflicts with remaining AFM content or Policy Memoranda, the updated information in the USCIS Policy Manual prevails. To find remaining AFM content, see thecrosswalkbetween the AFM and the Policy Manual.
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+3 USCIS-PM-Volume 3 - Humanitarian Protection and Parole
+
+4 USCIS-PM-Volume 4 - Refugees and Asylees
+
+5 USCIS-PM-Volume 5 - Adoptions
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+This technical update replaces all instances of the term “foreign national” with “alien” throughout the Policy Manual as used to refer to a person who meets the definition provided in INA 101(a)(3) [“any person not a citizen or national of the United States”].
+
+1 USCIS-PM-Volume 1 - General Policies and Procedures
+
+2 USCIS-PM-Volume 2 - Nonimmigrants
+
+6 USCIS-PM-Volume 6 - Immigrants
+
+7 USCIS-PM-Volume 7 - Adjustment of Status
+
+8 USCIS-PM-Volume 8 - Admissibility
+
+9 USCIS-PM-Volume 9 - Waivers and Other Forms of Relief
+
+10 USCIS-PM-Volume 10 - Employment Authorization
+
+11 USCIS-PM-Volume 11 - Travel and Identity Documents
+
+12 USCIS-PM-Volume 12 - Citizenship and Naturalization
+
+U.S. Citizenship and Immigration Services (USCIS) is updating policy guidance in the USCIS Policy Manual to remove references to Biographic Information (Form G-325A).
+
+7 USCIS-PM A-Part A - Adjustment of Status Policies and Procedures
+
+7 USCIS-PM B-Part B - 245(a) Adjustment
+
+7 USCIS-PM F-Part F - Special Immigrant-Based Adjustment
+
+7 USCIS-PM L-Part L - Refugee Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment
+
+7 USCIS-PM O-Part O - Registration
+
+U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to address adjustment of status applications filed by refugees and asylees under INA sections 209(a) and 209(b).
+
+7 USCIS-PM L-Part L - Refugee Adjustment
+
+7 USCIS-PM M-Part M - Asylee Adjustment

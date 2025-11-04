@@ -1,0 +1,178 @@
+H1: Dokiman sou Ekstansyon Otomatik pou Otorizasyon Travay (EAD)
+
+- English
+
+- لعربية
+
+- 中文
+
+- Creole
+
+- Français
+
+- Português
+
+AVÈTISMAN:Si ou te ranpli Fòm I-765 lan akòz yo te akòde w Estati Pwoteksyon Tanporè (Temporary Protected Status, TPS) oswa yon aplikasyon TPS annatant, tanpri gade seksyon Estati Pwoteksyon Tanporè (TPS) ki anba a pou plis enfòmasyon sou egzijans espesifik TPS pou yon ekstansyon EAD.
+
+Si ou te ranpli Fòm I-765, Aplikasyon pou Otorizasyon Travay, pou renouvle Dokiman Otorizasyon Travay (EAD) ou ki ekspire, ou ka kalifye pou yon ekstansyon otomatik pou dat ekspirasyon ki enprime sou EAD ou a pandan aplikasyon w lan annatant. Ou kalifye pou ekstansyon otomatik sa a si:
+
+- Fòm I-797C, Avi Aksyon, avi resi ou te resevwa pou aplikasyon pou renouvèlman Fòm I-765 annatant ou an genyen yon “Dat Resevwa” ki anvan dat "Ekspirasyon Kat" la ki endike sou fas devan EAD w la;
+
+- Fòm I-797C, Avi Aksyon, avi resi a genyen yon “Dat Resevwa” 4 Me 2022 oswa aprè dat sa a, epi 30 Septanm 2025 oswa anvan dat sa a;
+
+- Aplikasyon pou renouvèlman w lan anba yon kategori ki kalifye pou yon ekstansyon otomatik (gade lis kategori yo ki anba a);epi
+
+- Kategori ki sou EAD aktyèl ou a koresponn ak “Kategori Kalifikasyon” oswa “Klas yo mande” ki sou Fòm I-797C, Avi Aksyon, avi resi ou a. (Tablo ki anba a bay yon lis eksepsyon pou kèk kategori.)
+
+Si tout faktè ki anwo yo vre, alòs otorizasyon travay ou apaekspire nan dat ki enprime sou EAD ou a, paske ou te resevwa yon ekstansyon otomatik. Pou detèminedat ekspirasyon EAD aktyèlou a, tanpri ale gade “Kalkilatè Kalifikasyon Ekstansyon Otomatik” ki anba a.
+
+TABLE:
+“Klas yo mande” oswa “Kategori Kalifikasyon” ki sou Fòm I-797C ou a, Avi Aksyon, avi resi pou aplikasyon pou renouvèlman Fòm I-765 ou an | Deskripsyon | Dire ekstansyon an
+A03 | Refijye | Jiska 540 jou
+A05 | Moun ki mande Azil | Jiska 540 jou
+A07 | N-8 oswa N-9 | Jiska 540 jou
+A08 | Sitwayen Mikwonezi, Zile Marshall, oswa Repiblik Palau | Jiska 540 jou
+A10 | Yo te Akòde Sispansyon pou Depòtasyon oswa Ekspilsyon | Jiska 540 jou
+A12 | Yo te Akòde Estati Pwoteksyon Tanporè (TPS) | Jiska 540 jou (Gade seksyon TPS ki anba a pou plis enfòmasyon)
+A17 | Konjwen yon non-imigran E prensipal avèk yon I-94 ki pa ekspire ki montre estati non-imigran E (ki gen ladan E-1S, E-2S ak E-3S) | Jiska 540 jou, oswa jiska dat ekspirasyon sou I-94 la, kèlkeswa sa ki vini an premye a
+A18 | Konjwen yon non-imigran L-1 prensipal avèk yon I-94 ki pa ekspire ki montre estati non-imigran L-2 (ki gen ladan L-2S) | Jiska 540 jou, oswa jiska dat ekspirasyon sou I-94 la, kèlkeswa sa ki vini an premye a
+C08 | Aplikasyon Azil Annatant | Jiska 540 jou
+C09 | Ajisteman Estati Annatant daprè Seksyon 245 Lwa a | Jiska 540 jou
+C10 | Moun ki mande Sispansyon Depòtasyon (ranpli anvan 1yeAvril 1997) | Jiska 540 jou
+C16 | Kreyasyon Dosye (Ajisteman ki Baze sou Rezidans Kontinyèl Depi 1yeJanvye 1972) | Jiska 540 jou
+C19 | Sèvis Sitwayènte ak Imigrasyon Etazini (United States Citizenship and Immigration Services, USCIS) te detèmine aplikan an kalifye klèman pou TPS epi li ka resevwa yon EAD kòm yon “avantaj pou trètman tanporè” | Jiska 540 jou (Gade seksyon TPS ki anba a pou plis enfòmasyon)
+C20 | Legalizasyon daprè Seksyon 210 (I-700 annatant) | Jiska 540 jou
+C22 | Legalizasyon daprè Seksyon 245A (I-687 annatant) | Jiska 540 jou
+C24 | Legalizasyon daprè Lwa sou Ekite Familyal an tèm Imigrasyon Legal (Legal Immigration Family Equity Act, LIFE) | Jiska 540 jou
+C26 | Konjwen kèk non-imigran H-1B prensipal avèk yon I-94 ki pa ekspire ki montre estati non-imigran H-4 | Jiska 540 jou, oswa jiska dat ekspirasyon sou I-94 la, kèlkeswa sa ki vini an premye a
+C31 | Moun ki aplike poukont yo daprè Lwa sou Vyolans Kont Fanm (Violence Against Women Act, VAWA) | Jiska 540 jou
+
+Pou konfime ou reponn ak egzijans kalifikasyon pou ekstansyon otomatik EAD, itilize kalkilatè ki anba a. Kalkilatè a ap detèmine tou dat ekspirasyon EAD otomatikman pwolonje ou a. Remak: Kalkilatè sa a disponib sèlman nan lang Anglè ak Espanyòl.
+
+W ap bezwen  EAD aktyèl ou a (ki ekspire oswa ki pa ekspire)  ak Fòm I-797C, Avi Aksyon, avi resi Fòm I-765 ou an pou w itilize kalkilatè a. Si w ap ranpli anba kòd kategori otorizasyon travay A17, A18, oswa C26, w ap bezwen Fòm I-94 ki pa ekspire a tou.
+
+Your category is not eligible for the up to 540-day automatic extension.
+
+You are not eligible for the up to 540-day automatic extension. Applicants must renew their EAD under the same classification to be eligible.
+
+You are not eligible for the up to 540-day automatic extension.
+
+You are not eligible for the up to 540-day automatic extension. Applicants must renew their EAD under the same classification to be eligible.
+
+You are not eligible for the up to 540-day automatic extension.
+
+You are not eligible for the up to 540-day automatic extension. Applicants must renew their EAD under the same classification to be eligible.
+
+You are not eligible for the up to 540-day automatic extension.
+
+Does your Form I-797C, Notice of Action, have a "Received Date" that is during the re-registration period for your country? (Find re-registration dates on your country's page of theUSCIS Temporary Protected Statuswebsite.)
+
+You are not eligible for the up to 540-day automatic extension.
+
+If the "Card Expires" date on the EAD is after the "Received Date" on the Notice of Action, enter the "Card Expires" date from the EAD.
+
+If the "Card Expires" date on the EAD is after the "Received Date" on the Notice of Action, enter the "Card Expires" date from the EAD.
+
+Enter the "Card Expires" date from your EAD.
+
+Employment authorization extended through:
+
+Compare the I-94 date to the date below. Employment authorization is extended through whichever date is earlier.
+
+Compare the date below to the "TPS Designated Through" date listed on your country's page of the TPS website. Employment authorization is extended through whichever date is earlier.
+
+Kòman kalkilatè a fonksyone:
+
+Ekstansyon otomatik la kòmanse jou aprè dat “Ekspirasyon Kat” la ki endike sou fas devan EAD a epi jeneralman kontinye pou jiska 540 jou. Ekstansyon an fini lè aplikan an resevwa yon desizyon final sou aplikasyon pou renouvèlman an oswa lè peryòd 540 jou a ekspire, kèlkeswa sa ki rive an premye a.
+
+Pou EAD ki ekspire oswa ki pral ekspire avèk kòd kategori A17, A18 ak C26, pou kalkile nouvo dat ekspirasyon an:
+
+- Ajoute 540 jou sou dat “Ekspirasyon Kat” EAD a.
+
+- Konpare dat ekstansyon otomatik 540 jou a ak dat Fòm I-94 la fini an.
+
+- kèlkeswa dat ki rive an premye a se dat ekspirasyon EAD otomatikman pwolonje a.
+
+Avètisman:Kalkilatè sa a fèt pou ede moun detèmine nouvo dat ekspirasyon EAD pou yon moun ki kalifye pou yon ekstansyon otomatik EAD k ap ekspire daprè yonrèg tanporè finalki amande 8 CFR 274a.13(d). Kalkilatè a pa ranplase obligasyon legal yon anplwayè pou verifye kalifikasyon nouvo oswa ansyen anplwaye li yo pou travay daprè Fòm I-9, Pwosesis Verifikasyon Kalifikasyon pou Travay. Ajans gouvènman yo ki bay avantaj/lisans piblik epi ki anrejistre pou itilize Verifikasyon Sistematik Estati Etranje pou Dwa Avantaj (Systematic Alien Verification for Entitlements, SAVE) dwe itilize SAVE pou verifye peryòd validite EAD yo, enkli ekstansyon otomatik yo.
+
+Yon anplwayè oswa yon ajans gouvènman ka mande prèv yon EAD te pwolonje otomatikman. Aplikan renouvèlman ki kalifye pou yon ekstansyon otomatik EAD yo responsab pou prezante dokiman pou montre yo kontinye genyen otorizasyon travay.
+
+Yon EAD ki gen dat “Ekspirasyon Kat” la ki ekspire sou fas devan anrete validlè yo prezante yon Fòm I-797C, Avi Aksyon, Avi Resi ki pwolonje peryòd validite li. Pou pwouve dat “Ekspirasyon Kat” la ki parèt sou EAD ou a te pwolonje otomatikman, ou dwe prezante:
+
+- EAD aktyèl ou a (ki ekspire oswa ki pa ekspire) avèk yon kategori ki kalifye pou ekstansyon otomatik.Remak:Si kòd ki sou EAD ou a se A17, A18, oswa C26, ou dwe montre Fòm I-94 ou ki pa ekspire a tou.
+
+- Remak:Si kòd ki sou EAD ou a se A17, A18, oswa C26, ou dwe montre Fòm I-94 ou ki pa ekspire a tou.
+
+- Remak:Si kòd ki sou EAD ou a se A17, A18, oswa C26, ou dwe montre Fòm I-94 ou ki pa ekspire a tou.
+
+AK
+
+- Fòm I-797C ou an, Avi Aksyon, avi resi ki montre ou te ranpli yon aplikasyon alè pou renouvle EAD ou a nan menm kategori ki kalifye pou ekstansyon otomatik la. Avi resi a dwe:Gen yon “Dat Resevwa” ki se 4 Me 2022 oswa aprè dat sa a, jiska 30 Septanm 2025; EpiFè referans ak ekstansyon 180 jou oswa 540 jou a.
+
+- Gen yon “Dat Resevwa” ki se 4 Me 2022 oswa aprè dat sa a, jiska 30 Septanm 2025; Epi
+
+- Fè referans ak ekstansyon 180 jou oswa 540 jou a.
+
+- Gen yon “Dat Resevwa” ki se 4 Me 2022 oswa aprè dat sa a, jiska 30 Septanm 2025; Epi
+
+- Fè referans ak ekstansyon 180 jou oswa 540 jou a.
+
+REMAK: Si ou te ranpli Fòm I-765 lan akòz yo te akòde w TPS oswa yon aplikasyon TPS annatant, tanpri gade seksyon Estati Pwoteksyon Tanporè (TPS) ki anba a pou plis enfòmasyon sou egzijans espesifik TPS pou yon ekstansyon EAD.
+
+Konbinezon dokiman sa a se prèv akseptab pou yon ekstansyon otomatik jiska 540 jou daprèrèg tanporè final Me 2022a oswarèg tanporè final Avril 2024la
+
+Pou konfime ou reponn ak egzijans kalifikasyon yo pou ekstansyon otomatik EAD epi detèmine dat ekspirasyon EAD otomatikman pwolonje ou a, gade seksyon Kalkilatè Kalifikasyon Ekstansyon Otomatik ki pi wo a.
+
+Aplikan ki te ranpli yon aplikasyon pou renouvèlman Fòm I-765 ant 27 Oktòb 2023, ak 8 Avril 2024:Si ou te ranpli aplikasyon pou renouvèlman Fòm I-765 ou an pandan peryòd sa a, ou te petèt  resevwa yon Fòm I-797C, Avi Aksyon, Avi Resi ki fè referans ak yon ekstansyon otomatik 180 jou. Sepandan, aplikasyon sa yo kalifye tou pou ekstansyon otomatik jiska 540 jou a. Nou p ap bay nouvo avi Fòm I-797C pou aplikasyon sa yo. Moun yo ta dwe konsilte paj wèb sa a pou konfime egzijans kalifikasyon yo pou ekstansyon otomatik jiska 540 jou a.
+
+Ou ka fè anplwayè ou konsilte sit wèb sa a si yo gen nenpòt kesyon. Ajans gouvènman yo ki bay avantaj oswa lisans ki baze sou EAD kòm dokiman idantite ka konsilte paj wèb sa a tou.
+
+4 Avril 2024, USCIS tepibliyeyon règ tanporè final ki te ogmante peryòd ekstansyon otomatik pou otorizasyon travay oswa EAD ki disponib pou kèk aplikan renouvèlman EAD soti 180 jou jiska 540 jou.
+
+Règ tanporè final sa a aplike pou de kategori aplikan renouvèlman EAD:
+
+- Aplikan ki te ranpli Fòm I-765 yo yon fason ki apwopriye epi alè nan dat 27 Oktòb 2023 oswa aprè dat sa a, si aplikasyon an te toujou annatant nan dat 8 Avril 2024; ak
+
+- Aplikan ki ranpli Fòm I-765 yo yon fason ki apwopriye epi alè soti 8 Avril 2024 jiska 30 Septanm 2025.
+
+Anvan sa, nan mwa Me 2022, USCIS tepibliyeyon règ tanporè final ki te ogmante peryòd ekstansyon otomatik EAD pou kèk aplikan renouvèlman EAD soti 180 jou jiska 540 jou. Jan sa te anonse an 2022, règ tanporè final sa a te aplikab pou aplikasyon yo te ranpli pandan yon peryòd limite ki te fini 26 Oktòb 2023.
+
+Paske règ tanporè final 2024 la bay yon ekstansyon otomatik 540 jou pou moun ki te ranpli aplikasyon yo aprè fen peryòd aplikasyon an anba règ tanporè final 2022 a,pa gen okenn entèripsyon nan ogmantasyon ekstansyon otomatik 540 jou pou aplikasyon pou renouvèlman kalifye ki te ranpli alè nan dat 4 Me 2022 oswa aprè dat sa a, jiska Septanm 2025.Kidonk, pou fasilite piblik la, n ap konbine peryòd aplikasyon de règ tanporè final yo nan gid sa a.
+
+Si w resevwa yon ekstansyon otomatik jiska 540 jou daprè règ tanporè final 2024 la oswa règ tanporè final 2022 a, ekstansyon otomatik la ap fini jeneralman lè nou pran yon desizyon sou aplikasyon pou renouvèlman EAD ou a, oswa nan fen peryòd 540 jou a, kèlkeswa sa ki vini an premye a.
+
+Si ou gen yon EAD ki baze sou TPS epi ou kenbe TPS ou a, ou ka resevwa yon ekstansyon otomatik pou EAD ou a pou jiska 540 jou atravè ekstansyon otomatik EAD sa a.
+
+Ou kalifye pou ekstansyon otomatik sa a si:
+
+- Ou te ranpli aplikasyon pou renouvèlman Fòm I-765 ou an pandan peryòd re-enskripsyon TPS la ki endike nan avi Rejis Federal ki aplikab pou peyi w la;
+
+- Fòm I-797C, Avi Aksyon, ki endike ou resevwa Fòm I-765 ou a gen yon “Dat Resevwa” soti  4 Me 2022, jiska 30 Septanm 2025;
+
+- Fòm I-765 ou an nan kategori A12 oswa C19; ak
+
+- Kategori ki sou EAD aktyèl ou a se A12 oswa C19. Kategori ki sou aplikasyon pou renouvèlman ou an ak EAD ki ekspire ou a pa bezwen koresponn. (Egzanp, w ap toujou kalifye pou ekstansyon otomatik la si EAD ki te ekspire w la endike C19 epi aplikasyon pou renouvèlman w lan endike A12.)
+
+Si ou reponn ak kritè ki anwo yo, nouvo dat ekspirasyon pou EAD ekspire ou a se jiska 540 jou aprè dat “Ekspirasyon Kat” ki endike sou EAD ou a (Itilize kalkilatè ki anwo a pou detèmine dat la). EAD ki ekspire ak Fòm I-797C, Avi Aksyon, avi resi ou a ap sèvi kòm prèv akseptab idantite ak otorizasyon travay pandan peryòd ekstansyon otomatik la.
+
+EAD ki baze sou TPS yo ka gen yon ekstansyon otomatik tou atravè piblikasyon yon avi nan Rejis Federal oswa atravè yon notifikasyon endividyèl yon ekstansyon otomatik EAD. Ou ka resevwa yon ekstansyon otomatik EAD pou jiska 540 jou ansanm ak yon ekstansyon atravè piblikasyon yon avi Rejis Federal si w reponn ak egzijans kalifikasyon yo pou toude ekstansyon yo. Itilize kalkilatè ki anwo a epi verifye paj peyi w la sousit wèb Estati Pwoteksyon Tanporè USCISla pou wè si EAD ki baze sou TPS peyi w yo te pwolonje otomatikman. Yo pral pwolonje otorizasyon travay ou a jiska dènyè de dat sa yo.
+
+Pou plis enfòmasyon sou TPS, ki gen ladan peryòd re-enskripsyon peyi w la ak nenpòt ekstansyon ki te pibliye nan Rejis Federal la, vizite pajEstati Pwoteksyon Tanporè USCISla.
+
+Etidyan F-1 ki gen yon aplikasyon annatant pou yon ekstansyon fòmasyon pratik opsyonèl (Optional Practical Training, OPT) nan Syans, Teknoloji, Jeni ak Matematik (Science, Technology, Engineering, and Mathematics, STEM)pakalifye pouogmantasyon tanporèperyòd ekstansyon otomatik la anbarèg tanporè final 2022oswarèg tanporè final 2024 la. Ogmantasyon tanporè peryòd ekstansyon otomatik anba 8 CFR 274a.13(d) la aplike sèlman pou kategori ki endike nan tablo anlè a.
+
+Si ou ranpli aplikasyon pou ekstansyon OPT STEM ou an alè epi peryòd OPT ou a ekspire pandan aplikasyon pou ekstansyon ou an annatant, n ap pwolonje otorizasyon travay ou a otomatikman pou 180 jou. Ekstansyon otomatik 180 jou sa a ap fini lè USCIS pran yon desizyon ofisyèl sou aplikasyon pou ekstansyon OPT STEM ou an.
+
+Ou ka jwenn plis enfòmasyon sou aplikasyon pou yon ekstansyon OPT STEM sou pajEkstansyon Fòmasyon Pratik Opsyonèl pou Etidyan STEM (OPT STEM)yo.
+
+Pou jwenn gid sou fason pou ranpliFòm I-9avèk yon ekstansyon otomatik yon EAD, tanpri viziteSantral I-9, ak espesyalmanChapit 5 nan Manyèl Anplwayè yo, ki gen tit “Ekstansyon Otomatik Otorizasyon Travay ak/oswa Dokiman Otorizasyon Travay (EAD) nan kèk Sitiyasyon.”
+
+Pou jwenn èd pou detèmine kalifikasyon w pou yon ekstansyon otomatik EAD anba règ tanporè final 2022 oswa 2024 la, tanpri kontakte Sant Kontak Fòm I-9 nan nimewo telefòn ki anba yo.
+
+Anplwayè yo: 888-464-4218
+
+Anplwaye yo: 888-897-7781
+
+Jwenn lòt resous sou pajKontakte Nou Fòm I-9lan.
+
+Si w gen kesyon konsènan yon aplikasyon annatant pou yon EAD oswa otorizasyon travay, tanpri vizite pajKontakte Noupou jwenn enfòmasyon sou kilè ak kòman pou kontakte nou.
